@@ -1,7 +1,7 @@
 Text Mining in Python
 =====================
 
-IPython Notebooks for the [ASDM class] (http://www.dia.fi.upm.es/ASDM) on [Text Mining] (http://fnl.es/text-mining).
+The PDF slides and IPython Notebooks for the [ASDM class] (http://www.dia.fi.upm.es/ASDM) on statistical [Text Mining] (http://fnl.es/introdcution-to-text-mining.html)
 
 Apart from the full [IPython] (http://ipython.org/) stack, using them requires a working installation of [NLTK] (http://www.nltk.org/), version 2.0.x (i.e., the latest stable release): `pip install nltk` or via installing the Continuum Analytics [Anaconda] (http://continuum.io/downloads) Python Distribution.
 
