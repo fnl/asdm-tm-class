@@ -1,0 +1,395 @@
+{{redirect|Pasolini|other people with that surname|Pasolini (surname)}}
+{{Use dmy dates|date=March 2014}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Pier Paolo Pasolini
+| image       = Pier Paolo Pasolini.jpg
+| imagesize   = 200px
+| caption     =
+| pseudonym   =
+| birth_date  = {{Birth date|1922|3|5|df=y}}
+| birth_place = [[Bologna]], [[Kingdom of Italy]]
+| death_date  = {{Death date and age|1975|11|2|1922|3|5|df=y}}
+| death_place = [[Ostia (Rome)|Ostia]], Rome, Italy
+| occupation  = Film director, novelist, poet, intellectual, journalist, philosopher
+| genre       =
+| movement    =
+| notableworks =''[[Accattone]]'' <br> ''[[Ragazzi di vita]]'' <br> ''[[Salò (film)|Salò, or the 120 Days of Sodom]]'' <br> ''[[Teorema (film)|Teorema]]'' <br> ''[[The Gospel According to St. Matthew (film)|The Gospel According to St. Matthew]]''
+| signature = Pier Paolo Pasolini signature.svg
+}}
+'''Pier Paolo Pasolini''' ({{IPA-it|ˈpjɛr ˈpaolo pazoˈlini|lang}}; 5 March 1922 – 2 November 1975) was an Italian film director, poet, writer and [[intellectual]]. Pasolini distinguished himself as a poet, journalist, philosopher, novelist, playwright, filmmaker, newspaper and magazine columnist, actor, painter and political figure. He demonstrated a unique and extraordinary cultural versatility, becoming a highly controversial figure in the process. While his work remains controversial to this day, in the years since his death Pasolini has come to be valued by many as a visionary thinker and a major figure in Italian literature and art. American literary critic [[Harold Bloom]] considers Pasolini to be a major European poet and important in 20th-century poetry, including his works in his collection of the [[Western canon]].{{Citation needed|date=January 2015}}
+
+==Biography==
+
+===Early life===
+Pasolini was born in [[Bologna]], traditionally one of the most [[leftist]] politically of Italian cities. He was the son of Carlo Alberto, a lieutenant of the [[Italian army]], and Susanna Colussi, an elementary school teacher. His parents married in 1921, Pasolini was born in 1922 and named after his paternal uncle. His family moved to [[Conegliano]] in 1923 and, two years later, to [[Belluno]], where another son, Guidalberto, was born. In 1926, Pasolini's father was arrested for gambling debts. His mother moved with the children to her family's house in [[Casarsa della Delizia]], in the [[Friuli]] region. That same year, his father Carlo Alberto Pasolini, first detained and then identified [[Anteo Zamboni]] as the would-be assassin of [[Benito Mussolini]] following his assassination attempt.{{citation needed|reason=Is it an established fact that he saved it, or is this merely based on his claim of having done so? There appears to be conflicting testimony, such as by marshal Francesco Burgio.|date=September 2014}}
+
+Pasolini began writing poems at the age of seven, inspired by the natural beauty of Casarsa. One of his early influences was the work of [[Arthur Rimbaud]]. In 1931, his father was transferred to Idria in the [[Julian March]] (now [[Idrija]] in Slovenia);<ref>[http://www.rtvslo.si/kultura/drugo/ste-vedeli-da-je-pier-paolo-pasolini-v-otrostvu-nekaj-casa-zivel-v-idriji/294028 Ste vedeli, da je Pier Paolo Pasolini v otroštvu nekaj časa živel v Idriji? :: Prvi interaktivni multimedijski portal, MMC RTV Slovenija]. Rtvslo.si (2012-10-20). Retrieved on 2014-05-22.</ref> in 1933 they moved again to [[Cremona]] in Lombardy, and later to [[Scandiano]] and [[Reggio Emilia]]. Pasolini found it difficult to adapt to all these moves, though in the meantime he enlarged his poetry and literature readings ([[Dostoyevsky]], [[Tolstoy]], [[Shakespeare]], [[Samuel Taylor Coleridge|Coleridge]], [[Novalis]]) and left behind the religious fervour of his early years. In the Reggio Emilia high school, he met his first true friend, Luciano Serra. The two met again in Bologna, where Pasolini spent seven years while completing high school: here he cultivated new passions, including [[Association football|football]]. With other friends, including Ermes Parini, Franco Farolfi, Elio Meli, he formed a group dedicated to literary discussions.
+
+In 1939 Pasolini graduated and entered the Literature College of the [[University of Bologna]], discovering new themes such as [[philology]] and [[aesthetics]] of [[figurative art]]s. He also frequented the local cinema club. Pasolini always showed his friends a virile and strong exterior, totally hiding his interior travail.  He took part in the Fascist government's culture and sports competitions. In 1941, together with [[Francesco Leonetti]], [[Roberto Roversi]] and others, he tried to publish a poetry magazine, but the attempt failed due to paper shortages. In his poems of this period, Pasolini started to include fragments in [[Friulian language|Friulan]], a language he didn't speak but learned after he'd begun to write poetry in it. "I learnt it as a sort of mystic act of love, a kind of ''félibrisme'', like the Provençal poets."<ref>Stack, O. (1969). ''Pasolini on Pasolini'', pp. 15–17 London: Thames and Hudson.</ref>
+
+=== Early poetry ===
+[[File:Pasolini 2.jpg|thumb|right|An undated photo of Pasolini]]
+After the summer in Casarsa, in 1941 Pasolini published at his own expense a collection of poems in [[Friulian language|Friulan]], ''Versi a Casarsa''. The work was noted and appreciated by intellectuals and critics such as [[Gianfranco Contini]], [[Alfonso Gatto]] and [[Antonio Russi]]. His pictures had also been well received. Pasolini was chief editor of the ''Il Setaccio'' ("The Sieve") magazine, but was fired after conflicts with the director, who was aligned with the [[Italian Fascism|Fascist regime]]. A trip to Germany helped him also to perceive the "provincial" status of [[Culture of Italy|Italian culture]] in that era. These experiences led Pasolini to rethink his opinion about the cultural politics of Fascism and to switch gradually to a Communist position.
+
+In 1942, the family took shelter in Casarsa, considered a more tranquil place to wait for the conclusion of the [[World War II]], a decision common among Italian military families. Here, for the first time, Pasolini had to face the [[Eroticism|erotic disquiet]] he had suppressed during his adolescent years. He wrote: "A continuous perturbation without images or words beats at my temples and obscures me".{{Citation needed|date=December 2010}}
+
+In the weeks before 8 September [[Allied armistice with Italy|armistice]], Pasolini was drafted. He was captured and imprisoned by the German [[Wehrmacht]]. He managed to escape disguised as a peasant, and found his way to Casarsa.  Here he joined a group of other young fans of the Friulan language who wanted to give Casarsa Friulan a status equal to that of [[Udine]], the official regional standard.  From May 1944 they issued a magazine entitled ''Stroligùt di cà da l'aga''. In the meantime, Casarsa suffered Allied bombardments and forced enrollments by the [[Italian Social Republic]], as well as [[Partisan (military)|partisan]] activity.
+
+Pasolini tried to remain apart from these events.  He and his mother taught students unable to reach the schools in [[Pordenone]] or [[Udine]]. He had his first experience of gay love for one of his students.  On 12 February 1945 his brother Guido was killed in an ambush. Six days later Pasolini and others founded the Friulan Language Academy (''Academiuta di lenga furlana'').  In the same year Pasolini joined the Association for the Autonomy of Friuli.  He graduated after completing a final thesis about [[Giovanni Pascoli]]'s works.
+
+In 1946 Pasolini published a small [[Poetry|poetry collection]], ''I Diarii'' ("The Diaries"), with the Academiuta. In October he traveled to Rome.  The following May he began the so-called ''Quaderni Rossi'', handwritten in old school exercise books with red covers. He completed a drama in Italian, ''Il Cappellano''.  His poetry collection, ''I Pianti'' ("The cries"), was also published by the Academiuta.
+
+=== Relationship with the Italian Communist Party ===
+On 26 January 1947 Pasolini wrote a declaration for the front page of the newspaper ''Libertà'': "In our opinion, we think that currently only Communism is able to provide a new culture." It generated controversy partly due to the fact he was still not a member of the [[Italian Communist Party]] (PCI).
+
+He was planning to extend the work of the Academiuta to other [[Romance language]] literatures and met the exiled [[Catalan people|Catalan]] poet, [[Carles Cardó]]. After joining the PCI, Pasolini took part in several demonstrations.  In May 1949, Pasolini attended the Peace Congress in Paris. Observing the struggles of workers and peasants, and watching the clashes of protesters with Italian police, he began to conceive his first novel.
+
+In October of the same year, Pasolini was charged with the corruption of minors and obscene acts in public places. As a result, he was expelled by the Udine section of the Communist Party and lost the teaching job he had obtained the previous year in Valvasone. Struggling in a difficult situation, in January 1950 Pasolini moved to Rome with his mother.
+
+He later described this period of his life as very difficult. "I came to Rome from the Friulan countryside. Unemployed for many years; ignored by everybody; driven by the fear to be not as life needed to be". Instead of asking for help from other writers, Pasolini preferred to go his own way. He found a job as a worker in the [[Cinecittà]] studios and sold his books in the 'bancarelle' ("sidewalk shops") of Rome. Finally, through the help of the [[Abruzzo|Abruzzese]]-language poet [[Vittorio Clemente]], he found a job as a teacher in [[Ciampino]], a suburb of the capital.
+
+In these years Pasolini transferred his Friulan countryside inspiration to Rome's suburbs, the infamous ''borgate'' where poor [[proletarian]] immigrants lived in often horrendous sanitary and social conditions.
+
+=== Success and charges ===
+[[File:Accattone riprese.jpg|thumb|Pasolini filming ''[[Accattone]]'']]
+In 1954, Pasolini, who now worked for the literary section of Italian state radio, left his teaching job and moved to the Monteverde quarter, publishing ''La meglio gioventù'', his first important collection of dialect poems. His first novel, ''[[Ragazzi di vita]]'' (English: ''Hustlers''), was published in 1955. The work had great success but was poorly received by the PCI establishment and, most importantly, by the Italian government.  It initiated a lawsuit{{Specify|What was he charged with?|date=July 2011}} against Pasolini and his editor, Garzanti.  Though totally exonerated of any charge, Pasolini became a victim of insinuations, especially by the tabloid press.
+
+In 1957, together with [[Sergio Citti]], Pasolini collaborated on [[Federico Fellini]]'s film ''[[Le notti di Cabiria]]'', writing dialogue for the [[Roman dialect]] parts. In 1960 he made his debut as an actor in ''[[Il gobbo]]'', and co-wrote ''[[Long Night in 1943]]''.
+
+His first film as director and screenwriter is ''[[Accattone]]'' of 1961, again set in Rome's marginal quarters. The movie aroused controversy and scandal. In 1963, the episode "La ricotta", included in the collective movie ''[[RoGoPaG]]'', was censored and Pasolini was tried for offence to the Italian state.
+
+During this period Pasolini frequently traveled abroad: in 1961, with [[Elsa Morante]] and [[Alberto Moravia]] to India (where he went again seven years later); in 1962 to [[Sudan]] and [[Kenya]]; in 1963, to [[Ghana]], [[Nigeria]], [[Guinea]], [[Jordan]] and [[Israel]] (where he shot the documentary, ''Sopralluoghi in Palestina''). In 1970 he travelled again to Africa to shoot the documentary, ''Appunti per un'Orestiade africana''.
+
+In 1966 he was a member of the jury at the [[16th Berlin International Film Festival]].<ref name="berlinale 1966">{{cite web |url=http://www.berlinale.de/en/archiv/jahresarchive/1966/04_jury_1966/04_Jury_1966.html |title=Berlinale 1966: Juries |accessdate=22 February 2010 |work=berlinale.de}}</ref>
+
+In 1967, in Venice, he met and interviewed the American poet [[Ezra Pound]].<ref name="youtube.com">{{YouTube|jrwIbjwbT0o}}. Retrieved on 2014-05-22.</ref> They discussed the Italian movement [[neoavanguardia]], arts in general and Pasolini read some verses from the Italian version of Pound's [[Pisan Cantos]].<ref name="youtube.com"/>
+
+The late 1960s and early 1970s were the era of the so-called "student movement". Pasolini, though acknowledging the students' ideological motivations, thought them "anthropologically middle-class" and therefore destined to fail in their attempts at revolutionary change. Regarding the [[Battle of Valle Giulia]], which took place in Rome in March 1968, he said that he sympathized with the police, as they were "children of the poor", while the young militants were exponents of what he called "left-wing fascism". His film of that year, ''[[Teorema (film)|Teorema]]'', was shown at the annual [[Venice Film Festival]] in a hot political climate.  Pasolini had proclaimed that the Festival would be managed by the directors (see also [[Pier Paolo Pasolini#Works|Works section]]).
+
+In 1970 Pasolini bought an old castle near [[Viterbo]], several miles north of Rome, where he began to write his last novel, ''Petrolio'', which was never finished. In 1972 he started to collaborate with the extreme-left association [[Lotta Continua]], producing a documentary, ''12 dicembre'', concerning the [[Piazza Fontana bombing]]. The following year he began a collaboration for Italy's most renowned newspaper, ''[[Il Corriere della Sera]]''.
+
+At the beginning of 1975 Garzanti published a collection of critical essays, ''[[Scritti corsari]]'' ("Corsair Writings").
+
+=== Murder ===
+[[File:Monumento alla memoria di Pasolini - Lido di Ostia - Lug 07.JPG|200px|thumbnail|Pasolini Memorial monument in [[Lido di Ostia]], where he was killed in 1975]]
+A Carabinieri squad car stopped a speeding Alfa Romeo near Rome. The driver, Giuseppe (Pino) Pelosi, a 17 year old hustler, tried to run but was arrested for theft of the car, which was Pasolini's. Two hours later, the director's body was discovered. Pasolini was murdered by being run over several times with his own car, dying on November 2nd, 1975 on the beach at [[Ostia (town)|Ostia]]. Multiple bones had been broken and his testicles crushed by what appeared to be a metal bar. His body had been partially burned, the autopsy report revealed, by gasoline after the point of death. It has long been considered to have been a mafia-style revenge killing, extremely unlikely for one person to have carried out. Pasolini was buried in Casarsa, in his beloved [[Friuli]]. Pelosi confessed: Pasolini had picked him up and they ate a meal at a restaurant the director knew, the Biondo Tevere near St Paul's basilica, where he was known. Pino ate spaghetti with oil and garlic, Pasolini drank a beer. At 11.30pm they drove towards Ostia, where Pasolini "asked something I did not want" – to sodomise the boy with a wooden stick. Pelosi refused, Pasolini struck; Pelosi ran, picked up two pieces of a table, seized the stick and battered Pasolini to death. As he escaped in the car, he ran over what he thought was a bump in the road. "I killed Pasolini," he told his cellmate, and the police. Pelosi was convicted in 1976, with "unknown others".<ref name="guardian">[http://www.theguardian.com/world/2014/aug/24/who-really-killed-pier-paolo-pasolini-venice-film-festival-biennale-abel-ferrara "Vulliamy, Ed: THE GUARDIAN - Who really killed Pier Paolo Pasolini?, August 23, 2014"] Accessed online, May 25, 2015</ref><ref name="independent">[http://www.independent.co.uk/arts-entertainment/who-killed-pasolini-1602381.html "Gumbell, Andrew: THE INDEPENDENT - Who killed Pasolini?, September 23, 1995"] Accessed online, May 25, 2015</ref> 
+
+Twenty-nine years later, on 7 May 2005, he retracted his confession, which he said was made under the threat of violence to his family. He claimed that three people "with a southern accent" had committed the murder, insulting Pasolini as a "dirty communist".<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/entertainment/film/4529877.stm|title=Pasolini death inquiry reopened |last=Cataldi |first=Benedetto |date=5 May 2005|publisher=bbc.co.uk}}</ref>
+
+Other evidence uncovered in 2005 pointed to Pasolini having been murdered by an extortionist. Testimony by Pasolini's friend Sergio Citti indicated that some of the rolls of film from ''[[Salò, or the 120 Days of Sodom|Salò]]'' had been stolen, and that Pasolini had been going to meet with the thieves after a visit to [[Stockholm]], 2 November 1975.<ref>{{cite web|title=Asesinato de Pasolini, nueva investigación|url=http://www.razon.com.mx/spip.php?article29280|work=La Razón|publisher=La Razón|accessdate=4 July 2012|language=Italian}}</ref><ref>{{cite web|title=Pasolini de nuevo|url=http://www.milenio.com/cdb/doc/impreso/8742252|work=Sentido contrario|publisher=Grupo Milenio|accessdate=4 July 2012|author=Héctor Rivera|language=Italian|date=28 March 2010}}</ref><ref>{{cite web|title=Pier Paolo Pasolini (1922–1975)|url=http://www.cinematismo.com/biografias/pier-paolo-pasolini-1922-1975/|work=Cinematismo|publisher=Cinematismo|accessdate=4 July 2012|language=Italian}}</ref><ref>[http://docs.google.com/viewer?a=v&q=cache:ouU8zYEgmXMJ:rassegnastampa.mef.gov.it/mefinternazionale/PDF/2010/2010-04-02/2010040215372121.pdf+muerte+de+pasolini-+rollos+robados&hl=es&gl=co&pid=bl&srcid=ADGEESg_Hz3kNu-APpn4-A1D42JjsI01jWmCc2RU0zb8ji3iX5Me-8LlK1uyuIo3mo0-NebUSyoFpa3dPHTIiOtQfs1b07D-_EhM_NYQjqCIObthlxA86VQDWnhZ7wpjQmFbzWDkBQuy&sig=AHIEtbROrSJpidVdGjEyfEHWL7gELlXFTw Google Drive Viewer]. Docs.google.com (2010-04-02). Retrieved on 2014-05-22.</ref> Despite the Roman police's reopening of the murder case following Pelosi's statement of May 2005, the judges charged with investigating it determined the new elements insufficient for them to continue the inquiry.
+
+== Political views ==
+[[File:Gramsci Pasolini.jpg|thumb|Pasolini visiting [[Antonio Gramsci]]'s tomb]]
+Pasolini generated heated public discussion with controversial analyses of public affairs. For instance, during the disorders of 1969, when the [[autonomism|autonomist]] university students were carrying on a guerrilla-like uprising against the police in the streets of Rome and all the leftist forces declared their complete support for the students, describing the disorders as a civil fight of proletariat against the System, Pasolini, alone among the communists, declared that he was with the police; or, more precisely, with the policemen. He considered them true proletariat, sent to fight for a poor salary and for reasons which they could not understand, against pampered boys of their same age, because they had not had the fortune of being able to study, referring to ''poliziotti figli di proletari meridionali picchiati da figli di papà in vena di bravate'' (lit. ''policemen, sons of proletarian southerners, beaten up by arrogant daddys' boys''). This statement, however, did not stop him from contributing to the autonomist ''[[Lotta continua]]'' movement.
+
+Pasolini was also an ardent critic of ''consumismo'', i.e. [[consumerism]], which he felt had rapidly destroyed Italian society in the late 1960s/early 1970s.  He was particularly concerned about the class of the [[subproletariat]], which he portrayed in ''[[Accattone]]'', and to which he felt both humanly and artistically drawn.  Pasolini observed that the kind of purity which he perceived in the pre-industrial popular culture was rapidly vanishing, a process that he named ''la scomparsa delle lucciole'' (lit. "''the disappearance of glow-worms''").  The ''joie de vivre'' of the boys was being rapidly replaced with more [[bourgeois]] ambitions such as a house and a family. He described the [[coprophagia]] scenes in ''Salò'' as a comment on the processed food industry. He often described consumeristic culture as "unreal", as it had been imposed by economic power and had replaced Italy's traditional peasant culture, something that not even fascism had been able to do. In one interview, he said: "I hate with particular vehemency the current power, the power of 1975, which is a power that manipulates bodies in a horrible way; a manipulation that has nothing to envy to that performed by Himmler or Hitler."
+
+He was angered by economic [[globalization]] and cultural domination of the [[Northern Italy|North of Italy]] (around [[Milan]]) over other regions, especially the South.{{Citation needed|reason=<!--These lines are a complete distortion of Pasolini's thoughts against the capitalist-consumerist dominion and not against the cultural hegemony of a part of Italy over the rest of it-->|date=July 2011}} He felt this was accomplished through the power of [[Television|TV]].  He opposed the gradual disappearance of [[Italiot Greek (disambiguation)|Italian dialects]] by writing some of his poetry in [[Friulian language|Friulan]], the regional language of his childhood. His opposition to the liberalization of abortion law made him unpopular on the left.<ref>{{cite web|title=Pier Paolo Pasolini (1922–1975)|url=http://www.kirjasto.sci.fi/pasolini.htm|work=Books and Writers|publisher=Kuusankosken kaupunginkirjasto|accessdate=4 July 2012|author=Petri Liukkonen, Ari Pesonen|year=2008}}</ref>
+
+After 1968 he left communism, claiming instead the [[Radical Party (Italy)|Radical Party]] (''Partito Radicale''): [[Left-libertarianism|left-libertarian]], liberal, [[anti-clericalism|anti-clerical]] and led by his friend [[Marco Pannella]]. In 1975, leaving a letter to Congress with radical party on written :" Dear Pannella, dear friends, dear radical Spadaccia [...] you don't need to do anything else (I believe) that continue to be yourself: which means continuously be unrecognizable. Forget immediately i grandi successi: and continue straight ahead, obstinate, eternally opposed, to demand, to want, to identify yourself with the other; to shock; to blaspheme."
+
+== Sexuality ==
+The ''[[LGBT]]'' encyclopedia states the following regarding Pasolini's homosexuality:
+<blockquote>
+While openly gay from the very start of his career (thanks to a gay sex scandal that propelled him from his provincial hometown to live and work in Rome), Pasolini rarely dealt with homosexuality in his movies.
+The subject is featured prominently in ''Teorema'' (1968), where [[Terence Stamp]]'s mysterious God-like visitor seduces the son and father of an upper-middle-class family; passingly in ''[[Arabian Nights (1974 film)|Arabian Nights]]'' (1974), in an idyll between a king and a commoner that ends in death; and, most darkly of all, in ''Salò, or The 120 Days of Sodom'' (1975), his infamous rendition of the [[Marquis de Sade]]'s compendium of sexual horrors.<ref>[http://www.glbtq.com/arts/pasolini_pp_art.html Ehrenstein, David (2005). "Pasolini, Pier Paolo"], ''glbtq: An Encyclopedia of Gay, Lesbian, Bisexual, Transgender, and Queer Culture''</ref>
+</blockquote>
+In 1963 Pasolini met "the great love of his life," fifteen-year-old [[Ninetto Davoli]], whom he later cast in his 1966 film ''[[The Hawks and the Sparrows|Uccellacci e uccellini]]'' (literally ''Bad Birds and Little Birds'' but translated in English as ''The Hawks and the Sparrows''), Pasolini became the youth's mentor and friend. "Even though their sexual relations lasted only a few years, Ninetto continued to live with Pasolini and was his constant companion, as well as appearing in six more of his films."<ref>{{cite news | first = Doug | last = Ireland | title = Restoring Pasolini | date = 4 August 2005 | publisher = ''LA Weekly,'' LP | url = http://www.laweekly.com/2005-08-04/news/restoring-pasolini/ | work = LA Weekly | accessdate = 29 August 2010}}</ref>
+
+== Works ==
+[[File:Mammaroma.jpg|thumb|''[[Mamma Roma]]'' poster]]
+Pasolini's first novel ''[[Ragazzi di vita]]'' (1955) dealt with the Roman [[lumpenproletariat]]. The book caused obscenity charges to be filed against Pasolini, the first of many instances in which his art provoked legal problems.  The movie ''[[Accattone]]'' (1961), also about the [[Rome|Roman]] underworld, also provoked controversy, and conservatives demanded stricter censorship by the government.
+
+He wrote and directed the black-and-white ''[[The Gospel According to St. Matthew (film)|The Gospel According to Matthew]]'' (1964). It is based on scripture, but adapted by Pasolini, and he is credited as writer. Jesus, a barefoot peasant, is played by [[Enrique Irazoqui]]. While filming it, Pasolini vowed to direct it from the "believer's point of view", but later said that upon viewing the completed work, he realized he had expressed his own beliefs.
+
+In his 1966 film, ''[[The Hawks and the Sparrows|Uccellacci e uccellini]]'' (literally ''Bad Birds and Little Birds'' but translated in English as ''The Hawks and the Sparrows''), a picaresque—and at the same time mystic—fable, Pasolini hired the great Italian comedian [[Totò]] to work with [[Ninetto Davoli]], the director's lover at the time and one of his preferred "naif" actors. It was a unique opportunity for Totò to demonstrate that he was a great dramatic actor as well.
+
+In ''[[Teorema (film)|Teorema]]'' (''Theorem'', 1968), starring [[Terence Stamp]] as a mysterious stranger, Pasolini depicted the sexual coming-apart of a [[bourgeois]] family. (Variations of this theme were filmed by [[François Ozon]] in ''[[Sitcom (film)|Sitcom]]'' and [[Takashi Miike]] in ''[[Visitor Q]]'').
+
+Later movies centered on sex-laden folklore, such as [[Giovanni Boccaccio|Boccaccio]]'s ''[[Il Decamerone|Decameron]]'' (1971), [[Geoffrey Chaucer|Chaucer]]'s ''[[The Canterbury Tales (film)|The Canterbury Tales]]'' (1972), and ''[[Il fiore delle mille e una notte]]'' (literally ''The Flower of 1001 Nights'', released in English as ''Arabian Nights'', 1974). These films are usually grouped as the ''Trilogy of Life''. While basing them on classics, Pasolini wrote the screenplays and took sole credit as writer. This trilogy, prompted largely by Pasolini's attempt to show the secular sacredness of the body against man-made social controls and especially against the venal hypocrisy of religious state (indeed, the religious characters in The Canterbury Tales are shown as pious but amorally grasping fools) were an effort at representing a state of natural sexual innocence essential to the true nature of free humanity. Alternately playfully bawdy and poetically sensuous, wildly populous, subtly symbolic and visually exquisite, the films were wildly popular in Italy and remain perhaps his most enduringly popular works. Yet despite the fact that the trilogy as a whole is considered by many as a masterpiece, Pasolini later reviled his own creation on account of the many soft-core imitations of these three films in Italy that happened afterwards on account of the very same popularity he wound up deeply uncomfortable with. He believed that a bastardisation of his vision had taken place that amounted to a commoditisation of the body he had tried to deny in his trilogy in the first place. The disconsolation this provided is seen as one of the primary reasons for his final film, Salo, in which humans are not only seen as commodities under authoritarian control but are viewed merely as ciphers for its whims additionally, without the free vitality of the figures in the Trilogy of Life.
+
+His final work, ''[[Salò o le 120 giornate di Sodoma|Salò]]'' (''Salò, or the 120 Days of Sodom'', 1975), exceeded what most viewers could accept at the time in its explicit scenes of intensely sadistic violence. Based on the novel ''[[120 Days of Sodom]]'' by [[Marquis de Sade]], it is considered Pasolini's most controversial film. In May 2006, ''[[Time Out (company)|Time Out]]'''s Film Guide named it the "Most Controversial Film" of all time.
+
+== Legacy ==
+[[File:Pasolini-Abel-Ferrara.jpg|thumb|[[Abel Ferrara]] in ''[[Pasolini (film)|Pasolini]]'' (2014)]]
+As a director, Pasolini created a [[picaresque novel|picaresque]] [[Italian neorealism|neorealism]], showing a sad reality.  Many people did not want to see such portrayals in artistic work for public distribution. ''[[Mamma Roma]]'' (1962), featuring [[Anna Magnani]] and telling the story of a prostitute and her son, was an affront to the public ideals of morality of those times. His works, with their unequaled poetry applied to cruel realities, showing that such realities were less distant from most daily lives, and contributed to changes in the Italian psyche.<ref name=JAM8>{{cite book
+| title      = Il Caos (collected articles)
+ | author      = Pasolini Pierr Paolo
+ | year       = 1995
+ | publisher  = Editori Riuniti
+| location = Roma
+| language = Italian
+}}</ref>
+
+The director promoted in his works the concept of "natural sacredness," the idea that the world is holy in and of itself, a concept that drew inspiration from his favourite Greek philosopher, [[Parmenides]]. He suggested that people did not need to attain a spiritual essence or gain a supernatural blessing to attain this state of appreciation.
+
+Generally Pasolini's work engendered disapproval perhaps primarily because of his frequent focus on sexual behavior, and the contrast between what he presented and what was publicly sanctioned. While Pasolini's poetry often dealt with his gay love interests, this was not the only, or even main, theme. His interest in and use of Italian dialects should also be noted. In addition, much of the poetry was about his highly revered mother. As a sensitive and intelligent man, he depicted certain corners of the contemporary reality as few other poets could do. His poetry was not as well known outside Italy as were his films, because it took some time before it was translated.<ref name="noonday"/> A collection in English was published in 1996.<ref name="noonday">{{cite book
+| url = http://books.google.com/books?id=pqzRAIwoq8EC&dq=pier+paolo+pasolini+collected+poems&hl=en&ei=6Bt3Ts7dEabl4QS1mMyWDQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCwQ6AEwAA
+| title      = Collected Poems
+ | author      = Pasolini Pier Paolo
+ | year       = 1996
+ | publisher  = Noonday Press
+| ISBN = 9780374524692
+}}</ref>
+
+Pasolini also developed a philosophy of language mainly related to his studies on cinema.<ref name=JAM7>{{cite book
+| url = http://books.google.com/books?id=v0-pPQAACAAJ&dq=pier+paolo+pasolini&hl=en&ei=oRd3TqXtLOKE4gT83_WcDQ&sa=X&oi=book_result&ct=result&resnum=8&ved=0CEoQ6AEwBzgU
+ | title      = Heretical empiricism
+ | last       = Pasolini
+ | first      = Pier Paolo
+ | date       = 1988–2005
+ | publisher  = New Academia Publishing
+ | ISBN  = 9780976704225
+}}</ref> This theoretical and critical activity was another hotly debated topic. His collected articles and responses are still available today.<ref name=JAM8 /><ref>{{cite book
+| title      = Dibattiti sui film
+ | author      = A. Covi
+ | year       = 1971
+ | publisher  = Gregoriana
+| location = Padova
+| language = Italian
+}}</ref><ref>{{cite book
+| title      = Scrittori e Popolo – il populismo nella letteratura italiana contemporanea
+ | author      = A. Asor Rosa
+ | year       = 1988
+ | publisher  = Gregoriana
+| location = Torino
+| language = Italian
+}}</ref>
+
+These studies can be considered as the foundation of his artistic point of view: he believed that the language—such as English, Italian, dialect or other—is a rigid system in which human thought is trapped. He also thought that the cinema is the "written" language of reality which, like any other written language, enables man to see things from the point of view of truth.<ref name=JAM7 /> In this sense, he has always been admired by the Structuralists. In fact, the entire first half of Medea goes past leaving the viewer to formulate the action based almost entirely on pure linked visual tableaux, with limited explicatory dialogue, before any dramatic dialogue supplying more formal narrative takes place.
+
+His films won awards at the [[Berlin Film Festival]], [[Cannes Film Festival]], [[Venice Film Festival]], Italian National Syndicate for Film Journalists, [[Jussi Awards]], Kinema Junpo Awards, International Catholic Film Office and [[New York Film Critics Circle]].
+
+*[[Ebbo Demant]] directed the documentary ''Das Mitleid ist gestorben'' (1978) about Pasolini.
+
+*[[Stefano Battaglia]] made ''[[Re: Pasolini]]'' (2005) in dedication to Pasolini.
+
+In 2014 [[Abel Ferrara]] directed a [[Pasolini (film)|biopic]] about Pasolini, with [[Willem Dafoe]] in the lead role. It was selected to compete for the [[Golden Lion]] at the [[71st Venice International Film Festival]].<ref name="Venice">{{cite web |url=http://www.labiennale.org/en/cinema/71st-festival/line-up/off-sel/venezia71/ |title=International competition of feature films |accessdate=24 July 2014 |work=Venice}}</ref><ref name="Deadline">{{cite web |url=http://www.deadline.com/2014/07/venice-film-festival-lineup-2014-movie-list/ |title=Venice Film Festival Lineup Announced |accessdate=24 July 2014 |work=Deadline}}</ref>
+
+== Films ==
+
+===Feature films===
+All titles listed below were written and directed by Pier Paolo Pasolini unless stated otherwise. Although obviously ''Oedipus Rex'' and ''Medea'' are loosely based on plays by [[Sophocles]] and [[Euripides]] respectively, Pasolini took significant liberties with original texts and is solely credited for the writing of these films. The latter is also true for the gospel according to [[Saint Matthew|St. Matthew]].
+{| class="wikitable"
+|-
+! style="width:5%;"|Year
+! style="width:20%;"|Original title
+! style="width:26%;"|English title
+! Notes
+|-
+| 1961
+| ''[[Accattone]]''
+| ''Accattone''
+| Screenplay by Pier Paolo Pasolini based on his novel ''Una vita violenta''. Additional dialogue by [[Sergio Citti]].
+|- style=background:#efefef;<br>[[Karlovy Vary International Film Festival|Karlovy Vary International Film Festival Best Director Award]]
+| 1962
+| ''[[Mamma Roma]]''
+| ''Mamma Roma''
+| Screenplay by Pier Paolo Pasolini with additional dialogue by Sergio Citti.
+|-
+| 1964
+| ''[[The Gospel According to Matthew (film)|Il vangelo secondo Matteo]]''
+| ''The Gospel According to Matthew''
+|[[Silver Lion]]-[[Venice Film Festival]]
+|- style=background:#efefef;
+| 1966
+| ''[[The Hawks and the Sparrows|Uccellacci e uccellini]]''
+| ''The Hawks and the Sparrows''
+|
+|-
+| 1967
+| ''[[Oedipus Rex (film)|Edipo re]]''
+| ''Oedipus Rex''
+|
+|- style=background:#efefef;
+| 1968
+| ''[[Teorema (film)|Teorema]]''
+| ''Theorem''<ref>The translated English title is used infrequently.</ref>
+| Pasolini's novel ''Teorema'' was also published in 1968.
+|-
+| 1969
+| ''[[Pigsty (film)|Porcile]]''
+| ''Pigsty''
+|
+|- style=background:#efefef;
+| 1969
+| ''[[Medea (1969 film)|Medea]]''
+| ''Medea''
+|
+|-
+| 1971
+| ''[[The Decameron (1971 film)|Il Decameron]]''
+| ''The Decameron''
+| Based on ''[[The Decameron]]'' by [[Giovanni Boccaccio]]. Won the [[Silver Bear]] at the [[21st Berlin International Film Festival]].<ref name = "berlinale 1971">{{cite web |url=http://www.berlinale.de/en/archiv/jahresarchive/1971/03_preistr_ger_1971/03_Preistraeger_1971.html |title=Berlinale 1972: Prize Winners |accessdate=26 June 2011 |work=berlinale.de}}</ref>
+|- style=background:#efefef;
+| 1972
+| ''[[The Canterbury Tales (film)|I racconti di Canterbury]]''
+| ''The Canterbury Tales''
+| Based on ''[[The Canterbury Tales]]'' by [[Geoffrey Chaucer]]. Won the [[Golden Bear]] at the [[22nd Berlin International Film Festival]].<ref name="berlinale 1972">{{cite web |url=http://www.berlinale.de/en/archiv/jahresarchive/1972/03_preistr_ger_1972/03_Preistraeger_1972.html |title=Berlinale 1972: Prize Winners |accessdate=16 March 2010 |work=berlinale.de}}</ref>
+|-
+| 1974
+| ''[[Arabian Nights (1974 film)|Il fiore delle Mille e una Notte]]''
+| ''A Thousand and One Nights'' (''Arabian Nights'')
+| Screenplay written in collaboration with [[Dacia Maraini]]. Won the [[Grand Prix (Cannes Film Festival)|Grand Prix Spécial Prize]].<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/2245/year/1974.html |title=Festival de Cannes: Arabian Nights |accessdate=26 June 2011|work=festival-cannes.com}}</ref>
+|- style=background:#efefef;
+| 1975
+| ''[[Salò, or the 120 Days of Sodom|Salò o le 120 giornate di Sodoma]]''
+| ''Salo, or the 120 Days of Sodom''
+| Based on ''[[The 120 Days of Sodom|Les 120 journées de Sodome ou l'école du libertinage]]'' by the [[Marquis de Sade]]. Screenplay written in collaboration with Sergio Citti with extended quotes from [[Roland Barthes]]' ''Sade, Fourier, Loyola'' and [[Pierre Klossowski]]'s ''Sade mon prochain''.
+|}
+
+===Documentaries===
+* ''[[Location Hunting in Palestine|Sopralluoghi in Palestina per Il Vangelo secondo Matteo]]'' (1964)
+* ''[[Comizi d'amore]]'' (''Love Meetings'', 1964)
+* ''[[Appunti per un film sull'India]]'' (1969)
+* ''[[Appunti per un romanzo dell'immondizia]]'' (1970)
+* ''[[Appunti per un'Orestiade Africana]]'' (''Notes Towards an African Orestes'', 1970)
+* ''[[Le mura di Sana'a]]'' (1971)
+* ''[[12 Dicembre 1972 (long and short version)|12 Dicembre 1972]]'' (1972)
+* ''Pasolini e la forma della città'' (1975)
+
+===Episodes in omnibus films===
+* ''[[La ricotta]]'' in ''[[RoGoPaG]]'' (1963)
+* First segment of ''[[La rabbia]]'' (1963)
+* ''La Terra vista dalla Luna'' in ''[[Le streghe]]'' (''The Witches'', 1967)
+* ''Che cosa sono le nuvole?'' ''[[Capriccio all'Italiana]]'' (1968)
+* ''La sequenza del fiore di carta'' in ''[[Amore e rabbia]]'' (1969)
+
+==Bibliography==
+<!-- Selected works available in English. --- Please don't limit things to English version. This is an international encyclopedia.-->
+
+=== Narrative ===
+* ''[[Ragazzi di vita]]'' (''The Ragazzi'', 1955)
+* ''[[Una vita violenta]]'' (''A Violent Life'', 1959)
+* ''[[Il sogno di una cosa]]'' (1962)
+* ''Amado Mio—Atti Impuri'' (1982, originally composed in 1948)
+* ''Alì dagli occhi azzurri'' (1965)
+* ''Teorema'' (1968)
+* ''Reality'' (''[[The Poets' Encyclopedia]]'', 1979)
+* ''[[Petrolio]]'' (1992, incomplete)
+
+=== Poetry ===
+* ''La meglio gioventù'' (1954)
+* ''Le ceneri di Gramsci'' (1957)
+* ''L'usignolo della chiesa cattolica'' (1958)
+* ''La religione del mio tempo'' (1961)
+* ''Poesia in forma di rosa'' (1964)
+* ''Trasumanar e organizzar'' (1971)
+* ''La nuova gioventù'' (1975)
+* ''[[Roman Poems]]''. Pocket Poets No. 41 (1986)
+* ''The Selected Poetry of Pier Paolo Pasolini: A Bilingual Edition''. (2014)
+
+=== Essays ===
+* ''Passione e ideologia'' (1960)
+* ''Canzoniere italiano, poesia popolare italiana'' (1960)
+* ''Empirismo eretico'' (1972)
+* ''Lettere luterane'' (1976)
+* ''Le belle bandiere'' (1977)
+* ''Descrizioni di descrizioni'' (1979)
+* ''Il caos'' (1979)
+* ''La pornografia è noiosa'' (1979)
+* ''Scritti corsari'' (1975)
+* ''Lettere (1940–1954)'' (''Letters, 1940–54'', 1986)
+
+=== Theatre ===
+* ''Orgia'' (1968)
+* ''Porcile'' (1968)
+* ''Calderón'' (1973)
+* ''Affabulazione'' (1977)
+* ''Pilade'' (1977)
+* ''Bestia da stile'' (1977)
+
+==Notes==
+{{Reflist}}
+
+==References==
+* Aichele, George. "Translation as De-canonization: Matthew's Gospel According to Pasolini – filmmaker Pier Paolo Pasolini – Critical Essay." ''Cross Currents'' (2002). 
+* Distefano, John. "Picturing Pasolini." ''Art Journal'' (1997).
+* Eloit, Audrene. "Oedipus Rex by Pier Paolo Pasolini The Palimpsest: Rewriting and the Creation of Pasolini's Cinematic Language." ''Literature Film Quarterly'' (2004). 
+* Fabbro, Elena (ed.). ''Il mito greco nell'opera di Pasolini''. Atti del Convegno Udine-Casarsa della Delizia, 24–26 ottobre 2002. Udine: Forum (2004). ISBN 88-8420-230-2
+* Forni, Kathleen. "A "Cinema of Poetry": What Pasolini Did to Chancer's Canterbury Tales." ''Literature Film Quarterly'' (2002).
+* Frisch, Anette. "Francesco Vezzolini: Pasolini Reloaded." Interview, Rutgers University Alexander Library, New Brunswick, NJ.
+* Green, Martin. "The Dialectic Adaptation."
+* Greene, Naomi. ''Pier Paolo Pasilini: Cinema as Heresy''. Princeton, NJ: Princeton UP, 1990.
+* Meyer-Krahmer, Benjamin. "Transmediality and Pastiche as Techniques in Pasolini’s Art Production", in: P.P.P. – Pier Paolo Pasolini and death, eds. Bernhart Schwenk, Michael Semff, Ostfildern 2005, pp.&nbsp;109 – 118
+* Passannanti, Erminia, ''Il corpo & il potere. Salò o le 120 giornate di Sodoma di Pier Paolo Pasolini'', Prima edizione, Troubador, Leicester, 2004; Seconda Edizione, Joker, Savona 2008.
+* Passannanti, Erminia,''Il Cristo del'Eresia. Pier Paolo Pasolini. Cinema e Censura'', Joker, Savona 2009.
+* Passannanti, Erminia, ''La ricotta. Il Sacro trasgredito. Il cinema di Pier Paolo Pasolini e la censura religiosa'', 2009 also published in "Italy on Screen" (Peter Lang Ed., 2011). The book contains excerpts from the 1962 court trial.
+* Pugh, Tison. "Chaucerian Fabliaux, Cinematic Fabliau: Pier Paolo Pasolini's I racconti di Canterbury.", ''Literature Film Quarterly'' (2004). 
+* Restivo, Angelo. ''The Cinema of Economic Miracles: Visuality and Modernization in the Italian Art Film''. London: Duke UP, 2002.
+* Rohdie, Sam. ''The Passion of Pier Paolo Pasolini''. Bloomington, Indiana: Indiana UP, 1995.
+* Rumble, Patrick A. ''Allegories of contamination: Pier Paolo Pasolini's Trilogy of life''. Toronto: University of Toronto P, 1996.
+* Schwartz, Barth D. ''Pasolini Requiem''. 1st ed. New York: Pantheon Books, 1992.
+* [[Enzo Siciliano|Siciliano, Enzo]]. ''Pasolini: A Biography''. Trans. John Shepley. New York: Random House, 1982.
+* Viano, Maurizio. ''A Certain Realism: Making Use of Pasolini's Film Theory and Practice''. Berkeley: University of California P, 1993.
+* Willimon, William H. "Faithful to the script", ''Christian Century'' (2004).
+
+== External links ==
+* {{IMDb name|0001596}}
+* [http://www.filmgalerie451.de/dvd/regisseure/pasolini/ Pasolini on Filmgalerie451]
+* [http://www.pasolini.net Piers Paolo Pasolini], Italian Website with Extensive Commentary
+* [http://www.sensesofcinema.com/2002/great-directors/pasolini/ "Pier Paolo Pasolini"], Senses of Cinema
+* [http://news.bbc.co.uk/1/hi/entertainment/film/4529877.stm BBC News Report on the Reopening of the Murder Case]
+* Guy Flatley: [http://www.moviecrazed.com/outpast/pasolini.html "The Atheist Who Was Obsessed with God"], MovieCrazed
+* [http://www.zmag.org/content/showarticle.cfm?SectionID=43&ItemID=8433 Doug Ireland, "Restoring Pasolini"], ZMag
+* [http://www.cpinternet.com/mbayly/callasasmedea.htm Maria Callas in Pasolini's ''Medea'']
+* [http://www.bfi.org.uk/features/salo/foreword.html Pasolini's Own Notes on ''Salò'' from 1974]
+* [http://www.0web.it/poesia/pier-paolo-pasolini Pier Paolo Pasolini Poems] – Original Italian Text.
+* {{YouTube|A3ACSmZTejQ|Video (in Italian): Pasolini on the Destructive Impact of Television}} (Interrupted and Half-Censored by [[Enzo Biagi]])
+* [http://www.pierpaolopasolini.it/ Italian Website dedicated to Pasolini]
+* [http://mubi.com/notebook/posts/the-lost-pasolini-interview Pasolini's Second to Last Interview, Long Believed to Have Been Lost]
+* [http://www.nytimes.com/2012/12/27/movies/pasolinis-legacy-a-sprawl-of-brutality.html?pagewanted=all&_r=0 "Pasolini’s Legacy: A Sprawl of Brutality"], Dennis Lim, ''[[The New York Times]]'', 26 December 2012
+
+{{Pier Paolo Pasolini}}
+{{Nastro d'Argento Best Director}}
+{{Viareggio Prize}}
+
+{{Authority control}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Pasolini, Pier Paolo
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= Italian novelist, poet, intellectual, film director, journalist, philosopher
+|DATE OF BIRTH= 5 March 1922
+|PLACE OF BIRTH= [[Bologna]], Italy
+|DATE OF DEATH= 2 November 1975
+|PLACE OF DEATH= [[Ostia (town)|Ostia]], Rome, Italy
+}}
+{{DEFAULTSORT:Pasolini, Pier Paolo}}
+[[Category:20th-century Italian male actors]]
+[[Category:Experimental filmmakers]]
+[[Category:Gay writers]]
+[[Category:Italian atheists]]
+[[Category:Italian communists]]
+[[Category:Italian film directors]]
+[[Category:Italian Marxists]]
+[[Category:Italian novelists]]
+[[Category:Italian journalists]]
+[[Category:Italian film critics]]
+[[Category:Italian poets]]
+[[Category:LGBT directors]]
+[[Category:LGBT people from Italy]]
+[[Category:Marxist journalists]]
+[[Category:Murdered filmmakers]]
+[[Category:Murdered writers]]
+[[Category:People from Bologna]]
+[[Category:People murdered in Italy]]
+[[Category:1922 births]]
+[[Category:1975 deaths]]
+[[Category:Unsolved murders in Italy]]
+[[Category:Viareggio Prize winners]]
+[[Category:Nastro d'Argento winners]]
+[[Category:Italian columnists]]
+[[Category:Italian dramatists and playwrights]]
+[[Category:Italian painters]]
+[[Category:Gay artists]]
+[[Category:Italian male film actors]]
+[[Category:Italian screenwriters]]
+[[Category:Murdered male actors]]
+[[Category:Italian-language film directors]]
+[[Category:20th-century novelists]]
+[[Category:20th-century poets]]
+[[Category:20th-century dramatists and playwrights]]
+[[Category:20th-century painters]]
+[[Category:LGBT atheists]]

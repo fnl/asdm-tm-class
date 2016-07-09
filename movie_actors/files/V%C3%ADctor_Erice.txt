@@ -1,0 +1,62 @@
+{{Infobox person
+| name = Victor Erice
+| image =
+| imagesize = 150px
+| caption = 
+| birth_name = 
+| birth_date = {{birth date and age|1940|6|30|df=yes}}
+| birth_place = [[Karrantza]], [[Biscay]], [[Spain]]
+| spouse = 
+| occupation = [[film director]]
+| yearsactive =
+| website = 
+| footnotes = 
+| awards =
+}}
+
+'''Víctor Erice Aras''' ({{IPA-es|eˈɾiθe|lang}}; born 30 June 1940) is a Spanish [[film director]].
+
+He studied law, political science, and economics at the [[Complutense University of Madrid|University of Madrid]]. He also attended the [[Escuela Oficial de Cinematografia]] in 1963 to study film direction. He wrote film criticism and reviews for the Spanish film journal ''[[Nuestro Cine]]'', and made a series of short films before making his first feature film, ''[[The Spirit of the Beehive]]'' (1973), a critical portrait of the rural Spain of the 1940s.
+
+Ten years later, Erice wrote and directed ''[[The South (film)|The South]]'' (1982), based on a story from [[Adelaida García Morales]], considered a masterpiece although the producer [[Elías Querejeta]] only allowed him to film the first two-thirds of the story. His third movie, ''[[El Sol del Membrillo|The Quince Tree Sun]]'' (1992) is a documentary about painter [[Antonio López García]]. The film won the [[Jury Prize (Cannes Film Festival)|Jury Prize]] and the [[FIPRESCI|FIPRESCI Prize]] at the [[1992 Cannes Film Festival]].<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/19/year/1992.html |title=Festival de Cannes: Dream of Light |accessdate=2009-08-14|work=festival-cannes.com}}</ref>
+
+He was a member of the jury at the [[2010 Cannes Film Festival]] in May.<ref name="hollywoodreporter">{{cite news |url=http://www.hollywoodreporter.com/hr/content_display/world/news/e3i3d82e5b089623802884efcd38a037f67?pn=2 |title=Hollywood Reporter: Cannes Lineup |accessdate=2010-04-15 |work=hollywoodreporter |deadurl=yes}} {{Dead link|date=February 2012|bot=RjwilmsiBot}}</ref>
+
+==Critics==
+Geoff Andrew, in the ''[[Time Out Film Guide]]'', praises Erice's contribution to ''[[Ten Minutes Older: The Trumpet]]'' (''Lifeline'') as "quite masterly", adding "it only makes you wish he worked more frequently".<ref>Quoted in ''"Time Out" Film Guide: 17'', 2008, p. 1061.</ref> Excluding that short film, he has produced only three major works: ''[[The Spirit of the Beehive]]'' (1973, ''El espiritú de la colmena'' / ''The Spirit of the Beehive''), ''[[El Sur (film)|El Sur]]'' (1983, ''The South'') and ''[[El Sol del Membrillo]]'' (1992, ''The Quince Tree Sun''). The critical reception of his work both inside Spain and internationally has been almost unanimously enthusiastic, with many hailing his sparse contributions to cinema as visually poetic masterpieces. Critic [[Tony Rayns]] describes ''The Spirit of the Beehive'' as "a haunting mood piece that dispenses with plot and works its spells through intricate patterns of sound and image"<ref>Quoted in ''"Time Out" Film Guide: 17'', 2008, p. 1003.</ref> and of ''El Sur'' it has been said that "Erice creates his film as a canvas, conjuring painterly images of slow dissolves and shafts of light that match [[Caravaggio]] in their power to animate a scene of stillness, or freeze one of mad movement."
+
+==Filmography==
+*''[[The Spirit of the Beehive|El espíritu de la colmena]]'' (''The Spirit of the Beehive'', 1973)
+*''[[The South (film)|El Sur]]'' (1983)
+*''[[El Sol del Membrillo]]'' (''The Quince Tree Sun'', 1992)
+*''La Morte Rouge'', 2006
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.sensesofcinema.com/2003/great-directors/erice/ An essay] about the films of Victor Erice
+*[http://www.bfi.org.uk/showing/nft/interviews/erice/ BFI interviews] with Geoff Andrew
+*{{IMDb name|name=Víctor Erice|id=0258977}}
+*{{Es icon}} [http://www.trendesombras.com/num0/ericenum0.asp 30 años en la colmena]
+*{{Es icon}} [http://www.trendesombras.com/num6/art_correspondencias.asp Erice/Kiarostami: Correspondencias]
+*{{Es icon}} [http://www.trendesombras.com/num3/art_tesalonica2004.asp Erice, Angelopoulos, Kiarostami]
+
+{{Víctor Erice}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Erice, Victor
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Spanish film director
+| DATE OF BIRTH     =1940-06-30
+| PLACE OF BIRTH    =[[Karrantza]], [[Spain]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Erice, Victor}}
+[[Category:1940 births]]
+[[Category:Living people]]
+[[Category:People from Biscay]]
+[[Category:Basque film directors]]

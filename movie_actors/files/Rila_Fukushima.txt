@@ -1,0 +1,113 @@
+{{BLP primary sources|date=May 2008}}
+{{Infobox model
+| name          = Rila Fukushima
+| image         = 
+| imagesize     = 
+| caption       = 
+| birth_name    = 
+| birth_date    = 
+| birth_place   =
+| death_date    = 
+| death_place   = 
+| height        = {{convert|1.70|m|ftin|0|abbr=on}}
+| haircolor     = Black
+| eyecolor      = Brown
+| measurements  = (US) 32.5-24-34.5 ; (EU) 82-61-87.5
+| weight        = 
+| dress size    = (US) 4 ; (EU) 34 
+| shoesize      = (US) 7 ; (EU) 39
+| agency        = 
+| spouse        = 
+| website       = 
+}}
+
+'''Rila Fukushima''' {{nihongo|'''Rila Fukushima'''|福島 リラ|Fukushima Rira}} is a Japanese [[model (person)|fashion model]] and actress.
+
+== Life and career ==
+Originally attempting to secure a position as a model agent at a Tokyo agency, she was persuaded to try modelling instead.<ref>{{cite web|author=Kristin Studeman |url=http://www.style.com/stylefile/2011/11/meet-the-muse-rila-fukushima/ |title=Meet The Muse: Rila Fukushima &#124; style file |publisher=Style.com |date=2011-11-23 |accessdate=2013-11-10}}</ref> Her career has included work with a multitude of labels and brands in various print and motion media advertising campaigns.<ref>{{fashionmodel|id=Rila_Fukushima|name=Rila Fukushima}}</ref>
+
+Fukushima also starred in the 2013 superhero film ''[[The Wolverine (film)|The Wolverine]]'' as the second lead role [[Yukio (comics)|Yukio]]<ref>{{cite web|url=http://collider.com/wolverine-cast/178330/ |title=WOLVERINE Adds Japanese Actors &#124; Collider &#124; Page 178330 |publisher=Collider |date=2013-07-26 |accessdate=2013-11-10}}</ref> and in 2014, she appears in the [[Taiga drama]] ''[[Gunshi Kanbei]]'' as Omichi.<ref>{{cite web|script-title=ja:ハリウッドから大河直行！福島リラ　「軍師官兵衛」日本デビューへ|url=http://www.sponichi.co.jp/entertainment/news/2013/12/10/kiji/K20131210007174310.html|publisher=Sponichi|accessdate=26 June 2014|language=Japanese|date=12 October 2013}}</ref>
+
+In August 2014, it was reported that Fukushima would replace actress [[Devon Aoki]] in the role of [[Katana (comics)|Tatsu Yamashiro/Katana]] for the third season of [[The CW]] television show ''[[Arrow (TV series)|Arrow]]''.<ref>{{cite web|url=http://www.thewrap.com/wolverine-star-rila-fukushima-replacing-devon-aoki-on-arrow/|title=‘Wolverine’ Star Rila Fukushima Replacing Devon Aoki on ‘Arrow’|work=The Wrap|date=August 27, 2014|accessdate=August 28, 2014}}</ref> In 2015 she joined the cast of the [[HBO]] series ''[[Game of Thrones]]'' in [[Game of Thrones (season 5)|Season 5]] as a Red Priestess in [[Volantis (A Song of Ice and Fire)|Volantis]].<ref name='Game of Thrones: "High Sparrow" Review'>{{cite news|title=Game of Thrones: "High Sparrow" Review|url=http://www.ign.com/articles/2015/04/27/game-of-thrones-high-sparrow-review|accessdate=27 April 2015}}</ref><ref name="Game of Thrones Recap: “High Sparrow”">{{cite news|title=Game of Thrones Recap: “High Sparrow”|url=http://www.themarysue.com/game-of-thrones-s5-ep3/|accessdate=27 April 2015}}</ref>
+
+== Filmography ==
+
+===Films===
+{| class="wikitable plainrowheaders sortable"
+! scope="col" | Year
+! scope="col" | Title
+! scope="col" | Role
+! scope="col" class="unsortable" | Notes
+|-
+| 2010
+| ''Karma: A Very Twisted Love Story''
+| Rei
+|
+|-
+| 2013
+| ''[[The Wolverine (film)|The Wolverine]]''
+| [[Yukio (comics)|Yukio]]
+|
+|-
+|-
+| 2014
+| ''[[Twilight Sasarasaya (film)|Twilight Sasarasaya]]''
+|
+|
+|-
+| 2015
+| ''[[Gonin Saga]]''
+| Yoichi
+| 
+|}
+
+===TV series===
+{| class="wikitable plainrowheaders sortable"
+! scope="col" | Year
+! scope="col" | Title
+! scope="col" | Role
+! scope="col" class="unsortable" | Network
+|-
+| 2014
+| ''[[Gunshi Kanbei]]''
+| Omichi
+| [[NHK]]
+|-
+|-
+| 2014
+| ''[[The Long Goodbye (TV series)|The Long Goodbye]]''
+| Lily
+| [[NHK]]
+|-
+| 2014–present
+| ''[[Arrow (TV series)|Arrow]]'' 
+| [[Katana (comics)|Tatsu Yamashiro / Katana]]
+| [[CW Television Network|CW]]
+|-
+| 2015
+| ''[[Game of Thrones]]''
+| Red Priestess
+| [[HBO]]   
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb name|3822462|Rila Fukushima}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Fukushima, Rila
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Japanese model
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =[[Kyushu]], Japan
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Fukushima, Rila}}
+[[Category:21st-century Japanese actresses]]
+[[Category:Japanese female models]]
+[[Category:Japanese film actresses]]
+[[Category:Japanese television actresses]]
+[[Category:Living people]]

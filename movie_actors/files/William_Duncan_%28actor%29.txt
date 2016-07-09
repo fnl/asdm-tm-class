@@ -1,0 +1,87 @@
+{{Other people2|William Duncan (disambiguation)}}
+{{refimprove|date=April 2009}}
+{{Infobox person
+| name        = William Duncan
+| image =  William Duncan -001.jpg 
+| birth_date   = December 16, 1879
+| birth_place  = [[Dundee]], [[Scotland]]
+| death_date   = {{death date and age|1961|2|7|1879|12|16}}
+| death_place  = [[Hollywood, California]]
+| othername   = 
+| occupation  = [[Actor]]<br>[[Film director]]
+| yearsactive = [[1911 in film|1911]] - [[1940 in film|1940]]
+| imdb_id     = 0242139
+}}
+'''William Duncan''' (December 16, 1879 &ndash; February 7, 1961) was an actor, producer, writer, and director of [[film serial]]s. He was a leading star in the early film industry, working with the major studios of the day including the [[Selig Polyscope Company]] and [[Vitagraph]]. He had a role in hundreds of serial episodes in a career spanning from 1911 to 1940.
+
+When William Duncan joined Vitagraph, his contract was worth $1,000,000 a year, which made him better paid than [[Mary Pickford]] and [[Douglas Fairbanks]]. Mr. Duncan is interred at [[Inglewood Park Cemetery]], [[Inglewood, California]], USA.
+
+==Selected filmography==
+[[File:The Man of Might.jpg|thumb|''The Man of Might'' (1919)]]
+{| class="wikitable" border="1"
+ |-
+ ! Year !! Film
+ |-
+ | 1911 || ''[[The Telltale Knife]]''
+ |-
+ | 1917 || ''[[The Fighting Trail]]''
+ |-
+ | 1919 || ''[[Smashing Barriers]]''
+ |-
+ | 1921 || ''[[Hopalong Rides Again]]''
+ |-
+ | [[1923 in film|1923]] || ''[[The Steel Trail]]''
+ |-
+ | rowspan=2 | [[1924 in film|1924]] || ''[[The Fast Express]]''
+ |-
+ | ''[[Wolves of the North]]''
+ |-
+ | 1936 || ''[[Three on the Trail (film)|Three on the Trail]]'' 
+ |-
+ | 1937 || ''[[Forlorn River (film)|Forlorn River]]''
+ |-
+ | rowspan=2 |  1938 || ''[[The Frontiersmen]]''
+ |-
+ | ''[[Bar 20 Justice]]''
+ |}
+
+==References==
+*{{cite web
+|url = http://movies.nytimes.com/person/20562/William-Duncan/biography
+|title = William Duncan
+|accessdate = 2007-11-13
+|work = New York Times Movies
+}}
+* Rothwell-Smith, Paul. Silent Films! the Performers (2011) ISBN 9781907540325
+
+==External links==
+{{Portal|Biography}}
+{{commons category}}
+* {{IMDb name|id=0242139|name=William Duncan}}
+* {{Find a Grave|9002|William Duncan}}
+
+{{Authority control}}
+
+{{Persondata<!-- Metadata: see [[Wikipedia:Persondata]] -->
+|NAME= Duncan, William
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= [[Actor]], [[Film director]]
+|DATE OF BIRTH= December 16, 1879
+|PLACE OF BIRTH= [[Dundee]], [[Scotland]]
+|DATE OF DEATH= February 7, 1961
+|PLACE OF DEATH= [[Hollywood, California]]
+}}
+{{DEFAULTSORT:Duncan, William}}
+[[Category:1879 births]]
+[[Category:1961 deaths]]
+[[Category:Scottish male film actors]]
+[[Category:Scottish male silent film actors]]
+[[Category:Male film serial actors]]
+[[Category:Film serial crew]]
+[[Category:Male Western (genre) film actors]]
+[[Category:People from Dundee]]
+[[Category:Burials at Inglewood Park Cemetery]]
+[[Category:20th-century Scottish male actors]]
+
+
+{{film-actor-stub}}

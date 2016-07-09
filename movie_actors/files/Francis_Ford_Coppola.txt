@@ -1,0 +1,705 @@
+{{Infobox person
+ | name             = Francis Ford Coppola
+ | image            = Francis Ford Coppola 2011 CC.jpg
+ | caption          = Coppola at the 2011 [[San Diego Comic-Con International]]
+ | birth_date       = {{Birth date and age|mf=yes|1939|4|7}}
+ | birth_place      = [[Detroit]], [[Michigan]], United States
+ | education        = [[Great Neck North High School]]
+ | alma_mater       = [[Hofstra University]] and [[UCLA School of Theater, Film and Television|UCLA]]
+ | home_town        = [[Woodside, Queens]], [[New York]], U.S.
+ | residence        = [[Napa Valley]], [[California]], U.S.
+ | parents          = [[Carmine Coppola]]<br>[[Italia Coppola|Italia Pennino Coppola]]
+ | occupation       = Film director, producer, screenwriter
+ | years_active     = 1962–present
+ | party            = [[Democratic Party (United States)|Democratic]]
+ | spouse           = [[Eleanor Coppola|Eleanor Jessie Neil]]<br />(1963–present)
+ | children         = [[Gian-Carlo Coppola]] <small>(deceased)</small><br />[[Roman Coppola]]<br />[[Sofia Coppola]]
+ | family           = [[Talia Shire]] (sister)<br />[[August Coppola]] (brother)<br />[[Nicolas Cage]] (nephew)<br />[[Jason Schwartzman]] (nephew)<br />[[Marc Coppola (actor)|Marc Coppola]] (nephew)<br />[[Gia Coppola]] (granddaughter)
+}}
+'''Francis Ford Coppola''' ({{IPAc-en|ˈ|k|oʊ|p|əl|ə}}; born April 7, 1939) is an American [[film director]], [[Film producer|producer]] and [[screenwriter]]. He was part of the [[New Hollywood]] wave of filmmaking.
+
+In 1970, he won the [[Academy Award for Best Original Screenplay]] as co-writer, with [[Edmund H. North]], of ''[[Patton (film)|Patton]]'' (1970). His directorial prominence was cemented with the release in 1972 of ''[[The Godfather]]'', a film which revolutionized movie-making in the gangster genre,<ref>{{cite book|last=Barry|first=Langford|title=Film Genre: Hollywood and Beyond|year=2005|publisher=Edinburgh University Press|page=134}}</ref> earning praise from both critics and the public before winning three Academy Awards—including his second [[Academy Awards|Oscar]] ([[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]], with [[Mario Puzo]]), [[Academy Award for Best Picture|Best Picture]], and his first nomination for [[Academy Award for Best Director|Best Director]].
+
+He followed with ''[[The Godfather Part II]]'' in 1974, which became the first sequel to win the [[Academy Award for Best Picture]]. Highly regarded by critics, it brought him three more Academy Awards: [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]], [[Academy Award for Best Director|Best Director]] and [[Academy Award for Best Picture|Best Picture]], and made him the second director, after [[Billy Wilder]], to be honored three times for the same film. ''[[The Conversation]]'', which he directed, produced and wrote, was released that same year, winning the [[Palme d'Or]] at the [[1974 Cannes Film Festival]]. He next directed 1979's ''[[Apocalypse Now]]''. Notorious for its over-long and strenuous production, the film was nonetheless critically acclaimed for its vivid and stark depiction of the [[Vietnam War]], winning the [[Palme d'Or]] at the [[1979 Cannes Film Festival]]. Coppola is one of only eight filmmakers to win two Palme d'Or awards.
+
+While a number of Coppola's ventures in the [[1980s in film|1980s]] and [[1990s in film|1990s]] were critically lauded, he has never quite achieved the same commercial success with films as in the [[1970s in film|1970s]].<ref name="Featured Filmmaker: Francis Ford Coppola">[http://movies.ign.com/articles/430/430301p1.html Featured Filmmaker: Francis Ford Coppola – IGN]. Retrieved October 18, 2010.</ref><ref>{{cite web|url=http://www.sensesofcinema.com/2006/great-directors/coppola/ |title=Francis Ford Coppola |date= |accessdate=2010-10-18}}</ref><ref>{{cite web|url=http://www.bullz-eye.com/movies/features/directors_hall_of_fame/2010/francis_ford_coppola.htm |title=Directors Hall of Fame, Class of 2010 |date= |accessdate=2010-10-18}}</ref>
+
+==Early life==
+Coppola was born in [[Detroit]], Michigan, to father [[Carmine Coppola]],<ref name=NYT>{{cite news|work=[[The New York Times]]|title=Carmine Coppola, 80, Conductor And Composer for His Son's Films|first=Wolfgang|last=Saxon|date=April 27, 1991|url=http://www.nytimes.com/1991/04/27/obituaries/carmine-coppola-80-conductor-and-composer-for-his-son-s-films.html}}</ref> a [[flute|flautist]] with the [[Detroit Symphony Orchestra]], and mother Italia (née Pennino). Coppola is the second of three children: his older brother was [[August Coppola]], his younger sister is actress [[Talia Shire]]. Born into a family of Italian immigrant ancestry, his paternal grandparents came to the United States from [[Bernalda]], [[Basilicata]].<ref>{{cite book| last = Cowie| first = Peter| title = Coppola: a biography| year = 1988| publisher = Da Capo Press| isbn = 978-0-306-80598-1| page = 2| nopp = true }}</ref> His maternal grandfather, popular Italian composer Francesco Pennino, immigrated from Naples, Italy.<ref>{{cite web|author=Michael Cabanatuan |url=http://www.sfgate.com/bayarea/article/Italia-Coppola-mother-of-filmmaker-2807695.php |title=Italia Coppola – mother of filmmaker |publisher=SFGate |date=2004-01-23 |accessdate=2014-05-14}}</ref> Coppola received his middle name in honor of [[Henry Ford]], not only because he was born in the [[Henry Ford Hospital]] but also because of his musician-father's association with the automobile manufacturer. At the time of Coppola's birth, his father was a flautist as well as arranger and assistant orchestra director for ''[[The Ford Sunday Evening Hour]]'', an hour-long concert music radio series sponsored by the [[Ford Motor Company]].<ref>{{cite web|url=http://articles.sun-sentinel.com/1988-08-14/features/8802190745_1_carmine-coppola-preston-tucker-francis-ford-coppola |title=The Dream And Its Men Francis Ford Coppola And George Lucas Immortalize A Legendary Car And Its Inventor On Film |work=Sun Sentinel|date=1988-08-14 |accessdate=2013-05-25}}</ref><ref>{{cite news|url=http://partners.nytimes.com/books/first/s/schumacher-coppola.html |title=Francis Ford Coppola |publisher=Partners.nytimes.com |date= |accessdate=2013-05-25}}</ref><ref>{{cite web|url=http://bipolar.about.com/cs/celebs/a/franciscoppola.htm |title=Francis Ford Coppola |publisher=Bipolar.about.com |date=1939-04-07 |accessdate=2013-05-25}}</ref> Two years after Coppola's birth, his father was named principal flautist for the [[NBC Symphony Orchestra]] and the family moved to New York, settling in [[Woodside, Queens]], where Coppola spent the remainder of his childhood.
+
+Contracting [[polio]] as a boy, Coppola was bedridden for large periods of his childhood, allowing him to indulge his imagination with homemade puppet theater productions. Reading ''[[A Streetcar Named Desire (play)|A Streetcar Named Desire]]'' at age 15 was instrumental in developing his interest in theater.<ref name="Francis Ford Coppola Interview page 2">{{cite web |url=http://www.achievement.org/autodoc/page/cop0int-2 |title=An Interview with Francis Ford Coppola |accessdate= October 18, 2010}}</ref> Eager to be involved in film-craft, he created [[8 mm film|8mm]] features edited from home movies with such titles as ''The Rich Millionaire'' and ''The Lost Wallet.''<ref name="Francis Ford Coppola">{{cite web |url=http://www.filmbug.com/db/1251 |title=Francis Ford Coppola |accessdate= October 18, 2010}}</ref> As a child, Coppola was a mediocre student, but he was so interested in technology and engineering that his friends nicknamed him "Science".<ref name="The Gods of Filmmaking " /> Trained initially for a career in music, he became proficient on the tuba and won a music scholarship to the [[New York Military Academy]].<ref name="Francis Ford Coppola" /> Overall, Coppola attended 23 other schools<ref name="bravo">{{cite episode|title = Francis Ford Coppola |episodelink = Inside the Actors Studio|series = Inside the Actors Studio|serieslink = Inside the Actors Studio|network = [[Bravo (US TV channel)|Bravo]] |airdate = |season =7 |number =14 |url=https://www.youtube.com/watch?v=18pZjqLaMMA}} {{dead link|date=December 2012}}</ref> before he eventually graduated from the [[Great Neck North High School]].<ref name="Francis Ford Coppola (Yahoo!)">{{cite web |url=http://movies.yahoo.com/movie/contributor/1800017123/bio |title=Francis Ford Coppola biography |publisher=Yahoo! Movies |accessdate=October 18, 2010}}{{dead link|date=May 2014}}</ref> He entered [[Hofstra University|Hofstra College]] in 1955 with a major in theater arts. There he was awarded a scholarship in playwriting. This furthered his interest in directing theater despite the disapproval of his father, who wanted him to study engineering.<ref name="Francis Ford Coppola Interview page 1">{{cite web |url=http://www.achievement.org/autodoc/page/cop0int-1 |title=An Interview with Francis Ford Coppola |accessdate=October 18, 2010}}</ref> Coppola was profoundly impressed after seeing [[Sergei Eisenstein]]'s ''[[October: Ten Days That Shook the World]]'', especially with the movie's quality of editing. It was at this time Coppola decided he would go into cinema rather than theater.<ref name="Francis Ford Coppola Interview page 1" /> Coppola says he was tremendously influenced to become a writer early on by his brother, August,<ref name=bravo /> in whose footsteps he would also follow by attending both of his brother's alma maters: Hofstra and [[UCLA]]. Coppola also gives credit to the work of [[Elia Kazan]] and for its influence on him as a director.<ref name=bravo /> Amongst Coppola's classmates at Hofstra were [[James Caan]], [[Lainie Kazan]] and radio artist [[Joe Frank]].<ref name="Francis Ford Coppola (Yahoo!)" /><ref>{{cite web|author=Kristine McKenna |url=http://www.laweekly.com/2008-09-18/stage/off-the-radio |title=Joe Frank: Off the Radio – Page 1 – Stage – Los Angeles |publisher=LA Weekly |date=2008-09-17 |accessdate=2013-05-25}}</ref> He later cast Lainie Kazan in ''[[One from the Heart]]'' and Caan in ''[[The Rain People]]'' and ''[[The Godfather]]''.
+
+While pursuing his bachelor's degree, Coppola was elected president of The Green Wig (the university's drama group) and the Kaleidoscopians (its musical comedy club). He then merged the two into The Spectrum Players and under his leadership, they staged a new production each week. Coppola also founded the cinema workshop at Hofstra and contributed prolifically to the campus literary magazine.<ref name="Francis Ford Coppola" /> He won three D. H. Lawrence Awards for theatrical production and direction and received a Beckerman Award for his outstanding contributions to the school's theater arts division.<ref name="Francis Ford Coppola Biography">{{cite web |url=http://www.achievement.org/autodoc/page/cop0bio-1 |title=Francis Ford Coppola Biography |accessdate= October 18, 2010}}</ref> While a graduate student, one of his teachers was [[Dorothy Arzner]], whose encouragement Coppola later acknowledged as pivotal to his film career.<ref name="Francis Ford Coppola Interview page 2" />
+
+==Career==
+
+===1960s===
+Coppola enrolled in [[UCLA School of Theater, Film and Television|UCLA Film School]] for graduate work in film.<ref name="Francis Ford Coppola" /> There he directed a short horror film called ''The Two Christophers'' inspired by [[Edgar Allan Poe]]'s "[[William Wilson (short story)|William Wilson]]", and ''Ayamonn the Terrible'', a film about a sculptor's nightmares coming to life,<ref name="The Gods of Filmmaking ">{{cite web |url=http://www.ambidextrouspics.com/html/francis_ford_coppola.html |title=Francis Ford Coppola biography |accessdate=30 November 2010}} {{dead link|date=December 2012}}</ref> before directing the experimental [[Softcore pornography|softcore]] comedy ''[[Tonight for Sure]]'' in 1962.<ref name="Francis Ford Coppola (Yahoo!)" />
+
+At UCLA, Coppola met [[Jim Morrison]]. He later used Morrison's song "[[The End (The Doors song)|The End]]" in ''Apocalypse Now''.<ref>{{cite web |url=http://www.sparknotes.com/film/apocalypsenow/section3.rhtml |title=SparkNotes: Apocalypse Now: Score and Soundtrack |publisher=www.sparknotes.com |accessdate=2010-10-18 | archiveurl = http://www.webcitation.org/6ACoT59mH | archivedate = 2012-08-26| deadurl=no}}</ref>
+
+The company that hired him for ''Tonight for Sure'' brought him back to re-cut a German film titled ''Mit Eva fing die Sünde an'' directed by [[Fritz Umgelter]]. He added some new 3-D color footage and earned a writer's and director's credit for ''[[The Bellboy and the Playgirls]]'', also a box-office failure. Coppola was hired as an assistant by [[Roger Corman]] and his first job for Corman was to dub and re-edit a Russian science fiction film, ''Nebo zovyot'', which he turned into a sex-and-violence monster movie entitled ''[[Battle Beyond the Sun]]'', released in 1962.<ref name="Francis Ford Coppola (Yahoo!)" /><ref>{{cite web|url=http://www.imdb.com/title/tt0053103/ |title=Nebo zovyot|date=|accessdate=2010-10-18}}</ref> Impressed by Coppola's perseverance and dedication, Corman hired him as dialogue director on ''[[Tower of London (1962 film)|Tower of London]]'' (1962), sound man for ''[[The Young Racers]]'' (1963) and associate producer of ''[[The Terror (1963 film)|The Terror]]'' (1963).<ref name="Francis Ford Coppola Biography" />
+
+While on location in Ireland for ''The Young Racers'' in 1963, Corman, ever alert for an opportunity to produce a decent movie on a shoestring budget, persuaded Coppola to make a low-budget horror movie with funds left over from the movie.<ref name="Francis Ford Coppola Biography" /> Coppola wrote a brief draft story idea in one night, incorporating elements from [[Alfred Hitchcock|Hitchcock's]] ''[[Psycho (1960 film)|Psycho]]'',<ref name="Francis Ford Coppola Interview page 3">{{cite web |url=http://www.achievement.org/autodoc/page/cop0int-3 |title=An Interview with Francis Ford Coppola |accessdate=October 18, 2010}}</ref> and the result impressed Corman enough to give him the go-ahead. On a budget of $40,000 ($20,000 from Corman and $20,000 from another producer who wanted to buy the movie's English rights),<ref name="Francis Ford Coppola Interview page 3" /> Coppola directed in a period of nine days ''[[Dementia 13]]'', his first feature from his own screenplay. The film recouped its expenses and later became a [[cult film]] among horror buffs. It was on the sets of ''Dementia 13'' that he met his future wife [[Eleanor Coppola|Eleanor Jessie Neil]].
+
+In 1965, Coppola won the annual Samuel Goldwyn Award for the best screenplay (''Pilma, Pilma'') written by a UCLA student.<ref name="Francis Ford Coppola" /> This secured him a job as a scriptwriter with [[Seven Arts Productions|Seven Arts]]. In between, he co-wrote the scripts for ''[[This Property Is Condemned]]'' (1966) and ''[[Is Paris Burning?]]'' (1966). However, with fame still eluding him and partly out of desperation, Coppola bought the rights to the [[David Benedictus]] novel ''You're a Big Boy Now'' and fused it with a story idea of his own, resulting in ''[[You're a Big Boy Now]]'' (1966). This was his UCLA thesis project that also received a theatrical release via [[Warner Bros.]]<ref name="Francis Ford Coppola (Yahoo!)" /> This movie brought him some critical acclaim and eventually his Master of Fine Arts Degree from [[UCLA School of Theater, Film and Television]] in 1967.<ref name="Francis Ford Coppola Biography" /><ref name="UCLATFT">[http://www.tft.ucla.edu/about/executive-board/francis-ford-coppola/ "Profile: Francis Ford Coppola"], UCLA School of Theater, Film, and Television, Executive Board</ref>
+
+Following the success of ''You're a Big Boy Now'', Coppola was offered the reins of the movie version of the Broadway musical ''[[Finian's Rainbow (film)|Finian's Rainbow]]'', starring [[Petula Clark]] in her first American film and veteran [[Fred Astaire]]. Producer [[Jack Warner]] was nonplussed by Coppola's shaggy-haired, bearded, "hippie" appearance and generally left him to his own devices. He took his cast to the [[Napa County, California|Napa Valley]] for much of the outdoor shooting, but these scenes were in sharp contrast to those obviously filmed on a Hollywood soundstage, resulting in a disjointed look to the film. Dealing with outdated material at a time when the popularity of film musicals was already on the downslide, Coppola's result was only semi-successful, but his work with Clark no doubt{{According to whom|date=March 2014}} contributed to her [[Golden Globe Award for Best Actress – Motion Picture Drama|Golden Globe]] Best Actress nomination. The film introduced to him [[George Lucas]], who became his lifelong friend as well as production assistant in his next film ''[[The Rain People]]'' in 1969. It was written, directed and initially produced by Coppola himself, though as the movie advanced, he exceeded his budget and the studio had to underwrite the remainder of the movie.<ref name="Francis Ford Coppola (Yahoo!)" /> The film won the [[Golden Shell]] at the 1969 [[San Sebastián International Film Festival|San Sebastian Film Festival]].
+
+In 1969, Coppola took it upon himself to subvert the studio system which he felt had stifled his visions, intending to produce mainstream pictures to finance off-beat projects and give first-time directors their chance to direct. He decided he would name his future studio "Zoetrope" after receiving a gift of [[zoetrope]]s from Mogens Scot-Hansen, founder of a studio called Lanterna Film and owner of a famous collection of early motion picture-making equipment. While touring [[Europe]], Coppola was introduced to alternative filmmaking equipment and inspired by the bohemian spirit of Lanterna Film, he decided he would build a deviant studio that would conceive and implement creative, unconventional approaches to filmmaking. Upon his return home, Coppola and George Lucas searched for a mansion in [[Marin County, California|Marin County]] to house the studio. However, in 1969, with equipment flowing in and no mansion found yet, the first home for [[American Zoetrope|Zoetrope Studio]] became a warehouse in [[San Francisco]] on Folsom Street.<ref>{{cite web|url=http://www.zoetrope.com/zoe_films.cgi?page=history |title=A Brief History of American Zoetrope|date= |accessdate=2010-10-18}}</ref> The studio went on to become an early adopter of digital filmmaking, including some of the earliest uses of [[HDTV]]. In his book ''The American Cinema'', [[Andrew Sarris]] wrote, "[Coppola] is probably the first reasonably talented and sensibly adaptable directorial talent to emerge from a university curriculum in film-making... [He] may be heard from more decisively in the future."<ref>[[Andrew Sarris|Sarris, Andrew]] (1968). ''The American Cinema'' (Paperback ed.). New York, NY: EP Dutton and Co., Inc. p. 210.</ref>
+
+===1970s===
+Coppola epitomized a group of filmmakers known as the "[[New Hollywood]]" that emerged in the early 1970s with ideas that challenged conventional film-making. The group included [[Steven Spielberg]], [[Martin Scorsese]], [[Brian De Palma]], [[Terrence Malick]], [[Robert Altman]], [[Woody Allen]], [[William Friedkin]], [[Philip Kaufman]] and [[George Lucas]].<ref name="Francis Ford Coppola (Yahoo!)"/><ref>{{cite web|url=http://www.redroom.com/blog/steven-robert-travers/the-kid-stays-in-the-picture |title=The kid stays in the Picture|date=|accessdate=2010-10-21}}</ref>
+
+====''Patton'' (1970)====
+{{Main|Patton (film)}}
+Coppola co-wrote the script for ''Patton'' in 1970 along with [[Edmund H. North]]. This earned him his first [[Academy Award]] for [[Academy Award for Best Writing (Original Screenplay)|Best Original Screenplay]]. However, it was not easy for Coppola to convince [[Franklin J. Schaffner]] that [[Patton (film)#The opening|the opening scene]] would work. Coppola later revealed in an interview:<ref name="Francis Ford Coppola Interview page 4">{{cite web |url=http://www.achievement.org/autodoc/page/cop0int-4 |title=An Interview with Francis Ford Coppola |publisher=achievement.org |accessdate=October 18, 2010}}</ref>
+{{Quotation| I wrote the script of ''Patton''. And the script was very controversial when I wrote it, because they thought it was so stylized. It was supposed to be like, sort of, you know, ''The Longest Day''. And my script of ''Patton'' was—I was sort of interested in the reincarnation. And I had this very bizarre opening where he stands up in front of an American flag and gives this speech. Ultimately, I wasn't fired, but I was fired, meaning that when the script was done, they said, "Okay, thank you very much," and they went and hired another writer and that script was forgotten. And I remember very vividly this long, kind of being raked over the coals for this opening scene.}}"When the title role was offered to George C. Scott, he remembered having read Coppola's screenplay earlier. He stated flatly that he would accept the part only if they used Coppola's script. 'Scott is the one who resurrected my version,' says Coppola."<ref>{{cite book|last=Phillips|first=Gene|title=Godfather The Intimate Francis Ford Coppola|year=2004|publisher=The University Press of Kentucky|location=Lexington, Kentucky|isbn=0-8131-2304-6|page=32|chapter=1 Point of Departure}}</ref>
+The movie opens with Scott's rendering of Patton's famous military "Pep Talk" to members of the Third Army, set against a huge [[Flag of the United States|American flag]]. Coppola and North had to tone down Patton's actual language to avoid an [[Motion picture rating system#Restricted|R rating]]; in the opening monologue, the word "fornicating" replaced "fucking" when criticizing the ''[[The Saturday Evening Post]]''. Over the years, this opening monologue has become an iconic scene and has spawned parodies in numerous films, political cartoons and television shows.
+
+====''The Godfather'' (1972)====
+{{Main|The Godfather}}
+The release of ''The Godfather'' in 1972 was a milestone in cinema. The near 3-hour-long epic, which chronicled the saga of the [[Corleone family]], received overwhelmingly positive reviews from critics and fetched Coppola the [[Academy Award]] for [[Academy Award for Best Writing (Adapted Screenplay)|Best Adapted Screenplay]], which he shared with Mario Puzo and two [[Golden Globe Award]]s: for [[Golden Globe Award for Best Director|Best Director]] and [[Golden Globe Award for Best Screenplay|Best Screenplay]]. However, Coppola had to face a lot of difficulties while filming ''The Godfather''. He was not [[Paramount Pictures|Paramount's]] first choice to direct the movie; [[Italy|Italian]] director [[Sergio Leone]] was initially offered the job, but declined in order to direct his own gangster opus, ''[[Once Upon a Time in America]]''.<ref>{{cite book| author = Christopher Frayling| title = Spaghetti Westerns: Cowboys and Europeans from Karl May to Sergio Leone| url = http://books.google.com/?id=2bo9AAAAIAAJ&pg=PA215| year = 1981| publisher = Routledge| isbn = 978-0-7100-0503-8| page = 215 }}</ref> [[Peter Bogdanovich]] was then approached but he also declined the offer and made ''[[What's Up, Doc? (1972 film)|What's Up, Doc?]]'' instead; Bogdanovich has often said that he would have cast [[Edward G. Robinson]] in the lead had he accepted the film. According to [[Robert Evans (producer)|Robert Evans]], head of [[Paramount Pictures]] at the time, Coppola also did not initially want to direct the film because he feared it would glorify the Mafia and violence and thus reflect poorly on his [[Sicilian-American|Sicilian]] and Italian heritage; on the other hand, Evans specifically wanted an Italian-American to direct the film because his research had shown that previous films about the Mafia that were directed by non-Italians had fared dismally at the box office and he wanted to, in his own words, "smell the spaghetti". When Coppola hit upon the idea of making it a metaphor for American capitalism, however, he eagerly agreed to take the helm.<ref>''[[The Kid Stays in the Picture]]'' ([[2002 in film|2002]]), documentary film about Evans' life</ref>
+
+There was disagreement between Paramount and Coppola on the issue of casting; Coppola stuck to his plan of casting [[Marlon Brando]] as [[Vito Corleone]], though Paramount wanted either [[Ernest Borgnine]] or [[Danny Thomas]]. At one point, Coppola was told by the then-president of Paramount that "Marlon Brando will never appear in this motion picture". After pleading with the executives, Coppola was allowed to cast Brando only if he appeared in the film for much less salary than his previous films, perform a screen-test and put up a bond saying that he would not cause a delay in the production (as he had done on previous film sets).<ref name="Look">''The Godfather'' DVD Collection documentary ''A Look Inside'', [2001]</ref> Coppola chose Brando over [[Ernest Borgnine]] on the basis of Brando's screen test, which also won over the Paramount leadership. Brando later won an [[Academy Awards|Academy Award]] for his portrayal, which he refused to accept. Coppola would later recollect:<ref name="Francis Ford Coppola Interview page 3" />{{Quotation| ''The Godfather'' was a very unappreciated movie when we were making it. They were very unhappy with it. They didn't like the cast. They didn't like the way I was shooting it. I was always on the verge of getting fired. So it was an extremely nightmarish experience. I had two little kids, and the third one was born during that. We lived in a little apartment, and I was basically frightened that they didn't like it. They had as much as said that, so when it was all over I wasn't at all confident that it was going to be successful, and that I'd ever get another job.}}
+After it was released, the film received widespread praise. It went on to win multiple awards, including [[Academy Award for Best Adapted Screenplay]] for Coppola. The film routinely features at the top in various polls for the greatest movies ever. It has been selected for preservation in the United States [[National Film Registry]]. In addition, it was ranked third, behind ''[[Citizen Kane]]'', and ''[[Casablanca (film)|Casablanca]]'' on the initial [[AFI's 100 Years…100 Movies]] list by the [[American Film Institute]]. It was moved up to second when the list was published again, in 2008.<ref name="afi">{{cite web |work=American Film Institute |url=http://www.afi.com/Docs/about/press/2007/100movies07.pdf |title=Citizen Kane Stands the test of Time }}</ref> Director [[Stanley Kubrick]] believed that ''The Godfather'' was possibly the greatest movie ever made and had without question the best cast.<ref>[http://www.visual-memory.co.uk/sk/memories/mh.htm Michael Herr for Vanity Fair] "He watched ''The Godfather'' again the night before and was reluctantly suggesting for the tenth time that it was possibly the greatest movie ever made and certainly the best-cast."</ref>
+
+====''The Conversation'' (1974)====
+{{Main|The Conversation}}
+Coppola's next film, ''The Conversation'', further cemented his position as one of the most talented [[Auteur theory|auteurs]] of Hollywood.<ref name="Greatest Box-Office Bombs, Disasters and Flops of All-Time" /> The movie was partly influenced by [[Michelangelo Antonioni]]'s ''[[Blowup]]'' (1966)<ref>Murch in Ondaatje, 2002, p. 152</ref> and generated a lot of speculation and interest when news leaked that the film utilized the very same surveillance and wire-tapping equipment that members of the [[Nixon administration]] used to spy on political opponents prior to the [[Watergate scandal]]. Coppola insisted that this was purely coincidental. The script for ''The Conversation,'' was completed in the mid-1960s (before the [[United States Presidential election, 1968|election of Richard Nixon]]); the spying equipment used in the film was developed through research and use of technical advisers and not by revelatory newspaper stories about the Watergate break-in. However, the audience interpreted the film to be a reaction to both the Watergate scandal and its fall-out. The movie was a critical success and Coppola won his first [[Palme d'Or]] at the [[1974 Cannes Film Festival]].
+
+====''The Great Gatsby'' (1974)====
+{{Main|The Great Gatsby (1974 film)}}
+During the filming of ''The Conversation'', Coppola wrote the screenplay for ''The Great Gatsby''. However, in the commentary track to the DVD of ''The Godfather'' Coppola states, "I don't think that script was [actually] made."<ref>Commentary track, ''The Godfather'', ''The Godfather Collection'' 2008 Blu-ray, ASIN: B000NTPDSW,</ref>
+
+====''The Godfather Part II'' (1974)====
+{{Main|The Godfather Part II}}
+
+Coppola shot ''The Godfather Part II'' parallel to ''The Conversation'' and it was the last major American motion picture to be filmed in [[Technicolor]]. George Lucas commented on the film after its five-hour-long preview, telling Coppola: "You have two films. Take one away, it doesn't work", referring to the movie's portrayal of two parallel storylines; one of a young [[Vito Corleone]] and the other of his son [[Michael Corleone|Michael]]. In the director's commentary on the DVD edition of the film (released in 2002), Coppola states that this film was the first major motion picture to use "Part II" in its title. Paramount was initially opposed to his decision to name the movie ''The Godfather Part II''. According to Coppola, the studio's objection stemmed from the belief that audiences would be reluctant to see a film with such a title, as the audience would supposedly believe that, having already seen ''The Godfather'', there was little reason to see an addition to the original story. However, the success of ''The Godfather Part II'' began the Hollywood tradition of numbered sequels. The movie was released in 1974 and went on to receive tremendous critical acclaim, with many deeming it superior to its predecessor.<ref name="ign">{{cite web |url=http://movies.ign.com/articles/430/430301p1.html |title=Featured Filmmaker: Francis Ford Coppola |date=July 28, 2003 |author=Stax |accessdate=30 November 2010}}</ref> It was nominated for 11 Academy Awards and received 6 Oscars, including 3 for Coppola: Best Picture, Best Adapted Screenplay and [[Academy Award for Best Director|Best Director]].
+
+''The Godfather Part II'' is ranked as the #1 greatest movie of all time in TV Guide's "50 Best Movies of All Time"<ref>{{cite web|url=http://www.filmsite.org/tvguide.html |title=50 Greates Movies (on TV and VIDEO) by TV Guide Magazine|date= |accessdate=2010-10-18}}</ref> and is ranked at #7 on Entertainment Weekly's list of the "100 Greatest Movies of All Time".<ref>{{cite web|url=http://www.filmsite.org/ew100.html |title=100 Greates Movies of All Time by Entertainment Weekly |date= |accessdate=2010-10-18}}</ref> The film is also featured on movie critic [[Leonard Maltin]]'s list of the "100 Must-See Films of the 20th Century",<ref>{{cite web|url=http://www.filmsite.org/maltin2.html |title=100 Must-See Films of the 20th Century Part 2 by Leonard Maltin |date= |accessdate=2010-10-18}}</ref> as well as Roger Ebert's "Great Movies" list.<ref>{{cite news|url=http://rogerebert.suntimes.com/apps/pbcs.dll/section?category=greatmovies_fulllist |title=Great Movies|date= |accessdate=2010-10-18|work=Chicago Sun-Times}}</ref> It was also featured on [[Sight & Sound]]'s list of the ten greatest films of all time in 2002, ranking at #4.<ref>{{cite web|url=http://www.filmsite.org/sightsound.html |title=10 Best Films of All Time Polls by Sight & Sound Magazine |date= |accessdate=2010-10-18}}</ref>
+
+Coppola was the third director to have two nominations for Best Picture in the same year. Victor Fleming was the first in 1939 with ''[[Gone with the Wind (film)|Gone With the Wind]]'' and ''[[The Wizard of Oz (1939 film)|The Wizard of Oz]]''; Alfred Hitchcock repeated the feat the next year with ''[[Foreign Correspondent (film)|Foreign Correspondent]]'' and ''[[Rebecca (1940 film)|Rebecca]]''. Since Coppola, two other directors have done the same: [[Herbert Ross]] in 1977 with ''[[The Goodbye Girl]]'' and ''[[The Turning Point (1977 film)|The Turning Point]]'', and [[Steven Soderbergh]] in 2000 with ''[[Erin Brockovich (film)|Erin Brockovich]]'' and ''[[Traffic (2000 film)|Traffic]]''. Coppola, however, is the only one to have produced the pictures.
+
+====''Apocalypse Now'' (1979)====
+{{Main|Apocalypse Now}}
+Following the success of ''The Godfather'', ''The Conversation'' and ''The Godfather Part II'', Coppola began filming ''Apocalypse Now'', an adaptation of [[Joseph Conrad|Conrad]]'s ''[[Heart of Darkness]]'' set in [[Cambodia]] during the [[Vietnam War]] (Coppola himself briefly appears as a TV news director). The production of the film was plagued by numerous problems, including [[typhoons]], nervous breakdowns, the firing of [[Harvey Keitel]], [[Martin Sheen]]'s heart attack, extras from the Philippine military and half of the supplied helicopters leaving in the middle of scenes to go fight rebels and an unprepared [[Marlon Brando|Brando]] with a bloated appearance (which Coppola attempted to hide by shooting him in the shadows). It was delayed so often it was nicknamed ''Apocalypse When?''<ref name="Francis Ford Coppola: The RT Interview">{{cite web |url=http://www.rottentomatoes.com/m/1920998/news/1920998/francis-ford-coppola-the-rt-interview/ |title=Francis Ford Coppola: The RT Interview. The great director reflects upon his masterpiece Apocalypse Now |first=Tim |last=Ryan |date=October 15, 2010 |publisher=rottentomatoes.com |accessdate=November 30, 2010}}</ref> The 1991 [[documentary film]] ''[[Hearts of Darkness: A Filmmaker's Apocalypse]]'', directed by [[Eleanor Coppola]] (Francis's wife), Fax Bahr and [[George Hickenlooper]], chronicles the difficulties the crew went through making ''Apocalypse Now'' and features behind-the-scenes footage filmed by Eleanor. After filming ''Apocalypse Now'', Coppola famously stated:<ref>{{cite news|url=http://www.nytimes.com/movie/review?res=9D0CE0D91530F934A15752C1A967958260 |title=Hearts of Darkness: A Filmmaker's Apocalypse (1991)|date= 1991-11-27|accessdate=2010-10-18|work=The New York Times|first=Janet|last=Maslin}}</ref> "We were in the jungle, there were too many of us, we had access to too much money, too much equipment and little by little, we went insane."
+
+The film was overwhelmingly lauded by critics when it finally appeared in 1979 and was selected for the 1979 [[Cannes Film Festival]], winning the [[Palme d'Or]] along with ''[[The Tin Drum (film)|The Tin Drum]]'', directed by [[Volker Schlöndorff]]. When the film screened at Cannes, he quipped:<ref name="Francis Ford Coppola: The RT Interview" /> "My film is not about Vietnam, it is Vietnam." ''Apocalypse Now'''s reputation has grown in time and it is now regarded by many as a masterpiece of the [[New Hollywood]] era and is frequently cited as one of the greatest movies ever made.<ref name="Francis Ford Coppola (Yahoo!)" /><ref>{{cite web|url=http://www.filmsite.org/apoc.html |title=Apocalypse Now (Redux) (1979) (2001)|date= |accessdate=2010-10-18}}</ref><ref>{{cite web|url=http://www.film.u-net.com/Movies/Reviews/Apocalypse_Now.html |title=Apocalypse Now (1979)|date= |accessdate=2010-10-18}}</ref><ref>{{cite web|url=http://homevideo.about.com/od/dvdreview1/a/apocalypsenowra.htm |title=DVD Pick: Apocalypse Now – The Complete Dossier|date= |accessdate=2010-10-18}}</ref> [[Roger Ebert]] considers it to be the finest film on the Vietnam war and included it on his list for the 2002 [[Sight & Sound]] poll for the greatest movie of all time.<ref>{{cite web|url=http://www.bfi.org.uk/sightandsound/topten/poll/voter.php?forename=Roger&surname=Ebert |title=How the directors and critics voted|date= |accessdate=2010-10-18|archiveurl = http://www.webcitation.org/5icZTFHiW |archivedate = 2009-07-29|deadurl=yes}}</ref><ref>{{cite news|url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19991128/REVIEWS08/911280301/1023 |title=Apocalypse Now (1979) by Roger Ebert|date= |accessdate=2010-10-18|work=Chicago Sun-Times}}</ref>
+
+In 2001, Coppola re-released ''Apocalypse Now'' as ''[[Apocalypse Now Redux]]'', restoring several sequences lost from the original 1979 cut of the film, thereby expanding its length to 200&nbsp;minutes.
+
+===1980s===
+
+====''One from the Heart'' (1982)====
+{{Main|One from the Heart}}
+''Apocalypse Now'' marked the end of the golden phase of Coppola's career.<ref name="Francis Ford Coppola (Yahoo!)" /> His musical fantasy ''One from the Heart'', although pioneering the use of video-editing techniques which are standard practice in the film industry today, ended with a disastrous box-office gross of $636,796 against a US$26 million budget,<ref>{{cite web |url=http://www.boxofficemojo.com/movies/?id=onefromtheheart.htm |title=One from the Heart |publisher=Boxofficemojo.com }}</ref> far from enough to recoup the costs incurred in the production of the movie and he was forced to sell his 23-acre Zoetrope Studio in 1983.<ref name="Francis Ford Coppola Biography" /> He would spend the rest of the decade working to pay off his debts. (Zoetrope Studios finally filed for [[Chapter 11 bankruptcy]] in 1990, after which its name was changed to [[American Zoetrope]]).<ref name="Francis Ford Coppola (Yahoo!)" /> In addition Coppola himself was forced into US bankruptcy court three times over the next eight years.
+
+====''Hammett'' (1982)====
+{{Main|Hammett (film)}}
+Following the disastrous ''One from the Heart'', Coppola co-directed ''Hammett'' along with [[Wim Wenders]] in the same year. Although Coppola was not credited for his effort, according to one source, "by the time the final version was released in 1982, only 30 percent of Wenders' footage remained and the rest was completely reshot by Coppola, whose mere 'executive producer' credit is just a technicality."<ref>{{cite web | title = Hammett review | author = Noel Murray | url = http://www.avclub.com/content/node/42688 | publisher = The Onion A.V. Club | date = 2005-11-16 | accessdate = 2008-03-31}}{{dead link|date=May 2014}}</ref>
+
+====''The Outsiders'' (1983)====
+{{Main|The Outsiders (film)}}
+In 1983, he directed ''The Outsiders'', a film adaptation of the [[The Outsiders (novel)|novel]] of the same name by [[S. E. Hinton]]. Coppola credited his inspiration for making the film to a suggestion from middle school students who had read the novel. ''The Outsiders'' is notable for being the breakout film for a number of young actors who would go on to become major stars. These included major roles for [[Matt Dillon]], [[Ralph Macchio]] and [[C. Thomas Howell]]. Also in the cast were [[Patrick Swayze]], [[Rob Lowe]], [[Emilio Estevez]], [[Diane Lane]] and [[Tom Cruise]]. Matt Dillon and several others also starred in Coppola's related film, ''[[Rumble Fish]]'', which was also based on a S. E. Hinton novel and filmed at the same time as ''The Outsiders'' on-location in [[Tulsa, Oklahoma]]. Carmine Coppola wrote and edited the musical score, including the title song "Stay Gold", which was based upon a famous [[Robert Frost]] poem and performed for the movie by [[Stevie Wonder]]. The film was a moderate box-office success, drawing a revenue of $25 million<ref>{{cite web|url=http://www.boxofficemojo.com/movies/?id=outsiders.htm |title=The Outsiders|date= |accessdate=2010-10-18}}</ref> against a budget of $10 million.<ref>{{cite web|url=http://www.imdb.com/title/tt0086066/ |title=The Outsiders (1983)|date= |accessdate=2010-10-18}}</ref>
+
+====''Rumble Fish'' (1983)====
+{{Main|Rumble Fish}}
+''Rumble Fish'' was based on the [[Rumble Fish (novel)|novel]] of the same name by [[S. E. Hinton]], who also co-wrote the screenplay. Shot in black-and-white as an homage to German expressionist films, ''Rumble Fish'' centres on the relationship between a revered former gang leader ([[Mickey Rourke]]) and his younger brother, Rusty James ([[Matt Dillon]]). The film bombed at the box office, earning a meagre $2.5 million against a budget of $10 million<ref>{{cite web|url=http://www.imdb.com/title/tt0086216/ |title=Rumble Fish (1983)|date= |accessdate=2010-10-18}}</ref> and once again aggravated Coppola's financial troubles.
+
+====''The Cotton Club'' (1984)====
+{{Main|The Cotton Club (film)}}
+In 1984 Coppola directed the [[Robert Evans (film producer)|Robert Evans]]-produced ''The Cotton Club''. The film was nominated for several awards, including Golden Globes for Best Director and Best Picture (Drama) and the Oscars for Best Film Editing and Best Art-Direction. However, the film failed miserably at the box-office, recouping only $25.9 million of the $47.9 million privately invested by brothers Fred and Ed Doumani.<ref name="Greatest Box-Office Bombs, Disasters and Flops of All-Time">[http://www.filmsite.org/greatestflops10.html Greatest Box-Office Bombs, Disasters and Flops of All-Time]. Retrieved October 18, 2010.</ref>
+
+====''Rip Van Winkle'' (1984)====
+{{Main|Rip Van Winkle#Adaptations|l1=Rip Van Winkle}}
+The same year he directed an episode of ''Faerie Tale Theatre'' entitled ''Rip Van Winkle'', where [[Harry Dean Stanton]] played the lead role.<ref>{{cite web|url=http://www.rottentomatoes.com/m/faerie_tale_theatre_rip_van_winkle/ |title=Faerie Tale Theatre – Rip Van Winkle (1984)|date= |accessdate=2010-10-18}}{{dead link|date=May 2014}}</ref>
+
+====''Captain EO'' (1986)====
+{{Main|Captain EO}}
+In 1986, along with producer George Lucas, he was able to indulge himself by making ''Captain EO'', a 17-minute space fantasy for [[Disney theme parks]] starring pop musician [[Michael Jackson]].
+
+====''Peggy Sue Got Married'' (1986)====
+{{Main|Peggy Sue Got Married}}
+In [[1986 in film|1986]] Coppola released the comedy ''Peggy Sue Got Married'' starring [[Kathleen Turner]], Coppola's nephew [[Nicolas Cage]] and [[Jim Carrey]]. Much like ''[[The Outsiders (film)|The Outsiders]]'' and ''[[Rumble Fish]]'', ''Peggy Sue Got Married'' centered around teenage youth. The film earned Coppola positive feedback and provided Kathleen Turner her first and only Oscar nomination. It was the first box-office success for Coppola since ''[[Apocalypse Now]]''<ref>{{cite web |url=http://www.boxofficemojo.com/movies/?id=peggysuegotmarried.htm |title=Peggy Sue Got Married |publisher= Box Office Mojo| archiveurl = http://www.webcitation.org/61GbMt1sI | archivedate = 2011-08-28| deadurl=no}}</ref> and the film ranked number 17 on ''[[Entertainment Weekly]]''{{'}}s list of "50 Best High School Movies".<ref>{{cite news |url=http://www.ew.com/ew/report/0,6115,1532588_1_0_,00.html |title=Entertainment Weekly's 50 Best High School Movies | deadurl=yes}} {{Dead link|date=February 2012|bot=RjwilmsiBot}}</ref>
+
+====''Gardens of Stone'' (1987)====
+{{Main|Gardens of Stone}}
+The following year, Coppola re-teamed with [[James Caan (actor)|James Caan]] for ''Gardens of Stone'', but the film was overshadowed by the death of Coppola's eldest son [[Gian-Carlo Coppola]] during the film's production. The movie was not a critical success and performed poorly at the box office, earning only $5.6 million against a budget of $13 million.<ref>{{cite web|url=http://boxofficemojo.com/movies/?id=gardensofstone.htm |title=Gardens of Stone|date= |accessdate=2010-10-18}}</ref>
+
+====''Tucker: The Man and His Dream'' (1988)====
+{{Main|Tucker: The Man and His Dream}}
+Coppola directed ''Tucker: The Man and His Dream'' the following year. A biopic based on the life of [[Preston Tucker]] and his attempt to produce and market the [[Tucker automobile|Tucker '48]], Coppola had originally conceived the project as a musical with [[Marlon Brando]] after the release of ''[[The Godfather Part II]]''. Ultimately it was [[Jeff Bridges]] who played the role of Preston Tucker. Budgeted at $24 million, the film received positive reviews and earned three nominations at the [[62nd Academy Awards]], although its $19.65 million box office was a disappointment. Two awards came its way: [[Martin Landau]] won the [[Golden Globe Award for Best Supporting Actor – Motion Picture|Golden Globe for Best Supporting Actor]] and [[Dean Tavoularis]] took [[BAFTA Award for Best Production Design|BAFTA's honors for Best Production Design]].
+
+====''New York Stories'' (1989)====
+{{Main|New York Stories#Life Without Zoë|l1=New York Stories}}
+In 1989 Coppola teamed up with fellow [[Academy Award|Oscar]]-winning directors [[Martin Scorsese]] and [[Woody Allen]] for an [[anthology film]] called ''[[New York Stories]]''. Coppola directed the ''Life Without Zoë'' segment, starring his sister [[Talia Shire]] and also co-wrote the film with his daughter [[Sofia Coppola]]. ''Life Without Zoë'' was mostly panned by critics and was generally considered the segment that brought the film's overall quality down.<ref>{{cite web|url=http://www.currentfilm.com/dvdreviews4/newyorkstoriesdvd.html |title=New York Stories: DVD Information|date= |accessdate=2010-10-18}}</ref><ref>{{cite news|url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19890303/REVIEWS/903030306/1023 |title=New York Stories by Roger Ebert|date= |accessdate=2010-10-18|work=Chicago Sun-Times}}</ref> Hal Hinson of [[The Washington Post]] wrote a particularly scathing review, stating that "It's impossible to know what Francis Coppola's ''Life Without Zoë'' is. Co-written with his daughter Sofia, the film is a mystifying embarrassment; it's by far the director's worst work yet."<ref>{{cite news|url=http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/newyorkstoriespghinson_a0a8de.htm |title=New York Stories (PG)|date= 1989-03-03|accessdate=2010-10-18|work=The Washington Post}}</ref>
+
+===1990s===
+
+====''The Godfather Part III'' (1990)====
+{{Main|The Godfather Part III}}
+[[File:Francis Ford Coppola Cannes.jpg|thumb|upright|Francis Ford Coppola at the [[1996 Cannes Film Festival]]]]
+In 1990, he released the third and final chapter of ''The Godfather'' series: ''The Godfather Part III''. While not as critically acclaimed as the first two films,<ref name="The Godfather Part III" /><ref>{{cite news|url=http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/thegodfatherpartiiirhinson_a0a9c5.htm |title=The Godfather Part III by Hal Hinson|date= 1990-12-25|accessdate=2010-10-18|work=The Washington Post}}</ref><ref>{{cite web|url=http://www.bbc.co.uk/films/2000/12/15/the_godfather_part_iii_1990_review.shtml |title=The Godfather Part III (1990)|date= |accessdate=2010-10-18}}</ref> it was still a box office success, earning a revenue of $136 million against a budget of $54 million.<ref>{{cite web|url=http://boxofficemojo.com/movies/?id=godfather3.htm |title=The Godfather Part III|date= |accessdate=2010-10-18}}</ref> Some reviewers criticized the casting of Coppola's daughter [[Sofia Coppola|Sofia]], who had stepped into the leading role of [[Mary Corleone]] which had been abandoned by [[Winona Ryder]] just as filming began.<ref name="The Godfather Part III">[http://www.reelviews.net/movies/g/godfather3.html The Godfather Part III]. Retrieved October 18, 2010.</ref> Despite this, ''The Godfather Part III'' went on to gather 7 [[Academy Award]] nominations, including [[Academy Award for Best Director|Best Director]] and [[Academy Award for Best Picture|Best Picture]]. The film failed to win any of these awards, the only film in the trilogy to do so.
+
+====''Bram Stoker's Dracula'' (1992)====
+{{Main|Bram Stoker's Dracula}}
+In 1992, Coppola directed and produced ''Bram Stoker's Dracula''. Adapted from [[Bram Stoker]]'s [[Dracula|novel]], it was intended to be more faithful to the book than previous film adaptations.<ref>{{cite web|url=http://classic-horror.com/reviews/bram_stokers_dracula_1992 |title=Bram Stoker's Dracula (1992)|date= |accessdate=2010-10-18}}</ref> Coppola cast [[Gary Oldman]] in the film's title role, with [[Keanu Reeves]], [[Winona Ryder]] and [[Anthony Hopkins]] in supporting roles. The movie became a box-office hit, grossing $82,522,790 domestically, making it the 15th highest-grossing film of the year.<ref>{{cite web |url=http://www.boxofficemojo.com/yearly/chart/?yr=1992&p=.htm |title=1992 Domestic Grosses |publisher=Boxofficemojo.com |accessdate=30 November 2010}}</ref> It fared even better overseas grossing $133,339,902 for a total worldwide gross of $215,862,692 against a budget of $40 million,<ref>[http://www.the-numbers.com/movies/1992/0BRMS.php Movie Dracula – Box Office Data, News, Cast Information] from The Numbers</ref> making it the 9th highest grossing film of the year worldwide.<ref>{{cite web|url=http://www.boxofficemojo.com/yearly/chart/?view2=worldwide&yr=1992&p=.htm|title= Dracula box-office collections|accessdate=2010-11-30| archiveurl = http://www.webcitation.org/69lXuFalH | archivedate = 2012-08-08| deadurl=no}}</ref> The film won Academy Awards for [[Academy Award for Best Costume Design|Costume Design]], [[Academy Award for Best Makeup|Makeup]] and [[Academy Award for Best Sound Editing|Sound Editing]].
+
+====''Jack'' (1996)====
+{{Main|Jack (1996 film)}}
+Coppola's next project was ''Jack'', which was released on August 9, 1996. It starred [[Robin Williams]] as Jack Powell, a ten-year-old boy whose cells are growing at four times the normal rate, so at the age of ten he looks like a 40-year-old man. With [[Diane Lane]], [[Brian Kerwin]] and [[Bill Cosby]], ''Jack'' also featured [[Jennifer Lopez]], [[Fran Drescher]] and [[Michael McKean]] in supporting roles. Although a moderate box-office success, grossing $58 million domestically on an estimated $45 million budget, it was panned by critics, many of whom disliked the film's abrupt contrast between actual comedy and tragic melodrama. It was also unfavourably compared with the 1988 film ''[[Big (film)|Big]]'', in which [[Tom Hanks]] also played a child in a grown man's body. Most critics felt that the screenplay was poorly written, not funny and the dramatic material was unconvincing and unbelievable. Other critics felt that Coppola was too talented to be making this type of film. Although ridiculed for making the film, Coppola has defended it, saying he is not ashamed of the final cut of the movie. He had been friends with Robin Williams for many years and had always wanted to work with him as an actor. When Williams was offered the screenplay for Jack he said he would only agree to do it if Coppola agreed to sign on as director.
+
+====''The Rainmaker'' (1997)====
+{{Main|The Rainmaker (1997 film)}}
+The last film Coppola directed in the 90s, ''The Rainmaker'', was based on the [[1995 in literature|1995]] [[The Rainmaker (John Grisham)|novel]] of the same name by [[John Grisham]]. An ensemble courtroom drama, the film was well received by critics, earning an 88% rating on [[Rotten Tomatoes]].<ref>[http://www.rottentomatoes.com/m/1080867-rainmaker/ ''The Rainmaker'' reviews] at [[Rotten Tomatoes]]</ref> [[Roger Ebert]] gave ''The Rainmaker'' three stars out of four, remarking: "I have enjoyed several of the movies based on Grisham novels... but I've usually seen the storyteller's craft rather than the novelist's art being reflected. By keeping all of the little people in focus, Coppola shows the variety of a young lawyer's life, where every client is necessary and most of them need a lot more than a lawyer."<ref>[http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19971121/REVIEWS/711210304/1023 ''The Rainmaker'' review] by [[Roger Ebert]], Chicago Sun-Times, November 21, 1997</ref> [[James Berardinelli]] also gave the film three stars out of four, saying that "the intelligence and subtlety of ''The Rainmaker'' took me by surprise" and that the film "stands above any other filmed Grisham adaptation".<ref>[http://www.reelviews.net/movies/r/rainmaker.html ''The Rainmaker'' review] by [[James Berardinelli]], ReelViews.net, 1997</ref> Grisham said of the film, "To me it's the best adaptation of any of [my books]... I love the movie. It's so well done."<ref>{{cite news |url=http://www.ew.com/ew/article/0,,587688,00.html |title=Grisham v. Grisham: John Grisham issues judgment on all his novels |first= Tina |last=Jordan |publisher=[[Entertainment Weekly]] |accessdate=February 13, 2004 |date=2004-02-06}}</ref> The film grossed about $45 million domestically.<ref>{{cite web|url=http://www.boxofficemojo.com/movies/?page=weekend&id=rainmaker.htm |title=The Rainmaker (1997)|date= |accessdate=2010-10-18}}</ref> This would be more than the estimated production budget of $40 million, but a disappointment compared with previous films adapted from a Grisham novel.
+
+====''Pinocchio'' dispute with Warner Bros.====
+In the late 1980s, Coppola started considering concepts for a motion picture based upon the 19th century novel ''[[The Adventures of Pinocchio]]'' and in 1991, Coppola and [[Warner Bros.]] began discussing the project as well as two others: involving the life of [[J. Edgar Hoover]] and the children's novel ''[[The Secret Garden#Dramatic adaptations|The Secret Garden]]''. These discussions led to negotiations for Coppola to both produce and direct the ''Pinocchio'' project for Warners, as well as ''[[The Secret Garden (1993 film)|The Secret Garden]]'' (which was made in 1993 and produced by [[American Zoetrope]], but directed by [[Agnieszka Holland]]) and ''Hoover'', which never came to fruition. (A film was eventually to be made by [[Clint Eastwood]] in 2011 as ''[[J. Edgar]]'', which was distributed by Warners.)
+
+But, in mid-1991, Coppola and Warners came to disagreement over the compensation to be paid to Coppola for his directing services on ''Pinocchio''.<ref>{{cite web|url=http://www.schleimerlaw.com/CourtAppealCoppola.htm |title=In the Court of Appeal of the State of California Second Appelate District |date= |accessdate=2010-10-18}}</ref> The parties deferred this issue and finally a settlement was reached in 1998, when the jurors in the resultant court case awarded Coppola $20 million as compensation for losing the ''Pinocchio'' film project. However, they also awarded him a further $60 million in punitive damages on top, stemming from his charges that Warner Bros. sabotaged his intended version. This is the largest civil financial verdict ever against a Hollywood studio.
+
+====''Contact'' dispute with Carl Sagan/Warner Bros.====
+{{Main|Contact (1997 US film)#Lawsuits|l1=Contact}}
+During the filming of ''Contact'' on December 28, 1996, Coppola filed a lawsuit against [[Carl Sagan]] and [[Warner Bros.]] Sagan had died a week earlier<ref name="Cope">{{cite news | author = Staff | url = http://www.variety.com/vstory/VR1117436227 | title = Zoetrope sues over 'Contact' | date = 1996-12-30 | work = [[Variety (magazine)|Variety]] | accessdate = 2009-01-26}} {{dead link|date=December 2012}}</ref><ref name="Scott">{{cite news | author = Janet Shprintz | url = http://www.variety.com/article/VR1117780544 | title = Coppola loses 'Contact' | date = 2000-02-13 | work = [[Variety (magazine)|Variety]] | accessdate = 2009-01-28}}</ref> and Coppola claimed that Sagan's novel ''[[Contact (novel)|Contact]]'' was based on a story the pair had developed for a [[television special]] back in 1975, titled ''First Contact''.<ref name=Cope/> Under their development agreement, Coppola and Sagan were to split proceeds from the project with [[American Zoetrope]] and [[Sesame Workshop|Children's Television Workshop Productions]], as well as any novel Sagan would write. The TV program was never produced, but in 1985, [[Simon & Schuster]] published Sagan's ''Contact'' and Warner Bros. moved forward with development of a film adaptation. Coppola sought at least $250,000 in compensatory damages and an injunction against production or distribution of the film.<ref name=Cope/> Even though Sagan was shown to have violated some of the terms of the agreement, the case was dismissed in February 1998 because Coppola had waited too long to file suit.<ref name="dismiss">{{cite news | author = Paul Karon | url = http://www.variety.com/article/VR1117467799 | title = Coppola's 'Contact' claim is dismissed | date = 1998-02-17 | work = [[Variety (magazine)|Variety]] | accessdate = 2009-01-28}}</ref>
+
+===2000s===
+
+====''Youth Without Youth'' (2007)====
+[[File:Francis Ford Coppola(CannesPhotoCall) crop.jpg|thumb|Francis Ford Coppola at the [[2001 Cannes Film Festival]].]]
+{{Main|Youth Without Youth (film)}}
+After a 10-year hiatus, Coppola returned to film direction with ''Youth Without Youth'' in 2007, based on the [[Youth Without Youth (novella)|novella]] of the same name by Romanian author [[Mircea Eliade]]. The film was poorly reviewed, currently holding a 30% 'rotten' rating on [[Rotten Tomatoes]].<ref>{{cite web|url=http://www.rottentomatoes.com/m/youth_without_youth/ |title=Youth Without Youth (2007)|date= |accessdate=2010-10-18}}</ref> It was made for about $19 million and was given a limited release, only managing $2,624,759 at the box-office.<ref>{{cite web|url=http://www.boxofficemojo.com/movies/?id=youthwithoutyouth.htm |title=Youth Without Youth|date= |accessdate=2010-10-18}}</ref> As a result, Coppola announced his plans to produce his own films in order to avoid the marketing input that goes into most films and so trying to make them appeal to too wide an audience.
+
+====''Tetro'' (2009)====
+{{Main|Tetro}}
+In 2009, Coppola released ''Tetro''. It was "set in Argentina, with the reunion of two brothers. The story follows the rivalries born out of creative differences passed down through generations of an artistic Italian immigrant family."<ref>{{cite web | url=http://www.comingsoon.net/films.php?id=39343 | title=Tetro | work=ComingSoon.net | publisher=Coming Soon Media, L.P. | accessdate=August 6, 2008 }}</ref> The film received generally positive reviews from critics. On [[Metacritic]], the film has an average metascore of 63% based on 19 reviews.<ref>{{cite web|url=http://www.metacritic.com/film/titles/tetro | title=Tetro (2009): Reviews | publisher=Metacritic | accessdate=June 23, 2009}}</ref> [[Rotten Tomatoes]] reported that 68% of critics gave positive reviews based on 71 reviews with an average score of 5.6/10.<ref name="rt">{{cite web|url=http://www.rottentomatoes.com/m/tetro/ | title=Tetro Movie Reviews, Pictures | work=Rotten Tomatoes | publisher=IGN Entertainment | accessdate=June 23, 2009}}</ref> Overall, the Rotten Tomatoes consensus was: "A complex meditation on family dynamics, ''Tetro'''s arresting visuals and emotional core compensate for its uneven narrative."<ref name="rt" /> [[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' gave the film 3 stars, praising the film for being "boldly operatic, involving family drama, secrets, generations at war, melodrama, romance and violence". Ebert also praised [[Vincent Gallo]]'s performance and claimed that [[Alden Ehrenreich]] is "the new [[Leonardo DiCaprio]]".<ref>{{cite news|url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?ID=/20090617/REVIEWS/906179993 | title=Tetro Movie Review – Roger Ebert | publisher=Chicago Sun-Times | accessdate=June 23, 2009 | date=June 17, 2009 | deadurl=yes}} {{Dead link|date=May 2011|bot=RjwilmsiBot}}</ref> Todd McCarthy of ''[[Variety (magazine)|Variety]]'' gave the film a B+ judging that "when Coppola finds creative [[nirvana]], he frequently has trouble delivering the full goods."<ref>{{cite news|url=http://www.variety.com/review/VE1117940242.html?categoryid=31&cs=1&query=tetro | title=Tetro Review – Variety | publisher=Variety | date=May 14, 2009 | accessdate=June 23, 2009 | first=Todd | last=McCarthy}}</ref> [[Richard Corliss]] of ''[[Time (magazine)|TIME]]'' gave the film a mixed review, praising Ehrenreich's performance, but claiming Coppola "has made a movie in which plenty happens, but nothing rings true."<ref>{{cite news|url=http://www.time.com/time/arts/article/0,8599,1904079,00.html | title=Coppola's Tetro: An Offer You Can Refuse | accessdate=June 23, 2009 | publisher=TIME Magazine | date=June 11, 2009 | first=Richard | last=Corliss}}</ref> It has made $2,636,774 worldwide,<ref>{{cite web |title = Tetro (2009) |url = http://www.boxofficemojo.com/movies/?id=tetro.htm |work = [[Box Office Mojo]] |accessdate = July 9, 2010 }}</ref> against a budget of $5,000,000.<ref>[http://www.imdb.com/title/tt0964185/business Tetro (2009) – Box office / business]</ref>
+
+===2010s===
+
+====''Twixt'' (2011)====
+{{Main|Twixt (film)}}
+''Twixt'', starring [[Val Kilmer]], [[Elle Fanning]], [[Joanne Whalley]] and [[Bruce Dern]] and narrated by [[Tom Waits]], was released to film festivals in late 2011<ref>{{cite web|author=Steven Davies |url=http://www.horror-asylum.com/news/article.asp?item=8659 |title=International One-Sheet For Francis Ford Coppola's New Mystery Thriller 'Twixt'; Horror Movie Entertainment News and Reviews |publisher=Horror-asylum.com |date= |accessdate=2012-11-01}}</ref> and was released theatrically in early 2012. It received critical acclaim in France,<ref>{{cite web|url=http://www.hypable.com/2012/04/13/francis-ford-coppolas-twixt-opens-in-france-to-critical-acclaim/ |title=Francis Ford Coppola's 'Twixt' opens in France to critical acclaim • Hypable |publisher=Hypable.com |date=2012-04-13 |accessdate=2012-11-01}}</ref> but mostly negative reviews elsewhere.<ref>{{cite web|title=Twixt (2012)|url=http://www.rottentomatoes.com/m/twixt/|publisher=Rotten Tomatoes|accessdate=11 April 2015}}</ref>
+
+==Commercial ventures==
+
+===American Zoetrope===
+In 1971, Coppola and [[George Lucas]] co-produced the latter's first film, ''[[THX 1138]]''. Shortly after completion of production they brought the finished film to [[Warner Bros.]], along with several other scripts for potential projects at their newly founded company, [[American Zoetrope]]. However, studio executives strongly disliked all the scripts, including ''THX'' and demanded that Coppola repay the $300,000 they had loaned him for the Zoetrope studio, as well as insisting on cutting five minutes from the film. The debt nearly closed Zoetrope and forced Coppola to reluctantly focus on ''[[The Godfather]]''.<ref name="Featured Filmmaker: Francis Ford Coppola" />
+
+===Zoetrope Virtual Studio===
+His company [[American Zoetrope]] also administers the innovative Zoetrope Virtual Studio, a complete motion picture production studio for members only. Launched in June 2000, the culmination of more than four years work, it brings together departments for screenwriters, directors, producers and other filmmaker artists, plus new departments for other creative endeavours, offering powerful e-collaborative tools. Filmmaker members can workshop a wide range of film arts, including music, graphics, design and film and video.
+
+===Inglenook Winery===
+Coppola, with his family, expanded his business ventures to include winemaking in California's [[Napa Valley AVA|Napa Valley]], when in 1975 he purchased the former home and adjoining vineyard of [[Gustave Niebaum]] in [[Rutherford, California]] using proceeds from the first movie in the ''[[Godfather Trilogy|Godfather]]'' trilogy.<ref>{{cite journal
+| last = Hamlin
+| first = Suzanne
+| authorlink =
+| coauthors =
+| title = A Director's Vision for Celebrating Food, Wine and Film
+| journal = [[New York Times]]
+| volume =
+| issue =
+| pages =
+| publisher =
+| location = Rutherford, CA
+| date = July 10, 1996
+| url = http://query.nytimes.com/gst/fullpage.html?res=9C02E3DB1139F933A25754C0A960958260
+| doi =
+| id =
+| accessdate = October 15, 2010}}</ref> His winery produced its first vintage in 1977 with the help of his father, wife and children stomping the grapes barefoot and every year the family has a harvest party to continue the tradition.<ref>{{cite web |url= http://www.novusvinum.com/interviews/coppola.html|title=Francis Ford Coppola Winemaker and Sommelier Interviews |accessdate=30 November 2010 |publisher=Novus Vinum |date=2008-09-17 }}</ref>
+
+After purchasing the property, he produced wine under the Niebaum-Coppola label. When he purchased the former [[Inglenook Winery]] chateau in 1995,<ref>{{cite web|url=http://www.forbes.com/sites/larryolmsted/2013/06/17/qa-francis-ford-coppola-talks-about-his-passion-for-wine/ |title=Q&A: Francis Ford Coppola Explains His Passion For Wine |publisher=Forbes |date=2013-06-17 |accessdate=2014-05-14}}</ref> he renamed the winery [[Rubicon Estate Winery]] in 2006. On 11 April 2011, Coppola acquired the iconic Inglenook trademark<ref>{{cite news|publisher=Wine Spectator|accessdate=2011-12-05|url=http://www.winespectator.com/webfeature/show/id/44791| title=Coppola Reunites Inglenook Name with Its Vineyards|author=James Laube|date=April 11, 2011}}</ref> paying more, he said, for the trademark than he did for the entire estate<ref>{{cite web|last=Lechmere |first=Adam |url=http://www.decanter.com/news/wine-news/527661/francis-ford-coppola-to-return-inglenook-to-lower-alcohol |title=Francis Ford Coppola to return Inglenook to 'lower alcohol'|publisher=decanter.... |date=2011-06-02 |accessdate=2013-05-25}}</ref> and announced that the estate would once again be known by its historic original name, Inglenook. Its grapes are now entirely organically grown and its Inglenook Chablis is one of the five most-widely-selling wines in US restaurants.<ref>{{cite web|url=http://voices.yahoo.com/review-inglenook-chablis-one-most-widely-2211519.html?cat=22 |title=Review of Inglenook Chablis – One of the Most Widely Served Wines in U.S. Restaurants – Yahoo! Voices |publisher=voices.yahoo.com |date=2008-11-21 |accessdate=2013-05-25}}</ref>
+
+===Uptown Theater===
+George Altamura, a real estate developer announced in 2003 that he had partnered with several people including Francis Ford Coppola in a project to restore the [[Uptown Theater (Napa, California)|Uptown Theater]] in downtown Napa, California in order to create a live entertainment venue.<ref>{{Cite journal| last = Osborne| first = Heather| title = Altamura tells students he's headed for silver screen| journal = [[Napa Valley Register]]| publisher = Lee Enterprises, Inc.| location = Napa, CA| date = July 17, 2003| url =http://napavalleyregister.com/news/altamura-tells-students-he-s-headed-for-silver-screen/article_c52489ee-0a00-55ff-a4de-b1972ce9f6a5.html| accessdate = September 2, 2014}}</ref>
+
+===Francis Ford Coppola Presents===
+Coppola is also the owner of [[Francis Ford Coppola Presents]], a [[lifestyle brand]] under which he markets goods from companies he owns or controls. It includes films and videos, resorts, cafes, a literary magazine, a line of pastas and pasta sauces called Mammarella Foods and a winery.
+
+====Winery====
+The Francis Ford Coppola Winery near [[Geyserville, California]],<ref>{{cite web|url=http://www.franciscoppolawinery.com/wine |title=Discover Our Wines &#124; Francis Ford Coppola Winery |publisher=Franciscoppolawinery.com |date= |accessdate=2013-05-25}}{{dead link|date=May 2014}}</ref> located on the former Chateau Souverain Winery,<ref>{{cite journal
+| last = Davis
+| first = Kip
+| authorlink =
+| coauthors =
+| title = Coppola's wine chateau also is family-friendly
+| journal = [[Napa Valley Register]]
+| volume =
+| issue =
+| pages =
+| publisher = Lee Enterprises, Inc.
+| location = Napa, CA
+| date = October 15, 2010
+| url = http://napavalleyregister.com/lifestyles/food-and-cooking/wine/article_57207bb0-d7fd-11df-aeef-001cc4c002e0.html
+| doi =
+| id =
+| accessdate = October 15, 2010}}</ref> where he has opened a family-friendly facility, is influenced by the idea of the [[Tivoli Gardens]] in [[Copenhagen]],<ref>{{cite web|url=http://www.franciscoppolawinery.com/behind-the-scenes/vision |title=Vision |publisher=Franciscoppolawinery.com |date= |accessdate=2013-05-25}}{{dead link|date=May 2014}}</ref> with swimming pools, [[bocce]] courts and a restaurant. The winery displays several of Coppola's [[Oscars]] along with memorabilia from his movies, including [[Vito Corleone]]'s desk from ''[[The Godfather]]'' and a restored [[1948 Tucker Sedan]] as used in ''[[Tucker: The Man and His Dream]]''.
+
+====Resorts====
+[[File:Palazzo Coppola.JPG|thumb|''Palazzo Margherita'' in [[Bernalda]], owned by Coppola]]
+Included in the [[Francis Ford Coppola Presents]] [[lifestyle brand]] are several hotels and resorts around the world. The Blancaneaux Lodge in [[Belize]], which from the early 1980s was a family retreat until it was opened to the public in 1993 as a 20-room luxury resort<ref>{{cite web|url=http://www.coppolaresorts.com/blancaneaux |title=Blancaneaux Lodge, Belize Luxury Hotels – Blancaneaux Lodge at Coppola Resorts |publisher=Coppolaresorts.com |date= |accessdate=2013-05-25}}</ref> and The Turtle Inn, in [[Placencia]], [[Belize]],<ref>{{cite web|url=http://www.coppolaresorts.com/turtleinn |title=Turtle Inn, Luxury Resorts in Belize – Turtle Inn at Coppola Resorts |publisher=Coppolaresorts.com |date= |accessdate=2013-05-25}}</ref> (both of which have won several prestigious awards including "Travel + Leisure's World's Best: Best Resort in Central & South America"); La Lancha in [[Lago Petén Itzá]], [[Guatemala]];<ref>{{cite web|url=http://www.coppolaresorts.com/lalancha |title=La Lancha, Boutique Hotels Guatemala – La Lancha at Coppola Resorts |publisher=Coppolaresorts.com |date= |accessdate=2013-05-25}}</ref> Jardin Escondido in [[Buenos Aires]], [[Argentina]]<ref>{{cite web|url=http://www.coppolaresorts.com/jardinescondido |title=Jardin Escondido |publisher=Coppolaresorts.com |date= |accessdate=2013-05-25}}</ref> and [[Palazzo Margherita (Bernalda)|Palazzo Margherita]] in [[Bernalda]], [[Italy]].<ref>{{cite web|url=http://www.coppolaresorts.com/palazzomargherita |title=Palazzo Margherita – Francis Ford Coppola Luxury Hotel in Bernalda Italy |publisher=Coppolaresorts.com |date= |accessdate=2013-05-25}}</ref>
+
+====Cafe and restaurant====
+In San Francisco, Coppola owns a restaurant named [[American Zoetrope#Cafe Zoetrope|Cafe Zoetrope]], located in the Sentinel Building where American Zoetrope is based.<ref>{{cite web|url=http://www.cafecoppola.com/cafezoetrope/ |title=Cafe Zoetrope |publisher=Cafecoppola.com |date= |accessdate=2013-05-25}}</ref> It serves traditional Italian cuisine and wine from his personal [[Inglenook (Winery)|estate]] vineyard and bottling company. For 14 years from 1994, Coppola co-owned the Rubicon restaurant in San Francisco along with [[Robin Williams]] and [[Robert De Niro]]. Rubicon closed in August 2008.<ref>{{cite web|url=http://www.winespectator.com/webfeature/show/id/Rubicon-Shuttered_4283 |title=Rubicon Shuttered &#124; News &#124; News & Features |publisher=Wine Spectator |date= |accessdate=2013-05-25}}</ref>
+
+====Literary publications====
+He brought out the [[San Francisco]]-based ''City Magazine'' in the 1970s, but lost $1.5 million on this venture.<ref>{{cite web|url=http://theoscarsite.com/whoswho5/coppola_f.htm|title=Francis Ford Coppola(1939-):Biography from Baseline's Encyclopedia of Film|date= |accessdate=2010-10-27}}</ref>
+
+In 1997, Coppola founded ''[[Zoetrope: All-Story]]'', a [[literary magazine]] devoted to [[short story|short stories]] and design. The magazine publishes fiction by emerging writers alongside more recognizable names, such as [[Woody Allen]], [[Margaret Atwood]], [[Haruki Murakami]], [[Alice Munro]], [[Don DeLillo]], [[Mary Gaitskill]], and [[Edward Albee]]; as well as essays, including ones from [[Mario Vargas Llosa]], [[David Mamet]], [[Steven Spielberg]], and [[Salman Rushdie]]. Each issue is designed, in its entirety, by a prominent artist, one usually working outside his / her expected field. Previous guest designers include [[Gus Van Sant]], [[Tom Waits]], [[Laurie Anderson]], [[Marjane Satrapi]], [[Guillermo del Toro]], [[David Bowie]], [[David Byrne]], and [[Dennis Hopper]]. Coppola serves as founding editor and publisher of ''All-Story''.
+
+==Other ventures==
+Coppola stated that ''The Godfather Part IV'' was never made as Mario Puzo died before they had a chance to write the film.<ref name="gq-magazine.co.uk">http://www.gq-magazine.co.uk/entertainment/articles/2011-03/15/gq-film-godfather-part-four/mario-puzo {{dead link|date=December 2012}}</ref> [[Andy Garcia]] has since claimed the film's script was nearly produced.<ref name="gq-magazine.co.uk"/>
+
+He was the jury president at the [[1996 Cannes Film Festival]] and he also took part as a special guest at the 46th International [[Thessaloniki Film Festival]] in Greece.
+
+Over the years, Francis Coppola has given political contributions to several candidates of the [[Democratic Party (United States)|Democratic Party]], including [[Mike Thompson (California politician)|Mike Thompson]] and [[Nancy Pelosi]] for the [[U.S. House of Representatives]] and [[Barbara Boxer]] and [[Alan Cranston]] for the [[U.S. Senate]].<ref>[http://www.newsmeat.com/celebrity_political_donations/Francis_Ford_Coppola.php Francis Ford Coppola]. Newsmeat.</ref>
+
+For quite some time, he had been planning to direct an epic movie named ''Megalopolis'', a story about the aftermath and reconstruction of New York City after a mega-disaster, but after the city was hit by the real life disaster of [[September 11 attacks|September 11]], the project was suddenly seen as being too sensitive.<ref>{{cite web|url=http://www.bangstyle.com/2012/04/best-films-never-made/ |title=10 Best Films Never Made |publisher=Bangstyle.com |date=2012-04-17 |accessdate=2013-05-25}}</ref> In 2007 he stated that "I have abandoned that as of now. I plan to begin a process of making one personal movie after another and if something leads me back to look at that, which I'm sure it might, I'll see what makes sense to me."<ref>{{cite web|url=http://blog.moviefone.com/2007/05/09/francis-ford-coppola-says-he-has-abandoned-megalopolis-project/ |title=Francis Ford Coppola Says He Has Abandoned 'Megalopolis' Project|date= |accessdate=2010-10-18}}</ref>
+
+==Honors==
+* In the 2002 poll of the [[Sight and Sound]] publication, Coppola ranked #4 in the Directors' top ten directors of all time<ref>{{cite web|url=http://www.bfi.org.uk/sightandsound/topten/poll/directors-directors.html |title=The Directors' Top Ten Directors |date= |accessdate=2010-10-18|archiveurl = http://www.webcitation.org/67yHUco5o |archivedate = 2012-05-27|deadurl=yes}}</ref> and #10 in the Critics' top ten directors of all time.<ref>{{cite web|url=http://www.bfi.org.uk/sightandsound/topten/poll/critics-directors.html |title=The Critics' Top Ten Directors |date= |accessdate=2010-10-18}}{{dead link|date=May 2014}}</ref>
+* He featured at #17 in [[MovieMaker Magazine]]'s 25 most influential directors of all-time.<ref>{{cite web|url=http://www.filmsite.org/directors.html |title= 25 Most Influential Directors of All-Time (ranked) – MovieMaker Magazine |date= |accessdate=2010-10-18}}</ref>
+* He also ranked #9 in toptenreviews' list of top directors of all time<ref>{{cite web|url=http://movies.toptenreviews.com/directors/list_all_time_director.htm |title=Top Director All Time List|date= |accessdate=2010-10-18}}{{dead link|date=May 2014}}</ref> and at #21 in [[Entertainment Weekly]]'s top 50 directors of all time.<ref>{{cite web|url=http://www.listal.com/list/entertainment-weeklys-50-greatest-directors|title=Entertainment Weekly's 50 Greatest Directors|date= |accessdate=2010-10-27}}</ref>
+* Four of Coppola's films, ''[[The Godfather]]''; ''[[The Godfather Part II]]''; ''[[Apocalypse Now]]'' and ''[[Patton (film)|Patton]]'' featured in the [[Writers Guild of America, West]] list of 101 greatest screenplays ever.<ref>{{cite web|url=http://www.wga.org/content/subpage_newsevents.aspx?id=1807 |title=101 Greatest Screenplays|date= |accessdate=2010-21-18}}</ref>
+* Three of his films feature in [[AFI's 100 Years…100 Movies (10th Anniversary Edition)|AFI's 100 Years...100 Movies]]: ''The Godfather'' (at #2), ''Apocalypse Now'' (at #28) and ''The Godfather Part II'' (at #32). ''The Godfather'' also ranks at #11 in [[AFI's 100 Years…100 Thrills]]. The following Coppola films were also nominated for the list: ''[[American Graffiti]]'' (1973) – Producer; ''[[The Conversation]]'' (1974) – Director/Producer/Screenwriter; ''[[Patton (film)|Patton]]'' (1970) – Screenwriter.
+* In 1991, he was honored with the Berlinale Camera at the [[Berlin International Film Festival]].<ref name="Francis Ford Coppola Awards" />
+* In 1992, he was awarded a [[Golden Lion#Golden Lion – Honorary Award|Golden Lion – Honorary Award]] at the [[Venice Film Festival]].<ref name="Francis Ford Coppola Awards">{{cite web |url=http://www.superiorpics.com/francis_ford_coppola/ |title=Francis Ford Coppola |accessdate=October 18, 2010 }}</ref>
+* In 1998, the [[Directors Guild of America]] honored him with a Lifetime Achievement Award.<ref name="Francis Ford Coppola Awards" />
+* He was honored with a special 50th anniversary award for his impressive career at the 2002 [[San Sebastián International Film Festival]].<ref name="Francis Ford Coppola Awards" />
+* The same year he received a gala tribute from [[Film Society of Lincoln Center]].<ref name="Francis Ford Coppola Awards" />
+* In 2003, he was awarded a Lifetime Achievement Award at the [[Denver Film Festival]].<ref name="Francis Ford Coppola Awards" />
+* He was given an honorary award at the [[2007 Antalya Golden Orange Film Festival]].<ref>{{cite web|url=http://www.icvbbulletin.org/trnews32.htm|title=44th Antalya Golden Orange Film Festival Kicks off|date= |accessdate=2010-10-19}}{{dead link|date=May 2014}}</ref>
+* In 2010, the [[Academy of Motion Picture Arts and Sciences]] decided to honor him with the [[Irving G. Thalberg Memorial Award]] at the 2nd Governor's Awards in November.<ref>{{cite web|url=http://www.altfg.com/blog/movie/francis-ford-coppola-kevin-brownlow-honorary-oscar-2011-thalberg-award/ |title=Oscar 2011: Francis Ford Coppola Gets Thalberg Award, Kevin Brownlow Gets Honorary Oscar|date= |accessdate=2010-10-19}}</ref><ref>{{cite web|url=http://www.imdb.com/news/ni3985174/ |title=Oscar 2011: Francis Ford Coppola Gets Thalberg Award, Kevin Brownlow Gets Honorary Oscar|date= |accessdate=2010-10-19}}</ref> The honor was bestowed on him on November 13, along with honorary Oscars to [[Jean-Luc Godard]], [[Kevin Brownlow]] and [[Eli Wallach]].<ref>{{cite web|url=http://www.google.com/hostednews/afp/article/ALeqM5gUXrrhIktLlv3ZZ0hymjsi5mnVug?docId=CNG.abcbb510a5c046dbf43a74a8c92b43c3.1f1|title=Honorary Oscars for film legends Coppola, Godard|accessdate=2010-12-11}}{{dead link|date=May 2014}}</ref>
+* In 2013, he was awarded a [[Praemium Imperiale]] in the theatre/film category.<ref>{{cite web |url=http://www.praemiumimperiale.org/en/component/k2/item/299-zoetrope/299-zoetrope|title=Francis Ford Coppola, 2013 Theatre/ Film, Praemium Imperiale |accessdate=2013-10-25}}</ref><ref>{{cite web |url=https://www.youtube.com/watch?v=KAs0BJYhZCk|title=2013 Praemium Imperiale Press Conference|accessdate=2013-10-25}}</ref><ref>{{cite web |url=https://www.youtube.com/watch?v=r22gm5qHnHo|title=Francis Ford Coppola, 2013 Laureate of Theatre/Film|accessdate=2013-10-25}}</ref>
+* Coppola serves as the "Honorary Consul H. E. Francis Ford Coppola" in San Francisco for the Central American nation of [[Belize]].<ref>[http://www.belize.gov.bz/ct.asp?xItem=1703&ctNode=22&mp=26 ''Honorary Consulates of Belize'']{{dead link|date=May 2014}} from ''[[Ministry of Foreign Affairs (Belize)]]''</ref>
+* On October 1, 2014, Coppola was inducted into the California Hall of Fame by Governor Edmund G. "Jerry" Brown, Jr.<ref>http://www.nbcnews.com/watch/nbc-news-channel/meet-the-newest-california-hall-of-fame-inductees-336834115568</ref>
+* Coppola is among only six people in Academy Award history to receive Oscars as a Producer, Director and Screenwriter.<ref>http://www.eudesign.com/oscars/osc-curi.htm</ref>
+* On May 6, 2015, he was awarded the Princess of Asturias Award for the Arts. <ref>http://www.fpa.es/en/communication/francis-ford-coppola-princess-of-asturias-award-for-the-arts.html?idCategoria=0&fechaDesde=&especifica=0&texto=&fechaHasta=&tipo=0</ref>
+
+==Filmography==
+{| class="wikitable sortable"
+|+ Film
+|-
+! | Year
+! | Title
+! width=65 | Director
+! width=65 | Screenwriter
+! width=65 | Producer
+! class="unsortable" | Notes
+|-
+| 1962
+| ''[[Tonight for Sure]]''
+| {{yes}}
+| {{yes}}
+|
+| First film
+|-
+| 1962
+| ''{{sortname|The|Bellboy and the Playgirls}}''
+| {{yes}}
+| {{yes}}
+|
+|
+|-
+| 1963
+| ''[[Dementia 13]]''
+| {{yes}}
+| {{yes}}
+|
+| First feature film
+|-
+| 1963
+| ''{{sortname|The|Terror|The Terror (1963 film)}}''
+|
+|
+|
+| Uncredited co-director and associate producer
+|-
+| 1966
+| ''[[You're a Big Boy Now]]''
+| {{yes}}
+| {{yes}}
+|
+| Nominated – [[Palme d'Or]]<br />Nominated – [[Golden Globe Award for Best Motion Picture – Musical or Comedy]]<br />Nominated – [[Writers Guild of America Award]] for Best American Screenplay – Comedy
+|-
+| 1966
+| ''[[Is Paris Burning?]]''
+|
+| {{yes}}
+|
+| Co-written with [[Gore Vidal]]
+|-
+| 1968
+| ''[[Finian's Rainbow (film)|Finian's Rainbow]]''
+| {{yes}}
+|
+|
+| Nominated – [[Golden Globe Award for Best Motion Picture – Musical or Comedy]]
+|-
+| 1969
+| ''{{sortname|The|Rain People}}''
+| {{yes}}
+| {{yes}}
+|
+| [[Golden Shell]] at [[San Sebastián International Film Festival]]
+|-
+| 1970
+| ''[[Patton (film)|Patton]]''
+|
+| {{yes}}
+|
+| [[Academy Award for Best Original Screenplay]]
+|-
+| 1971
+| ''[[THX 1138]]''
+|
+|
+| {{yes}}
+|
+|-
+| 1972
+| ''{{sortname|The|Godfather}}''
+| {{yes}}
+| {{yes}}
+|
+| [[Academy Award for Best Picture]]<br />[[Academy Award for Best Adapted Screenplay]]<br />[[David di Donatello for Best Foreign Film]]<br />[[Directors Guild of America Award#Outstanding Achievement in Feature Film|Directors Guild of America Award for Outstanding Achievement in Feature Film]]<br />[[Golden Globe Award for Best Motion Picture – Drama]]<br />[[Golden Globe Award for Best Director]]<br />[[Golden Globe Award for Best Screenplay]]<br />[[Goldene Leinwand|Golden Screen Award]], Germany<br />[[Kansas City Film Critics Circle Award for Best Director]]<br />[[Writers Guild of America Award]] for Best Drama Adapted from Another Medium<br />Nominated – [[Academy Award for Best Director]]<br />Nominated – Best Audio Commentary at [[DVD Exclusive Awards]]
+|-
+| 1973
+| ''[[American Graffiti]]''
+|
+|
+| {{yes}}
+| [[Kansas City Film Critics Circle Award for Best Film]]<br />Nominated – [[Academy Award for Best Picture]]<br />[[Golden Globe Award for Best Motion Picture – Musical or Comedy]]
+|-
+| 1974
+| ''[[The Great Gatsby (1974 film)|The Great Gatsby]]
+|
+| {{yes}}
+|
+|
+|-
+| 1974
+| ''{{sortname|The|Conversation}}''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| [[Palme d'Or]]<br />[[Prize of the Ecumenical Jury]] – Special Mention<br />[[Kansas City Film Critics Circle Award for Best Director]]<br />[[National Board of Review Award for Best Director]]<br />Nominated – [[Academy Award for Best Picture]]<br />Nominated – [[Academy Award for Best Original Screenplay]]<br />Nominated – [[BAFTA Award for Best Direction]]<br />Nominated – [[BAFTA Award for Best Screenplay]]<br />Nominated – Video Premiere Award at [[DVD Exclusive Awards]]<br />Nominated – [[Directors Guild of America Award#Winners|Directors Guild of America Award for Outstanding Achievement in Feature Film]]<br />Nominated – [[List of Edgar Allan Poe Award for Best Motion Picture Screenplay winners|Best Motion Picture Screenplay]]<br />Nominated – [[Golden Globe Award for Best Motion Picture – Drama|Golden Globe Award for Best Motion Picture]]<br />Nominated – [[Golden Globe Award for Best Director]]<br />Nominated – [[Golden Globe Award for Best Screenplay]]<br />Nominated – [[Writers Guild of America Award]] for Best Drama Written Directly for the Screen
+|-
+| 1974
+| ''{{sortname|The|Godfather Part II}}''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| [[Academy Award for Best Picture]]<br />[[Academy Award for Best Director]]<br />[[Academy Award for Best Adapted Screenplay]]<br />[[Directors Guild of America Award#Outstanding Achievement in Feature Film|Directors Guild of America Award for Outstanding Directorial Achievement in Feature Film]]<br />[[Kansas City Film Critics Circle Award for Best Director]]<br />[[National Society of Film Critics Award for Best Director]]<br />[[Writers Guild of America Award]] for Best Drama Adapted from Another Medium<br />Nominated – [[Golden Globe Award for Best Motion Picture – Drama]]<br />Nominated – [[Golden Globe Award for Best Director]]<br />Nominated – [[Golden Globe Award for Best Screenplay]]
+|-
+| 1979
+| ''[[Apocalypse Now]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| [[Palme d'Or]]<br />[[International Federation of Film Critics|FIPRESCI Prize]]<br />[[Golden Globe Award for Best Director]]<br />[[BAFTA Award for Best Direction]]<br />[[David di Donatello for Best Foreign Film]]<br />[[Goldene Leinwand|Golden Screen Award]], Germany<br />[[London Film Critics Circle Award for Best Film]]<br />Nominated – [[Academy Award for Best Picture]]<br />Nominated – [[Academy Award for Best Director]]<br />Nominated – [[Academy Award for Best Adapted Screenplay]]<br />Nominated – [[BAFTA Award for Best Film]]<br />Nominated – Best Foreign Language Film at Cinema Brazil Grand Prize (2002)<br />Nominated – [[César Award for Best Foreign Film]]<br />Nominated – [[Directors Guild of America Award#Winners|Directors Guild of America Award for Outstanding Achievement in Feature Film]]<br />Nominated – [[Golden Globe Award for Best Motion Picture – Drama|Golden Globe Award for Best Motion Picture]]<br />Nominated – [[Grammy Award for Best Score Soundtrack Album for a Motion Picture, Television or Other Visual Media|Grammy Award for Best Album of Original Score Written for a Motion Picture or Television Special]]<br />Nominated – [[Writers Guild of America Award]] for Best Drama Written Directly for the Screen
+|-
+| 1979
+| ''[[The Black Stallion (film)|The Black Stallion]]''
+|
+|
+| {{yes}}
+|
+|-
+| 1980
+| ''[[Kagemusha]]''
+|
+|
+| {{yes}}
+| [[David di Donatello]] for Best Producer<ref>{{IMDb title|80979|section=awards|Kagemusha}}</ref>
+|-
+| 1982
+| ''[[One from the Heart]]''
+| {{yes}}
+| {{yes}}
+|
+|
+|-
+| 1983
+| ''{{sortname|The|Outsiders|The Outsiders (film)}}''
+| {{yes}}
+|
+|
+| Nominated – Golden Prize at the [[13th Moscow International Film Festival]]<ref name="Moscow1983">{{cite web |url=http://www.moscowfilmfestival.ru/miff34/eng/archives/?year=1983 |title=13th Moscow International Film Festival (1983) |accessdate=2013-01-31 |work=MIFF}}</ref><br />Nominated – Best Family Feature Motion Picture at the [[Young Artist Award]]s
+|-
+| 1983
+| ''[[Rumble Fish]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| [[International Federation of Film Critics|FIPRESCI Prize]] at [[San Sebastián International Film Festival]]<br />OCIC Award at the [[San Sebastián International Film Festival]]
+|-
+| 1984
+| ''{{sortname|The|Cotton Club|The Cotton Club (film)}}''
+| {{yes}}
+| {{yes}}
+|
+| Nominated – [[Golden Globe Award for Best Director]]<br />Nominated – [[Golden Globe Award for Best Motion Picture – Drama|Golden Globe Award for Best Motion Picture]]<br />Nominated – [[Japan Academy Prize for Outstanding Foreign Language Film]]
+|-
+| 1986
+| ''[[Peggy Sue Got Married]]''
+| {{yes}}
+|
+|
+| Nominated – [[Golden Globe Award for Best Motion Picture – Musical or Comedy]]<br />Nominated – [[Saturn Award for Best Science Fiction Film]]
+|-
+| 1987
+| ''[[Gardens of Stone]]''
+| {{yes}}
+|
+| {{yes}}
+| Nominated – [[15th Moscow International Film Festival|Golden Prize at the Moscow International Film Festival]]<ref name="Moscow1987">{{cite web |url=http://www.moscowfilmfestival.ru/miff34/eng/archives/?year=1987 |title=15th Moscow International Film Festival (1987) |accessdate=2013-02-21 |work=MIFF}}</ref><br />Nominated – [[Political Film Society Award for Peace]]
+|-
+| 1988
+| ''[[Tucker: The Man and His Dream]]''
+| {{yes}}
+|
+|
+|
+|-
+| 1989
+| ''[[New York Stories]]''
+| {{yes}}
+| {{yes}}
+|
+| Co-director, co-writer
+|-
+| 1990
+| ''{{sortname|The|Godfather Part III}}''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| Best Foreign Film (Mejor Película Extranjera) at Fotogramas de Plata<br />Nominated – [[Academy Award for Best Picture]]<br />Nominated – [[Academy Award for Best Director]]<br />Nominated – [[Directors Guild of America Award#Winners|Directors Guild of America Award for Outstanding Achievement in Feature Film]]<br />Nominated – [[Golden Globe Award for Best Motion Picture – Drama|Golden Globe Award for Best Motion Picture]]<br />Nominated – [[Golden Globe Award for Best Director]]<br />Nominated – [[Golden Globe Award for Best Screenplay]]
+|-
+| 1992
+| ''[[Bram Stoker's Dracula]]''
+| {{yes}}
+|
+| {{yes}}
+| [[Saturn Award for Best Direction]]<br />[[Saturn Award for Best Horror Film]]<br />Best Foreign Film (Mejor Película Extranjera) at Fotogramas de Plata<br />Nominated – [[Hugo Award for Best Dramatic Presentation]]
+|-
+| 1993
+| ''{{sortname|The|Junky's Christmas}}''
+|
+|
+| {{yes}}
+|
+|-
+| 1993
+| ''[[The Secret Garden (1993 film)|The Secret Garden]]''
+|
+|
+| {{yes}}
+| [[Los Angeles Film Critics Association]] Award for Best Music<br />Nominated – [[BAFTA]] Award for Best Actress in a Supporting Role ([[Maggie Smith]])
+|-
+| 1994
+| ''[[Mary Shelley's Frankenstein (film)|Frankenstein]]''
+|
+|
+| {{yes}}
+| Nominated – [[Saturn Award for Best Horror Film]]
+|-
+| 1995
+| ''[[Kidnapped (1995 film)|Kidnapped]]''
+|
+|
+| {{yes}}
+|
+|-
+| 1996
+| ''[[Jack (1996 film)|Jack]]''
+| {{yes}}
+|
+| {{yes}}
+| Nominated – Best Family Feature – Musical or Comedy at [[Young Artist Award]]s
+|-
+| 1997
+| ''{{sortname|The|Rainmaker|The Rainmaker (1997 film)}}''
+| {{yes}}
+| {{yes}}
+|
+| Nominated – [[USC Scripter Award]]<br />Nominated – [[Political Film Society Award for Democracy]]
+|-
+| 1999
+| ''{{sortname|The|Virgin Suicides|The Virgin Suicides (film)}}''
+|
+|
+| {{yes}}
+|
+|-
+| 1999
+| ''[[Sleepy Hollow (film)|Sleepy Hollow]]''
+|
+|
+| {{yes}}
+|
+|-
+|rowspan=2|2001
+| ''[[CQ (film)|CQ]]''
+|
+|
+| {{yes}}
+|
+|-
+| ''[[Jeepers Creepers (2001 film)|Jeepers Creepers]]''
+|
+|
+| {{yes}}
+|
+|-
+|2003
+|''[[Jeepers Creepers 2]]''
+|
+|
+| {{yes}}
+|
+|-
+| 2006
+| ''[[Marie Antoinette (2006 film)|Marie Antoinette]]''
+|
+|
+| {{yes}}
+|
+|-
+| 2007
+| ''[[Youth Without Youth (film)|Youth Without Youth]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|
+|-
+| 2009
+| ''[[Tetro]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|
+|-
+| 2010
+| ''[[Somewhere (film)|Somewhere]]''
+|
+|
+| {{yes}}
+|
+|-
+| 2011
+| ''[[On the Road (film)|On the Road]]''
+|
+|
+| {{yes}}
+|
+|-
+| 2011
+| ''[[Twixt (film)|Twixt]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|
+|-
+| 2013
+| ''[[The Bling Ring]]''
+|
+|
+| {{yes}}
+|
+|}
+
+==See also==
+{{Portal|Film in the United States}}
+* [[Coppola family tree]]
+* [[List of celebrities who own wineries and vineyards]]
+* [[List of wine personalities]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* {{cite book| author = Jeffrey Chown| title = Hollywood auteur: Francis Coppola| date = May 1988| publisher = Praeger Publishers| isbn = 978-0-275-92910-7 }}
+
+==External links==
+{{commons|Francis Ford Coppola}}
+* {{IMDb name|338}}
+* {{AllRovi person|85868}}
+* [https://www.youtube.com/watch?v=p20U3rdVNhs Francis Ford Coppola: Texas Monthly Talks, YouTube video posted on November 24, 2008]
+* [http://www.interviewinghollywood.com/francis-ford-coppola.php 2007 Francis Ford Coppola Video Interview with InterviewingHollywood.com]
+* [http://www.lib.berkeley.edu/MRC/CoppolaBib.html Bibliography at the University of California Berkeley Library]
+* [http://www.novusvinum.com/interviews/coppola.html "Perfecting the Rubicon: An interview with Francis Ford Coppola"]
+* [http://tmagazine.blogs.nytimes.com/2012/11/15/back-to-bernalda/ "Back to Bernalda"] by Coppola, [[T (New York Times)|T]] ([[International Herald Tribune]] Style Magazine), December 8, 2012
+* {{OL author|OL835402A}}
+
+{{Francis Ford Coppola}}
+{{Navboxes
+|title = Awards for Francis Ford Coppola
+|list =
+{{AcademyAwardBestDirector 1961–1980}}
+{{AcademyAwardBestOriginalScreenplay 1961–1980}}
+{{AcademyAwardBestAdaptedScreenplay 1961–1980}}
+{{Thalberg Award}}
+{{BAFTA Award for Best Direction 1968–1984}}
+{{DirectorsGuildofAmericaAwardFeatureFilm 1960–1979}}
+{{Lincoln Center Gala Tribute}}
+{{Golden Globe Award for Best Director 1966–1990}}
+{{Golden Globe Award for Best Original Score 1970–1989}}
+{{GoldenGlobeBestScreenplayMotionPicture 1965–1980}}
+{{GoldenOrangeHonoraryAward}}
+{{Saturn Award for Best Director}}
+}}
+{{Cannes Film Festival jury presidents}}
+{{Godfather}}
+{{Coppola family}}
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Coppola, Francis Ford
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Director, producer, screenwriter
+| DATE OF BIRTH     =  April 7, 1939
+| PLACE OF BIRTH    = [[Detroit]], [[Michigan]], United States
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Coppola, Francis Ford}}
+[[Category:Francis Ford Coppola| ]]
+[[Category:1939 births]]
+[[Category:Living people]]
+[[Category:Academy Honorary Award recipients]]
+[[Category:American people of Lucanian descent]]
+[[Category:American film directors of Italian descent]]
+[[Category:American film directors]]
+[[Category:American male screenwriters]]
+[[Category:American writers of Italian descent]]
+[[Category:Best Adapted Screenplay Academy Award winners]]
+[[Category:Best Director Academy Award winners]]
+[[Category:Best Director BAFTA Award winners]]
+[[Category:Best Director Golden Globe winners]]
+[[Category:Best Original Screenplay Academy Award winners]]
+[[Category:Best Screenplay Golden Globe winners]]
+[[Category:California Democrats]]
+[[Category:Cinema of the San Francisco Bay Area]]
+[[Category:Coppola family]]
+[[Category:David di Donatello winners]]
+[[Category:Directors Guild of America Award winners]]
+[[Category:English-language film directors]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Film directors from California]]
+[[Category:Film directors from Michigan]]
+[[Category:Golden Orange Honorary Award winners]]
+[[Category:Hofstra University alumni]]
+[[Category:Jamaica High School (New York City) alumni]]
+[[Category:Michigan Democrats]]
+[[Category:New York Democrats]]
+[[Category:New York Military Academy alumni]]
+[[Category:Officiers of the Légion d'honneur]]
+[[Category:People from Long Island]]
+[[Category:People from the San Francisco Bay Area]]
+[[Category:Producers who won the Best Picture Academy Award]]
+[[Category:Recipients of the Irving G. Thalberg Memorial Award]]
+[[Category:Recipients of the Praemium Imperiale]]
+[[Category:UCLA Film School alumni]]
+[[Category:Viticulturists]]
+[[Category:Writers Guild of America Award winners]]
+[[Category:Writers from Detroit, Michigan]]

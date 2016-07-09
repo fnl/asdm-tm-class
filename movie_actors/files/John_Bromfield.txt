@@ -1,0 +1,67 @@
+{{For|Sir John Bromfield, Baronet|Bromfield baronets}}
+{{Infobox person
+| name          = John Bromfield
+| image         = John Bromfield Sheriff of Cochise 1959.JPG
+| caption       = Bromfield as Frank Morgan.
+| birth_name    = Farron Bromfield  
+| birth_date    = {{birth date|1922|6|11|mf=y}}
+| birth_place   = [[South Bend, Indiana]], U.S.
+| death_date    = {{death date and age|2005|9|19|1922|6|11|mf=y}}
+| death_place   = [[Palm Desert, California]], U.S.
+| yearsactive   = 1948-1960
+| death_cause   = Renal failure
+| resting_place = [[Forest Lawn Memorial Park (Glendale)|Forest Lawn Memorial Park, Glendale, California]]
+| occupation    = Actor and commercial [[fisherman]]
+| spouse        = [[Corinne Calvet]] (1948-54; divorced)<br>[[Larri Thomas]] (1955-59; divorced)<br>Mary Bromfield (1962-2005; his death)}}
+
+'''John Bromfield''' (born '''Farron Bromfield'''; June 11, 1922 – September 19, 2005) was an American film and television actor.
+
+==Biography==
+Farron Bromfield was born in [[South Bend, Indiana]]. He played [[American football|football]] and was a [[boxing]] champion in college.<ref>{{cite journal|last1=Abbott|first1=Peter|title=What's New from Coast to Coast|journal=TV Radio Mirror|date=January 1957|volume=47|issue=2|page=5|url=https://archive.org/stream/radiotvmirr00mac#page/n10/mode/1up|accessdate=22 December 2014}}</ref> He served in the [[United States Navy]] in World War II. In 1948, he twice harpooned a whale in the documentary film ''Harpoon''. In 1948, he was cast as a detective in the film ''[[Sorry, Wrong Number]]'', starring [[Burt Lancaster]] and [[Barbara Stanwyck]] for [[Paramount Pictures]]. In 1953, Bromfield appeared with [[Esther Williams]] in the film ''[[Easy to Love (1953 film)|Easy to Love]]''. In the middle 1950s, he appeared in westerns, such as [[NBC]]'s ''[[Frontier (1955 TV series)|Frontier]]'' [[anthology series]] in the role of a [[sheriff]] in the episode "The Hanging at Thunder Butte Creek". He also starred in horror films, including the 1955 3D production ''[[Revenge of the Creature]]'', one of the ''[[Creature from the Black Lagoon]]'' sequels.{{cn|date=May 2015}}
+
+In 1956, Bromfield was cast as law enforcement officer Frank Morgan in the [[Television syndication|syndicated]] [[Western (genre)|western]]-themed  [[crime drama]] series, ''[[Sheriff of Cochise]]'', later retitled by studio boss [[Desi Arnaz|Desi Arnaz, Sr.]], as ''U.S. Marshal''. The real sheriff of Cochise County at the time, Jack Howard, visited the set when the program began and made Bromfield an honorary deputy. Bromfield once told  ''[[The Los Angeles Times]]'': "About 40 million see 'Sheriff of Cochise' or 'U.S. Marshal' every week. I'd have to do about twenty-five pictures, major pictures, over a span of eight or nine years for enough people to see me in the theater who see me in one week on 'U.S. Marshal'. ... The show is seen all over the world. Television is a fabulous medium."<ref name=obit>''[[The Washington Post]]'', Washington, D.C., September 26, 2005, p. B 4</ref> The series was actually created by his co-star [[Stan Jones (songwriter)|Stan Jones]], who appeared in twenty-four segments as Deputy Harry Olson.<ref name=obit/>
+
+In 1960, Bromfield retired from acting to produce sports shows and work as a commercial [[fisherman]] off [[Newport Beach, California]]. Bromfield was divorced from actresses [[Corinne Calvet]] (1925–2001) and [[Larri Thomas]] (1932-2013). 
+
+==Death==
+He died at age 83 from [[renal failure]] in [[Palm Desert, California]], having been survived by his third wife, Mary Bromfield.<ref>{{IMDb name|id=0111311|name=John Bromfield}}</ref>
+
+==Firearms==
+*[http://theautry.org/the-colt-revolver-in-the-american-west/speed-versus-accuracy?artifact=87.79.7.1 The Colt Revolver in the American West—John Bromfield's Official Police Model]
+
+==See also==
+{{Portal|Biography|Indiana|California|Film|Television|United States Navy}}
+* [[Horror films]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Amg name|8663}}
+*[http://www.johnbromfield.com John Bromfield website], johnbromfield.com; accessed May 15, 2015
+*[http://www.briansdriveintheater.com/johnbromfield.html John Bromfield profile], BriansDriveinTheater.com; accessed May 15, 2015
+
+{{Authority control}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Bromfield, John
+|ALTERNATIVE NAMES= Bromfield, Farron
+|SHORT DESCRIPTION= Actor and commercial [[fisherman]]
+|DATE OF BIRTH= 1922-6-11
+|PLACE OF BIRTH= [[South Bend, Indiana]], U.S.
+|DATE OF DEATH= 2005-9-19
+|PLACE OF DEATH= [[Palm Desert, California]], U.S.}}
+
+{{DEFAULTSORT:Bromfield, John}}
+[[Category:1922 births]]
+[[Category:2005 deaths]]
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:Deaths from renal failure]]
+[[Category:Male actors from Indiana]]
+[[Category:Actors from South Bend, Indiana]]
+[[Category:Male Western (genre) film actors]]
+[[Category:United States Navy sailors]]
+[[Category:Burials at Forest Lawn Memorial Park (Glendale)]]
+[[Category:20th-century American male actors]]

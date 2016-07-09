@@ -1,0 +1,103 @@
+<!-- [[Image:Aldo Giuffre.jpg|thumb|right|150px|Aldo Giuffrè as the Union Captain in ''[[The Good, the Bad and the Ugly]]''.]] -->
+{{Infobox person
+| name         = Aldo Giuffrè
+| image        = AldoGiuffre.jpg
+| caption      =   
+| birth_date   = {{birth date|1924|4|10|df=y}}
+| birth_place  = [[Naples]], [[Italy]]
+| death_date   = {{death date and age|2010|6|26|1924|4|10|df=y}}
+| death_place  = [[Rome]], [[Italy]]
+| nationality  = [[Italy|Italian]]
+| occupation   = [[Actor]], [[comedian]]
+| years_active = 1945–2003
+}}
+
+'''Aldo Giuffrè''' (10 April 1924 – 26 June 2010) was an [[Italy|Italian]] [[film actor]] and [[comedian]] who appeared in over 90 films between 1948 and 2001. He was born in [[Naples]] and was the brother of actor [[Carlo Giuffrè]].<ref>{{cite web |url= http://www.nytimes.com/movies/person/812466/Aldo-Giuffre |title= Aldo Giuffre |work= NYTimes.com Movies & TV |publisher= [[AllMovie|All Movie Guide]] and [[Baseline (database)|Baseline]] via ''[[The New York Times]]'' |accessdate= }}</ref>
+
+He is known for his roles in ''[[The Four Days of Naples (film)|The Four Days of Naples]]'', and as the [[alcoholic]] [[Union Army]] captain in the [[Sergio Leone]] film ''[[The Good, the Bad and the Ugly]]'' in 1966.
+
+Giuffrè died in Rome in 2010 of [[peritonitis]].
+
+==Selected filmography==
+{{div col|cols=2}}
+* ''[[Assunta Spina (1948 film)|Assunta Spina]]'' (1948)
+* ''[[Totò Tarzan]]'' (1950)
+* ''[[Napoli milionaria]]'' (1950)
+* ''[[I cadetti di Guascogna]]'' (1950)
+* ''[[Vita da cani]]'' (1950, uncredited)
+* ''[[Totò sceicco]]'' (1950)
+* ''[[Totò terzo uomo]]'' (1951)
+* ''[[Il padrone del vapore]]'' (1951)
+* ''[[Filumena Marturano]]'' (1951)
+* ''[[Cops and Robbers (1951 film)|Guardie e ladri]]'' (1951)
+* ''[[La figlia del diavolo]]'' (1952)
+* ''[[Cinque poveri in automobile]]'' (1952)
+* ''[[It Happened in the Park|Villa Borghese]]'' (1953)
+* ''[[Un turco napoletano]]'' (1953)
+* ''[[Capitan Fantasma]]'' (1953)
+* ''[[Totò all'inferno]]'' (1954)
+* ''[[Il medico dei pazzi]]'' (1954)
+* ''[[Carosello napoletano]]'' (1954)
+* ''[[Racconti romani]]'' (1955)
+* ''[[Peccato di castità]]'' (1956)
+* ''[[Malafemmena]]'' (1957)
+* ''[[I magliari]]'' (1959)
+* ''[[Il re di Poggioreale]]'' (1961)
+* ''[[Il carabiniere a cavallo]]'' (1961)
+* ''[[The Best of Enemies]]'' (1962)
+* ''[[The Four Days of Naples (film)|The Four Days of Naples]]'' (1962)
+* ''[[Ercole sfida Sansone]]'' (1963)
+* ''[[I Cuori infranti]]'' (1963, segment "La manina di Fatma")
+* ''[[Ieri, oggi, domani]]'' (1963, segment "Adelina")
+* ''[[Totò contro il pirata nero]]'' (1964)
+* ''[[Spiaggia libera]]'' (1965)
+* ''[[La maschera e il volto]]'' (1965, TV)
+* ''[[Letti sbagliati]]'' (1965, segment "Il complicato")
+* ''[[Gli amanti latini]]'' (1965, segment "Il telefono consolatore")
+* ''[[Due mafiosi nel Far West]]'' (1965)
+* ''[[Made in Italy]]'' (1965, segment 1 "Usi e costumi", episode 2)
+* ''[[Il buono, il brutto, il cattivo]]'' (1966)
+* ''[[Questi fantasmi]]'' (1968)
+* ''[[Scacco alla regina]]'' (1969)
+* ''[[Certo, certissimo, anzi... probabile]]'' (1969)
+* ''[[Quando le donne avevano la coda]]'' (1970)
+* ''[[La violenza: Quinto potere]]'' (1972)
+* ''[[Gli eroi]]'' (1973)
+* ''[[Il testimone deve tacere]]'' (1974)
+* ''[[Gente di rispetto]]'' (1975)
+* ''[[Colpo in canna]]'' (1975)
+* ''[[L'adolescente]]'' (1976)
+* ''[[Oh Serafina]]'' (1976)
+* ''[[Zappatore]]'' (1980)
+* ''[[Ciao marziano]]'' (1980)
+* ''[[Carcerato]]'' (1981)
+* ''[[Mi manda Picone]]'' (1984)
+* ''[[Scugnizzi]]'' (1989)
+{{Div col end}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb name|0321294}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]] -->
+| NAME              = Giuffre, Aldo
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Italian actor
+| DATE OF BIRTH     = 10 April 1924
+| PLACE OF BIRTH    = [[Naples]], [[Italy]]
+| DATE OF DEATH     = 26 June 2010
+| PLACE OF DEATH    = [[Rome]], [[Italy]]}}
+
+{{DEFAULTSORT:Giuffre, Aldo}}
+[[Category:1924 births]]
+[[Category:2010 deaths]]
+[[Category:People from Naples]]
+[[Category:Italian male film actors]]
+[[Category:Male Western (genre) film actors]]
+[[Category:Male Spaghetti Western actors]]
+[[Category:Deaths from peritonitis]]
+[[Category:Disease-related deaths in Italy]]

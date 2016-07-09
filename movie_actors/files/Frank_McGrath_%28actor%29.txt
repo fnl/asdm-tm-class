@@ -1,0 +1,52 @@
+{{infobox person
+| name         = Benjamin Franklin "Frank" McGrath
+| image        = File:Wagon Train cast 1962.jpg
+|caption=Cast of ''Wagon Train'' in 1962; McGrath is at lower right
+| birth_place  = [[Mound City, Missouri|Mound City]], [[Holt County, Missouri|Holt County]], [[Missouri]], [[U.S.]]
+| birth_date   = {{birth date|1903|2|2}}
+| death_date   = {{death date and age|1967|5|13|1903|2|2}}
+| death_place  = [[Beverly Hills, California|Beverly Hills]], [[California]], U.S.
+| occupation   = [[Television actor]]<br>[[Stunt performer]]
+| spouse       = Libby Quay Buschlen McGrath (?-1967, his death)
+| years_active = 1925-1967
+}}
+
+'''Benjamin Franklin McGrath,''' known as '''Frank McGrath''' (February 2, 1903 – May 13, 1967), was an [[United States|American]] [[television]] [[actor]] who played the comical and optimistic cook with the white beard, "Charlie B. Wooster," on the [[western (genre)|Western]] [[television]] [[Television program|series]] ''[[Wagon Train]]''<ref>{{cite book|title=The Complete Directory to Prime Time Network and Cable TV Shows 1946-Present|year=2003|publisher=Ballantine Books|isbn=0-345-45542-8|pages=1275}}</ref> on, first, [[NBC]] and then [[American Broadcasting Company|ABC]]. McGrath appeared in all 272 episodes in the eight seasons of the series, which had ended its run only two years before his death. McGrath's Wooster character hence provided the meals and companionship for both fictional trailmasters, [[Ward Bond]] as Seth Adams and [[John McIntire]] as Christopher "Chris" Hale.
+
+McGrath was born in [[Mound City, Missouri|Mound City]] in [[Holt County, Missouri|Holt County]] in far northwestern [[Missouri]]. McGrath's first role, uncredited, was in the 1932 film ''The Rainbow Trail'', a study of [[Mormon]] [[polygamy]] based on a 1915 [[Zane Grey]] [[novel]] [[The Rainbow Trail|of the same name]]. He was also a [[stunt performer]]. Even at the age of fifty-three, the durable McGrath did three separate horse fall and drag scenes for the 1956 [[John Wayne]] picture ''[[The Searchers (film)|The Searchers]]'' not long after McGrath had barely recovered from having broken his back. A year before ''Wagon Train'' began, McGrath appeared briefly as [[ranch foreman]] John Pike in the 1956 episode "Quicksand" of the first hour-long television western series, ABC's ''[[Cheyenne (TV series)|Cheyenne]]'', starring [[Clint Walker]]. In 1957, McGrath had an uncredited role as a stagecoach driver in the [[Henry Fonda]] film, ''[[The Tin Star]]''. In 1958, he portrayed the character Jake Rivers in the episode "The Most Dangerous Man Alive" on NBC's ''[[Tales of Wells Fargo]],'' starring [[Dale Robertson]].<ref name=imdb>{{cite web|url=http://www.imdb.com/name/nm0569795/|title=Frank McGrath|publisher=[[Internet Movie Data Base]]|accessdate=April 29, 2012}}</ref>
+
+After ''Wagon Train'', McGrath appeared in 1965 and 1966 as Uncle Lucius in nine episodes of ABC's [[situation comedy]] ''[[Tammy (TV series)|Tammy]]'', with [[Debbie Watson (actor)|Debbie Watson]] in the title role and [[Denver Pyle]], cast as the grandfather. Thereafter, McGrath was a guest star on two network westerns, as Neddie Henshaw on the 1966 episode "Linda" of NBC's ''[[The Virginian (TV series)|The Virginian]]'' and as  Buster in the 1967 episode "Plunder at Hawk's Grove," of ABC's ''[[The Big Valley]]''. Shortly before his death, McGrath played a bartender in the picture ''[[The War Wagon]]'', the character Ned Martin in ''[[Gunfight in Abilene]]'', and  Ballard Weeks in [[Glenn Ford]]'s,''[[The Last Challenge]]'' (all three films released in 1967). His last role as Mr. Remington in ''[[The Shakiest Gun in the West]]'' was released in 1968 — after McGrath's death. His former ''Wagon Train'' costar [[Terry Wilson (actor)|Terry Wilson]] also appears with McGrath in both ''The War Wagon'' and  ''The Shakiest Gun'', a [[Don Knotts]] [[comedy]]-western.<ref name=imdb/>
+
+McGrath died of a [[myocardial infarction|heart attack]] in [[Beverly Hills, California|Beverly Hills]], [[California]].<ref name=imdb/> He was married to the former Libby Quay Buschlen (1902-1978), a daughter of George Buschlen. Libby McGrath outlived her husband by eleven years.<ref>{{cite web|url=http://www.buschlen.ca/showmedia.php?mediaID=26&medialinkID=51|title=Libby Quay Buschlen|publisher=buschlen.ca|accessdate=April 29, 2012}}</ref>
+
+McGrath was the second member of the ''Wagon Train'' cast to die. Ward Bond died early in November 1960. In addition to Terry Wilson, his other co-stars on the series were [[Robert Horton (actor)|Robert Horton]], [[Robert Fuller (actor)|Robert Fuller]], [[Denny Miller|Denny Scott Miller]], and [[Michael Burns (actor and historian)|Michael Burns]].
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.fiftiesweb.com/wt/frank-mcgrath.htm Frank McGrath on FiftiesWeb]
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =McGrath, Frank
+| ALTERNATIVE NAMES =Benjamin Franklin McGrath
+| SHORT DESCRIPTION = American actor and stunt performer
+| DATE OF BIRTH     =February 2, 1903
+| PLACE OF BIRTH    =[[Mound City, Missouri]], [[USA]]
+| DATE OF DEATH     =May 13, 1967
+| PLACE OF DEATH    =[[Beverly Hills, California]]
+}}
+{{DEFAULTSORT:McGrath, Frank}}
+[[Category:American male television actors]]
+[[Category:Male actors from Missouri]]
+[[Category:Male Western (genre) film actors]]
+[[Category:People from the Greater Los Angeles Area]]
+[[Category:People from Holt County, Missouri]]
+[[Category:Deaths from myocardial infarction]]
+[[Category:1903 births]]
+[[Category:1967 deaths]]
+[[Category:American stunt performers]]
+[[Category:Burials at Forest Lawn Memorial Park (Glendale)]]
+[[Category:20th-century American male actors]]

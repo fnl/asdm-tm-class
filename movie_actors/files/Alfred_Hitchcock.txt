@@ -1,0 +1,607 @@
+{{redirect|Hitchcock}}
+{{Use British English|date=February 2013}}
+{{Use dmy dates|date=September 2014}}
+{{Infobox person
+| name                      = Sir Alfred Hitchcock<br /><small>[[Knight Commander of the Most Excellent Order of the British Empire|KBE]]</small>
+| image                     = Hitchcock, Alfred 02.jpg
+| image_size                =
+| alt                       =
+| caption                   = Studio publicity photo, circa 1955.
+| birth_name                = Alfred Joseph Hitchcock
+| birth_date                = {{birth date|1899|08|13|df=yes}}
+| birth_place               = [[Leytonstone]], [[Essex]],  England
+| death_date                = {{death date and age|1980|04|29|1899|08|13|df=yes}}
+| death_place               = {{nowrap|[[Bel Air, Los Angeles|Bel Air, California]], United States}}
+| other_names               = {{flat list|
+*Hitch 
+*The Master of Suspense
+}}
+| occupation                = {{flat list|
+* Director
+* producer
+}}
+| years_active              = 1921–1976
+| religion                  = [[Roman Catholic]]<ref>{{cite news |url=http://www.timesonline.co.uk/tol/comment/faith/article4686649.ece |location=London |work=The Times |first=Fiona |last=Hamilton |title=PM hails Christian influence on national life |deadurl=no |accessdate=25 June 2013}}</ref>
+| spouse                    = [[Alma Reville]] <small>(m. 1926–1980; his death)</small>
+| alma_mater                = {{Plainlist|
+* [[Salesian College (London)|Salesian College]], London
+* [[St Ignatius' College]], [[Enfield Town|Enfield]]
+}}
+| children                  = [[Pat Hitchcock|Patricia Hitchcock]]
+}}
+'''Sir Alfred Joseph Hitchcock''', [[Knight Commander of the Most Excellent Order of the British Empire|KBE]] (13 August 1899&nbsp;– 29 April 1980)<ref name="senses">{{cite web |last= Mogg |first= Ken |title= Alfred Hitchcock |url= http://web.archive.org/web/20100328022641/http://archive.sensesofcinema.com/contents/directors/05/hitchcock.html |work=Senses of Cinema |publisher=Sensesofcinema.com |accessdate=18 July 2010}}</ref> was an English <!--as per [[MOS:BIO]] --> film director and producer.<ref name="WVobit">{{cite news |title= Obituary |work=[[Variety Obituaries|Variety]] |publisher=Variety |date= 7 May 1980}}</ref> Often nicknamed "The Master of Suspense",<ref name="Moerbeek2006">{{cite book|last=Moerbeek|first=Kees|title=Alfred Hitchcock: The Master of Suspense|url=http://books.google.com/books?id=oTo3AAAACAAJ|year=2006|publisher=Simon & Schuster|isbn=978-1-4169-0467-0}}</ref> he pioneered many techniques in the [[Thriller (genre)|suspense]] and [[psychological thriller]] genres. After a successful career in [[Cinema of the United Kingdom|British cinema]] in both [[silent film]]s and early [[sound film|talkies]], renowned as England's best director, Hitchcock moved to [[Cinema of the United States|Hollywood]] in 1939<ref name="Life">''[[Life (magazine)|Life]]'', 19 June 1939, p. 66: [http://books.google.com/books?id=b0kEAAAAMBAJ&pg=PA66&lpg=PA66&dq=alfred+hitchcock+englands+best+director+starts+work+in+hollywood&source=bl&ots=zLFR62HJHG&sig=p6sH_Vuhm-VRZmTJyG__NgbPKSo&hl=en&sa=X&ei=xqxtUPiQCYGX0QX9vIGgCg&ved=0CFUQ6AEwBg#v=onepage&q=alfred%20hitchcock%20englands%20best%20director%20starts%20work%20in%20hollywood&f=false ''Alfred Hitchcock: England's Best Director starts work in Hollywood'']. Retrieved 4 October 2012</ref> and became a US citizen in 1955.
+
+Over a career spanning more than half a century, Hitchcock fashioned for himself a distinctive and recognisable directorial style.<ref name="Heritage02-28-07">{{cite web |last= Lehman |first= David|url= http://web.archive.org/web/20070711184905/http://www.americanheritage.com/articles/magazine/ah/2007/2/2007_2_28.shtml |title= Alfred Hitchcock's America |work=American Heritage |date= April–May 2007 |accessdate=21 July 2010}}</ref> He pioneered the use of a camera made to move in a way that mimics a person's gaze, forcing viewers to engage in a form of [[voyeurism]].<ref name="techniques">{{cite web |last= Bays |first= Jeff |title= Film Techniques of Alfred Hitchcock |url= http://www.borgus.com/think/hitch.htm |work=Borgus.com |publisher=Borgus Productions |date= December 2007 |accessdate=13 July 2010}}</ref> He framed shots to maximise anxiety, fear, or empathy, and used innovative film editing.<ref name="techniques" /> His stories often feature fugitives on the run from the law alongside "icy blonde" female characters.<ref name="whitington">{{cite web |last= Whitington |first= Paul |title= NOTORIOUS! (Hitchcock and his icy blondes) |url= http://www.independent.ie/entertainment/books/notorious-hitchcock-and-his-icy-blondes-1435652.html |work=The Irish Independent |date= 18 July 2009 |accessdate=13 July 2010}}</ref><ref name="dowd">{{cite web | last = Dowd | first = Maureen | title = Spellbound by Blondes, Hot and Icy | publisher = New York Times | date = 1 December 2012 | url = http://www.nytimes.com/2012/12/02/opinion/sunday/dowd-spellbound-by-blondes-hot-and-icy.html?_r=0 | accessdate = 13 November 2013
+}}</ref> Many of Hitchcock's films have [[twist ending]]s and thrilling plots featuring depictions of violence, murder, and crime. Many of the mysteries, however, are used as decoys or "[[MacGuffin]]s" that serve the film's themes and the psychological examinations of the characters. Hitchcock's films also borrow many themes from [[psychoanalysis]] and feature strong sexual overtones. Through [[List of Hitchcock cameo appearances|his cameo appearances]] in his own films, interviews, film trailers, and the television program ''[[Alfred Hitchcock Presents]]'', he became a [[cultural icon]].
+
+Hitchcock directed more than fifty feature films in a career spanning six decades. Often regarded as the greatest British filmmaker, he came first in a 2007 poll of film critics in Britain's ''[[The Daily Telegraph|Daily Telegraph]]'', which said: "Unquestionably the greatest filmmaker to emerge from these islands, Hitchcock did more than any director to shape modern cinema, which would be utterly different without him. His flair was for narrative, cruelly withholding crucial information (from his characters and from viewers) and engaging the emotions of the audience like no one else."<ref>{{cite news |last= Avedon |first= Richard |title = The top 21 British directors of all time |url= http://www.telegraph.co.uk/culture/film/starsandstories/3664474/The-top-21-British-directors-of-all-time.html |work=The Daily Telegraph |location=UK |accessdate=8 July 2009 |quote= Unquestionably the greatest filmmaker to emerge from these islands, Hitchcock did more than any director to shape modern cinema, which would be utterly different without him. His flair was for narrative, cruelly withholding crucial information (from his characters and from the audience) and engaging the emotions of the audience like no one else. |date= 14 April 2007}}</ref><ref>{{cite web |title= British Directors |url= http://www.rssfilmstudies.co.uk/british-directors |publisher=RSS Film studies |accessdate =11 June 2008}}</ref> The magazine ''[[MovieMaker Magazine|MovieMaker]]'' has described him as the most influential filmmaker of all time,<ref>{{cite web |last= Wood |first= Jennifer |title= The 25 Most Influential Directors of All Time |url= http://www.moviemaker.com/directing/article/the_25_most_influential_directors_of_all_time_3358/ |work=[[MovieMaker]] |publisher=Moviemaker.com |date= 6 July 2002 |accessdate=26 April 2011| archiveurl= http://web.archive.org/web/20110608025225/http://www.moviemaker.com/directing/article/the_25_most_influential_directors_of_all_time_3358/| archivedate= 8 June 2011 | deadurl= no}}</ref> and he is widely regarded as one of cinema's most significant artists.<ref>{{cite web |title= The Directors' Top Ten Directors |url= http://www.bfi.org.uk/sightandsound/topten/poll/directors-directors.html |publisher=British Film Institute |accessdate=10 May 2011| archiveurl= http://web.archive.org/web/20110514093259/http://www.bfi.org.uk/sightandsound/topten/poll/directors-directors.html| archivedate= 14 May 2011 | deadurl= no}}</ref>
+
+==Early life==
+Born on 13 August 1899 in [[Leytonstone]] (then part of [[Essex]], now part of London), England, Hitchcock was the second son and the youngest of three children of William Hitchcock (1862–1914), a greengrocer and [[Poultry (office)|poulterer]], and Emma Jane Hitchcock (''née'' Whelan; 1863–1942). Named Alfred after his father's brother, Hitchcock was brought up as a Roman Catholic and was sent to [[Salesian College (London)|Salesian College]]<ref>{{cite web|url=http://www.filmreference.com/Directors-Ha-Ji/Hitchcock-Alfred.html |title=Alfred Hitchcock profile at |publisher=Filmreference.com |date= |accessdate=28 May 2013}}</ref> and the [[Society of Jesus|Jesuit]] Classic school [[St Ignatius' College]] in [[Stamford Hill]], London.<ref>{{cite web |title= Death and the Master |url= http://www.vanityfair.com/hollywood/classic/features/death-and-the-master-199904 |work=Vanity Fair |date= April 1999 |accessdate=30 December 2010| archiveurl= http://web.archive.org/web/20101128042605/http://www.vanityfair.com/hollywood/classic/features/death-and-the-master-199904| archivedate= 28 November 2010 | deadurl= no}}</ref><ref>{{cite web |title= Welcome to St. Ignatius College |url= http://www.st-ignatius.enfield.sch.uk| accessdate=5 March 2008| archiveurl= http://web.archive.org/web/20080315064345/http://www.st-ignatius.enfield.sch.uk/| archivedate= 15 March 2008 | deadurl= no}}</ref> His parents were both of half-English and half-Irish ancestry.<ref>Patrick McGilligan, p. 7</ref><ref name="bookref09">{{cite book |last= Spoto |first= Donald |title= The Dark Side of Genius: The Life of Alfred Hitchcock |publisher=Da Capo Press |year= 1999 |page= 15 |url= |isbn= 978-0-306-80932-3}}</ref> He often described a lonely and sheltered childhood worsened by his obesity.<ref>Patrick McGilligan, pp. 18–19</ref>
+
+Around age five, according to Hitchcock, he was sent by his father to the local police station with a note asking the officer to lock him away for five minutes as punishment for behaving badly.<ref name=Cavett>{{cite episode | series=The Dick Cavett Show | airdate=8 June 1972}}</ref><ref>{{cite web |title=Hollywood in the Hills |url= http://67.15.208.115/printstory.php?sid=28247&storySection=Style |publisher=Sentinel Staff Report |date= 24 July 2005 |accessdate=5 March 2008 |archive-url=https://web.archive.org/web/20090115004950/http://67.15.208.115/printstory.php?sid=28247&storySection=Style |archive-date=15 January 2009}}</ref> This incident not only implanted a lifetime fear of policemen in Hitchcock, but such harsh treatment and wrongful accusations would be found frequently throughout his films.<ref>Patrick McGilligan, pp. 7–8</ref>
+
+When Hitchcock was 15, his father died. In the same year, he left St. Ignatius to study at the London County Council School of Engineering and Navigation in [[Poplar, London|Poplar]], London.<ref>Patrick McGillang, p. 25. The school is now part of [[Tower Hamlets College]].</ref> After leaving, he became a [[technical drawing|draftsman]] and advertising designer with a [[cable]] company called [[William Thomas Henley|Henley's]].<ref>Patrick McGilligan, pp. 24–25</ref> During the [[First World War]], Hitchcock was rejected for military service because of his obesity. Nevertheless, the young man signed up to a cadet regiment of the [[Royal Engineers]] in 1917. His military stint was limited: he received theoretical briefings, weekend drills and exercises. Hitchcock would march around London's [[Hyde Park, London|Hyde Park]] and was required to wear [[puttees]], the proper wrapping of which he could never master.<ref>{{cite book|first=Alfred |last=Hitchcock|title= A life in Darkness|pages=25–26}}</ref>
+
+While working at Henley's, Hitchcock began to dabble creatively. After the company's in-house publication, ''The Henley Telegraph'', was founded in 1919, he often submitted short articles and eventually became one of its most prolific contributors. His first piece was "Gas" (1919), published in the first issue, in which a young woman imagines that she is being assaulted one night in Paris – only for the [[Plot twist|twist]] to reveal that it was all just a hallucination in the dentist's chair, induced by the [[Anesthetic|anaesthetic]].
+
+Hitchcock's second piece was "The Woman's Part" (1919), which involves the conflicted emotions a husband feels as he watches his wife, an actress, perform onstage.<ref>{{cite book|last=McGilligan|first= Patrick|website=books.google.com|url=http://books.google.com/books?id=2G5YBywx7UUC&pg=PA34&dq=hitchcock+-+The+Woman's+Part&hl=en&ei=MATZTsJrgtXxA7q5jcMN&sa=X&oi=book_result&ct=result&resnum=1&ved=0CDUQ6AEwAA#v=onepage&q=hitchcock%20-%20The%20Woman's%20Part&f=false |title=Alfred Hitchcock: A Life in Darkness and Light|page=34|publisher= HarperCollins|year=2004}}</ref> "Sordid" (1920) surrounds an attempt to buy a sword from an antiques dealer, with another twist ending. The short story "And There Was No Rainbow" (1920) was Hitchcock's first brush with possibly censurable material. A young man goes out looking for a brothel, only to stumble into the house of his best friend's girl. "What's Who?" (1920), while humorous, was also a forerunner to the famous [[Abbott and Costello]] "[[Who's on First?]]" routine. "The History of Pea Eating" (1920) was a [[Satire|satirical]] [[disquisition]] on the various attempts people have made over the centuries to eat peas successfully. His final piece, "Fedora" (1921), was his shortest and most enigmatic contribution. It also gave a strikingly accurate description of his future wife, [[Alma Reville]] (whom he had not yet met).<ref>Patrick McGilligan, pp. 30–45</ref>
+
+==Inter-war British career==
+Hitchcock became intrigued by photography and started working in film production in London, working as a [[title card]] designer for the London branch of what would become [[Paramount Pictures]].<ref name="SantaCruzInspiration">{{cite web |title= Local Inspiration for Movie Classics: Hitchcock had Link to Santa Cruz |publisher=Santa Cruz Public Libraries, Ca. |url= http://www.santacruzpl.org/history/films/hitch.shtml |accessdate=4 March 2008 |archiveurl = http://web.archive.org/web/20070905101712/http://www.santacruzpl.org/history/films/hitch.shtml |archivedate = 5 September 2007}}</ref> In 1920, he received a full-time position at [[Hoxton#Victorian era and 20th century|Islington Studios]] with its American owner, [[Famous Players-Lasky]], and their British successor, [[Gainsborough Pictures]],<ref name="Gainsborough">{{cite web| title =Gainsborough Pictures (1924–51)|publisher=British Film Institute ScreenOnline| url=http://www.screenonline.org.uk/people/id/448996| accessdate=6 March 2008}}</ref> designing the titles for silent movies.<ref>Patrick McGilligan, pp. 46–51</ref> His rise from title designer to film director took five years. During this period, he became an unusual combination of screenwriter, art director and assistant director on a series of five films for producer [[Michael Balcon]] and director [[Graham Cutts]]: ''[[Woman to Woman (1923 film)|Woman to Woman]]'' (1923), ''[[The White Shadow (film)|The White Shadow]]'' (1924),<ref>[https://www.youtube.com/watch?v=QlB9J2F_h6Q The White Shadow (YouTube)]</ref> ''[http://www.screenonline.org.uk/film/id/1422860/index.html The Passionate Adventure]'' (1924), ''[http://www.screenonline.org.uk/film/id/1422989/index.html The Blackguard]'' (1925), and ''[http://www.screenonline.org.uk/film/id/1422807/index.html The Prude's Fall]'' (1925).<ref name="Truffaut 1984">{{harvnb|Truffaut|1984}}</ref>
+
+Hitchcock's second to last collaboration with Cutts, ''[[The Blackguard]]'' (German title ''Die Prinzessin und der Geiger'', 1925), was produced at the [[Babelsberg Studios]] in Potsdam near Berlin, where Hitchcock observed part of the making of [[F. W. Murnau]]'s film ''[[The Last Laugh]]'' (1924).<ref>Sidney Gottlieb (ed), ''Alfred Hitchcock: Interviews By Alfred Hitchcock''. Illustrated Edition. (Univ. Press of Mississippi, 2003). pp. 157–158.</ref> He was very impressed with Murnau's work and later used many techniques for the set design in his own productions. In a book-length interview with [[François Truffaut]], Hitchcock also said he was influenced by [[Fritz Lang]]'s film ''[[Destiny (1921 film)|Destiny]]'' (1921).<ref name="Truffaut 1984"/> He was likewise influenced by other foreign filmmakers whose work he absorbed as one of the earliest members of the "seminal" London [http://www.screenonline.org.uk/film/id/454755/index.html Film Society], formed in 1925.<ref name=Kehr />
+
+[[File:Number 13.jpg|thumb|Hitchcock (right) during the making of ''[[Number 13 (film)|Number 13]]'' in London]]
+Hitchcock's first few films faced a string of bad luck. His first directing project came in 1922 with the aptly titled ''[[Number 13 (film)|Number 13]]''.<ref name="autogenerated3">Donald Spoto. ''The Art of Alfred Hitchcock''. New York: Anchor Books, 1976–1992. p. 3 ISBN 978-0-385-41813-3</ref> The production was cancelled because of financial problems;<ref name="autogenerated3"/> filmed in London, the few scenes that had been finished at that point have been lost. In 1925, Michael Balcon<ref name="Balcon">{{cite web |title= Balcon, Michael (1896–1977) Executive Producer |publisher=British Film Institute ScreenOnline |url= http://www.screenonline.org.uk/people/id/447085/index.html |accessdate=6 March 2008| archiveurl= http://web.archive.org/web/20080214005148/http://www.screenonline.org.uk/people/id/447085/index.html| archivedate= 14 February 2008 | deadurl= no}}</ref> gave Hitchcock another opportunity for a directing credit with ''[[The Pleasure Garden (film)|The Pleasure Garden]]'', a co-production of Gainsborough and the German firm Emelka, which he made at the Geiselgasteig studio near Munich in the summer of 1925; the film was a commercial flop.<ref>Patrick McGilligan, pp. 68–71</ref> Next, Hitchcock directed a drama called ''[[The Mountain Eagle]]'' (possibly released under the title ''Fear o' God'' in the United States). This film was eventually lost.<ref>Donald Spoto. ''The Art of Alfred Hitchcock''. New York: Anchor Books, 1976–1992. p. 5 ISBN 978-0-385-41813-3</ref>
+
+In 1926, Hitchcock's luck changed with his first [[Thriller (genre)|thriller]], ''[[The Lodger: A Story of the London Fog]]'', a suspense film about the hunt for a [[Jack the Ripper]] type of [[serial killer]] in London.<ref name="Harris">Robert A. Harris, Michael S. Lasky. "The films of Alfred Hitchcock". p.6. Citadel Press, 1976</ref> Released in January 1927, it was a major commercial and critical success in the United Kingdom.<ref>See Robert E. Kapsis, ''Hitchcock: The Making of a Reputation.'' Illustrated Edition. (University of Chicago Press, 1992). p. 19</ref> As with many of his earlier works, this film was influenced by [[German Expressionism|Expressionist]] techniques Hitchcock had witnessed first-hand in Germany.<ref>Alan Jones (2005) ''The rough guide to horror movies'' p. 20. Rough Guides, 2005</ref> Some commentators regard this piece as the first truly "Hitchcockian"<ref>{{cite web| title =Hitchcockian Stuff| publisher=Alfredsplace.com|url=http://www.alfredsplace.com/hitchcockian_stuff.htm| accessdate=6 March 2008}}</ref><ref>{{cite news |last= Gleiberman |first= Owen |title= Ask the Critic – The Hitch Is Back-What, exactly, makes a film ''Hitchcockian''. |url= http://www.ew.com/ew/article/0,,1146038,00.html |publisher=Entertainment Weekly (EW.COM) |date= 7 January 2006 |accessdate=26 April 2011| archiveurl= http://web.archive.org/web/20110607015600/http://www.ew.com/ew/article/0,,1146038,00.html| archivedate= 7 June 2011 | deadurl= no}}</ref> film, incorporating such themes as the "wrong man".<ref>Patrick McGilligan, p. 85</ref>
+
+Following the success of ''The Lodger'', Hitchcock hired a publicist to help strengthen his growing reputation. On 2 December 1926, Hitchcock married his assistant director, [[Alma Reville]], at the [[Church of the Immaculate Heart of Mary|Brompton Oratory]] in [[South Kensington]], London.<ref name="Harris"/> Their only child, daughter [[Patricia Hitchcock|Patricia]], was born on 7 July 1928. Alma was to become Hitchcock's closest collaborator, but her contributions to his films (some of which were credited on screen) Hitchcock would discuss only in private, as she was keen to avoid public attention.<ref>{{cite book |last= Chandler |first= Charlotte |title= It's only a movie: Alfred Hitchcock: a personal biography |url= http://books.google.co.uk/books?id=glp97Y_eVSIC&pg=PA44&dq=alma+hitchcock#v=onepage&q=alma%20hitchcock&f=false |publisher=Hal Leonard Corporation |year= 2006}}</ref>
+
+In 1929, Hitchcock began work on his tenth film ''[[Blackmail (1929 film)|Blackmail]]''. While the film was still in production, the studio, [[British International Pictures]] (BIP), decided to convert it to sound. As an early '[[Sound film#Transition: Europe|talkie]]', the film is often cited by film historians as a landmark film,<ref>Rob White, Edward Buscombe. ''British Film Institute film classics, Volume 1'' p. 94. Taylor & Francis, 2003</ref> and is often considered to be the first [[Cinema of the United Kingdom|British]] [[talkie|sound]] feature film.<ref>Richard Allen, S. Ishii-Gonzalès. [http://books.google.com/books?id=cFEYI_wNKAcC&pg=PR15&dq=Blackmail+(1929),+is+regarded+as+the+first+British+sound+feature,&hl=en&ei=2k49TOa-G6KI0wT0ubTIDg&sa=X&oi=book_result&ct=result&resnum=8&ved=0CE0Q6AEwBw#v=onepage&q&f=false Hitchcock: past and future]. p.xv. Routledge, 2004</ref><ref>[http://books.google.com/books?id=AvxgFdRJ66kC&pg=PA79&dq=blackmail+first+british+sound+film&hl=en&ei=cQ0UTZnuMsSwhQebkrG3Dg&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDQQ6AEwAzgK#v=onepage&q=blackmail%20first%20british%20sound%20film&f=false Music hall mimesis in British film, 1895–1960: on the halls on the screen] p.79. Associated University Presse, 2009</ref> With the climax of the film taking place on the dome of the [[British Museum]], ''Blackmail'' began the Hitchcock tradition of using famous landmarks as a backdrop for suspense sequences. It also features one of his longest [[List of Hitchcock cameo appearances|cameo appearances]], which shows him being bothered by a small boy as he reads a book on the [[London Underground]].<ref>Walker, Michael (2005). [http://books.google.com/books?id=v2dnVhpwVssC&pg=PA88&dq=hitchcock+longest+cameo+blackmail&hl=en&ei=rhw_TL_7HMGJ4Qbp3vn0Cg&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCwQ6AEwAA#v=onepage&q=hitchcock%20longest%20cameo%20blackmail&f=false Hitchcock's motifs]. p.88. Amsterdam University Press</ref> In the [[Public Broadcasting Service|PBS]] series ''The Men Who Made The Movies'',<ref>{{cite web |title= American Masters-Alfred Hitchcock |url= http://www.pbs.org/wnet/americanmasters/database/hitchcock_a.html |publisher=Public Broadcasting System |accessdate=5 March 2008| archiveurl= http://web.archive.org/web/20080319043811/http://www.pbs.org/wnet/americanmasters/database/hitchcock_a.html| archivedate= 19 March 2008 | deadurl= no}}</ref> Hitchcock explained how he used early sound recording as a special element of the film, stressing the word "knife" in a conversation with the woman suspected of murder.<ref>Patrick McGilligan, pp. 120–123</ref> During this period, Hitchcock directed segments for a BIP [[musical film]] [[revue]] ''[[Elstree Calling]]'' (1930) and directed a short film featuring two ''Film Weekly'' scholarship winners, ''[[An Elastic Affair]]'' (1930). Another BIP musical revue, ''Harmony Heaven'' (1929), reportedly had minor input from Hitchcock, but his name does not appear in the credits.
+
+In 1933, Hitchcock was once again working for Michael Balcon<ref name="Balcon" /> at [[Gaumont British|Gaumont-British Picture Corporation]].<ref>{{cite web |title= Gaumont-British Picture Corporation |url= http://ftvdb.bfi.org.uk/sift/organisation/8529 |publisher=British Film Institute |accessdate=6 March 2008| archiveurl= http://web.archive.org/web/20080220130529/http://ftvdb.bfi.org.uk/sift/organisation/8529| archivedate= 20 February 2008 | deadurl= no}}</ref> His first film for the company, ''[[The Man Who Knew Too Much (1934 film)|The Man Who Knew Too Much]]'' (1934), was a success and his second, ''[[The 39 Steps (1935 film)|The 39 Steps]]'' (1935), is often considered one of the best films from his early period with the [[British Film Institute]] ranking it the [[BFI Top 100 British films|fourth best British film of the 20th century]].<ref>{{cite web |title= The British Film Institute 100 |url= http://www.bfi.org.uk/features/bfi100/1-10.html#4 |accessdate=26 April 2011| archiveurl= http://web.archive.org/web/20110514093408/http://www.bfi.org.uk/features/bfi100/1-10.html| archivedate= 14 May 2011 | deadurl= no}}</ref> Already acclaimed in Britain, the success of the film made Hitchcock a star in the US, and established the quintessential English 'Hitchcock blonde' [[Madeleine Carroll]] as the template for his succession of ice cold and elegant leading ladies.<ref>[http://www.dailymail.co.uk/femail/article-437780/From-Hollywood-starlet-wartime-angel.html "From Hollywood starlet to wartime angel"]. Daily Mail. Retrieved 16 February 2014</ref> This film was also one of the first to introduce the "[[MacGuffin]]". In ''The 39 Steps'', the MacGuffin is a stolen set of design plans. Hitchcock told French director [[François Truffaut]]:
+
+<blockquote>There are two men sitting in a train going to Scotland and one man says to the other, "Excuse me, sir, but what is that strange parcel you have on the luggage rack above you?", "Oh", says the other, "that's a Macguffin.", "Well", says the first man, "what's a Macguffin?", The other answers, "It's an apparatus for trapping lions in the Scottish Highlands.", "But", says the first man, "there are no lions in the Scottish Highlands.", "Well", says the other, "then that's no Macguffin."<ref>Patrick McGilligan, p. 158</ref></blockquote>
+
+Hitchcock's next major success was his 1938 film ''[[The Lady Vanishes (1938 film)|The Lady Vanishes]]'', a fast-paced film about the search for a kindly old Englishwoman Miss Froy ([[Dame May Whitty]]), who disappears while on board a train in the fictional country of Bandrika.<ref name="Bandrika">{{cite web| title=Lions of British Cinema-Sir Alfred Joseph Hitchcock, (13&nbsp;August&nbsp;1899 – 29 April 1980) | publisher=AvantGardeNow.com | url=http://www.avantgardenow.com/hitchcock.html| accessdate=6 March 2008 |archiveurl = http://web.archive.org/web/20071009021633/http://www.avantgardenow.com/hitchcock.html |archivedate = 9 October 2007}}</ref> ''[[The Guardian]]'' called the film "one of the greatest train movies from the genre's golden era", and a contender for the "title of best comedy thriller ever made".<ref>[http://www.theguardian.com/film/filmblog/2012/jul/24/my-favourite-hitchcock-lady-vanishes "My favourite Hitchcock: The Lady Vanishes"]. The Guardian. Retrieved 16 January 2015</ref> In 1939, Hitchcock received the [[New York Film Critics Circle Award]] for Best Director, the only time he received an award for his directing.<ref>{{cite web|last= |first= |title=The Lady Vanishes |work=Turner Classic Movies |date= |url=http://www.tcm.com/tcmdb/title/80706/The-Lady-Vanishes/ |accessdate=22 January 2013}}</ref><ref name="imdbawards">{{cite web|title=Awards for The Lady Vanishes |work=Internet Movie Database |url=http://www.imdb.com/title/tt0030341/awards |accessdate=22 January 2013}}</ref> The film frequently ranks among the best British films of all time.<ref>[http://www.telegraph.co.uk/culture/culturepicturegalleries/9848319/The-49-best-British-films-of-all-time.html "The 49 best British films of all time"]. The Telegraph. Retrieved 16 January 2015</ref>
+
+By 1938, Hitchcock had become known for his alleged observation, "Actors are cattle". He once said that he first made this remark as early as the late 1920s, in connection to stage actors who were snobbish about motion pictures. However, [[Michael Redgrave]] said that Hitchcock had made the statement during the filming of ''The Lady Vanishes''. The phrase would haunt Hitchcock for years to come. During the filming of his 1941 production of ''[[Mr. & Mrs. Smith (1941 film)|Mr. & Mrs. Smith]]'', [[Carole Lombard]] brought some heifers onto the set with name tags of Lombard, [[Robert Montgomery (actor)|Robert Montgomery]], and [[Gene Raymond]], the stars of the film, to surprise the director. Hitchcock said he was misquoted: "I said 'Actors should be ''treated'' like cattle'."<ref>Patrick McGilligan, pp. 210–211, 277; American Movie Classics</ref>
+
+Lauded in Britain where he was dubbed "Alfred the Great" by ''[[Picturegoer]]'' magazine, by the end of the 1930s Hitchcock's reputation was beginning to soar overseas, with a ''[[New York Times]]'' feature writer stating; "Three unique and valuable institutions the British have that we in America have not. [[Magna Carta]], the [[Tower Bridge]] and Alfred Hitchcock, the greatest director of screen melodramas in the world."<ref>Leff, 1999. p. 16</ref> ''[[Variety (magazine)|Variety]]'' magazine referred to him as, "probably the best native director in England."<ref>Leff, 1999. p. 21.</ref> [[David O. Selznick]] signed Hitchcock to a seven-year contract beginning in March 1939, and the Hitchcocks moved to Hollywood.<ref>Leff, 1999. p. 35.</ref>
+
+==Hollywood==
+In Hollywood, the suspense and the [[gallows humor|gallows humour]] that had become Hitchcock's trademark in film continued to appear in his productions. The working arrangements with Selznick were less than ideal. Selznick suffered from constant money problems, and Hitchcock was often displeased with Selznick's creative control over his films. In a later interview, Hitchcock summarised the working relationship thus:
+
+[[File:Anton Wickremasinghe, Chandran Rutnam and Alfred Hitchcock at the Academy Awards in Los Angeles.jpeg|thumb||Alfred Hitchcock with [[Chandran Rutnam]] (centre) and Sri Lankan Film Maker Anton Wickremasinghe at the [[Academy Awards]] in Los Angeles.]]
+<blockquote>[Selznick] was the Big Producer.&nbsp;... Producer was king, The most flattering thing Mr. Selznick ever said about me—and it shows you the amount of control—he said I was the "only director" he'd "trust with a film".<ref>Sidney Gottlieb, Alfred Hitchcock: Interviews By Alfred Hitchcock. Illustrated Edition. (Univ. Press of Mississippi, 2003). p. 206.</ref></blockquote>
+
+Selznick lent Hitchcock to the larger studios more often than producing Hitchcock's films himself. Selznick, as well as fellow independent producer [[Samuel Goldwyn]], made only a few films each year, so he did not always have projects for Hitchcock to direct. Goldwyn had also negotiated with Hitchcock on a possible contract, only to be outbid by Selznick. Hitchcock was quickly impressed with the superior resources of the American studios compared with the financial limits he had often faced in England.<ref>Leff, 1999. p. 30.</ref>
+
+With the prestigious Selznick picture ''[[Rebecca (1940 film)|Rebecca]]'' in 1940, Hitchcock made his first American movie, set in a Hollywood version of England's [[West Country]] and based on a novel by English author [[Daphne du Maurier]]. The film starred [[Laurence Olivier]] and [[Joan Fontaine]]. The story concerns a naïve (and unnamed) young woman who marries a widowed aristocrat. She goes to live in his huge [[English country house]], and struggles with the lingering reputation of the elegant and worldly first wife, whose name was Rebecca, and who died under mysterious circumstances. The film won the [[Academy Award for Best Picture]] of 1940.<ref name="Rebecca">{{cite web| title=Awards for ''Rebecca'' (1940) | publisher=Internet Movie Database| url=http://www.imdb.com/title/tt0032976/awards| accessdate=7 March 2008}}</ref> The statuette was given to Selznick, as the film's producer.<ref name="Rebecca"/> Hitchcock was nominated for the [[Academy Award for Best Director|Best Director]] award, his first of five such nominations, but did not win.
+
+There were additional problems between Selznick and Hitchcock, with Selznick known to impose restrictive rules on Hitchcock. At the same time, Selznick complained about Hitchcock's "goddamn jigsaw cutting", which meant that the producer did not have nearly the leeway to create his own film as he liked, but had to follow Hitchcock's vision of the finished product.<ref>Patrick McGilligan, pp. 251–252</ref> ''Rebecca'' was the fourth longest of Hitchcock's films, at 130&nbsp;minutes, exceeded only by ''[[The Paradine Case]]'' (132&nbsp;minutes), ''[[North by Northwest]]'' (136&nbsp;minutes), and ''[[Topaz (1969 film)|Topaz]]'' (142&nbsp;minutes).<ref>Patrick McGilligan, p. 253</ref>
+
+Hitchcock's second American film, the European-set thriller ''[[Foreign Correspondent (film)|Foreign Correspondent]]'' (1940), based on [[Vincent Sheean]]'s ''Personal History'' and produced by [[Walter Wanger]], was nominated for Best Picture that year. Hitchcock and other British subjects felt uneasy living and working in Hollywood while their country was at war; his concern resulted in a film that overtly supported the British war effort.<ref>Duncan, Paul (2003). Alfred Hitchcock: architect of anxiety, 1899–1980. p.90. Taschen, 1 November 2003</ref> The movie was filmed in the first year of the [[Second World War]] and was inspired by the rapidly changing events in Europe, as fictionally covered by an American newspaper reporter portrayed by [[Joel McCrea]]. The film mixed footage of European scenes with scenes filmed on a Hollywood back lot. The film avoided direct references to Nazism, Germany, and Germans to comply with Hollywood's Production Code censorship.<ref>Patrick McGilligan, p. 244</ref>
+
+===1940s films===
+[[File:Ingrid Bergman in Notorious Trailer.jpg|thumb|right|[[Cary Grant]] and [[Ingrid Bergman]] in ''[[Notorious (1946 film)|Notorious]]'' (1946)]]
+Hitchcock's films during the 1940s were diverse, ranging from the romantic comedy ''Mr. & Mrs. Smith'' (1941) to the courtroom drama ''The Paradine Case'' (1947) to the dark and disturbing [[film noir]] ''[[Shadow of a Doubt]]'' (1943).
+
+In September 1940, the Hitchcocks bought the {{convert|200|acre|km2|sing=on}} Cornwall Ranch near [[Scotts Valley]] in the [[Santa Cruz Mountains]]. The ranch became the primary residence of the Hitchcocks for the rest of their lives, although they kept their Bel Air home. ''[[Suspicion (1941 film)|Suspicion]]'' (1941) marked Hitchcock's first film as a producer as well as director. The film was set in England, and Hitchcock used the north coast of [[Santa Cruz, California|Santa Cruz]], California, for the English coastline sequence.<ref name="SantaCruzInspiration" /> This film was to be actor [[Cary Grant]]'s first time working with Hitchcock, and it was one of the few times that Grant would be cast in a sinister role.<ref name="SantaCruzInspiration" /> Joan Fontaine<ref>{{cite web|title= Joan Fontaine |publisher=Hollywood.com |url= http://www.hollywood.com/celebrity/Joan_Fontaine/197679 |accessdate=5 March 2008| archiveurl= http://web.archive.org/web/20080325023619/http://www.hollywood.com/celebrity/Joan_Fontaine/197679| archivedate= 25 March 2008 | deadurl= no}}</ref> won Best Actress [[Academy Award|Oscar]]<ref name="SantaCruzInspiration" /> for her "outstanding performance in ''Suspicion''". Grant plays an irresponsible English con man whose actions raise suspicion and anxiety in his shy young English wife (Fontaine).<ref>Tom Scott Cadden (1984). "What a bunch of characters!: an entertaining guide to who played what in the movies". p. 131. Prentice-Hall,</ref> In a notable scene, Hitchcock uses a lightbulb to illuminate what might be a fatal glass of milk that Grant is bringing to his wife. In the book the movie is based on (''[[Before the Fact]]'' by [[Francis Iles]]), the Grant character is a killer, but Hitchcock and the studio felt Grant's image would be tarnished by that ending. Though a homicide would have suited him better, as he stated to François Truffaut, Hitchcock settled for an ambiguous finale.<ref>Thomas Leitch, ''The Encyclopedia of Alfred Hitchcock'', Facts on File, New York, pp. 324–325, ISBN 978-0-8160-4386-6</ref>
+
+''[[Saboteur (film)|Saboteur]]'' (1942) was the first of two films that Hitchcock made for [[Universal Studios|Universal]], a studio where he would continue his career during his later years. Hitchcock was forced to use Universal contract players [[Robert Cummings]] and [[Priscilla Lane]], both known for their work in comedies and light dramas.<ref>Patrick Humphries (1994). "The Films of Alfred Hitchcock". p. 71.Random House Value Pub,</ref> Breaking with Hollywood conventions of the time, Hitchcock did extensive location filming, especially in New York City, and depicted a confrontation between a suspected saboteur (Cummings) and a real saboteur ([[Norman Lloyd (actor)|Norman Lloyd]]) atop the [[Statue of Liberty]]. That year he also directed ''Have You Heard?'', a photographic dramatisation of the [[Loose lips sink ships|dangers of rumours during wartime]], for ''Life'' magazine.<ref name="life1942071368">{{cite news | url=http://books.google.com/books?id=3E0EAAAAMBAJ&lpg=PA21&pg=PA68#v=onepage&q&f=true | title="Have You Heard?": The Story of Wartime Rumors | work=Life | date=13 July 1942 | accessdate=17 November 2011 | pages=68–73}}</ref>
+
+''[[Shadow of a Doubt]]'' (1943), Hitchcock's personal favourite of all his films and the second of the early Universal films,<ref>In an interview on the Dick Cavett show aired on 8 June 1972, when asked if he had a personal favourite, Hitchcock responded that it was ''Shadow of a Doubt''.</ref> was about young Charlotte "Charlie" Newton ([[Teresa Wright]]), who suspects her beloved uncle Charlie Oakley ([[Joseph Cotten]]) of being a serial murderer. Hitchcock again filmed extensively on location, this time in the Northern California city of [[Santa Rosa, California|Santa Rosa]], during the summer of 1942. The director showcased his personal fascination with crime and criminals when he had two of his characters discuss various ways of killing people, to the obvious annoyance of Charlotte.
+
+Working at [[20th Century Fox]], Hitchcock adapted a script of [[John Steinbeck]]'s that recorded the experiences of the survivors of a German U-boat attack in the film ''[[Lifeboat (film)|Lifeboat]]'' (1944). The action sequences were shot in a small boat in the studio water tank. The locale also posed problems for Hitchcock's traditional cameo appearance. That was solved by having Hitchcock's image appear in a newspaper that [[William Bendix]] is reading in the boat, showing the director in a before-and-after advertisement for "Reduco-Obesity Slayer".<ref>Leitch, p. 181</ref>
+
+While at Fox, Hitchcock seriously considered directing the film version of [[A. J. Cronin]]'s novel about a Catholic priest in China,<ref name="Patrick McGilligan, p. 343">Patrick McGilligan, p. 343</ref> ''[[The Keys of the Kingdom (film)|The Keys of the Kingdom]]'', but the plans for this fell through. [[John M. Stahl]] ended up directing the 1944 film, which was produced by [[Joseph L. Mankiewicz]] and starred [[Gregory Peck]], among other luminaries.<ref name="Patrick McGilligan, p. 343"/>
+
+Returning to England for an extended visit in late 1943 and early 1944, Hitchcock made two short films for the [[Ministry of Information (United Kingdom)|British Ministry of Information]], ''[[Bon Voyage (1944 film)|Bon Voyage]]'' and ''[[Aventure Malgache]]''.<ref>{{cite web|title=Alfred Hitchcock's Bon Voyage & Aventure malgache|url=http://www.milestonefilms.com/products/alfred-hitchcocks-bon-voyage-aventure-malgache|publisher=Milestone Films|accessdate=11 February 2014}}</ref> The two British [[propaganda film]]s made for the [[Free French]], were the only films Hitchcock made in the French language, and "feature typical Hitchcockian touches".<ref>Patrick McGilligan, pp. 346–348</ref> In the 1990s, the two films were shown by [[Turner Classic Movies]] and released on home video.
+
+From late June to late July 1945, Hitchcock served as "treatment advisor" on a [[The Holocaust|Holocaust]] documentary which used footage provided by the Allied Forces.<ref name="Guardian">{{cite news|last1=Jeffries|first1=Stuart|title=The Holocaust film that was too shocking to show|url=http://www.theguardian.com/film/2015/jan/09/holocaust-film-too-shocking-to-show-night-will-fall-alfred-hitchcock|accessdate=1 February 2015|work=The Guardian|date=9 January 2015}}</ref> Produced by [[Sidney Bernstein, Baron Bernstein|Sidney Bernstein]] of the [[Ministry of Information (United Kingdom)|British Ministry of Information]], the film was assembled in London, and Bernstein brought his future 1948–49 production partner Hitchcock on board as a consultant for the film editing process for the British Ministry of Information and the [[United States Office of War Information|American Office of War Information]].<ref name="Guardian"/><ref>{{cite web|title=Memory of the Camps: Frequently Asked Questions|url=http://www.pbs.org/wgbh/pages/frontline/camp/faqs.html|publisher=PBS}}</ref> Commissioned  to provide irrefutable evidence of the Nazis’ crimes, the film, which in 1952 had been transferred from the British War Office film vaults to London's [[Imperial War Museum]], recorded the liberation of [[Nazi concentration camps]], and remained unreleased until 1985 when an edited version was broadcast as an episode of the [[PBS]] network series ''[[Frontline (U.S. TV series)|Frontline]]'' under the title the Imperial War Museum had given it: ''Memory of the Camps''.<ref>Patrick McGilligan, pp. 372–374</ref><ref>{{cite web |title= Memory of the Camps |url= http://www.pbs.org/wgbh/pages/frontline/camp |work=FRONTLINE |publisher=Public Broadcasting System (PBS) |accessdate=20 July 2014}}</ref> In 2014 the full-length version of the film, ''[[German Concentration Camps Factual Survey]]'', was completed and restored by film scholars at the Imperial War Museum.<ref name="Guardian"/>
+
+Hitchcock worked for Selznick again when he directed ''[[Spellbound (1945 film)|Spellbound]]'' (1945), which explored [[psychoanalysis]]<ref>{{cite web |last= Boyd |first= David |title= The Parted Eye: ''Spellbound'' and Psychoanalysis |url= http://archive.sensesofcinema.com/contents/00/6/spellbound.html |year= 2000}}</ref> and featured a dream sequence designed by [[Salvador Dalí]]. [[Gregory Peck]] plays amnesiac Dr. Anthony Edwardes under the treatment of analyst Dr. Peterson ([[Ingrid Bergman]]), who falls in love with him while trying to unlock his repressed past.<ref>Leitch, p. 310</ref> The dream sequence as it appears in the film is ten minutes shorter than was originally envisioned, having been edited by Selznick to make it "play" more effectively.<ref>{{Cite book|last=Leff|first=Leonard J.|title=Hitchcock and Selznick|isbn=0-520-21781-0|year=1987|publisher=University of California Press|pages=164–165}}</ref> Two point-of-view shots were achieved by building a large wooden hand (which would appear to belong to the character whose point of view the camera took) and out-sized props for it to hold: a bucket-sized glass of milk and a large wooden gun. For added novelty and impact, the climactic gunshot was hand-coloured red on (some copies of) the black-and-white film.
+Some of the original musical score by [[Miklós Rózsa]] (which makes use of the [[theremin]]) was later adapted by the composer into a concert piano concerto.
+
+[[File:Notorious1946.jpg|left|thumb|Grant and Bergman in ''[[Notorious (1946 film)|Notorious]]'' (1946)]]
+''[[Notorious (1946 film)|Notorious]]'' (1946) followed ''[[Spellbound (1945 film)|Spellbound]]''. According to Hitchcock, in his book-length interview with François Truffaut, Selznick sold the director, the two stars (Grant and Bergman) and the screenplay (by Ben Hecht) to RKO Radio Pictures as a "package" for $500,000 due to cost overruns on Selznick's ''[[Duel in the Sun (film)|Duel in the Sun]]'' (1946). ''Notorious'' starred Hitchcock regulars Ingrid Bergman and Cary Grant, and features a plot about Nazis, [[uranium]], and South America. It was a huge box office success and has remained one of Hitchcock's most acclaimed films.{{Citation needed|date=February 2009}} His prescient use of uranium as a plot device led to Hitchcock's being briefly under FBI surveillance. McGilligan writes that Hitchcock consulted Dr. [[Robert Millikan]] of [[Caltech]] about the development of an atomic bomb. Selznick complained that the notion was "science fiction", only to be confronted by the news stories of the detonation of two atomic bombs on [[Atomic bombings of Hiroshima and Nagasaki|Hiroshima and Nagasaki]] in Japan in August 1945.<ref>Patrick McGilligan, pp. 366–381</ref>
+
+After completing his final film for Selznick, ''[[The Paradine Case]]'' (1947), (a courtroom drama that critics found lost momentum because it apparently ran too long and exhausted its resource of ideas), Hitchcock formed an independent production company with his friend [[Sidney Bernstein, Baron Bernstein|Sidney Bernstein]] called [[Transatlantic Pictures]], through which he made two films, his first in colour and making use of long takes. With ''[[Rope (film)|Rope]]'' (1948), Hitchcock experimented with marshaling suspense in a confined environment, as he had done earlier with ''[[Lifeboat (film)|Lifeboat]]'' (1943). Appearing to have been shot in a single take, ''Rope'' was actually shot in 10 takes ranging from four and a half to 10&nbsp;minutes each; a 10-minute length of film being the maximum a camera's film magazine could hold at the time. Some transitions between reels were hidden by having a dark object fill the entire screen for a moment. Hitchcock used those points to hide the cut, and began the next take with the camera in the same place. Featuring [[James Stewart]] in the leading role, ''Rope'' was the first of four films Stewart would make with Hitchcock. It was inspired by the [[Leopold and Loeb]] case of the 1920s. Somehow Hitchcock's cameraman managed to move the bulky, heavy [[Technicolor]] camera quickly around the set as it followed the continuous action of the long takes.
+
+''[[Under Capricorn]]'' (1949), set in nineteenth-century Australia, also used the short-lived technique of long takes, but to a more limited extent. He again used Technicolor in this production, then returned to black-and-white films for several years. Transatlantic Pictures became inactive after these two unsuccessful films. But Hitchcock continued to produce his own films for the rest of his life.
+
+===1950s: Peak years===
+[[File:Rearwindow trailer 2.jpg|thumb|right|[[James Stewart]] and [[Grace Kelly]] in ''[[Rear Window]]'' (1954)]]
+
+Hitchcock filmed ''[[Stage Fright (1950 film)|Stage Fright]]'' (1950) in the UK. For the first time, he matched one of [[Warner Bros.]]'<ref>{{cite web | title=Warner Bros. Studios | url=http://www2.warnerbros.com/main/homepage/homepage.html | accessdate=6 March 2008}}</ref> most popular stars, [[Jane Wyman]], with the sultry German actress [[Marlene Dietrich]]. Hitchcock used several prominent British actors, including [[Michael Wilding (actor)|Michael Wilding]], [[Richard Todd]], and [[Alastair Sim]]. This was Hitchcock's first production for Warner Bros., which had distributed ''Rope'' and ''Under Capricorn'', because Transatlantic Pictures was experiencing financial difficulties.<ref>Patrick McGilligan, pp. 429, 774–775</ref>
+
+With the film ''[[Strangers on a Train (film)|Strangers on a Train]]'' (1951), based on the novel by [[Patricia Highsmith]], Hitchcock combined many elements from his preceding films. He approached [[Dashiell Hammett]] to write the dialogue but [[Raymond Chandler]] took over, then left over disagreements with the director.<ref>Leitch, p. 320</ref> Two men casually meet, one of whom speculates on a foolproof murder technique. He suggests that two people, each wishing to do away with someone, should each perform the other's murder. [[Farley Granger]]'s role was as the innocent victim of the scheme, while [[Robert Walker (actor)|Robert Walker]], previously known for "boy-next-door" roles, played the villain.<ref>Leitch, p.322</ref>
+
+[[Music Corporation of America|MCA]] head [[Lew Wasserman]], whose client list included [[James Stewart]], [[Janet Leigh]] and other actors who would appear in Hitchcock's films, had a significant impact in packaging and marketing Hitchcock's films beginning in the 1950s.
+
+After ''[[I Confess (film)|I Confess]]'' (1953) with [[Montgomery Clift]], three popular films starring [[Grace Kelly]] followed. ''[[Dial M for Murder]]'' (1954) was adapted from the stage play by [[Frederick Knott]]. [[Ray Milland]] plays the scheming villain, an ex-tennis pro who tries to murder his unfaithful wife (Kelly) for her money. When she kills the hired assassin in self-defense, Milland manipulates the evidence to make it look like a premeditated murder by his wife. Her lover, Mark Halliday ([[Robert Cummings]]), and Police Inspector Hubbard ([[John Williams (actor)|John Williams]]), work urgently to save her from execution.<ref>Leitch, pp. 78–80</ref> With ''Dial M,'' Hitchcock experimented with [[3-D film|3D]] cinematography. The public was growing weary of the gimmick by the time of the film's release, however, and it was shown in 3D only in a few first-run engagements. The 3D version has been revived occasionally, including a brief reissue in some major US cities in the 1980s. The film marked a return to color productions for Hitchcock.
+
+Hitchcock then moved to [[Paramount Pictures]] and filmed ''[[Rear Window]]'' (1954), starring James Stewart and Kelly again, as well as [[Thelma Ritter]] and [[Raymond Burr]]. Stewart's character, a photographer based on [[Robert Capa]], must temporarily use a wheelchair; out of boredom he begins observing his neighbours across the courtyard, and becomes convinced one of them (Raymond Burr) has murdered his wife. Stewart tries to sway both his glamorous model-girlfriend (Kelly), whom screenwriter [[John Michael Hayes]] based on his own wife, and his policeman buddy ([[Wendell Corey]]) to his theory, and eventually succeeds.<ref name="Leitch1">Leitch, p. 269</ref> As with ''Lifeboat'' and ''Rope'', the principal characters were almost entirely confined to a small space, in this case Stewart's tiny studio apartment overlooking a massive courtyard. Hitchcock used close-ups of Stewart's face to show his character's reactions to all he sees, "from the comic voyeurism directed at his neighbours to his helpless terror watching Kelly and Burr in the villain's apartment".<ref name="Leitch1"/>
+
+In 1955, Hitchcock became a United States citizen.<ref>Patrick Mcgilligan, p. 512</ref> His third Kelly film, ''[[To Catch a Thief]]'' (1955), set in the French Riviera, paired her with Cary Grant. He plays retired thief John Robie, who becomes the prime suspect for a spate of robberies in the Riviera. A thrill-seeking American heiress played by Kelly surmises his true identity and tries to seduce him. "Despite the obvious age disparity between Grant and Kelly and a lightweight plot, the witty script (loaded with double entendres) and the good-natured acting proved a commercial success."<ref>Leitch, p. 366</ref> It was Hitchcock's last film with Kelly. She married [[Prince Rainier]] of [[Monaco]] in 1956, and the residents of her new land were against her making any more films.
+
+Hitchcock successfully remade his own [[The Man Who Knew Too Much (1934 film)|1934 film]] ''The Man Who Knew Too Much'' [[The Man Who Knew Too Much (1956 film)|in 1956]]. This time, the film starred Stewart and [[Doris Day]], who sang the theme song, "[[Que Sera, Sera (Whatever Will Be, Will Be)]]", which won the Oscar for Best Original Song and became a big hit for her. They play a couple whose son is kidnapped to prevent them from interfering with an assassination. As in the 1934 film, the climax takes place at the [[Royal Albert Hall]], London.<ref>Royal S. Brown (1994). "Overtones and Undertones: Reading Film Music". p. 75. University of California Press, 1994</ref>
+
+[[File:Vertigo 1958 trailer embrace 2.jpg|right|thumb|[[James Stewart]] and [[Kim Novak]] in ''[[Vertigo (film)|Vertigo]]'' (1958)]]
+
+''[[The Wrong Man]]'' (1957), Hitchcock's final film for Warner Bros., was a low-key black-and-white production based on a real-life case of mistaken identity reported in Life Magazine in 1953. This was the only film of Hitchcock to star [[Henry Fonda]]. Fonda plays a Stork Club musician mistaken for a liquor store thief who is arrested and tried for robbery while his wife (newcomer [[Vera Miles]]) emotionally collapses under the strain. Hitchcock told Truffaut that his lifelong fear of the police attracted him to the subject and was embedded in many scenes.<ref>Leitch, p. 377</ref>
+
+''[[Vertigo (film)|Vertigo]]'' (1958) again starred Stewart, this time with [[Kim Novak]] and [[Barbara Bel Geddes]]. Stewart plays "Scottie", a former police investigator suffering from [[acrophobia]], who develops an obsession with a woman he is shadowing (Novak). Scottie's obsession leads to tragedy, and this time Hitchcock does not opt for a happy ending. The film contains a camera technique developed by Irmin Roberts that has been copied many times by filmmakers, wherein the image appears to "stretch". This is achieved by moving the camera in the opposite direction of the camera's zoom. It has become known by many nicknames, including [[Dolly zoom]], "Zolly," "Hitchcock Zoom," and "Vertigo Effect."
+
+Although the film is widely considered a classic today, ''Vertigo'' met with negative reviews and poor box office receipts upon its release, and was the last collaboration between Stewart and Hitchcock.<ref>Leitch, pp. 376–377</ref> Although ranked second (behind ''[[Citizen Kane]]'') for almost 50 years the film was voted top by critics in the 2012 ''[[Sight and Sound|Sight & Sound]]'' decade poll. It was premiered in the [[San Sebastián International Film Festival]],<ref>{{cite web |title= Donostia Zinemaldia Festival de San Sebastian International Film Festival |url= http://www.sansebastianfestival.com/2007/es3/portada.php |accessdate=6 March 2008| archiveurl= http://web.archive.org/web/20080306044915/http://www.sansebastianfestival.com/2007/es3/portada.php| archivedate= 6 March 2008| deadurl= no}}</ref> where Hitchcock won a Silver Seashell.
+[[File:North by Northwest movie trailer screenshot (12).jpg|right|thumb|Cary Grant in ''[[North by Northwest]]'' (1959)]]
+By this time, Hitchcock had filmed in many areas of the United States.<ref>{{cite web |title= Hitchcock's America Lifelong Learning Institute-Fall 2001: Hitchcock Filming Sites and Points of Interest in the US |publisher=Sonoma State University |url= http://yorty.sonoma.edu/filmfrog/archive/hitchmap.html |accessdate=5 March 2008}}{{dead link|date=March 2013}}</ref> He followed ''Vertigo'' with three more successful films. Two are also recognised as among his best movies: ''[[North by Northwest]]'' (1959) and ''[[Psycho (1960 film)|Psycho]]'' (1960). The third film was ''[[The Birds (film)|The Birds]]'' (1963).
+
+In ''North by Northwest'', Cary Grant portrays Roger Thornhill, a Madison Avenue advertising executive who is mistaken for a government secret agent.<ref>Leitch, p. 234</ref> He is hotly pursued across the United States by enemy agents, apparently one of them being Eve Kendall ([[Eva Marie Saint]]), in fact working undercover.
+
+===1960: ''Psycho''===
+''[[Psycho (1960 film)|Psycho]]'' is almost certainly Hitchcock's best-known film.<ref>Leitch, p. 260</ref> Produced on a constrained budget of $800,000, it was shot in black-and-white on a spare set using crew members from his television show ''Alfred Hitchcock Presents''.<ref>Leitch, p. 261</ref> The unprecedented violence of the shower scene, the early death of the heroine, the innocent lives extinguished by a disturbed murderer became the defining hallmarks of a new horror movie genre and have been copied by many authors of subsequent films.<ref>Leitch, p. 262</ref>
+
+The public loved the film, with lines stretching outside of theatres as people had to wait for the next showing. It broke box-office records in China{{citation needed|date=November 2012}} and the rest of Asia, France, [[UK|Britain]], South America, the United States and Canada, and was a moderate success in Australia for a brief period.<ref name="Leigh 1995">[[Janet Leigh|Leigh, Janet]] with Christopher Nickens. ''Psycho: Behind the Scenes of the Classic Thriller''. Harmony Press, 1995.</ref> It was the most profitable black-and-white sound film ever made,{{citation needed|date=October 2014}} and the most profitable of Hitchcock's career; Hitchcock personally earned well in excess of $15 million. He subsequently swapped his rights to ''Psycho'' and his TV anthology for 150,000 shares of [[MCA Inc.|MCA]], making him the third largest shareholder in MCA Inc. and his own boss at Universal, in theory at least, but that did not stop them from interfering with him.<ref name="Leigh 1995"/><ref name="Stephen Rebello 1990">Stephen Rebello, ''Alfred Hitchcock and the Making of Psycho'', Soft Skull Press, Berkeley, 1990.</ref> 'Hitchcock's second most profitable was ''[[Family Plot]]'', earning $7.5 million, and third place was a tie between ''[[Torn Curtain]]'' (1966) and ''[[Frenzy]]'' (1972), each earning $6.5 million.
+
+===After 1960===
+''[[The Birds (film)|The Birds]]'', inspired by a [[The Birds (story)|short story]] by English author [[Daphne du Maurier]] and by a news story about a mysterious infestation of birds in [[Capitola, California]], was Hitchcock's 49th film, and was filmed in [[Bodega Bay, California|Bodega Bay]], California.<ref>Leitch, p. 32</ref> Newcomer [[Tippi Hedren]] made her screen debut in the film, co-starring [[Rod Taylor]] and [[Suzanne Pleshette]]. The scenes of the birds attacking included hundreds of shots mixing live and animated sequences. The cause of the birds' attack is left unanswered, "perhaps highlighting the mystery of forces unknown".<ref>Leitch, p. 33</ref> Hitchcock cast Hedren again opposite [[Sean Connery]] in his next film, ''[[Marnie (film)|Marnie]]'', a romantic drama and psychological thriller. Decades later, Hedren called Hitchcock a misogynist and said that Hitchcock effectively ended her career by keeping her to an exclusive contract for two years when she rebuffed his sexual advances.<ref>{{cite news|last=Goldman|first=Andrew|title=The Revenge of Alfred Hitchcock's Muse|url=http://www.nytimes.com/2012/10/07/magazine/the-revenge-of-tippi-hedren-alfred-hitchcocks-muse.html|newspaper=New York Times|date=5 October 2012}}</ref><ref name=FT-2012-07-27>{{cite news|last=Millard |first=Rosie |url=http://www.ft.com/cms/s/2/14e3358c-d5f1-11e1-a5f3-00144feabdc0.html#axzz2HbGxCPMO |title=Hitchcock's girl |publisher=Pearson PLC |newspaper=Financial Times |date=27 July 2012 |accessdate=19 January 2013}}</ref> However, Hedren appeared in two TV shows during the two years after ''Marnie'', and in over eighty films and TV shows after that period.<ref>Moral, Tony Lee. ''Hitchcock and the Making of Marnie'', Scarecrow Pres, 2013 (Revised Edition), p 265. ISBN 978-0-8108-9107-4</ref> In 2012, Hedren described Hitchcock as a "sad character"; a man of "unusual genius", yet "evil, and deviant, almost to the point of dangerous, because of the effect that he could have on people that were totally unsuspecting."<ref name=Crum_08_02_2012>{{cite web |last=Crum |first=Amanda |title=Tippi Hedren: Alfred Hitchcock Was "Evil" And "Dangerous" |url=http://www.webpronews.com/tippi-hedren-alfred-hitchcock-was-evil-and-dangerous-2012-08 |date=2 October 2012|accessdate=24 October 2012}}</ref> In response, a ''Daily Telegraph'' article quoted several actresses who had worked with Hitchcock, including [[Eva Marie Saint]], [[Doris Day]] and [[Kim Novak]], none of whom shared Hedren's opinion about him.<ref name=Telegraph-2012-12-26>{{cite news|last=Millward |first=David |url=http://www.telegraph.co.uk/news/celebritynews/9766218/BBC-under-fire-over-Hitchcock-drama.html |title=BBC under fire over Hitchcock drama |newspaper=The Daily Telegraph |date=26 December 2012 |accessdate=4 January 2013}}</ref> Novak, who worked on Hitchcock's ''[[Vertigo (film)|Vertigo]]'', told the ''Telegraph'' "I never saw him make a pass at anybody or act strange to anybody."<ref>{{cite news|first=Richard |last=Rushfield |url=http://www.telegraph.co.uk/culture/film/9586303/Kim-Novak-tells-all.html |title=Kim Novak tells all |publisher=Telegraph Media Group |newspaper=The Daily Telegraph |date=8 October 2012 |accessdate=23 January 2014}}</ref>
+
+''Psycho'' and ''The Birds'' had unconventional soundtracks: the screeching strings played in the murder scene in ''Psycho'' were unusually dissonant, and ''The Birds'' dispensed with any conventional score, instead using a [[The Birds (film)#Soundtrack|new technique]] of electronically produced sound effects. [[Bernard Herrmann]] composed the former and was a consultant on the latter.
+
+Failing health reduced Hitchcock's output during the last two decades of his career. Biographer Stephen Rebello claimed Universal "forced" two movies on him, ''[[Torn Curtain]]'' and ''[[Topaz (1969 film)|Topaz]]''.<ref name="Stephen Rebello 1990"/><ref>[[Janet Leigh|Leigh, Janet]] with Christopher Nickens.</ref> Both were spy thrillers set with [[Cold War]]-related themes. The first, ''[[Torn Curtain]]'' (1966), with [[Paul Newman]] and [[Julie Andrews]], precipitated the bitter end of the twelve-year collaboration between Hitchcock and composer Bernard Herrmann. Herrmann was fired when Hitchcock was unsatisfied with his score. ''[[Topaz (1969 film)|Topaz]]'' (1969), based on a [[Leon Uris]] novel, is partly set in Cuba. Both received mixed reviews from critics.
+
+In 1972, Hitchcock returned to England to film his second to last film ''[[Frenzy]]''. After two only moderately successful espionage films, the plot marks a return to the murder thriller genre of earlier in his career, and is based upon the novel ''[[Goodbye Piccadilly, Farewell Leicester Square]]''. The plot centres on a serial killer in contemporary London. In a very early scene there is dialogue that mentions two actual London serial murder cases: the [[John Christie (murderer)|Christie murders]] in the early 1950s, and the [[Jack the Ripper]] murders in 1888. The basic story recycles his early film ''The Lodger''. Richard Blaney ([[Jon Finch]]), a volatile barkeeper with a history of explosive anger, becomes the prime suspect for the "Necktie Murders," which are actually committed by his friend Bob Rusk ([[Barry Foster (actor)|Barry Foster]]).<ref name="Leitch2">Leitch, p. 114</ref> This time, Hitchcock makes the victim and villain kindreds, rather than opposites, as in ''Strangers on a Train''. Only one of them, however, has crossed the line to murder.<ref name="Leitch2"/> For the first time, Hitchcock allowed nudity and profane language, which had previously been taboo, in one of his films. He also shows rare sympathy for the chief inspector and his comic domestic life.<ref>Leitch, p. 115</ref>
+
+Biographers have noted that Hitchcock had always pushed the limits of film censorship, often managing to fool [[Joseph Breen]], the longtime head of Hollywood's [[Production Code]]. Many times Hitchcock slipped in subtle hints of improprieties forbidden by censorship until the mid-1960s. Yet Patrick McGilligan wrote that Breen and others often realised that Hitchcock was inserting such things and were actually amused as well as alarmed by Hitchcock's "inescapable inferences".<ref>Patrick McGilligan, p. 249</ref> Beginning with ''Torn Curtain'', Hitchcock was finally able to blatantly include plot elements previously forbidden in American films and this continued for the remainder of his film career.
+[[File:Hitch-at-work;1975-FamilyPlot;SF-On-Location.jpg|thumb|upright|right|Hitchcock at work on location in San Francisco for ''[[Family Plot]]'']]
+''[[Family Plot]]'' (1976) was Hitchcock's last film. It relates the escapades of "Madam" Blanche Tyler, played by [[Barbara Harris (actress)|Barbara Harris]], a fraudulent spiritualist, and her taxi driver lover [[Bruce Dern]], making a living from her phony powers. [[William Devane]], [[Karen Black]] and [[Cathleen Nesbitt]] co-starred. It is the only Hitchcock film scored by [[John Williams]]. Based on the [[Victor Canning]] novel ''The Rainbird Pattern'', the novel's tone is more sinister and dark than what Hitchcock wanted for the film. Screenwriter [[Ernest Lehman]] originally wrote the film with a dark tone but was pushed to a lighter, more comical tone by Hitchcock. The film went through various titles including ''Deceit'' and ''Missing Heir''. It was changed to ''Family Plot'' at the suggestion of the studio.
+
+===Last project and death===
+Near the end of his life, Hitchcock had worked on the script for a projected spy thriller, ''[[The Short Night]]'', collaborating with screenwriters [[James Costigan]], [[Ernest Lehman]] and [[David Freeman (screenwriter)|David Freeman]]. Despite some preliminary work, the story was never filmed. This was caused primarily by Hitchcock's own failing health and his concerns over the health of his wife, Alma, who had suffered a stroke. The screenplay was eventually published in Freeman's 1999 book ''The Last Days of Alfred Hitchcock''.<ref>Patrick McGilligan, pp. 731–734</ref><ref>{{cite book |last= Freeman |first= David |title= The Last Days of Alfred Hitchcock |year= 1999 |publisher=Overlook |isbn= 978-0-87951-728-1}}</ref>
+
+Hitchcock died at age 80 in his [[Bel Air, Los Angeles|Bel Air]] home of [[renal failure]] at 9:17&nbsp;am EDT on 29 April 1980.<ref>Patrick Mcgilligan (2010). "Alfred Hitchcock: A Life in Darkness and Light". p. 745. Harper Collins</ref> While biographer Spoto wrote that Hitchcock "rejected suggestions that he allow a priest&nbsp;... to come for a visit, or celebrate a quiet, informal ritual at the house for his comfort," Jesuit priest Father Mark Henninger wrote that he and fellow priest Tom Sullivan celebrated Mass at the filmmaker's home; Father Sullivan heard Hitchcock's confession.<ref>{{cite news | first = Mark | last = Henninger | work = [[The Wall Street Journal]] |title=Alfred Hitchcock's Surprise Ending | url = http://online.wsj.com/article/SB10001424127887323401904578159573738040636.html | date = 6 December 2012 | archiveurl = http://web.archive.org/web/20130207190149/http://online.wsj.com/article/SB10001424127887323401904578159573738040636.html | archivedate = 7 February 2013 | deadurl = no}}</ref> He was survived by his wife and their daughter. Hitchcock's funeral Mass was held at Good Shepherd Catholic Church in Beverly Hills on 30 April 1980, after which his body was [[cremated]] and his remains were scattered over the Pacific Ocean on 10 May 1980.<ref name="obit">{{cite news |last= Flint |first= Peter B. |title= Alfred Hitchcock Dies; A Master of Suspense; Alfred Hitchcock, Master of Suspense and Celebrated Film Director, Dies at 80 Increasingly Pessimistic Sought Exotic Settings Technical Challenges Became a Draftsman Lured to Hollywood |url=http://query.nytimes.com/gst/abstract.html?res=9401E7DE1230E532A25753C3A9629C94619FD6CF |date= 30 April 1980 |work=[[The New York Times]] | accessdate=7 March 2008}}</ref>
+
+==Signature appearances in his films==
+{{Main|List of Alfred Hitchcock cameo appearances}}
+Hitchcock appears briefly in most of his own films. For example, he is seen struggling to get a [[double bass]] onto a train (''[[Strangers on a Train (film)|Strangers on a Train]]''), walking dogs out of a pet shop (''[[The Birds (film)|The Birds]]''), fixing a neighbour's clock (''[[Rear Window]]''), as a shadow (''[[Family Plot]]''), sitting at a table in a photograph (''[[Dial M for Murder]]'') and missing a bus (''[[North by Northwest]]'').
+
+==Themes, plot devices and motifs==
+{{Main|Themes and plot devices in the films of Alfred Hitchcock}}
+
+Hitchcock returned several times to cinematic devices such as suspense, the audience as [[voyeur]], and his well-known "[[MacGuffin]]," a plot device that is essential to the characters on the screen, but is irrelevant to the audience. Thus, the MacGuffin was always hazily described (in "North By Northwest," Leo G. Carroll describes James Mason as an "importer-exporter.")
+
+A central theme of Hitchcock's films was murder and the [[psychology]] behind it.<ref name="McDevittJuan2009">{{cite book|last1=McDevitt|first1=Jim|last2=Juan|first2=Eric San|title=A Year of Hitchcock: 52 Weeks with the Master of Suspense|url=http://books.google.com/books?id=VP_DGfInVBcC&pg=PA369|date=1 April 2009|publisher=Scarecrow Press|isbn=978-0-8108-6389-7|page=369}}</ref><ref name="RaubicheckSrebnick1991">{{cite book|last1=Raubicheck|first1=Walter|last2=Srebnick|first2=Walter|title=Hitchcock's Rereleased Films: From Rope to Vertigo|url=http://books.google.com/books?id=CfVeQ5BaPVsC&pg=PA122|year=1991|publisher=Wayne State University Press|isbn=0-8143-2326-X|page=122}}</ref>
+
+==Psychology of characters==
+Hitchcock's films sometimes feature characters struggling in their relationships with their mothers. In ''[[North by Northwest]]'' (1959), Roger Thornhill ([[Cary Grant]]'s character) is an innocent man ridiculed by his mother for insisting that shadowy, murderous men are after him. In ''[[The Birds (film)|The Birds]]'' (1963), the [[Rod Taylor]] character, an innocent man, finds his world under attack by vicious birds, and struggles to free himself of a clinging mother ([[Jessica Tandy]]). The killer in ''[[Frenzy]]'' (1972) has a loathing of women but idolises his mother. The villain Bruno in ''Strangers on a Train'' hates his father, but has an incredibly close relationship with his mother (played by [[Marion Lorne]]). Sebastian ([[Claude Rains]]) in ''[[Notorious (1946 film)|Notorious]]'' has a clearly conflictual relationship with his mother, who is (correctly) suspicious of his new bride Alicia Huberman ([[Ingrid Bergman]]). Norman Bates has troubles with his [[Norma Bates (Psycho)|mother]] in ''[[Psycho (1960 film)|Psycho]]''.
+
+Hitchcock heroines tend to be blondes.<ref name="whitington" /><ref name="dowd" /> The famous victims in ''The Lodger'' are all blondes. In ''[[The 39 Steps (1935 film)|The 39 Steps]]'', Hitchcock's glamorous blonde star, [[Madeleine Carroll]], is put in handcuffs. In ''[[Marnie (film)|Marnie]]'' (1964), the title character (played by [[Tippi Hedren]]) is a [[thief]]. In ''[[To Catch a Thief]]'' (1955), Francie ([[Grace Kelly]]) offers to help a man she believes is a burglar. In ''[[Rear Window]]'', Lisa (Grace Kelly again) risks her life by breaking into Lars Thorwald's apartment. The best-known example is in ''Psycho'' where [[Janet Leigh]]'s unfortunate character steals $40,000 and is murdered by a reclusive psychopath. Hitchcock's last blonde heroine was—years after [[Dany Robin]] and her "daughter" [[Claude Jade]] in ''[[Topaz (1969 film)|Topaz]]''—[[Barbara Harris (actress)|Barbara Harris]] as a phony psychic turned amateur sleuth in his final film, 1976's ''[[Family Plot]]''. In the same film, the diamond smuggler played by [[Karen Black]] could also fit that role, as she wears a long blonde wig in various scenes and becomes increasingly uncomfortable about her line of work.
+
+Some critics and Hitchcock scholars, including Donald Spoto and [[Roger Ebert]], agree that ''[[Vertigo (film)|Vertigo]]'' represents the director's most personal and revealing film, dealing with the obsessions of a man who crafts a woman into the woman he desires. ''Vertigo'' explores more frankly and at greater length his interest in the relation between sex and death than any other film in his filmography.<ref>{{cite book|last=Kehr|first=Dave|title=When Movies Mattered: Reviews from a Transformative Decade|year=2011|publisher=University of Chicago Press|location=Chicago|isbn=978-0-226-42940-3|page=259|url=http://books.google.com/books?id=ZGgPCODtVZsC&printsec=frontcover#v=onepage&q&f=false}}</ref>
+
+Hitchcock often said that his favourite film (of his own work) was ''[[Shadow of a Doubt]]''.<ref name=Cavett/>
+
+==Style of working==
+
+===Writing===
+Hitchcock once commented, "The writer and I plan out the entire script down to the smallest detail, and when we're finished all that's left to do is to shoot the film. Actually, it's only when one enters the studio that one enters the area of compromise. Really, the novelist has the best casting since he doesn't have to cope with the actors and all the rest." In an interview with Roger Ebert in 1969, Hitchcock elaborated further:
+{{quote|Once the screenplay is finished, I'd just as soon not make the film at all&nbsp;... I have a strongly visual mind. I visualise a picture right down to the final cuts. I write all this out in the greatest detail in the script, and then I don't look at the script while I'm shooting. I know it off by heart, just as an orchestra conductor needs not look at the score&nbsp;... When you finish the script, the film is perfect. But in shooting it you lose perhaps 40 percent of your original conception.<ref>{{cite news|url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19691214/PEOPLE/912140301/1023 |title=Hitchcock: "Never mess about with a dead body – you may be one&nbsp;..." |publisher=Rogerebert.suntimes.com |date=14 December 1969 |accessdate=26 July 2009}}</ref>}}
+
+In ''Writing with Hitchcock'', a book-length study of Hitchcock's working method with his writers, author Steven DeRosa noted that "Although he rarely did any actual 'writing', especially on his Hollywood productions, Hitchcock supervised and guided his writers through every draft, insisting on a strict attention to detail and a preference for telling the story through visual rather than verbal means. While this exasperated some writers, others admitted the director inspired them to do their very best work. Hitchcock often emphasised that he took no screen credit for the writing of his films. However, over time the work of many of his writers has been attributed solely to Hitchcock's creative genius, a misconception he rarely went out of his way to correct. Notwithstanding his technical brilliance as a director, Hitchcock relied on his writers a great deal."<ref>Steven DeRosa, ''Writing with Hitchcock'', New York: Faber and Faber, 2001, p. xi.</ref>
+
+===Storyboards and production===
+Hitchcock's films were strongly believed to have been extensively storyboarded to the finest detail by the majority of commentators over the years. He was reported to have never even bothered looking through the [[viewfinder]], since he did not need to, though in publicity photos he was shown doing so. He also used this as an excuse to never have to change his films from his initial vision. If a studio asked him to change a film, he would claim that it was already shot in a single way, and that there were no alternate takes to consider.
+[[File:Alfred Hitchcock by Jack Mitchell.jpg|thumb|upright|left|Alfred Hitchcock by [[Jack Mitchell (photographer)|Jack Mitchell]]]]
+However, this view of Hitchcock as a director who relied more on pre-production than on the actual production itself has been challenged by the book ''Hitchcock at Work'', written by Bill Krohn, the American correspondent of ''[[Cahiers du cinéma]]''. Krohn, after investigating several script revisions, notes to other production personnel written by or to Hitchcock alongside inspection of storyboards, and other production material, has observed that Hitchcock's work often deviated from how the screenplay was written or how the film was originally envisioned. He noted that the myth of storyboards in relation to Hitchcock, often regurgitated by generations of commentators on his movies, was to a great degree perpetuated by Hitchcock himself or the publicity arm of the studios. A great example would be the celebrated crop-spraying sequence of ''North by Northwest'' which was not storyboarded at all. After the scene was filmed, the publicity department asked Hitchcock to make storyboards to promote the film and Hitchcock in turn hired an artist to match the scenes in detail.
+
+Even when storyboards were made, scenes that were shot differed from them significantly. Krohn's extensive analysis of the production of Hitchcock classics like ''Notorious'' reveals that Hitchcock was flexible enough to change a film's conception during its production. Another example Krohn notes is the American remake of ''The Man Who Knew Too Much,'' whose shooting schedule commenced without a finished script and moreover went over schedule, something that, as Krohn notes, was not an uncommon occurrence on many of Hitchcock's films, including ''[[Strangers on a Train (film)|Strangers on a Train]]'' and ''[[Topaz (1969 film)|Topaz]]''. While Hitchcock did do a great deal of preparation for all his movies, he was fully cognizant that the actual film-making process often deviated from the best-laid plans and was flexible to adapt to the changes and needs of production as his films were not free from the normal hassles faced and common routines utilized during many other film productions.
+
+Krohn's work also sheds light on Hitchcock's practice of generally shooting in chronological order, which he notes sent many films over budget and over schedule and, more importantly, differed from the standard operating procedure of Hollywood in the Studio System Era. Equally important is Hitchcock's tendency to shoot alternate takes of scenes. This differed from coverage in that the films were not necessarily shot from varying angles so as to give the editor options to shape the film how he/she chooses (often under the producer's aegis). Rather they represented Hitchcock's tendency of giving himself options in the editing room, where he would provide advice to his editors after viewing a rough cut of the work. According to Krohn, this and a great deal of other information revealed through his research of Hitchcock's personal papers, script revisions and the like refute the notion of Hitchcock as a director who was always in control of his films, whose vision of his films did not change during production, which Krohn notes has remained the central long-standing myth of Alfred Hitchcock.
+
+His fastidiousness and attention to detail also found its way into each [[film poster]] for his films. Hitchcock preferred to work with the best talent of his day—film poster designers such as [[Bill Gold]] and [[Saul Bass]]—and kept them busy with countless rounds of revision until he felt that the single image of the poster accurately represented his entire film.{{Citation needed|date=March 2014}}
+
+===Approach to actors===
+{{Quote box
+| quote  = "The length of a film should be directly related to the endurance of the human bladder."
+| source = —Alfred Hitchcock
+| width  = 25em
+| align  = right
+}}
+
+Similarly, much of Hitchcock's supposed dislike of actors has been exaggerated. Hitchcock simply did not tolerate the [[Method acting|method]] approach, as he believed that actors should only concentrate on their performances and leave work on script and character to the directors and screenwriters. In a ''[[Sight and Sound]]'' interview, he stated that, 'the method actor is OK in the theatre because he has a free space to move about. But when it comes to cutting the face and what he sees and so forth, there must be some discipline'.<ref>{{cite web|title=Alfred Hitchcock| publisher=BFI (Because Films Inspire)| url=http://www.bfi.org.uk/features/interviews/hitchcock.html#actors | accessdate=4 March 2008| archiveurl= http://web.archive.org/web/20080210051052/http://www.bfi.org.uk/features/interviews/hitchcock.html| archivedate= 10 February 2008 | deadurl= no}}</ref> He often used the same actors in many of his films.
+
+During the making of ''Lifeboat'', [[Walter Slezak]], who played the German villain, stated that Hitchcock knew the mechanics of acting better than anyone he knew. Several critics have observed that despite his reputation as a man who disliked actors, several actors who worked with him gave fine, often brilliant performances and these performances contribute to the film's success. As more fully discussed above, in "Inter-War British Career," actress [[Dolly Haas]], who was a personal friend of Hitchcock and who acted for him in the 1953 film ''[[I Confess (film)|I Confess]]'', stated that Hitchcock regarded actors as "animated props."
+
+For Hitchcock, the actors, like the props, were part of the film's setting, as he said to Truffaut:
+
+<blockquote>In my opinion, the chief requisite for an actor is the ability to do nothing well, which is by no means as easy as it sounds. He should be willing to be utilised and wholly integrated into the picture by the director and the camera. He must allow the camera to determine the proper emphasis and the most effective dramatic highlights.<ref>{{harvnb|Truffaut|1984|p=153}}</ref></blockquote>
+
+Regarding Hitchcock's sometimes less than pleasant relationship with actors, there was a persistent rumour that he had said that actors were cattle. Hitchcock addressed this story in his interview with François Truffaut:
+
+<blockquote>I'm not quite sure in what context I might have made such a statement. It may have been made&nbsp;... when we used actors who were simultaneously performing in stage plays. When they had a matinee, and I suspected they were allowing themselves plenty of time for a very leisurely lunch. And this meant that we had to shoot our scenes at breakneck speed so that the actors could get out on time. I couldn't help feeling that if they'd been really conscientious, they'd have swallowed their sandwich in the cab, on the way to the theatre, and get there in time to put on their make-up and go on stage. I had no use for that kind of actor.<ref name="Truffaut, François 1984. p. 140">{{harvnb|Truffaut|1984|p=140}}</ref></blockquote>
+
+[[Carole Lombard]], tweaking Hitchcock and drumming up a little publicity, brought some cows along with her when she reported to the set of ''[[Mr. & Mrs. Smith (1941 film)|Mr. and Mrs. Smith]]''.<ref name="Truffaut, François 1984. p. 140"/>
+
+In the late 1950s, [[French New Wave]] critics, especially [[Éric Rohmer]], [[Claude Chabrol]] and [[François Truffaut]], were among the first to see and promote Hitchcock's films as artistic works. Hitchcock was one of the first directors to whom they applied their [[auteur theory]], which stresses the artistic authority of the director in the film-making process.
+
+Hitchcock's innovations and vision have influenced a great number of filmmakers, [[Film producer|producers]], and actors. His influence helped start a trend for film directors to control artistic aspects of their movies without answering to the movie's producer.
+
+==Awards and honours==
+{{Main|List of awards and nominations received by Alfred Hitchcock}}
+Hitchcock was a multiple nominee and winner of a number of prestigious awards, receiving two [[Golden Globes]], eight [[Laurel Awards]], and five [[lifetime achievement awards]] including the first [[BAFTA Academy Fellowship Award]], as well as being five times nominated for, albeit never winning, an [[Academy Award]] as Best Director. His film ''[[Rebecca (1940 film)|Rebecca]]'' (nominated for 11 Oscars) won the [[Academy Award for Best Picture#1940s|Academy Award for Best Picture of 1940]]—particularly notable as another Hitchcock film, ''[[Foreign Correspondent (film)|Foreign Correspondent]]'', was also nominated that same year.<ref>[http://www.oscars.org/awards/academyawards/legacy/ceremony/13th-winners.html "The 13th Academy Awards (1941) Nominees and Winners"]. 2012 Academy of Motion Picture Arts and Sciences</ref>
+[[File:Sir Alfred Hitchcock (4313226125).jpg|thumb|right|[[English Heritage]] [[Blue plaque]] in 153 [[Cromwell Road]], London, SW5 commemorating Hitchcock]]
+In addition to these, Hitchcock received a [[Orders, decorations, and medals of the United Kingdom|knighthood]] in 1980 when he was appointed a [[Knight Commander of the Most Excellent Order of the British Empire]] (KBE) by [[Elizabeth II|Queen Elizabeth II]] in the [[1980 New Year Honours]].<ref>Adair, Gene. "Alfred Hitchcock: Filming Our Fears". p. 145. Oxford University Press, 2002</ref> Asked by a reporter why it had taken the Queen so long, Hitchcock quipped, "I suppose it was a matter of carelessness".<ref>Haley, Michael. "The Alfred Hitchcock album". p. 2. Prentice-Hall, 1981</ref> An [[English Heritage]] [[blue plaque]], unveiled in 1999, marks where Sir Alfred Hitchcock lived in London at 153 [[Cromwell Road]], [[Royal Borough of Kensington and Chelsea|Kensington and Chelsea]], SW5.<ref name='EngHet'>{{cite web| url=http://openplaques.org/plaques/35|title=Sir Alfred Hitchcock 1899–1980 film director lived here 1926–1939|publisher=English Heritage| accessdate=19 November 2012}}</ref>
+
+In June 2013, nine restored versions of Hitchcock's early silent films, including his 1925 directorial debut, ''The Pleasure Garden'', were shown at the [[Brooklyn Academy of Music]]'s Harvey Theater. Known as "The Hitchcock 9," the traveling tribute was made possible by a $3 million program organized by the [[British Film Institute]].<ref name=Kehr>{{cite news|last=Kehr|first=Dave|title=Hitchcock, Finding His Voice in Silents|url=http://www.nytimes.com/2013/06/23/movies/silent-hitchcock-films-come-to-the-harvey-theater-in-brooklyn.html|accessdate=29 June 2013|newspaper=The New York Times|date=23 June 2013}}</ref>
+
+==Television, radio, and books==
+Along with [[Walt Disney]], Hitchcock was among the first prominent motion picture producers to fully envisage just how popular the medium of television would become. From 1955 to 1965, Hitchcock was the host and producer of a television series titled ''[[Alfred Hitchcock Presents]]''.<ref>{{cite web| title=Alfred Hitchcock Presents| publisher=TV.COM| url=http://www.tv.com/alfred-hitchcock-presents/show/238/summary.html | accessdate=5 March 2008| archiveurl= http://web.archive.org/web/20080125154314/http://www.tv.com/alfred-hitchcock-presents/show/238/summary.html?| archivedate= 25 January 2008 | deadurl= no}}</ref> While his films had made Hitchcock's name strongly associated with suspense, the TV series made Hitchcock a celebrity himself. His [[irony]]-tinged voice and signature droll delivery, gallows humour, iconic image and mannerisms became instantly recognisable and were often the subject of parody.
+
+The title-sequence of the show pictured a minimalist caricature of Hitchcock's profile (he drew it himself; it is composed of only nine strokes), which his real silhouette then filled. His introductions before the stories in his program always included some sort of wry humour, such as the description of a recent multi-person execution hampered by having only one [[electric chair]], while two are now shown with a sign "Two chairs—no waiting!". He directed 18 episodes of the TV series himself, which aired from 1955 to 1965 in two versions. It became ''[[The Alfred Hitchcock Hour]]'' in 1962.
+
+The series used a curious little tune as its title-theme. ''Funeral March of a Marionette'', by the French composer [[Charles Gounod]] (1818–1893),<ref>{{cite web| title =Alfred Hitchcock (suspense anthology)| publisher=Media Management Group|url =http://www.classicthemes.com/50sTVThemes/themePages/alfredHitchcock.html| accessdate=4 March 2008| archiveurl= http://web.archive.org/web/20080221144330/http://www.classicthemes.com/50sTVThemes/themePages/alfredHitchcock.html| archivedate= 21 February 2008 | deadurl= no}}</ref><ref>{{cite web| title =Filmography by year for Charles Gounod| publisher=Internet Movie Database| url =http://www.imdb.com/name/nm0006111/filmoyear| accessdate =4 March 2008}}</ref> the composer of the 1859 opera ''[[Faust (opera)|Faust]]'', was suggested to him by composer Bernard Herrmann.
+
+[[Arthur Fiedler]] and the [[Boston Pops Orchestra]] included the piece on one of their extended play 45-rpm discs for [[RCA Victor]] during the 1950s. ''Alfred Hitchcock Presents'' was parodied by [[Friz Freleng]]'s 1961 [[cartoon]] ''[[The Last Hungry Cat]]'', which contains a plot similar to ''Blackmail''.
+
+In the 1980s, a [[Alfred Hitchcock Presents (1985 TV series)|new version of ''Alfred Hitchcock Presents'']] was produced for television, making use of Hitchcock's original introductions in a [[Film colorization|colourised]] form.
+
+<!-- Deleted image removed: [[File:Al Hirschfeld Alfred Hitchcock Green.jpg|thumb|right|[[Al Hirschfeld]], Alfred Hitchcock. Painting for ''[[TV Guide]]'', 30 November 1957, promoting ''[[Alfred Hitchcock Presents]]''. Acquired from Hirschfeld's dealer, Margo Feiden, in 1996 by the National Portrait Gallery, Smithsonian Institution, Washington, DC.<ref name="autogenerated1957">TV Guide, 30 November 1957, Triangle Publications.</ref>]]  -->
+Hitchcock appears as a character in the popular juvenile detective book series, ''[[Three Investigators|Alfred Hitchcock and the Three Investigators]]''. The long-running detective series was created by [[Robert Arthur (writer)|Robert Arthur]], who wrote the first several books, although other authors took over after he left the series. The Three Investigators—Jupiter Jones, Bob Andrews and Peter Crenshaw—were amateur detectives, slightly younger than the [[Hardy Boys]]. In the introduction to each book, "Alfred Hitchcock" introduces the mystery, and he sometimes refers a case to the boys to solve. At the end of each book, the boys report to Hitchcock, and sometimes give him a memento of their case.
+
+At the height of Hitchcock's success, he was also asked to introduce a set of books with his name attached. The series was a collection of short stories by popular short-story writers, primarily focused on suspense and thrillers. These titles included ''[[Alfred Hitchcock's Anthology]]'', ''Alfred Hitchcock Presents: Stories to be Read with the Door Locked'', ''Alfred Hitchcock's Monster Museum'', ''Alfred Hitchcock's Supernatural Tales of Terror and Suspense'', ''Alfred Hitchcock's Spellbinders in Suspense'', ''Alfred Hitchcock's Witch's Brew'', ''Alfred Hitchcock's Ghostly Gallery'', ''Alfred Hitchcock's A Hangman's Dozen'', ''Alfred Hitchcock's Stories Not For the Nervous'' and ''Alfred Hitchcock's Haunted Houseful.'' Hitchcock himself was not actually involved in the reading, reviewing, editing or selection of the short stories; in fact, even his introductions were ghost-written. The entire extent of his involvement with the project was to lend his name and collect a cheque.
+
+Some notable writers whose works were used in the collection include [[Shirley Jackson]] (''Strangers in Town'', ''[[The Lottery]]''), [[T. H. White]] (''[[The Once and Future King]]''), [[Robert Bloch]], [[H. G. Wells]] (''[[The War of the Worlds (novel)|The War of the Worlds]]''), [[Robert Louis Stevenson]], [[Arthur Conan Doyle|Sir Arthur Conan Doyle]], [[Mark Twain]] and the creator of ''[[The Three Investigators]]'', [[Robert Arthur (writer)|Robert Arthur]]. In a similar manner, Hitchcock's name was licensed for a digest-sized monthly, ''[[Alfred Hitchcock's Mystery Magazine]]'', which has been published since 1956.
+
+Hitchcock also wrote a mystery story for ''[[Look (American magazine)|Look]]'' magazine in 1943, "The Murder of [[Monty Woolley]]". This was a sequence of captioned photographs inviting the reader to inspect the pictures for clues to the murderer's identity; Hitchcock cast the performers as themselves, such as Woolley, Doris Merrick and make-up man Guy Pearce, whom Hitchcock identified, in the last photo, as the murderer. The article was reprinted in ''[[Games (magazine)|Games]]'' Magazine in November/December 1980.
+
+In September 2010, [[BBC Radio 4 Extra|BBC Radio 7]] broadcast a series of five fifteen-minute programs entitled ''The Late Alfred Hitchcock Presents'' with Michael Roberts impersonating Alfred Hitchcock for introductory/concluding comments and reading the stories in his own voice.<ref>[http://www.bbc.co.uk/programmes/b00tqlfh "The Late Alfred Hitchcock Presents"]. BBC Radio 4 Extra.</ref> These five stories were originally intended for the television series, but were rejected because of their rather gruesome nature:
+* "The Waxwork" by [[A. M. Burrage]] (broadcast 13 September 2010)
+* "Sredni Vashtar" by [[Saki]] (broadcast 14 September 2010)
+* "The Perfectionist" by [[Margaret St. Clair]] (broadcast 15 September 2010)
+* "Being a Murderer Myself" by [[Arthur Williams (actor)|Arthur Williams]] (broadcast 16 September 2010)
+* "The Dancing Partner" by [[Jerome K. Jerome]] (broadcast 17 September 2010)
+
+==Filmography==
+{{Main|Alfred Hitchcock filmography}}
+{{col-begin}}{{col-break}}
+* ''[[Number 13 (film)|Number 13]]'' (1922) (unfinished)
+* ''[[Always Tell Your Wife]]'' (1923) 
+* ''[[The Pleasure Garden (film)|The Pleasure Garden]]'' (1925)
+* ''[[The Mountain Eagle]]'' (1926) (lost)
+* ''[[The Lodger: A Story of the London Fog]]'' (1927)
+* ''[[The Ring (1927 film)|The Ring]]'' (1927)
+* ''[[Downhill (film)|Downhill]]'' (1927)
+* ''[[The Farmer's Wife]]'' (1928)
+* ''[[Easy Virtue (1928 film)|Easy Virtue]]'' (1928)
+* ''[[Champagne (film)|Champagne]]'' (1928)
+* ''[[The Manxman]]'' (1929)
+* ''[[Blackmail (1929 film)|Blackmail]]'' (1929)
+* ''[[Juno and the Paycock (film)|Juno and the Paycock]]'' (1930)
+* ''[[Murder!]]'' (1930)
+* ''[[Elstree Calling]]'' (1930)
+* ''[[The Skin Game (1931 film)|The Skin Game]]'' (1931)
+* ''[[Mary (1931 film)|Mary]]'' (1931)
+* ''[[Rich and Strange]]'' (1931)
+* ''[[Number Seventeen]]'' (1932)
+* ''[[Waltzes from Vienna]]'' (1934)
+{{col-break}}
+* ''[[The Man Who Knew Too Much (1934 film)|The Man Who Knew Too Much]]'' (1934)
+* ''[[The 39 Steps (1935 film)|The 39 Steps]]'' (1935)
+* ''[[Secret Agent (1936 film)|Secret Agent]]'' (1936)
+* ''[[Sabotage (1936 film)|Sabotage]]'' (1936)
+* ''[[Young and Innocent]]'' (1937)
+* ''[[The Lady Vanishes (1938 film)|The Lady Vanishes]]'' (1938)
+* ''[[Jamaica Inn (film)|Jamaica Inn]]'' (1939)
+* ''[[Rebecca (1940 film)|Rebecca]]'' (1940)
+* ''[[Foreign Correspondent (film)|Foreign Correspondent]]'' (1940)
+* ''[[Mr. & Mrs. Smith (1941 film)|Mr. & Mrs. Smith]]'' (1941)
+* ''[[Suspicion (1941 film)|Suspicion]]'' (1941)
+* ''[[Saboteur (film)|Saboteur]]'' (1942)
+* ''[[Shadow of a Doubt]]'' (1943)
+* ''[[Lifeboat (film)|Lifeboat]]'' (1944)
+* ''[[Aventure Malgache]]'' (1944)
+* ''[[Bon Voyage (1944 film)|Bon Voyage]]'' (1944)
+* ''[[Spellbound (1945 film)|Spellbound]]'' (1945)
+* ''[[Notorious (1946 film)|Notorious]]'' (1946)
+* ''[[The Paradine Case]]'' (1947)
+* ''[[Rope (film)|Rope]]'' (1948)
+{{col-break}}
+* ''[[Under Capricorn]]'' (1949)
+* ''[[Stage Fright (1950 film)|Stage Fright]]'' (1950)
+* ''[[Strangers on a Train (film)|Strangers on a Train]]'' (1951)
+* ''[[I Confess (film)|I Confess]]'' (1953)
+* ''[[Dial M for Murder]]'' (1954)
+* ''[[Rear Window]]'' (1954)
+* ''[[To Catch a Thief]]'' (1955)
+* ''[[The Trouble with Harry]]'' (1955)
+* ''[[The Man Who Knew Too Much (1956 film)|The Man Who Knew Too Much]]'' (1956)
+* ''[[The Wrong Man]]'' (1956)
+* ''[[Vertigo (film)|Vertigo]]'' (1958)
+* ''[[North by Northwest]]'' (1959)
+* ''[[Psycho (1960 film)|Psycho]]'' (1960)
+* ''[[The Birds (film)|The Birds]]'' (1963)
+* ''[[Marnie (film)|Marnie]]'' (1964)
+* ''[[Torn Curtain]]'' (1966)
+* ''[[Topaz (1969 film)|Topaz]]'' (1969)
+* ''[[Frenzy]]'' (1972)
+* ''[[Family Plot]]'' (1976)
+* ''[[The Short Night]]'' (1979) (cancelled)
+{{col-end}}
+
+==Frequently cast actors and actresses==
+
+'''7 films'''
+
+* [[Clare Greet]]: ''Number 13'' (1922), ''[[The Ring (1927 film)|The Ring]]'' (1927), ''The Manxman'' (1929), ''Murder!'' (1930), ''The Man Who Knew Too Much'' (1934), ''[[Sabotage (1936 film)|Sabotage]]'' (1936), ''Jamaica Inn'' (1939)
+
+'''6 films'''
+
+* [[Leo G. Carroll]]: ''Rebecca'' (1940), ''Suspicion'' (1941), ''Spellbound'' (1945), ''The Paradine Case'' (1947), ''Strangers on a Train'' (1951), and ''North By Northwest'' (1959)
+
+'''5 films'''
+
+* Hannah Jones: ''Downhill'' (1927), ''Champagne'' (1928), ''Blackmail'' (1929), ''Murder!'' (1930), and ''Rich and Strange'' (1932)
+
+'''4 films'''
+
+* [[Donald Calthrop]]: ''Blackmail'' (1929), ''Murder!'' (1930), ''Juno and the Paycock'' (1930), and ''Number Seventeen'' (1932)
+* [[Cary Grant]]: ''Suspicion'' (1941), ''Notorious'' (1946), ''To Catch a Thief'' (1955), and ''North By Northwest'' (1959)
+* [[Edmund Gwenn]]: ''The Skin Game'' (1931), ''Waltzes from Vienna'' (1934), ''Foreign Correspondent'' (1940), and ''The Trouble with Harry'' (1955)
+* [[Phyllis Konstam]]: ''Champagne'' (1928), ''Blackmail'' (1929), ''Murder!'' (1930), and ''The Skin Game'' (1931)
+* [[John Longden]]: ''Blackmail'' (1929), ''Juno and the Paycock'' (1930), ''The Skin Game'' (1931), and ''Young and Innocent'' (1937)
+* [[James Stewart]]: ''Rope'' (1948), ''Rear Window'' (1954), ''The Man Who Knew Too Much'' (1956), and ''Vertigo'' (1958)
+
+'''3 films'''
+
+* [[Ingrid Bergman]]: ''Spellbound'' (1945), ''Notorious'' (1946), ''Under Capricorn'' (1949)
+* [[Charles Halton]]: ''Foreign Correspondent'' (1940), ''Mr. & Mrs. Smith'' (1941), ''Saboteur'' (1942)
+* [[Patricia Hitchcock]]: ''Stage Fright'' (1950), ''Strangers on a Train'' (1951), ''Psycho'' (1960)
+* [[Ian Hunter (actor)|Ian Hunter]]: ''The Ring'' (1927), ''Downhill'' (1927), ''Easy Virtue'' (1928)
+* [[Grace Kelly]]: ''Dial M for Murder'' (1954), ''Rear Window'' (1954), and ''To Catch a Thief'' (1955)
+* [[Basil Radford]]: ''Young and Innocent'' (1937), ''The Lady Vanishes'' (1938), ''Jamaica Inn'' (1939)
+* [[John Williams (actor)|John Williams]]: ''The Paradine Case'' (1947), ''Dial M for Murder'', (1954), ''To Catch a Thief'' (1955)
+
+==Frequent collaborators==
+<!-- Please only add people who collaborated with Hitchcock on three or more films. See discussion page, under "Frequent collaborators". -->
+{{col-begin}}
+{{col-2}}
+;Actors and actresses
+* [[Sara Allgood]]
+* [[Murray Alper]]
+* [[Ingrid Bergman]]
+* Paul Bryar
+* [[Donald Calthrop]]
+* [[Leonard Carey]]
+* [[Leo G. Carroll]]
+* [[Edward Chapman (actor)|Edward Chapman]]
+* [[Joseph Cotten]] (actor – Hitchcock movies and TV series)
+* [[Hume Cronyn]] (also as writer)
+* [[Violet Farebrother]]
+* [[Bess Flowers]]
+* [[Joan Fontaine]]
+* [[Cary Grant]]
+* [[Clare Greet]]
+* [[Edmund Gwenn]]
+* [[Gordon Harker]]
+* [[Tippi Hedren]]
+* [[Tom Helmore]]
+* [[Patricia Hitchcock]] (daughter)
+* [[Ian Hunter (actor)|Ian Hunter]]
+* [[Isabel Jeans]]
+* Hannah Jones
+* [[Malcolm Keen]]
+* [[Grace Kelly]]
+* [[Phyllis Konstam]]
+* [[John Longden]]
+* [[Percy Marmont]]
+* [[Eve McVeagh]] (actress – 7 Hitchcock TV episodes)
+* [[Vera Miles]] (actress – Hitchcock movies and TV series)
+* [[Basil Radford]]
+* Jeffrey Sayre
+* Mary Scott
+* [[James Stewart]]
+* [[John Williams (actor)|John Williams]]
+;Screenwriters
+* [[Charles Bennett (screenwriter)|Charles Bennett]]
+* [[James Bridie]]
+* [[Joan Harrison (screenwriter)|Joan Harrison]]
+* [[John Michael Hayes]]
+* [[Ben Hecht]]
+* [[Angus MacPhail]]
+* [[Eliot Stannard]] (9 films)
+{{col-2}}
+;Film crew
+* [[Fred Ahern]] – production manager
+* [[Michael Balcon]] – producer
+* Jack Barron – make-up
+* [[Saul Bass]] – main titles design
+* [[Robert F. Boyle]] – art director/production designer
+* [[Henry Bumstead]] – art director
+* [[Robert Burks]] – cinematographer
+* Herbert Coleman – assistant director/associate producer
+* [[Jack E. Cox]] – cinematographer
+* [[Graham Cutts]] – director
+* Lowell J. Farrell – assistant director
+* [[Charles Frend]] – film editor
+* [[Bill Gold]] – film poster designer
+* [[Hilton A. Green]] – assistant director
+* Bobby Greene – first assistant camera
+* [[Edith Head]] – costume designer
+* [[Bernard Herrmann]] – music composer
+* [[J. McMillan Johnson]] – art director/production designer
+* Barbara Keon – production assistant
+* [[Emile Kuri]] – set decoration
+* [[Bryan Langley]] – cinematographer/assistant camera
+* [[Louis Levy]] – musical director/music composer
+* [[Norman Lloyd]] – producer/director
+* John Maxwell – producer
+* [[Daniel McCauley]] – assistant director
+* Frank Mills – assistant director
+* [[George Milo]] – set decoration
+* [[Ivor Montagu]] – editor/producer
+* [[Hal Pereira]] – art director
+* Alec Patterson – make-up/special effects artist
+* [[Michael Powell]] – still photographer/assistant camera
+* [[Alma Reville]] (wife) – assistant director/writer
+* Rita Riggs – costume designer
+* Peggy Robertson – assistant
+* [[Emile de Ruelle]] – film editor
+* William Russell – sound recordist
+* [[David O. Selznick]] – producer
+* [[Harry Stradling]] – cinematographer/director of photography
+* Lois Thurman – script supervisor
+* [[Dimitri Tiomkin]] – music composer
+* [[George Tomasini]] – film editor
+* [[Joseph A. Valentine]] – cinematographer
+* [[Gaetano di Ventimiglia]] – cinematographer
+* [[Waldon O. Watson]] – sound recordist
+* [[Franz Waxman]] – music composer
+* [[Albert Whitlock]] – matte painter
+* [[William H. Ziegler]] – film editor
+* James H. Brown – assistant director
+{{col-end}}
+
+== Portrayals in film and television ==
+* [[Anthony Hopkins]], in the 2012 film ''[[Hitchcock (film)|Hitchcock]]''. 
+* [[Toby Jones]], in the 2012 [[HBO]] telefilm ''[[The Girl (2012 HBO film)|The Girl]]''.
+* [[Roger Ashton-Griffiths]], in the 2014 film ''[[Grace of Monaco (film)|Grace of Monaco]]''.
+
+Keith Staskiewicz wrote in ''[[Entertainment Weekly]]'' about the 2012 films, "...&nbsp;Hitchcock was depicted in his twin [[Biographical film|biopics]] as either a charming but troubled genius or a monstrous sexual obsessive&nbsp;..."<ref>Staskiewicz, Keith. "This Was The Year That Everyone Was Obsessed with Lincoln & Hitchcock." ''[[Entertainment Weekly]]'', 28 December 2012, p. 19.</ref>
+
+==Essays==
+
+A total of 46 of Hitchcock's essays and interviews have been republished,<ref>''Hitchcock on Hitchcock: Selected Writings and Interviews, University of California Press, 46 republished essays and interviews, 4 November 1997''</ref> including:
+* ''The enjoyment of fear'' (1949)
+* ''Why I Am Afraid of the Dark'' (1960)
+* ''On Music in Films'' (1934)
+* ''Director's Problems'' (1938)
+* ''My Most Exciting Picture'' (1948)
+* ''Hitchcock at Work'' (1976)
+
+In his 1938 essay ''Crime Does Not Pay'', Hitchcock expounds the theory, citing [[William Powell]] and [[Lionel Barrymore]] as examples, that actors playing heavies prosper and flourish only after they switch from being villains to being heroes.
+
+==See also==
+{{portal|Biography}}
+* [[Alfred Hitchcock filmography]]
+* ''[[Alfred Hitchcock Presents]]''
+* [[Hitchcockian]]
+* [[List of Hitchcock cameo appearances]]
+* [[List of film collaborations]]
+* [[List of unproduced Hitchcock projects]]
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+<!-- These books are referenced heavily in the article by author name, with various pages cited for each. If no page is cited it is unnecessary to list the book here, but inline citation is still preferred. -->
+* Leff, Leonard J: ''The Rich and Strange Collaboration of Alfred Hitchcock and David O. Selznick in Hollywood''. University of California Press, 1999
+* Leitch, Thomas: ''The Encyclopedia of Alfred Hitchcock'' (ISBN 978-0-8160-4387-3). Checkmark Books, 2002. A single-volume encyclopaedia of all things about Alfred Hitchcock.
+* [[Patrick McGilligan (biographer)|McGilligan, Patrick]]: ''Alfred Hitchcock: A Life in Darkness and Light''. Regan Books, 2003. A comprehensive biography of the director.
+
+==Further reading==
+* Auiler, Dan: ''Hitchcock's notebooks: an authorised and illustrated look inside the creative mind of Alfred Hitchcock''. New York, Avon Books, 1999. Much useful background to the films.
+* Barr, Charles: ''English Hitchcock''. Cameron & Hollis, 1999. On the early films of the director.
+* [http://mcfarland.metapress.com/content/k55w13746764/?sortorder=asc ''Clues: A Journal of Detection'']'31.1 (2013). Theme issue on Hitchcock and adaptation.
+* Conrad, Peter: ''The Hitchcock Murders''. Faber and Faber, 2000. A highly personal and idiosyncratic discussion of Hitchcock's oeuvre.
+* DeRosa, Steven: ''Writing with Hitchcock''. Faber and Faber, 2001. An examination of the collaboration between Hitchcock and screenwriter John Michael Hayes, his most frequent writing collaborator in Hollywood. Their films include ''Rear Window'' and ''The Man Who Knew Too Much''.
+* Deutelbaum, Marshall; Poague, Leland (ed.): ''A Hitchcock Reader''. Iowa State University Press, 1986. A wide-ranging collection of scholarly essays on Hitchcock.
+* Duckett, Stephane: Hitchcock in Context. Moreton Street Books, 2014. A reappraisal of influential text on Hitchcock.
+* Durgnat, Raymond: ''The strange case of Alfred Hitchcock'' Cambridge, Massachusetts: MIT Press, 1974 [http://www.worldcat.org/oclc/1233570 OCLC 1233570]
+* Durgnat, Raymond; James, Nick; Gross, Larry: ''Hitchcock'' British Film Institute, 1999 [http://www.worldcat.org/oclc/42209162 OCLC 42209162]
+* Durgnat, Raymond: ''A long hard look at Psycho'' London: British Film Institute Pub., 2002 [http://www.worldcat.org/oclc/48883020 OCLC 48883020]
+* Giblin, Gary: ''Alfred Hitchcock's London''. Midnight Marquee Press, 2006, (Paperback: ISBN 978-1-887664-67-7)
+* Gottlieb, Sidney: ''Hitchcock on Hitchcock''. Faber and Faber, 1995. Articles, lectures, etc. by Hitchcock himself. Basic reading on the director and his films.
+* Gottlieb, Sidney: ''Alfred Hitchcock: Interviews''. University Press of Mississippi, 2003. A collection of Hitchcock interviews.
+* Grams, Martin, Jr. & Wikstrom, Patrik: ''The Alfred Hitchcock Presents Companion''. OTR Pub, 2001, (Paperback: ISBN 978-0-9703310-1-4)
+* Haeffner, Nicholas: ''Alfred Hitchcock''. Longman, 2005. An undergraduate-level text.
+* [[Patricia Hitchcock|Hitchcock, Patricia]]; Bouzereau, Laurent: ''Alma Hitchcock: The Woman Behind the Man''. Berkley, 2003.
+* Henry Keazor (ed.): ''Hitchcock und die Künste'', Schüren, Marburg 2013, ISBN 978-3-89472-828-1. Examines the way Hitchcock was inspired by other arts such as literature, theatre, painting, architecture, music and cooking, used them in his films, and how they then inspired other art forms such as dancing and media art.
+* Krohn, Bill: ''Hitchcock at Work''. Phaidon, 2000. Translated from the award-winning French edition. The nitty-gritty of Hitchcock's filmmaking from scripting to post-production.
+* Leff, Leonard J.: ''Hitchcock and Selznick''. Weidenfeld & Nicolson, 1987. An in-depth examination of the rich collaboration between Hitchcock and David O Selznick.
+* Loker, Altan: ''Film and Suspense''. Trafford Publishing, 2006. (ISBN 978-1-4120-5840-7). Discusses the psychological means by which Hitchcock created the sense of reality in his works and manipulated his audience.
+* McDevitt, Jim; San Juan, Eric: ''A Year of Hitchcock: 52 Weeks with the Master of Suspense''. Scarecrow Press, 2009, (ISBN 978-0-8108-6388-0). A comprehensive film-by-film examination of Hitchcock's artistic development from 1927 through 1976.
+* Modleski, Tania: ''The Women Who Knew Too Much: Hitchcock And Feminist Theory''. Routledge, 2005 (2nd edition). A collection of critical essays on Hitchcock and his films; argues that Hitchcock's portrayal of women was ambivalent, rather than simply misogynist or sympathetic (as widely thought).
+* Mogg, Ken. ''The Alfred Hitchcock Story''. Titan, 2008 (revised edition). Note: the original 1999 UK edition, from Titan, and the 2008 re-issue world-wide, also from Titan, have significantly more text than the 1999 abridged US edition from Taylor Publishing. New material on all the films.
+* [[Tony Lee Moral|Moral, Tony Lee]]. ''Hitchcock and the Making of Marnie'', Scarecrow Press, 2013 (Revised Edition), 340 p. (ISBN 978-0-8108-9107-4). Well-researched book on the making of Hitchcock's "Marnie".
+* [[Camille Paglia|Paglia, Camille]]. ''The Birds''. British Film Institute, January 2008 ISBN 978-0-85170-651-1
+* Poague, Leland and Thomas Leitch: [http://onlinelibrary.wiley.com/book/10.1002/9781444397321 ''A Companion to Alfred Hitchcock''.] Wiley-Blackwell, 2011. Collection of original essays by leading scholars examining all facets of Hitchcock's influence
+* Rebello, Stephen: ''Alfred Hitchcock and the Making of [[Psycho (1960 film)|Psycho]]''. St. Martin's, 1990. Intimately researched and detailed history of the making of ''Psycho,''.
+* Rohmer, Eric; Chabrol, Claude. ''Hitchcock, the first forty-four films'' (ISBN 978-0-8044-2743-2). F. Ungar, 1979. First book-long study of Hitchock art and probably still the best one.
+* Rothman, William. ''The Murderous Gaze''. Harvard Press, 1980. Auteur study that looks at several Hitchcock films intimately.
+* San Juan, Eric; McDevitt, Jim: ''Hitchcock's Villains: Murderers, Maniacs, and Mother Issues''. Scarecrow Press, 2013, (ISBN 978-0-8108-8775-6). An in-depth analysis of the villains who were critically important to Hitchcock's films and were often emblematic of Hitchcock himself.
+* Spoto, Donald: ''The Art of Alfred Hitchcock''. Anchor Books, 1992. The first detailed critical survey of Hitchcock's work by an American.
+* Spoto, Donald: ''The Dark Side of Genius''. Ballantine Books, 1983. A biography of Hitchcock, featuring a controversial exploration of Hitchcock's psychology.
+* Sullivan, Jack: ''Hitchcock's Music''. Yale University Press, 2006. The first book to fully explore the role music played in the Hitchcock's films. ISBN 0-300-11050-2
+* {{cite book|title=Hitchcock by Truffaut: A Definitive Study of Alfred Hitchcock|authorlink=François Truffaut|first=François|last=Truffaut|publisher=[[Simon and Schuster]]/Touchstone Book|year=1984|oclc=10913283|ref=harv|origyear=1967}} A series of interviews of Hitchcock by the influential French director. 
+* Vest, James: ''Hitchcock and France: The Forging of an Auteur''. Praeger Publishers, 2003. A study of Hitchcock's interest in French culture and the manner by which French critics, such as Truffaut, came to regard him in such high esteem.
+* Weibel, Adrian: ''Spannung bei Hitchcock. Zur Funktionsweise der auktorialen Suspense.'' (ISBN 978-3-8260-3681-1) Würzburg: Königshausen & Neumann, 2008
+* Wikstrom, Patrik & Grams, Martin, Jr.: ''The Alfred Hitchcock Presents Companion''. OTR Pub, 2001, (Paperback: ISBN 978-0-9703310-1-4)
+* Wood, Robin: ''Hitchcock's Films Revisited''. Columbia University Press, 2002 (2nd edition). A much-cited collection of critical essays, now supplemented and annotated in this second edition with additional insights and changes that time and personal experience have brought to the author (including his own coming-out as a gay man).
+* {{Cite book|last=Youngkin|first=Stephen D.|title=The Lost One: A Life of Peter Lorre|year=2005|publisher=University Press of Kentucky|isbn=978-0-8131-2360-8}} Contains interviews with Alfred Hitchcock and a discussion of the making of ''The Man Who Knew Too Much'' (1934) and ''Secret Agent'' (1936), which co-starred classic film actor [[Peter Lorre]].
+* Žižek, Slavoj: ''Everything You Always Wanted to Know About Lacan&nbsp;... But Were Afraid to Ask Hitchcock'', London: Verso, 1993
+
+==External links==
+{{Sister project links|wikt=no|s=no|v=no}}
+* {{bfidb individual|153}}
+* {{IMDb name|33}}
+* {{Allmovie name|94487}}
+* {{tcmdb name|87065}}
+* {{Screenonline name|id=446568}}
+* {{MHL catalog|65275}}
+
+{{Alfred Hitchcock}}
+
+{{Navboxes
+|title = Awards for Alfred Hitchcock
+|list =
+{{Thalberg Award}}
+{{AFI Life Achievement Award}}
+{{BAFTA Academy Fellowship Award}}
+{{Cecil B. DeMille Award 1952–1975}}
+{{Lincoln Center Gala Tribute}}
+}}
+
+{{Authority control}}
+
+{{Persondata
+|NAME              = Hitchcock, Alfred Joseph
+|ALTERNATIVE NAMES = Hitchcock, Alfred
+|SHORT DESCRIPTION = British film director and film producer
+|DATE OF BIRTH     = 13 August 1899
+|PLACE OF BIRTH    = Leytonstone, London, England
+|DATE OF DEATH     = 29 April 1980
+|PLACE OF DEATH    = Bel Air, Los Angeles, California, USA
+}}
+{{DEFAULTSORT:Hitchcock, Alfred}}
+[[Category:Alfred Hitchcock| ]]
+[[Category:1899 births]]
+[[Category:1980 deaths]]
+[[Category:19th-century English people]]
+[[Category:BAFTA fellows]]
+[[Category:Deaths from renal failure]]
+[[Category:English film directors]]
+[[Category:English film producers]]
+[[Category:English emigrants to the United States]]
+[[Category:English-language film directors]]
+[[Category:English people of Irish descent]]
+[[Category:English Roman Catholics]]
+[[Category:English television directors]]
+[[Category:American film directors]]
+[[Category:American film producers]]
+[[Category:American television directors]]
+[[Category:German-language film directors]]
+[[Category:Horror film directors]]
+[[Category:Knights Commander of the Order of the British Empire]]
+[[Category:People educated at St Ignatius' College, Enfield]]
+[[Category:Silent film directors]]
+[[Category:People from Leytonstone]]
+[[Category:Edgar Award winners]]
+[[Category:Cecil B. DeMille Award Golden Globe winners]]
+[[Category:American Roman Catholics]]
+[[Category:American people of Irish descent]]
+[[Category:Film directors from California]]
+[[Category:People from Bel Air, Los Angeles]]

@@ -1,0 +1,83 @@
+{{Infobox person
+|name          = Roy Barcroft
+|image         =
+|imagesize     =
+|caption       =
+|birth_name    = Howard Harold Ravenscroft
+|birth_date    = {{birth date|1902|9|7}}
+|birth_place   = [[Crab Orchard, Nebraska|Crab Orchard]], [[Johnson County, Nebraska|Johnson County]]<br>[[Nebraska]], [[U.S.]]<ref>{{cite book|title=Exploring Nebraska Highways: Trip Trivia|url=http://books.google.com/books?id=rjRdGsXE_joC&pg=PA238|year=2007|publisher=Exploring America's Highway|isbn=978-0-9744358-7-9|page=238}}</ref>
+|death_date    = {{dda|1969|11|28|1902|9|7}}
+|death_place   = [[Woodland Hills, Los Angeles]], [[California]], U.S.
+|death_cause   = Kidney cancer
+|resting_place = Body donated to medical science 
+|othername     = Big Roy, Roy Bancroft, Howard Clifford Ravenscroft
+|occupation    = [[Film]], [[theatre|stage]], [[television]] [[actor]]
+|yearsactive   = 1937-1969
+|spouse        = Hortense Flanagan (1930)<br />Vera Thompson (1932-1969) (his death)
+|website       =
+}}
+
+'''Roy Barcroft''' (September 7, 1902 – November 28, 1969) was an American [[character actor]] famous for playing villains in [[Western (genre)|B-Westerns]] and other genres. Noted [[film critic]] [[Leonard Maltin]] acclaimed Barcroft as "[[Republic Pictures]]' number one bad guy".<ref name=Maltin>{{cite video | people= [[Leonard Maltin]] |date=December 2005 |title= The Adventures of Spin and Marty |medium= DVD |publisher=[[Walt Disney Treasures]]}}</ref>
+{{TOC left}}
+
+==Early life==
+Barcroft was born '''Howard Harold Ravenscroft'''<ref>[http://www.filmreference.com/film/54/Roy-Barcroft.html Roy Barcroft Biography (1902-1969)<!-- Bot generated title -->]</ref> to a farming family in [[Johnson County, Nebraska|Johnson County]] in southeastern [[Nebraska]] in 1902. In 1917, at the age of fifteen, he joined the [[United States Army]] during [[World War I]] to fight in [[France]], where he was wounded in action. After leaving the military, he drifted through several jobs (including [[ranch hand]], [[roughneck]], [[Gandy dancer|railroad worker]] and [[seaman]]) before reenlisting and being stationed in [[Hawaii]].
+
+==Career==
+In 1929, he moved to [[California]] and worked as an extra and as a salesman. He was discovered while acting in an amateur theatre production (a hobby which he took up to improve his speaking voice as a salesman) and cast in the [[Serial (film)|serial]] ''[[S.O.S. Coast Guard]]''. He worked for many studios in the years that followed until 1943, when he signed an exclusive 10-year contract with [[Republic Pictures|Republic]]. Under this contract, he starred in almost 150 films and serials, becoming instantly recognized as the villain to the audiences of the day.
+
+His career slowed with the decline of B-Westerns, but he found work in television and B-Movies during the 1950s and 1960s. Between 1955 and 1957, he became familiar to a new generation of youthful audiences, not as a villain but as "Col. Jim Logan", the kindly owner of the Triple-R Boys' Ranch in the hit television serials ''[[Spin and Marty]]'', seen on [[Walt Disney]]'s celebrated ''[[The Mickey Mouse Club|Mickey Mouse Club]]''. A DVD version of the 1955 season, [[Walt Disney Treasures: Wave Five#The Adventures of Spin & Marty (The Mickey Mouse Club)|''The Adventures of Spin & Marty'']], was released in 2005 as part of the ''[[Walt Disney Treasures]]'' series.
+
+From 1954 to 1956, Barcroft appeared in different roles in eight episodes of the [[Broadcast syndication|syndicated]] western series ''[[Annie Oakley (TV series)|Annie Oakley]]'', starring [[Gail Davis]] and [[Brad Johnson (television actor)|Brad Johnson]].  He also played the bit role of the marshal in the 1955 film adaptation of ''[[Oklahoma! (1955 film)|Oklahoma!]]''.<ref>{{cite web|url=http://www.imdb.com/title/tt0048445/?ref_=nv_sr_2|title=Internet Movie Database}}</ref>
+
+On May 23, 1961, Barcroft played Doc Longley in the episode "Badge of the Outsider" on [[NBC]]'s ''[[Laramie (TV series)|Laramie]]'' western series. Longley is an aging outlaw who wants to live his last years in peace in his hometown of [[Laramie, Wyoming|Laramie]], [[Wyoming]]. A gang member frames Longley for the murder of the deputy sheriff in Laramie. Longley claims most of the wanted posters seeking him are based on falsehood, and he asks series character Slim Sherman ([[John Smith (actor)|John Smith]]) for help. Then he claims harm will come to Slim's partner, Jess Harper ([[Robert Fuller (actor)|Robert Fuller]]), if Slim refuses to comply. Longley surrenders to authorities, but a judge claims Longley must "prove his innocence" in the case. Longley's gang springs him from jail when the hearing goes against him, but the gang is interested in Longley's money, not Longley's own fate. [[Paul Fix]] also appears in this episode.<ref>{{cite web|url=http://www.imdb.com/title/tt0624708/plotsummary|title=''Laramie'': "Badge of the Outsider", May 23, 1961|publisher=[[Internet Movie Data Base]]|accessdate=September 27, 2012}}</ref>
+
+The Internet Movie Database records 365 roles throughout his career, including the syndicated ''[[Sheriff of Cochise]]'' with [[John Bromfield]], the [[CBS]] military sitcom/drama ''[[Hennesey]]'', starring [[Jackie Cooper]], and NBC's ''[[National Velvet (TV series)|National Velvet]]'', ''[[Riverboat (TV series)|Riverboat]]'', and ''[[Empire (1962 TV series)|Empire]]''.
+
+In marked contrast to his villainous movie persona, Barcroft off-screen "had a reputation as one of the nicest guys in Hollywood," said [[Leonard Maltin]] in 2005.<ref name=Maltin /> Barcroft died of [[kidney cancer]] at the Motion Picture Country Hospital in 1969. He was survived by his wife, Vera Thompson, and his three children. His remains were donated to medical science.
+
+==Selected filmography==
+* ''[[Along the Navajo Trail (film)|Along the Navajo Trail]]'' (1945)
+* ''[[The Purple Monster Strikes]]'' (1945)
+
+{{Portal|Biography|Nebraska|California|Theatre|Film|Television|United States Army|World War I}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* ''Roy Barcroft, King of the Badmen'' by [[Bobby J. Copeland]], Biography, ISBN 0-944019-32-3
+
+==External links==
+* {{IMDb name|0054117}}
+* {{Amg name|3676}}
+* [http://www.b-westerns.com/villainb.htm Roy Barcroft at B-Westerns]
+* [http://www.dougmacaulay.com/kingspud/sel_by_actor_index_2.php?actor_first=Roy&actor_last=Barcroft Roy Barcroft, Great Character Actor]
+* {{Find a Grave|5977}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Barcroft, Roy
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American actor
+| DATE OF BIRTH     =7 September 1902
+| PLACE OF BIRTH    =[[Crab Orchard, Nebraska]], [[United States|USA]]
+| DATE OF DEATH     =28 November 1969
+| PLACE OF DEATH    =[[Woodland Hills, Los Angeles]], [[California]], [[United States|USA]]
+}}
+{{DEFAULTSORT:Barcroft, Roy}}
+[[Category:20th-century American male actors]]
+[[Category:American male film actors]]
+[[Category:American military personnel of World War I]]
+[[Category:American male stage actors]]
+[[Category:American male television actors]]
+[[Category:Male Western (genre) film actors]]
+[[Category:Male film serial actors]]
+[[Category:Deaths from kidney cancer]]
+[[Category:Male actors from Nebraska]]
+[[Category:People from Johnson County, Nebraska]]
+[[Category:Male actors from Los Angeles, California]]
+[[Category:Cancer deaths in California]]
+[[Category:1902 births]]
+[[Category:1969 deaths]]

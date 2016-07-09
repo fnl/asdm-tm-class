@@ -1,0 +1,124 @@
+{{Infobox person
+| image = RobMarshallApr2011.jpg
+| caption = Marshall in April 2011
+| name = Rob Marshall
+| birth_date = {{Birth date and age|1960|10|17}}
+| birth_place = [[Madison, Wisconsin|Madison]], [[Wisconsin]]
+| partner = John DeLuca
+}}
+'''Rob Marshall''' (born October 17, 1960) is an American theater director, film director and [[choreographer]].  His most noted work is the 2002 [[Academy Award for Best Picture]] winner ''[[Chicago (2002 film)|Chicago]]'', for which he won a [[Directors Guild of America Award for Outstanding Directing – Feature Film|Directors Guild of America Award]], as well as [[Academy Award]], [[BAFTA]] and [[Golden Globe]] nominations for Best Director. A five-time [[Tony Award]] nominee, he also won a [[Primetime Emmy Award]] for his choreography in the TV movie [[Annie (1999 film)|''Annie'']].
+
+==Life and career==
+===Early work===
+Marshall was born in Madison, Wisconsin, the son of Anne and Robert D. Marshall, a professor.<ref>http://www.post-gazette.com/ae/movies/2011/05/20/Director-Rob-Marshall-dove-into-Pirates-of-the-Caribbean-On-Stranger-Tides/stories/201105200165</ref> He was raised in [[Pittsburgh, Pennsylvania]]. His sister is choreographer and director, [[Kathleen Marshall]].<ref name=RawsonPPG>{{cite news|last=Rawson|first=Christopher|title=Two Marshalls win Governor's Awards for the Arts|url=http://www.post-gazette.com/stories/ae/in-the-wings/two-marshalls-win-governors-awards-for-the-arts-498459/|newspaper=Pittsburgh Post-Gazette|date=August 22, 2007}}</ref> He graduated from [[Taylor Allderdice High School]] in 1978 and was inducted into their alumni hall of fame in 2012.<ref>{{cite news|title=Allderdice to induct 6 to Alumni Hall of Fame|url=http://www.post-gazette.com/stories/local/neighborhoods-city/allderdice-to-induct-6-to-alumni-hall-of-fame-321622/|accessdate=July 18, 2012|newspaper=Pittsburgh Post-Gazette|date=October 31, 2011}}</ref> He attended [[Carnegie Mellon University]] and worked in the [[Theatre in Pittsburgh|Pittsburgh theatre scene]], performing with such companies as [[Pittsburgh Civic Light Opera]].<ref>Conner, Lynne (2007). Pittsburgh In Stages: Two Hundred Years of Theater. University of Pittsburgh Press. pp. 204. ISBN 978-0-8229-4330-3. Retrieved 2011-06-06</ref>  
+
+Marshall went on to perform as a dancer in various [[Broadway theatre|Broadway shows]], but suffered a [[Spinal disc herniation|herniated disc]] while performing in ''[[Cats (musical)|Cats]]'' and after recovering, transitioned into choreography and then directing.<ref name="Feinberg">{{cite news|last1=Feinberg|first1=Scott|title=Rob Marshall on Movie Musicals and His Journey 'Into the Woods' (Q&A)|url=http://www.hollywoodreporter.com/race/rob-marshall-movie-musicals-his-760996|accessdate=7 January 2015|work=The Hollywood Reporter|publisher=Prometheus Global Media|date=5 January 2015}}</ref> 
+===Film director===
+He debuted in the film industry with the [[Emmy Award]]-winning [[Annie (1999 film)|TV adaptation]] of the musical ''[[Annie (musical)|Annie]]'' by [[Charles Strouse]] and [[Martin Charnin]]. After that he went on to direct the [[Chicago (2002 film)|adaptation]] of the [[Kander and Ebb]] musical ''[[Chicago (musical)|Chicago]]'' in 2002 for which he was nominated for an [[Academy Award for Best Director]]. His next feature film was the drama ''[[Memoirs of a Geisha (film)|Memoirs of a Geisha]]'' based on the best-selling [[Memoirs of a Geisha (novel)|book of the same name]] by [[Arthur Golden]] starring [[Zhang Ziyi]], [[Gong Li]], [[Michelle Yeoh]] and [[Ken Watanabe]]. The film went on to win three [[Academy Awards]] and gross $162,242,962 at the worldwide box office.<ref>http://boxofficemojo.com/movies/?id=memoirsofageisha.htm</ref> 
+
+In 2009, Marshall directed ''[[Nine (2009 live-action film)|Nine]]'', an adaptation of the hit Broadway production [[Nine (musical)|with the same name]] starring [[Daniel Day-Lewis]], [[Marion Cotillard]], [[Nicole Kidman]], [[Sophia Loren]] and [[Penélope Cruz]], who was nominated for an [[Academy Award for Best Supporting Actress]]. Marshall then went on to direct ''[[Pirates of the Caribbean: On Stranger Tides]]'', the fourth chapter of Disney's ''[[Pirates of the Caribbean (film series)|Pirates of the Caribbean]]'' film series starring [[Johnny Depp]], [[Ian McShane]], [[Penélope Cruz]] and [[Geoffrey Rush]],<ref>{{cite news | author=Michael Fleming|url = http://www.variety.com/article/VR1118006813.html?categoryid=13&cs=1|title = Rob Marshall circles 'Pirates' | date = 2009-08-02|work=[[Variety (magazine)|Variety]]|accessdate = 2009-08-03}}</ref> which opened on May 20, 2011.<ref>http://disney.go.com/pirates/</ref> 
+
+Marshall directed Disney's [[Into the Woods (film)|film adaptation]] of [[Stephen Sondheim]]'s ''[[Into the Woods]]'' (2014).<ref>{{cite news|title=Disney Sets Rob Marshall To Direct Adapation Of ‘Into The Woods’|url=http://www.deadline.com/2012/01/disney-sets-rob-marshall-to-direct-adapation-of-into-the-woods/|accessdate=14 December 2013|newspaper=Deadline Hollywood|date=11 January 2012}}</ref>
+===Personal life===
+Marshall lives in New York City with his life partner John DeLuca.<ref>http://www.afterelton.com/archive/elton/people/2007/1/hollywoodmen3.html</ref>
+
+==List of Tony nominations==
+{| class="wikitable"
+|- <!--List of Tony Nominations-->
+! Year
+! Show
+! Category
+|-
+| 1993
+| ''[[Kiss of the Spider Woman (musical)|Kiss of the Spider Woman]]''
+| Best Choreography
+|-
+| 1994
+| ''[[Damn Yankees]]''
+| Best Choreography
+|-
+| 1994
+| ''[[She Loves Me]]''
+| Best Choreography
+|-
+| rowspan="2" |1998
+| rowspan="2" |''[[Cabaret (musical)|Cabaret]]''
+| Best Choreography
+|-
+| Best Direction of a Musical
+|-
+|}
+
+==Filmography==
+{| border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;"
+|-style="background:#B0C4DE;"
+! Year !! Film !! Academy Award Wins !! Academy Award Nominations !! Notes
+|-
+|1995 || ''[[Victor/Victoria (musical)|Victor/Victoria]]'' || - || - || television film, choreographer.
+|-
+|1996 || ''[[Mrs. Santa Claus]]'' || - || - || television film, choreographer. Nominated for an [[Emmy Award]] for Outstanding Choreography
+|-
+|1997 || ''[[Cinderella (1997 film)|Rodgers and Hammerstein's Cinderella]]'' || - || - || television film, musical stager and choreographer. Nominated for an [[Emmy Award]] for Outstanding Choreography
+|-
+|1999 || ''[[Annie (1999 film)|Annie]]'' || - || - || television film, director and choreographer. Winner of [[Primetime Emmy Award for Outstanding Choreography|Emmy Award for Outstanding Choreography]], nominated for [[Primetime Emmy Award for Outstanding Directing for a Miniseries, Movie or a Dramatic Special|Outstanding Directing for a Miniseries, Movie or a Special]]
+|-
+|2001 || ''[[Kennedy Center Honors|The Kennedy Center Honors: A Celebration of the Performing Arts]]'' || - || - || television event, director. Winner of [[Directors Guild of America Awards|Directors Guild of America Award for Outstanding Directorial Achievement in Musical/Variety]]
+|-
+|2002 || ''[[Chicago (2002 film)|Chicago]]'' || 6 || 13 || director and choreographer. Nominated for [[Academy Award for Best Director]]. Winner of [[Directors Guild of America Award for Outstanding Directing - Feature Film|Directors Guild of America Award for Outstanding Directorial Achievement in Motion Pictures]]
+|-
+|2005 || ''[[Memoirs of a Geisha (film)|Memoirs of a Geisha]]'' || 3 || 6 || director. Nominated for [[Satellite Award for Best Director]]
+|-
+|2006 || ''Tony Bennett: An American Classic'' || - || - || television film, director/executive producer/co-choreographer. [[Emmy Award]] for Outstanding Variety, Music or Comedy Special, Outstanding Directing for a Variety, Music or Comedy Program and Outstanding Choreography
+|-
+|2009 || ''[[Nine (2009 live-action film)|Nine]]'' || - || 4 || director/producer/co-choreographer. Nominated for [[Satellite Award for Best Director]]
+|-
+|2011 || ''[[Pirates of the Caribbean: On Stranger Tides]]'' || - || - || director
+|-
+|2014 || ''[[Into the Woods (film)|Into the Woods]]'' || - || 3 || director/producer/musical stager
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*{{IMDb name|551128}}
+*{{IBDB name|id=15558|name=Rob Marshall}}
+*{{Iobdb|Rob|Marshall}}
+
+{{Rob Marshall}}
+{{Navboxes
+|title = Awards for Rob Marshall
+|list =
+{{DirectorsGuildofAmericaAwardFeatureFilm 2000-2019}}  
+{{EmmyAward Choreography 1976-2000}}
+{{EmmyAward Choreography 2001-2025}}
+{{HelpmannAward ChoreographyMusical 2001-2020}}
+}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Marshall, Rob
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American director
+| DATE OF BIRTH     =1960-10-17
+| PLACE OF BIRTH    =[[Madison, Wisconsin]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Marshall, Rob}}
+[[Category:1960 births]]
+[[Category:American film directors]]
+[[Category:American theatre directors]]
+[[Category:Carnegie Mellon University College of Fine Arts alumni]]
+[[Category:Primetime Emmy Award winners]]
+[[Category:Helpmann Award winners]]
+[[Category:LGBT directors]]
+[[Category:Living people]]
+[[Category:People from Madison, Wisconsin]]
+[[Category:People from Pittsburgh, Pennsylvania]]
+[[Category:CAS Filmmaker Award honorees]]
+[[Category:LGBT people from Wisconsin]]
+[[Category:Directors Guild of America Award winners]]
+[[Category:English-language film directors]]

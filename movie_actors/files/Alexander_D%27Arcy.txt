@@ -1,0 +1,66 @@
+{{no footnotes|date=January 2013}}
+
+{{Infobox person
+| name        = Alexander D'Arcy<br>ألكسندر دارسي
+| image       = Alexander Darcy in Topper Takes a Trip trailer.jpg
+| imagesize   = 250px
+| caption     = from the trailer for ''[[Topper Takes a Trip]]'' (1939)
+| birth_date  = {{birth date|1908|08|10}}
+| birth_place = [[Cairo, Egypt]]
+| death_date  = {{death date and age|1996|04|20|1908|08|10}}
+| death_place = [[West Hollywood, California]], [[United States|USA]]
+| yearsactive = 1927-1973
+| spouse      = [[Arleen Whelan]] <br>(m.1940-1943, divorced)
+| birthname   = Alexander Sarruf
+}}
+
+'''Alexander D'Arcy''' ({{lang-ar|ألكسندر دارسي}}; August 10, 1908 &ndash; April 20, 1996) was an [[Egypt]]ian actor with an international film repertoire.
+
+==Biography==
+Born '''Alexander Sarruf''' in Cairo, Egypt, D'Arcy, variously credited as '''Alexandre D'Arcy''', '''Alex D'Arcy''', '''Alexandre Darcy''' and '''Alex d'Arcy''' appeared in some 45 films, mostly as a suave gentleman or smooth rogue. His first film appearance was in 1927 in ''The Garden of Allah'', before appearing in [[Alfred Hitchcock]]'s ''[[Champagne (film)|Champagne]]'' (1928). He then went to Hollywood where he started by playing supporting roles in several films in the late 1930s including ''[[The Prisoner of Zenda (1937 film)|The Prisoner of Zenda]]'' (1937)  ''Stolen Holiday'' (1937), ''[[The Awful Truth]]'' (1937). In 1953, he was one of [[Marilyn Monroe]]'s suitors in ''[[How to Marry a Millionaire]]'' and featured in ''[[Abdulla the Great]]'' and  ''[[Soldier of Fortune (1955 film)|Soldier of Fortune]]'' in 1955.
+
+His roles diminished in importance and by the 1960s he was acting mostly on television before resurfacing in horror films, notably ''[[Horrors of Spider Island|It's Hot in Paradise]]'' (1962) and as Dracula in ''[[Blood of Dracula's Castle]]'' (1969). Evidently a favorite of such cult directors as [[Roger Corman]], [[Russ Meyer]] and [[Sam Fuller]], D'Arcy was seen in Corman's ''[[The St. Valentine's Day Massacre (film)|The St. Valentine's Day Massacre]]'' (1967), Meyer's ''[[The Seven Minutes (film)|The Seven Minutes]]'' (1971) and Fuller's ''[[Dead Pigeon on Beethoven Street]]'' (1972).
+
+In 1966, he appeared in Episode 3 of the ''[[Batman]]'' television series.
+
+==Partial filmography==
+* ''[[Paradise (1928 film)|Paradise]]'' (1928)
+* ''[[A Romance of Seville]]'' (1929)
+* ''[[King of the Hotel]]'' (1932)
+* ''[[The Awful Truth]] ''(1937)
+* ''[[Good Girls Go to Paris]]'' (1939)
+* ''[[How to Marry a Millionaire]]'' (1953)
+* ''[[Fanny Hill (1964 film)|Fanny Hill]]'' (1964)
+
+==References==
+
+
+<references />
+
+==External links==
+{{Commons}}
+
+*{{imdb name|id=0195422|name=Alexander D'Arcy}}
+
+{{Authority control}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= D'Arcy, Alexander
+|ALTERNATIVE NAMES= Sarruf, Alexander
+|SHORT DESCRIPTION= Actor
+|DATE OF BIRTH= 1908-8-10
+|PLACE OF BIRTH= Cairo, Egypt
+|DATE OF DEATH= 1996-4-20
+|PLACE OF DEATH= West Hollywood, California, USA
+}}
+{{DEFAULTSORT:Darcy, Alexander}}
+[[Category:1908 births]]
+[[Category:20th-century Egyptian male actors]]
+[[Category:1996 deaths]]
+[[Category:Egyptian male television actors]]
+[[Category:Egyptian male film actors]]
+[[Category:People from the Greater Los Angeles Area]]
+[[Category:Male Western (genre) film actors]]
+
+{{Egypt-actor-stub}}

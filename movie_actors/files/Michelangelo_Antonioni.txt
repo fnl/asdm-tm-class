@@ -1,0 +1,233 @@
+{{Use dmy dates|date=January 2013}}
+{{Infobox person
+| name = Michelangelo Antonioni
+| image = Michelangelo_Antonioni_Cropped.jpg
+| caption = Michelangelo Antonioni, 1995
+| birth_date = {{Birth date|1912|09|29|df=y}}
+| birth_place = [[Ferrara]], [[Kingdom of Italy|Italy]]
+| death_date = {{Death date and age|2007|07|30|1912|09|29|df=y}}
+| death_place = [[Rome]], [[Italy]]
+| occupation = [[Film director]], [[screenwriter]], [[Film editing|editor]], [[short story writer]]
+| years_active = 1942–2004
+| spouse =
+{{marriage|()=small|Letizia Balboni|1942|1954}}
+{{marriage|()=small|[[Enrica Antonioni]]|1986|2007}}
+| partner = {{Plainlist|
+[[Monica Vitti]]|(1960-1970)
+}}
+}}
+'''Michelangelo Antonioni''', [[Italian orders of merit|Cavaliere di Gran Croce OMRI]]<ref name="quirinale">[http://www.quirinale.it/onorificenze/DettaglioDecorato.asp?idprogressivo=11522&iddecorato=114 Honour at Quirinale website]</ref> (29 September 1912&nbsp;– 30 July 2007), was an [[Italian people|Italian]] [[film director]], [[screenwriter]], [[Film editing|editor]], and [[short story writer]]. Best known for his "trilogy on modernity and its discontents"<ref name="nytimes">{{cite news|last=Holden |first=Stephan |title=Antonioni's Nothingness and Beauty |newspaper=The New York Times |date=4 June 2006 |url=http://www.nytimes.com/2006/06/04/movies/04hold.html |accessdate=21 May 2012}}</ref>—''[[L'Avventura]]'' (1960), ''[[La Notte]]'' (1961), and ''[[L'Eclisse]]'' (1962)—Antonioni "redefined the concept of narrative cinema" and challenged traditional approaches to storytelling, realism, drama, and the world at large.<ref name="allmovie">{{cite web|last=Ankeny |first=Jason |title=Michelangelo Antonioni |publisher=''Allmovie'' |url=http://www.allmovie.com/artist/michelangelo-antonioni-p79780 |accessdate=21 May 2012}}</ref> He produced "enigmatic and intricate mood pieces" and rejected action in favor of contemplation, focusing on image and design over character and story. His films defined a "cinema of possibilities".<ref name="allmovie"/>
+
+Antonioni received numerous awards and nominations throughout his career, including the Cannes Film Festival [[Jury Prize (Cannes Film Festival)|Jury Prize]] (1960, 1962), [[Palme d'Or]] (1966), and 35th Anniversary Prize (1982); the Venice Film Festival Silver Lion (1955), [[Golden Lion]] (1964), [[International Federation of Film Critics|FIPRESCI Prize]] (1964, 1995), and Pietro Bianchi Award (1998); the Italian National Syndicate of Film Journalists [[Silver Ribbon]] eight times; and an honorary [[Academy Award]] in 1995.<ref name="imdbawards">{{cite web|title=Awards for Michelangelo Antonioni |publisher=''Internet Movie Database'' |url=http://www.imdb.com/name/nm0000774/awards |accessdate=21 May 2012}}</ref>
+
+==Personal life==
+Antonioni was born into a prosperous family of landowners in [[Ferrara]], [[Emilia Romagna]], in northern Italy. He was the son of Elisabetta (née Roncagli) and Ismaele Antonioni.<ref>[http://www.filmreference.com/film/5/Michelangelo-Antonioni.html Michelangelo Antonioni Biography (1912?-)]</ref> The director explained to Italian film critic Aldo Tassone:
+
+{{quote|My childhood was a happy one. My mother&nbsp;... was a warm and intelligent woman who had been a labourer in her youth. My father also was a good man. Born into a working-class family, he succeeded in obtaining a comfortable position through evening courses and hard work. My parents gave me free rein to do what I wanted: with my brother, we spent most of our time playing outside with friends. Curiously enough, our friends were invariably proletarian, and poor. The poor still existed at that time, you recognized them by their clothes. But even in the way they wore their clothes, there was a fantasy, a frankness that made me prefer them to boys of bourgeois families. I always had sympathy for young women of working-class families, even later when I attended university: they were more authentic and spontaneous.<ref>Tassone, 6</ref>}}
+
+While still a child, Antonioni was fond of drawing and music. A precocious violinist, he gave his first concert at the age of nine. Although he abandoned the violin with the discovery of cinema in his teens, drawing would remain a lifelong passion. "I have never drawn, even as a child, either puppets or silhouettes but rather facades of houses and gates. One of my favourite games consisted of organising towns. Ignorant in architecture, I constructed buildings and streets crammed with little figures. I invented stories for them. These childhood ''happenings'' - I was eleven years old - were like little films."<ref>Tassone, 7</ref>
+
+Upon graduation from the [[University of Bologna]] with a degree in [[economics]], he started writing for the local Ferrara newspaper ''Il Corriere Padano'' in 1935 as a film journalist.
+
+In 1940, Antonioni moved to Rome, where he worked for ''Cinema'', the official [[Italian Fascism|Fascist]] film magazine edited by [[Vittorio Mussolini]]. However, Antonioni was fired a few months afterward. Later that year he enrolled at the Centro Sperimentale di Cinematografia to study film technique, but left it after three months. He was drafted into the army afterwards. During the war Antonioni survived being condemned to death for his membership in the resistance.<ref>[http://www.jstor.org/discover/10.2307/1211645?uid=3738032&uid=2&uid=4&sid=21101569524683 Gideon Bachmann and Michaelangelo Antonioni, Film Quarterly, Vol. 28, No. 4, Special Book Issue (Summer, 1975), pp.&nbsp;26–30]</ref>   For a comprehensive account of Antonioni's war time biography see "Michelangelo Antonioni's 'L'eclisse.'"  Endnote No. 43.<ref>http://davidsaulrosenfeld.com/endnotes.html</ref>
+
+Antonioni died aged 94 on 30 July 2007 in Rome, the same day that another renowned film director, [[Ingmar Bergman]], also died. Antonioni lay in state at City Hall in Rome where a large screen showed black-and-white footage of him among his film sets and behind-the-scenes. He was buried in his home town of Ferrara on 2 August 2007.
+
+He was an atheist.<ref>Tassone, 43.</ref>
+
+==Career==
+
+===Early film work===
+In 1942, Antonioni co-wrote ''[[A Pilot Returns]]'' with [[Roberto Rossellini]] and worked as assistant director on Enrico Fulchignoni's ''I due Foscari''. In 1943, he travelled to France to assist [[Marcel Carné]] on ''[[Les visiteurs du soir]]'' and then began a series of [[short film]]s with ''Gente del Po'' (1943), a story of poor fishermen of the [[Po valley]]. After the Liberation, the film stock was stored in the East-Italian Fascist "[[Republic of Salò]]" and could not be recovered and edited until 1947 (the complete footage was never retrieved). These films were [[Italian neorealism|neorealist]] in style, being semi-[[Documentary film|documentary]] studies of the lives of ordinary people.<ref name="cook">Cook, 535</ref>
+
+However, Antonioni's first full-length feature film ''[[Cronaca di un amore]]'' (1950) broke away from neorealism by depicting the middle classes. He continued to do so in a series of other films: ''[[I vinti]]'' ("The Vanquished", 1952), a trio of stories, each set in a different country (France, Italy and England), about juvenile delinquency; ''[[La signora senza camelie]]'' (''The Lady Without Camellias'', 1953) about a young film star and her fall from grace; and ''[[Le amiche]]'' (''The Girlfriends'', 1955) about middle class women in Turin. ''[[Il grido]]'' (''The Outcry'', 1957) was a return to working class stories, depicting a factory worker and his daughter. Each of these stories is about [[social alienation]].<ref name="cook"/>
+
+===International recognition===
+In ''Le Amiche'' (1955), Antonioni experimented with a radical new style: instead of a conventional narrative, he presented a series of apparently disconnected events, and he used [[long take]]s as part of his film making style.<ref name="cook"/> Antonioni returned to their use in ''[[L'avventura]]'' (1960), which became his first international success. At the [[Cannes Film Festival]] it received a mixture of cheers<ref name="guardian">Penelope Houston, [http://film.guardian.co.uk/obituaries/0,,2138557,00.html "Obituary: Michelangelo Antonioni"], ''[[The Guardian]]'' (31 July 2007). Retrieved on 21-12-08.</ref> and boos,<ref>[http://www.guardian.co.uk/film/filmblog/2012/sep/27/michelangelo-antonioni-centenary-forgotten-giant The Guardian, 27 September 2012, Filmblog]</ref> but the film was popular in art house cinemas around the world. ''[[La notte]]'' (1961), starring [[Jeanne Moreau]] and [[Marcello Mastroianni]], and ''[[L'Eclisse]]'' (1962), starring [[Alain Delon]], followed ''L'avventura''. These three films are commonly referred to as a trilogy because they are stylistically similar and all concerned with the alienation of man in the modern world.<ref name="Gazetas2008">{{cite book| last=Gazetas| first=Aristides| title=An Introduction to World Cinema| url=http://books.google.com/books?id=CPuZ-2UtVRwC&pg=PA246| accessdate=31 May 2011| date=April 2008| publisher=McFarland| isbn=978-0-7864-3907-2| page=246| quote=''L'avventura'', ''La notte'' and ''L'eclisse'' form a trilogy advancing the&nbsp;... Although his early trilogy gave Antonioni international prominence as a filmmaker&nbsp;...}}</ref><ref name="Wakeman1988">{{cite book| last=Wakeman| first=John| title=World Film Directors: 1945–1985
+| url=http://books.google.com/books?id=8aEYAAAAIAAJ| accessdate=31 May 2011| date=October 1988| publisher=H.W. Wilson
+| page=65| quote=The third film of Antonioni's trilogy, ''L'eclisse'' (''The Eclipse'', 1962), incorporates features of both its predecessors. Like ''La notte'' it is dominated by one theme, this time not the degradation of creativity but rather the alienating&nbsp;...}}</ref><ref name="CameronWood1971">{{cite book| last1=Cameron| first1=Ian Alexander| last2=Wood| first2=Robin
+| title=Antonioni| url=http://books.google.com/books?id=PXhZAAAAMAAJ| accessdate=31 May 2011| year=1971| publisher=Praeger
+| page=105| quote=The form of the 'trilogy' comes from the parallel between the first two films, particularly in their endings which are countered by ''L'Eclisse''. The first two end at dawn with a renewal of a relationship which had been partly destroyed&nbsp;...}}</ref> ''La notte'' won the [[Golden Bear]] award at the [[11th Berlin International Film Festival]],<ref name="berlinale 1961">{{cite web |url=http://www.berlinale.de/en/archiv/jahresarchive/1961/03_preistr_ger_1961/03_Preistraeger_1961.html |title=Berlinale 1961: Prize Winners |accessdate=23 January 2010 |work=berlinale.de}}</ref> His first color film, ''[[Il deserto rosso]]'' (''The Red Desert'', 1964), deals with similar themes, and is sometimes considered the fourth film of the "trilogy".<ref>[http://www.nytimes.com/2006/06/04/movies/04hold.html Antonioni's Nothingness and Beauty]</ref> All of these films star [[Monica Vitti]], his lover during that period.
+
+Antonioni then signed a deal with producer [[Carlo Ponti]] that would allow artistic freedom on three films in English to be released by [[MGM]]. The first, ''[[Blowup]]'' (1966),<ref>Brigitte Tast, Hans-Jürgen Tast: ''light room - dark room. Antonionis "Blow-Up" und der Traumjob Fotograf'', Kulleraugen Vis.Komm. Nr. 44, Schellerten 2014, ISBN 978-3-88842-044-3</ref> set in [[Swinging London]], was a major international success. The script was loosely based on the short story ''The Devil's Drool'' (otherwise known as ''Blow Up'') by Argentinian writer [[Julio Cortázar]]. Although it dealt with the challenging theme of the impossibility of objective standards and the ever-doubtable truth of memory, it was a successful and popular hit with audiences, no doubt helped by its sex scenes, which were explicit for the time. It starred [[David Hemmings]] and [[Vanessa Redgrave]]. The second film was ''[[Zabriskie Point (film)|Zabriskie Point]]'' (1970), his first set in America and with a [[counterculture of the 1960s|counterculture]] theme. The soundtrack carried popular artists such as [[Pink Floyd]] (who wrote new music specifically for the film), the [[Grateful Dead]] and the [[Rolling Stones]]. However, its release was a critical and commercial disaster. The third, ''[[The Passenger (1975 film)|The Passenger]]'' (1975), starring [[Jack Nicholson]] and [[Maria Schneider (actor)|Maria Schneider]], received critical praise, but also did poorly at the box office. It was out of circulation for many years, but was re-released for a limited theatrical run in October 2005 and has subsequently been released on [[DVD]].
+
+In 1972, in between ''Zabriskie Point'' and ''The Passenger'', Antonioni was invited by the [[Mao Zedong|Mao]] government of the [[People's Republic of China]] to visit the country. He made the documentary ''[[Chung Kuo, Cina]]'', but it was severely denounced by the Chinese authorities as "anti-Chinese" and "anti-communist".<ref name="eco">Eco and Leefeldt, 8-12</ref> The documentary had its first showing in China on 25 November 2004 in [[Beijing]] with a film festival hosted by the [[Beijing Film Academy]] to honor the works of Michelangelo Antonioni.<ref>[http://www.highbeam.com/doc/1G1-126558190.html Chung Kuo]</ref>
+
+===Later career===
+In 1980, Antonioni made ''[[Il mistero di Oberwald]]'' (''The Mystery of Oberwald''), an experiment in the electronic treatment of color, recorded in video then transferred to film, featuring [[Monica Vitti]] once more. It is based on [[Jean Cocteau]]'s play ''[[L'Aigle à deux têtes]]'' (''The Eagle With Two Heads''). ''[[Identificazione di una donna]]'' (''Identification of a Woman'', 1982), filmed in Italy, deals one more time with the recursive subjects of his Italian trilogy. In 1985, Antonioni suffered a stroke, which left him partly paralyzed and unable to speak. However, he continued to make films, including ''[[Beyond the Clouds (1995 film)|Beyond the Clouds]]'' (1995), for which [[Wim Wenders]] filmed some scenes. As Wenders has explained, Antonioni rejected almost all the material filmed by Wenders during the editing, except for a few short interludes.<ref>Wenders, 79</ref> They shared the FIPRESCI Prize at the [[Venice Film Festival]] with ''[[Cyclo (film)|Cyclo]]''.
+
+In 1994 he was given the Honorary [[Academy Award]] "in recognition of his place as one of the cinema's master visual stylists." It was presented to him by [[Jack Nicholson]]. Months later, the statuette was stolen by burglars and had to be replaced. Previously, he had been nominated for [[Academy Award]]s for Best Director and Best Screenplay for ''[[Blowup]]''. Antonioni's final film, made when he was in his 90s, was a segment of the [[anthology film]] ''[[Eros (film)|Eros]]'' (2004), entitled "Il filo pericoloso delle cose" ("The Dangerous Thread of Things"). The short film's episodes are framed by dreamy paintings and the song "Michelangelo Antonioni", composed and sung by [[Caetano Veloso]].<ref name="brightlightsfilm">Ian Johnston, [http://www.brightlightsfilm.com/53/cronaca.htm "We're Not Happy and We Never Will Be: On ''Cronaca di un amore''"], ''[[Bright Lights Film Journal]]'' (August 2006). Retrieved on 21-12-08.</ref> However, it was not well-received internationally; in America, for example, [[Roger Ebert]] claimed that it was neither erotic nor about eroticism.<ref name="rogerebert">Ebert, [http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050407/REVIEWS/50323002/1001  ''Eros''], ''[[Chicago Sun-Times]]'' (8 April 2005). Retrieved on 21 December 2008.</ref> The U.S. DVD release of the film includes another 2004 short film by Antonioni, ''Lo sguardo di Michelangelo'' (''The Gaze of Michelangelo'').
+
+==Reception==
+Film historian Virginia Wright Wexman describes Antonioni's perspective on the world as that of a "[[irreligion|postreligious]] [[Marxism|Marxist]] and [[existentialist]] intellectual."<ref name="wexman">Wexman, 312.</ref> In a speech at Cannes about ''L'Avventura'', Antonioni said that in the modern age of reason and science, mankind still lives by "a rigid and stereotyped morality which all of us recognize as such and yet sustain out of cowardice and sheer laziness". He said his films explore the paradox that "we have examined those moral attitudes very carefully, we have dissected them and analyzed them to the point of exhaustion. We have been capable of all this, but we have not been capable of finding new ones." {{Citation needed|date=November 2008}} Nine years later he expressed a similar attitude in an interview, saying that he loathed the word 'morality': "When man becomes reconciled to nature, when space becomes his true background, these words and concepts will have lost their meaning, and we will no longer have to use them."<ref name=interview>Interview with Antonioni conducted in Rome, 29 July 1969. Cf. Samuels, 15-32.</ref>
+
+One of the recurring themes in Antonioni's films is characters who suffer from [[wiktionary:ennui|ennui]] and whose lives are empty and purposeless aside from the gratification of pleasure or the pursuit of material wealth. Film historian [[David Bordwell]] writes that in his films, "Vacations, parties and artistic pursuits are vain efforts to conceal the characters' lack of purpose and emotion. Sexuality is reduced to casual seduction, enterprise to the pursuit of wealth at any cost."<ref name="bordwell">Bordwell and Thompson, 427-428.</ref> Antonioni's films tend to have spare plots and dialogue, and much of the screen time is spent lingering on certain settings, such as the seven-minute [[long take|continuous take]] at the end of ''The Passenger'' and the beautiful long-take near the beginning that "mixes time", or the scene in ''L'Eclisse'' in which Monica Vitti stares curiously at electrical posts accompanied by ambient sounds of wires clanking. Virginia Wright Wexman summarizes his style in the following terms: "The camera is placed at a medium distance more often than close in, frequently moving slowly; the shots are permitted to extend uninterrupted by cutting. Thus each image is more complex, containing more information than it would in a style in which a smaller area is framed&nbsp;... In Antonioni's work we must regard his images at length; he forces our full attention by continuing the shot long after others would cut away."<ref name="wexman"/> Antonioni is also noted for exploiting colour as a significant expressive element of his cinematic style, especially in ''[[Il deserto rosso]]'', his first [[colour film]].<ref name=seof>{{cite book|last=Grant|first=Barry Keith|title=Schirmer Encyclopedia of Film, Vol 4|page=47|url=http://biblioteka.teatr-obraz.ru/files/file/English_cinema/Encyclopedia_of_Film_Vol_4.pdf}}</ref>
+
+Bordwell explains that Antonioni's films were extremely influential on subsequent [[art film]]s: "More than any other director, he encouraged filmmakers to explore elliptical and open-ended narrative".<ref name="bordwell"/> Film director [[Akira Kurosawa]] considered Antonioni one of the most interesting filmmakers.<ref>Kurosawa, Akira: ''Something Like an Autobiography'', p.242. Alfred A. Knopf, Inc., 1982.</ref> [[Stanley Kubrick]] listed ''La Notte'' as one of his ten favorite films in a 1963 Poll.<ref name="ciment">Ciment, 34.</ref> [[Andrei Tarkovsky]] also listed Antonioni as one of his favorite filmmakers.<ref>[http://www.acs.ucalgary.ca/~tstronds/nostalghia.com/TheTopics/Tarkovsky-TopTen.html Tarkovsky's Choice]</ref> [[Miklós Jancsó]] considers Antonioni as his master.<ref>[Jancsó, Miklós: ''A Mester lebegve érkezik (Michelangelo Antonioni)'' in: ''Filmvilág'' 2007/10.]</ref>
+
+Antonioni's spare style and purposeless characters, however, have not received universal acclaim. [[Ingmar Bergman]] stated in 2002 that he considered some of Antonioni's films, including  ''[[Blowup]]'' and ''[[La notte]]'', masterpieces for their detached and dreamlike quality, but found the other films boring and noted that he had never understood why Antonioni was held in such esteem.<ref>Jan Aghed, "När Bergman går på bio", ''[[Sydsvenska Dagbladet]]'', 12 May 2002.</ref> [[Orson Welles]] regretted the Italian director's use of the [[long take]]: "I don't like to dwell on things. It's one of the reasons I'm so bored with Antonioni - the belief that, because a shot is good, it's going to get better if you keep looking at it. He gives you a full shot of somebody walking down a road. And you think, 'Well, he's not going to carry that woman all the way up that road.' But he ''does''. And then she leaves and you go on looking at the road after she's gone."<ref name="bogdanovich">Bogdanovich, 103-104</ref>
+
+American actor [[Peter Weller]], whom Antonioni directed in ''[[Beyond the Clouds (1995 film)|Beyond the Clouds]]'', explained in a 1996 interview: "There is no director living except maybe [[Akira Kurosawa|Kurosawa]], [[Ingmar Bergman|Bergman]], or Antonioni that I would fall down and do anything for. I met Antonioni three years ago in [[Taormina]] at a [[Taormina Film Fest|film festival]]. I introduced myself and told him that I adored his movies, his contributions to film, because he was the first guy who really started making films about the reality of the vacuity between people, the difficulty in traversing this space between lovers in modern day&nbsp;... and he never gives you an answer, Antonioni – that's the beautiful thing."<ref name="cigaraficionado.com">{{cite web|url=http://www.cigaraficionado.com/Cigar/CA_Profiles/People_Profile/0,2540,254,00.html |title=People Profile &#124; Peter Weller |publisher=Cigar Aficionado |date=1 March 1996 |accessdate=7 October 2010}}</ref>
+
+==Filmography==
+
+===Feature films===
+* ''[[Story of a Love Affair]]'' (''Cronaca di un amore'', 1950)
+* ''[[I Vinti]]'' (''The Vanquished'', 1952)
+* ''[[The Lady Without Camelias]]'' (''La signora senza camelie'', 1953)
+* ''[[Le Amiche]]'' (''The Girl Friends'', 1955)
+* ''[[Il Grido]]'' (''The Cry'', 1957)
+* ''[[L'Avventura]]'' (''The Adventure'', 1960)
+* ''[[La Notte]]'' (''The Night'', 1961)
+* ''[[L'Eclisse]]'' (''Eclipse'', 1962)
+* ''[[Red Desert (film)|Red Desert]]'' (1964)
+* ''[[Blowup]]'' (1966)
+* ''[[Zabriskie Point (film)|Zabriskie Point]]'' (1970)
+* ''[[Chung Kuo, Cina]]'' (documentary, 1972)
+* ''[[The Passenger (1975 film)|The Passenger]]'' (1975)
+* ''[[The Mystery of Oberwald]]'' (''Il mistero di Oberwald'', 1981)
+* ''[[Identification of a Woman]]'' (''Identificazione di una donna'', 1982)
+* ''[[Beyond the Clouds (1995 film)|Beyond the Clouds]]'' (''Al di là delle nuvole'', 1995) with [[Wim Wenders]]
+* ''[[Eros (film)|Eros]]''
+===Short films===
+* ''Gente del Po'' (''People of the Po Valley'', filmed in 1943, released in 1947) 10 minutes
+* ''[[N.U. (film)|N.U.]]'' (''Dustmen'', 1948) 11 minutes
+* ''Oltre l'oblio'' (1948)
+* ''Roma-Montevideo'' (1948)
+* ''[[Lies of Love]]'' (''L'amorosa menzogna'', 1949) 10 minutes
+* ''Sette canne, un vestito'' (''Seven Reeds, One Suit'', 1949) 10 minutes
+* ''Bomarzo'' (1949)
+* ''Ragazze in bianco'' (''Girls in White'', 1949)
+* ''Superstizione'' (''Superstition'', 1949) 9 minutes
+* ''La villa dei mostri'' (''The House of Monsters'', 1950) 10 minutes
+* ''La funivia del Faloria'' (''The Funicular of Mount Faloria'', 1950) 10 minutes
+* ''When Love Fails'' (''Tentato suicido'', episode in ''[[L'amore in città]]'', 1953)
+* ''Il provino'' (episode in ''[[The Three Faces]]'', ''I tre volti'', 1965)
+* ''Inserto girato a Lisca Bianca'' (1983) 8 minutes
+* ''Kumbha Mela'' (1989) 18 minutes
+* ''Roma'' (''Rome'', episode in ''12 registi per 12 città'', for the [[1990 FIFA World Cup]], 1989)
+* ''Noto, Mandorli, Vulcano, Stromboli, Carnevale'' (''Volcanoes and Carnival'', 1993) 8 minutes
+* ''Sicilia'' (1997) 9 minutes
+* ''The Gaze of Michelangelo'' (''Lo sguardo di Michelangelo'', 2004) 15 minutes
+* ''The Dangerous Thread of Things'' (''Il filo pericoloso delle cose'', episode in ''[[Eros (film)|Eros]]'', 2004)<ref name="imdb">{{cite web|title=Michelangelo Antonioni |publisher=''Internet Movie Database'' |url=http://www.imdb.com/name/nm0000774/ |accessdate=22 May 2012}}</ref>
+
+==Awards==
+* [[67th Academy Awards|Academy Honorary Award]] (1995)
+* [[Berlin International Film Festival]] [[FIPRESCI]] Prize (1961)
+* Berlin International Film Festival [[Golden Bear]] (1961), for ''La Notte''
+* [[Bodil Awards|Bodil Award]] for Best European Film (1976), for ''The Passenger''
+* [[British Film Institute]] [[Sutherland Trophy]] (1960), for ''L'Avventura''
+* [[Cannes Film Festival]] [[Jury Prize (Cannes Film Festival)|Jury Prize]] (1960), for ''L'Avventura''
+* Cannes Film Festival Jury Prize (1962), for ''Eclipse''
+* Cannes Film Festival [[Palme d'Or]] (1967), for ''Blowup''
+* Cannes Film Festival 35th Anniversary Prize (1982), for ''Identification of a Woman''
+* [[David di Donatello]] Award for Best Director (1961), for ''La Notte''
+* David di Donatello Luchino Visconti Award (1976)
+* [[European Film Awards]] Life Achievement Award (1993)
+* [[Flaiano Prize]] Career Award in Cinema (2000)
+* [[French Syndicate of Cinema Critics]] Award for Best Foreign Film (1968), for ''Blowup''
+* [[Giffoni Film Festival]] François Truffaut Award (1991)
+* Giffoni Film Festival Golden Career Gryphon (1995)
+* [[International Istanbul Film Festival]] Lifetime Achievement Award (1996)
+* [[Nastro d'Argento|Italian National Syndicate of Film Journalists]] Silver Ribbon for Best Documentary (1948), for ''N.U.''
+* Italian National Syndicate of Film Journalists Silver Ribbon for Best Documentary (1950), for ''Lies of Love''
+* Italian National Syndicate of Film Journalists Special Silver Ribbon (1951), for ''Story of a Love Affair''
+* [[Nastro d'Argento for Best Director|Italian National Syndicate of Film Journalists Silver Ribbon for Best Director]] (1956), for ''Le Amiche''
+* [[Nastro d'Argento for Best Director|Italian National Syndicate of Film Journalists Silver Ribbon for Best Director]] (1962), for ''La Notte''
+* Italian National Syndicate of Film Journalists Silver Ribbon for Best foreign film Director (1968), for ''Blow up''
+* [[Nastro d'Argento for Best Director|Italian National Syndicate of Film Journalists Silver Ribbon for Best Director]] (1976), for ''The Passenger''
+* [[Kansas City Film Critics Circle]] Award for Best Director (1968), for ''Blowup''
+* [[Locarno International Film Festival]] Prize (1957), for ''Il Grido''
+* [[Montreal World Film Festival]] Grand Prix Special des Amériques (1995)
+* [[National Society of Film Critics]] Special Citation Award (2001)
+* National Society of Film Critics Award for Best Director (2001), for ''Blowup''
+* [[Palm Springs International Film Festival]] Lifetime Achievement Award (1998)
+* Valladolid International Film Festival FIPRESCI Prize for Short Film (2004), for ''Michelangelo Eye to Eye''
+* [[Venice Film Festival]] [[Silver Lion]] (1955), for ''Le Amiche''
+* Venice Film Festival FIPRESCI Prize (1964), for ''Red Desert''
+* Venice Film Festival [[Golden Lion]] (1964), for ''Red Desert''
+* Venice Film Festival Career Golden Lion (1983)
+* Venice Film Festival FIPRESCI Prize (1995), for ''Beyond the Clouds'' (with Wim Wenders)
+* Venice Film Festival Pietro Bianchi Award (1998)<ref name="imdbawards"/>
+
+==References==
+
+===Citations===
+{{reflist|2}}
+
+===Bibliography===
+{{refbegin}}
+* {{cite book|last=Bogdanovich |first=Peter |authorlink=Peter Bogdanovich |title=''[[This is Orson Welles]]'' |publisher=HarperPerennial |location=New York |year=1992 |isbn=978-0-306-80834-0}}
+* {{cite book|last1=Bordwell |first1=David |last2=Thompson |first2=Kristin |authorlink=David Bordwell |title=Film History: An Introduction |publisher=McGraw-Hill |location=New York |year=2002 |isbn=978-0-07-338613-3}}
+* {{cite book|last=Ciment |first=Michel |authorlink=Michel Ciment |title=Kubrick: The Definitive Edition |publisher=Faber & Faber |location=London |year=2003 |isbn=978-0-571-21108-1}}
+* {{cite book|last=Cook |first=David A. |title=A History of Narrative Film |publisher=Norton |location=New York |year=2004 |isbn=978-0-393-97868-1}}
+* {{cite book|last=Eco |first=Umberto |authorlink=Umberto Eco |last2=Leefeldt |first2=Christina |title=De Interpretatione, or the Difficulty of Being Marco Polo |publisher=[[Film Quarterly]] 30.4: Special Book Issue: 8-12 |year=1977}}
+* {{cite book|last=Samuels |first=Charles Thomas |title=Encountering Directors |publisher=G.P. Putnam's Sons |location=New York |year=1972 |isbn=978-0-306-80286-7}}
+* {{cite book|last=Tassone |first=Aldo |title=I film di Michelangelo Antonioni: un poeta della visione |publisher=Gremese Editore |location=Milan |year=2002 |isbn=978-88-8440-197-7}}
+* {{cite book|last=Wenders |first=Wim |authorlink=Wim Wenders |title=My Time with Antonioni: The Diary of an Extraordinary Experience |publisher=Faber & Faber |location=London |year=2000 |isbn=978-0-571-20076-4}}
+* {{cite book|last=Wexman |first=Virginia Wright |title=A History of Film |publisher=Pearson |location=Boston |year=2006 |isbn=978-0-205-62528-4}}
+{{refend}}
+
+===Further reading===
+{{refbegin}}
+* {{cite book|last=Antonioni |first=Michelangelo |title=Michelangelo Antonioni: An Introduction |publisher=Simon and Schuster |location=New York |year=1963 |isbn=}}
+* {{cite book|last=Arrowsmith |first=William |editor=Ted Perry |title=Antonioni: The Poet of Images |publisher=Oxford University Press |location=New York |year=1995 |isbn=978-0-19-509270-7}}
+* {{cite book|last=Brunette |first=Peter |title=The Films of Michelangelo Antonioni |publisher=Cambridge University Press |location=New York |year=1998 |isbn=978-0-521-38992-1}}
+* {{cite book|last=Chatman |first=Seymour |title=Antonioni: The Surface of the World |publisher=University of California Press |location=Berkeley |year=1985 |isbn=978-0-520-05341-0}}
+* {{cite book|last=Lyons |first=Robert Joseph |title=Michelangelo Antonioni's Neo-Realism: A World View (Dissertation) |publisher=Bowling Green State University |location=Ohio |year=1973 |isbn=}}
+* {{cite book | last=Pomerance | first=Murray | title=Michelangelo Red Antonioni Blue: Eight Reflections on Cinema | location=Berkeley | publisher=University of California Press | year=2011| isbn=978-0-520-25870-9 }}
+{{refend}}
+
+===Documentaries===
+{{refbegin}}
+* Antonioni, Enrica (1996). ''Fare un film per me è vivere'' (''Making a Film for Me is to Live''). (52 minutes)
+* Di Carlo, Carlo (2008). ''Antonioni su Antonioni'' (''Antonioni on Antonioni''). (55 minutes)
+* Lai, Sandro (2001). ''Antonioni: Lo sguardo che cambio il cinema'' (''Antonioni: the Gaze that Changed Cinema''). (60 minutes)
+* Labarthe, André S. (1974). ''L'ultima sequenza di Professione: Reporter'' (''The Last Sequence of The Passenger''). (12 minutes)
+* Miccichè, Lino (1978). ''Antonioni visto da Antonioni'' (''Antonioni Seen by Antonioni''). (28 minutes)
+{{refend}}
+
+==External links==
+{{Portal|Italy|Biography|Film}}
+{{wikiquote}}
+
+* {{IMDb name|0000774|Michelangelo Antonioni}}
+* [http://antonioni9.wordpress.com/ Michelangelo Antonioni] This site collates the writings and interviews of film director Michelangelo Antonioni.
+* [http://www.lib.berkeley.edu/MRC/antonioni.html Antonioni Bibliography] (via UC Berkeley)
+* [http://agosto.libertaddigital.com/articulo.php/1276233702 En la muerte de Antonioni] (written in Spanish)
+* [http://bldgblog.blogspot.com/2007/07/new-york-city-in-sound.html Antonioni writing on the sound of New York City, early 1970s] (via BldgBlog)
+
+{{Michelangelo Antonioni}}
+{{Navboxes
+|title = Awards for Michelangelo Antonioni
+|list =
+{{David di Donatello Best Director}}
+{{Nastro d'Argento Best Director}}
+}}
+{{Authority control}}
+
+{{Persondata
+| NAME= Antonioni, Michelangelo
+| ALTERNATIVE NAMES=
+| SHORT DESCRIPTION=Italian film director
+| DATE OF BIRTH= 1912-09-29
+| PLACE OF BIRTH= [[Ferrara]], Italy
+| DATE OF DEATH= 30 July 2007
+| PLACE OF DEATH= Rome, Italy
+}}
+{{DEFAULTSORT:Antonioni, Michelangelo}}
+[[Category:Academy Honorary Award recipients]]
+[[Category:Counterculture of the 1960s]]
+[[Category:European Film Awards winners (people)]]
+[[Category:Italian atheists]]
+[[Category:Italian Marxists]]
+[[Category:Italian film directors]]
+[[Category:Italian screenwriters]]
+[[Category:Italian music video directors]]
+[[Category:People from Ferrara]]
+[[Category:1912 births]]
+[[Category:2007 deaths]]
+[[Category:Centro Sperimentale di Cinematografia alumni]]
+[[Category:David di Donatello winners]]
+[[Category:Nastro d'Argento winners]]
+[[Category:Italian-language film directors]]

@@ -1,0 +1,99 @@
+{{Infobox person
+| name          = Harry Harvey, Sr. 
+| image         = 
+| imagesize     = 
+| caption       = 
+| birth_name    = 
+| birth_date    = {{birth date|1901|1|10|}}
+| birth_place   = [[Indian Territory]], U.S.
+| death_date    = {{death date and age|1985|11|27|1901|1|10}}
+| death_place   = [[Sylmar, California|Sylmar]], [[Los Angeles]]<br>[[California]], U.S. 
+| occupation    = Actor of stage, film, and television
+| yearsactive   = 1932-1974
+| spouse        = 
+| children      = Actor Harry Harvey, Jr. (1929-1978)
+| resting_place = Pierce Brothers Valhalla Memorial Park in [[North Hollywood, California|North Hollywood]], California
+}}
+
+'''Harry W. Harvey, Sr.''' (January 10, 1901 &ndash; November 27, 1985), was an [[United States|American]] [[actor]] of stage, film, and television.
+
+== Career ==
+Born in [[Indian Territory]], now [[Oklahoma]], Harvey appeared in [[vaudeville]] and the [[Broadway (theatre)|Broadway]] stage but is best remembered as a [[character actor]] who appeared in more than three hundred films and episodes of [[television series]]. He co-starred in ''[[The Oregon Trail (1936 film)|The Oregon Trail]]'' (1936), with [[John Wayne]], ''Old Overland Trail'' (1953), ''[[Wyoming Renegades]]'' (1954), ''[[Ride Beyond Vengeance]]'' (1966) with [[Chuck Connors]], and many other [[Western (genre)|westerns]]. 
+
+Harvey was cast from 1951 to 1957 in the role of Sheriff Tom Blodgett in fifty-three episodes of ''[[The Roy Rogers Show]]''. He played Mayor George Dixon of fictitious Yellowstone in twenty-one episodes from 1957 to 1959 of the [[Television syndication|syndicated]] western series, ''[[Man Without a Gun]]''. He was cast in different roles in eleven episodes of ''[[The Lone Ranger]]'' from 1949 to 1955. In 1962, he appeared on the short-lived [[NBC]] drama series, ''[[It's a Man's World (TV series)|It's a Man's World]]'' as the recurring character, Houghton Stott, owner of Stott's Service Station. 
+
+In the 1950s, 1960s, and 1970s, he guest-starred in such series as ''[[Branded (TV series)|Branded]]'', ''[[Lassie (1954 TV series)|Lassie]]'', ''[[Hazel (TV series)|Hazel]]'', ''[[The Wild Wild West]]'', ''[[Mannix]]'', ''[[Alias Smith and Jones]]'', ''[[Bonanza]]'', and ''[[Columbo (TV series)|Columbo]]''. His last appearance was in ''[[Adam-12]]'' (1974) with [[Martin Milner]].
+
+Harvey outlived his son, Harry Harvey, Jr. (1929–1978), by some seven years. He and his son are interred at Pierce Brothers Valhalla Memorial Park in [[North Hollywood, California|North Hollywood]], [[California]].<ref>{{cite web|url=http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=10026221|title=Harry Harvey, Sr.|publisher=findagrave.com|accessdate=March 26, 2013}}</ref>
+
+== Filmography ==
+{{div col|cols=2}}
+*1932 ''[[Destry Rides Again (1932 film)|Destry Rides Again]]''
+*1935 ''[[Manhattan Moon]]''
+*1936 ''[[The Oregon Trail (1936 film)|The Oregon Trail]]''
+*1936 ''[[Reefer Madness]]''
+*1937 ''[[High Hat (1937 film)|High Hat]]''
+*1938 ''[[Here's Flash Casey]]''
+*1938 ''[[King of the Sierras]]''
+*1938  ''[[Six Shootin' Sheriff (1938 film)|Six Shootin' Sheriff]]''
+*1939 ''[[Lone Star Pioneers]]''
+*1940 ''[[Phantom Rancher]]''
+*1940 ''[[Texas Renegades]]''
+*1940 ''[[Deadwood Dick]]''
+*1942 ''[[The Pride of the Yankees]]''
+*1943 ''[[Return of the Rangers]]''
+*1944 ''[[Gangsters of the Frontier]]''
+*1946 ''[[Badman's Territory]]''
+*1948 ''[[The Arizona Ranger]]''
+*1948  ''[[They Live by Night]]''
+*1949 ''[[Death Valley Gunfighter]]''
+*1950 ''[[Cow Town]]''
+*1951 ''[[Whirlwind]]''
+*1951 ''[[The Roy Rogers Show]]'' -TV series
+*1952 ''[[High Noon]]''
+*1952 ''[[The Duel at Silver Creek]]''
+*1952 ''[[Ma and Pa Kettle at the Fair]]'' (uncredited)
+*1953 ''[[Old Overland Trail]]''
+*1957 ''[[Man Without a Gun]]'' -TV series
+*1962 ''[[It's a Man's World (TV series)|It's a Man's World]]''  -TV series
+*1964 ''[[Disneyland]]''
+*1965 ''[[Cat Ballou]]''
+*1966 ''[[Ride Beyond Vengeance]]''
+*1969 ''[[The Ballad of Andy Crocker]]'' -TV film
+*1970 ''[[Airport (1970 film)|Airport]]''
+*1974 ''[[Adam-12]]''
+{{div col end}}
+
+{{Portal|Biography|Oklahoma|New York City|Los Angeles|California|Music|Theatre|Film|Television}}
+
+== References ==
+{{reflist}}
+*King of the Cowboys, Queen of the West: Roy Rogers and Dale Evans, by Raymond E. White''
+*The American Film Institute catalog of motion ..., Vol 1, Par 1, by American Film Institute''.
+
+==External links==
+*{{IMDb name|0367543|Harry Harvey}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Harvey, Sr., Harry W.
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American actor
+| DATE OF BIRTH     =January 10, 1901
+| PLACE OF BIRTH    =[[Indian Territory]], [[U.S]]
+| DATE OF DEATH     =November 27, 1985
+| PLACE OF DEATH    =[[Sylmar, California]]
+}}
+
+{{DEFAULTSORT:Harvey, Harry (actor)}}
+[[Category:1901 births]]
+[[Category:1985 deaths]]
+[[Category:American male television actors]]
+[[Category:Male Western (genre) film actors]]
+[[Category:American male stage actors]]
+[[Category:20th-century American male actors]]
+[[Category:Male actors from Oklahoma]]
+[[Category:People from the San Fernando Valley]]
+[[Category:Male actors from Los Angeles, California]]
+[[Category:Western (genre) television actors]]

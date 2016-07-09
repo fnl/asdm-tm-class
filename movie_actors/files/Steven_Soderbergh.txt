@@ -1,0 +1,400 @@
+{{Use mdy dates|date=June 2013}}
+{{Infobox person
+ | name             = Steven Soderbergh
+ | image            = File:Soderbergh cropped 2009.jpg
+ | imagesize        = 200px
+ | caption          = Soderbergh at the [[66th Venice International Film Festival]]
+ | birth_date       = {{Birth date and age|mf=yes|1963|1|14}}
+ | birth_place      = [[Atlanta, Georgia]], U.S.
+ | birth_name       = Steven Andrew Soderbergh
+ | spouse           = {{Marriage|[[Betsy Brantley]]|1989|1994}}<br />{{Marriage|[[Jules Asner]]|2003}}
+ | occupation       = Director, cinematographer, screenwriter, producer, editor
+ | parents          = Peter Andrew Soderbergh<br />Mary Ann Bernard
+ | years_active     = 1984–present
+}}
+
+'''Steven Andrew Soderbergh''' ({{IPAc-en|ˈ|s|oʊ|d|ər|b|ɜr|ɡ}}; born January 14, 1963) is an American film producer, director, screenwriter, [[cinematographer]] and editor. His indie drama ''[[Sex, Lies, and Videotape]]'' (1989) won the [[Palme d'Or]] at the [[Cannes Film Festival]], and became a worldwide commercial success, making the then-26-year-old Soderbergh the youngest director to win the festival's top award.<ref name="Canby">{{cite news|title=CRITIC'S NOTEBOOK; For the Cannes Winner, Untarnished Celebrity|url=http://query.nytimes.com/gst/fullpage.html?res=950DE2DF163CF934A15756C0A96F948260|work=New York Times|date=May 27, 1989|first=Vincent|last=Canby}}</ref> Movie critic [[Roger Ebert]] dubbed Soderbergh the "poster boy of the [[Sundance Film Festival|Sundance]] generation".<ref name="rogerebert.suntimes.com">{{cite news|url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060126/REVIEWS/60117006/1023|title=Reviews: Bubble|first=Roger|last=Ebert|date=January 27, 2006|work=Chicago Sun-Times}}</ref>
+
+He is best known for directing critically acclaimed commercial Hollywood films like the crime comedy ''[[Out of Sight]]'' (1998), the biographical film ''[[Erin Brockovich (film)|Erin Brockovich]]'' (2000), the crime drama film ''[[Traffic (2000 film)|Traffic]]'' (2000), the remake of the comedy heist film ''[[Ocean's Eleven]]'' (2001), and the medical thriller ''[[Contagion (film)|Contagion]]'' (2011). He has also directed smaller, less conventional works, such as the mystery thriller ''[[Kafka (film)|Kafka]]'' (1991); the experimental comedy film ''[[Schizopolis]]'' (1996), which has a non-linear narrative; ''[[Bubble (film)|Bubble]]'' (2005), which uses no script and non-professional actors; the experimental drama film ''[[The Girlfriend Experience]]'' (2009), which starred the then-active [[pornographic actress]] [[Sasha Grey]]; and the [[Biographical film|biopic]] about [[Marxism|Marxist]] [[revolutionary]] [[Che Guevara|Ernesto "Che" Guevara]], [[Che (2008 film)|''Che'']] (2008).
+
+==Early life and education==
+Soderbergh was born on January 14, 1963 in [[Atlanta, Georgia]], to Mary Ann (née Bernard) and Peter Andrew Soderbergh, who was a university administrator and educator.<ref>[http://www.filmreference.com/film/57/Steven-Soderbergh.html Steven Soderbergh profile at Filmreference.com]; retrieved January 22, 2012.</ref> His paternal grandfather was a [[Sweden|Swedish]] immigrant, from [[Stockholm]].<ref>Sherrill, Martha (August 27, 1989). [http://pqasb.pqarchiver.com/tampabay/access/50535831.html?dids=50535831:50535831&FMT=ABS&FMTS=ABS:FT "What next after 'sex, lies ...'?"], ''[[Tampa Bay Times]]''. pg 1F; retrieved 2012-01-22.</ref> As a child, he moved with his family to [[Charlottesville, Virginia]], where he lived during his adolescence, then to [[Baton Rouge, Louisiana]], where his father became Dean of Education at [[Louisiana State University]]. In Baton Rouge, he discovered filmmaking as a teenager, directing short [[Super 8 mm film]]s with equipment borrowed from LSU students.<ref>{{cite web|url=http://www.hollywood.com/celebrity/Steven_Soderbergh/194792|title=Steven Soderbergh at Hollywood.com|accessdate=December 20, 2007|archiveurl=http://archive.is/FvAu|archivedate=June 29, 2012}}</ref> He has a brother, Charley.<ref>{{cite news|date=April 25, 2013|title=Soderbergh on Soderbergh|url=http://www.out.com/entertainment/movies/2013/04/25/steven-soderbergh-charley-brother-behind-candelabra-liberace|first=Jerry|last=Portwood|work=[[Out (magazine)|Out]]}}</ref>
+
+While the family resided in Baton Rouge, Soderbergh's mother appeared regularly on ''2une In'', the early-morning show of local ABC affiliate WBRZ-TV (broadcast channel 2), as a "call-in" psychic, and taught adult-education and "alternative education" classes in "parapsychology" at LSU. {{citation needed|date=March 2012}}His primary high school education was at [[Louisiana State University Laboratory School]], a K–12 school that is directed by the University. While still taking classes there around the age of fifteen, Soderbergh enrolled in the university's film animation class and began making short 16&nbsp;mm films with secondhand equipment.<ref>{{cite web|url=http://www.imdb.com/name/nm0001752/bio|title=Biography of Steven Soderbergh at|publisher=IMDb|accessdate=December 19, 2007}}</ref>
+
+Rather than attend LSU, Soderbergh tried his luck in Hollywood after graduating from high school; he worked as a game show scorer and cue card holder to make ends meet, and eventually found work as a freelance film editor.<ref>{{cite web|url=http://movies.yahoo.com/movie/contributor/1800019577/bio|title=Steven Soderbergh biography at|publisher=Yahoo! Movies|accessdate=December 19, 2007}}</ref> His big break came when he directed the [[Grammy Award|Grammy]]-nominated concert video ''[[9012Live (video)|9012Live]]'' for the rock band [[Yes (band)|Yes]] in 1985.<ref>{{cite web|url=http://www.allmovie.com/artist/steven-soderbergh-p112040|first=Rebecca Flint|last=Marx|title=Steven Soderbergh profile at|publisher=AllMovie.com|accessdate=February 10, 2013}}</ref>
+
+==Career==
+
+===1989: ''Sex, Lies, and Videotape''===
+It was not until Soderbergh came back to Baton Rouge that he conceived the idea for ''[[Sex, Lies, and Videotape]]'' (1989), which he wrote in eight days.<ref name="hindu03">{{cite news|title=A filmmaker's celluloid feats|url=http://www.hinduonnet.com/thehindu/fr/2003/07/18/stories/2003071801230100.htm|work=The Hindu|date=July 18, 2003|first=Uma|last=Mahadevan-Dasgupta}}</ref> The independent film won the [[Palme d'Or]] at the [[Cannes Film Festival]], became a worldwide commercial success and contributed to the 1990s [[independent film]] revolution. At age 26, Soderbergh became the second youngest director to win the festival's top award (after French director [[Louis Malle]] who won for ''[[The Silent World|Le Monde du Silence]]'').<ref name="Canby"/> Movie critic [[Roger Ebert]] dubbed Soderbergh the "poster boy of the Sundance generation".<ref name="rogerebert.suntimes.com"/>
+
+===1993 to 1998===
+''Sex, Lies, and Videotape'' was followed by a series of low-budget box-office disappointments: ''[[Kafka (film)|Kafka]]'', a biopic mixing fact and Kafka's own fiction (notably ''[[The Castle (novel)|The Castle]]'' and ''[[The Trial]]''), written by [[Lem Dobbs]] and starring [[Jeremy Irons]] as [[Franz Kafka]]; ''[[King of the Hill (film)|King of the Hill]]'' (1993), a critically acclaimed [[Great Depression|Depression]]-era drama; ''[[The Underneath (film)|The Underneath]]'' (1995), a remake of [[Robert Siodmak]]'s 1949 film noir ''[[Criss Cross (1949 film)|Criss Cross]]''; and ''[[Schizopolis]]'' (1996), a comedy which he starred in, wrote, composed, and shot as well as directed. He also directed the [[Spalding Gray]] monologue film ''[[Gray's Anatomy (film)|Gray's Anatomy]]'' in 1996.
+
+Making good on his ''Schizopolis''-inspired "artistic wake-up call", his commercial slump ended in 1998 with ''[[Out of Sight]]'', a stylized adaptation of an [[Elmore Leonard]] novel, written by [[Scott Frank]] and starring [[George Clooney]] and [[Jennifer Lopez]].<ref>{{cite web|url=http://www.allmovie.com/cg/avg.dll?p=avg&sql=1:136312~C|title=allmovie (((Schizopolis &gt; Overview )))|accessdate=December 19, 2007}}</ref> The film was widely praised, though only a moderate box-office success. It reaffirmed Soderbergh's potential, sparking the beginnings of a lucrative artistic partnership between Clooney and Soderbergh.
+
+===1999 and 2000===
+Soderbergh followed up on the success of ''Out of Sight'' by making another crime caper, ''[[The Limey]]'' (1999), from an original screenplay by [[Lem Dobbs]] and starring veteran actors [[Terence Stamp]] and [[Peter Fonda]]. The film was well-received, but not as much as ''[[Erin Brockovich (film)|Erin Brockovich]]'' (2000), written by [[Susannah Grant]] and starring [[Julia Roberts]] in her Oscar-winning role as a single mother taking on industry in a civil action.<ref>{{cite web|url=http://www.villagevoice.com/news/0101,lim,21165,1.html|title=Both Sides Now. Having Your Way With Hollywood, or the Further Adventures of Steven Soderbergh|author=Dennis Lim|date=January 3, 2001}}</ref>
+Later that year, Soderbergh released ''[[Traffic (2000 film)|Traffic]]'', a social drama written by [[Stephen Gaghan]] and featuring an ensemble cast.
+
+''Traffic'' became his most acclaimed movie since ''Sex, Lies, and Videotape'', and earned him an [[Academy Award for Directing|Academy Award for Best Director]]. He was also nominated that same year for ''Erin Brockovich''. He is the only director to have been nominated in the same year for Best Director for two different films by the [[Academy Awards]], the [[Golden Globes]] and the [[Directors Guild of America]]. The double nomination was the first in 60 years. (In 1938, [[Michael Curtiz]] was nominated twice, for ''[[Angels with Dirty Faces]]'' and ''[[Four Daughters]]'', but did not win for either film.)
+
+===2001 to 2005===
+[[File:Ocean's11Cast.jpg|thumb|right|300px|[[Brad Pitt]], [[George Clooney]], [[Matt Damon]], [[Andy García]], [[Julia Roberts]], and Soderbergh at [[Incirlik Air Base]], [[Turkey]] in December 2001]]
+''[[Ocean's Eleven]]'' (2001), a Ted Griffin-scripted remake from a [[Rat Pack]]-movie from 1960, featuring an all-star cast and flashy aesthetics, is Soderbergh's highest grossing movie to date, grossing more than $183 million domestically and more than $450 million worldwide.<ref>{{cite web|url=http://www.boxofficemojo.com/people/chart/?id=stevensoderbergh.htm|title=Steven Soderbergh Movie Box Office Results|accessdate=December 19, 2007}}</ref><ref>{{cite web|url=http://www.boxofficemojo.com/alltime/world/|title=All Time Worldwide Box Office Grosses|accessdate=May 18, 2009}}</ref>
+The film's star, [[George Clooney]], subsequently appeared in ''[[Solaris (2002 film)|Solaris]]'' (2002), marking the third time the two have headlined a film. In the same year, Soderbergh made ''[[Full Frontal (film)|Full Frontal]]'' which was shot mostly on digital video in an improvisational style that deliberately blurred the line between which actors were playing characters and which were playing fictionalized versions of themselves. A film within a film, the title is a film industry reference to an actor or actress appearing fully nude (a.k.a., "full frontal nudity"). Also in 2002, Soderbergh was elected First Vice President of the [[Directors Guild of America]].<ref>{{cite press release|publisher=Directors Guild of America|title=Guild's National Board elects Martha Coolidge first woman president of DGA|url=http://www.dga.org/news/pr_expand.php3?245|date=March 9, 2002}}</ref>
+
+Following up ''[[Full Frontal (film)|Full Frontal]]'' stylistically was Soderbergh next project, ''[[K Street (TV series)|K Street]]'' (2003), a ten-part political [[HBO]] series he co-produced with Clooney. The series was noteworthy for being both partially improvised and each episode being produced in the 5 days prior to airing to take advantage of topical events that could be worked into the fictional narrative. Actual political players appeared as themselves, either in cameos or fictionalized versions of themselves (as were the leads, real life husband and wife [[James Carville]] and [[Mary Matalin]]). The show caused a stir during the [[U.S. Democratic Party presidential nomination, 2004|2004 Democratic Primary]] when Carville gave candidate [[Howard Dean]] a soundbite during a location shoot that Dean then used in a debate.
+
+''[[Ocean's Twelve]]'' (2004), a sequel to ''Ocean's Eleven'', followed.
+
+===From 2005===
+In 2005, Soderbergh raised eyebrows with ''[[Bubble (film)|Bubble]]'', a $1.6 million film featuring a cast of nonprofessional actors. It opened in selected theaters and [[HDNet]] simultaneously, and four days later on DVD. Industry heads were reportedly watching how the film performed, as its unusual release schedule could have implications for future feature films.<ref>{{cite AV media|title=Will Soderbergh's 'Bubble' Burst on Hollywood?|accessdate=2014-04-06|date=January 24, 2006|url=http://pd.npr.org/anon.npr-mp3/npr/fa/2006/01/20060124_fa_02.mp3?dl=1}}</ref><ref>{{cite news|url=http://www.hollywoodreporter.com/thr/columns/risky_business_display.jsp?vnu_content_id=1002198452|title=Distributors hold firm against day-and-date|date=March 17, 2006|author=Anne Thompson|work=The Hollywood Reporter}}</ref> Theater-owners, who at the time had been suffering from dropping attendance rates, did not welcome so-called "day-and-date" movies.<ref>{{cite news|url=http://www.backstage.com/bso/news_reviews/film/article_display.jsp?vnu_content_id=1002197235 |archiveurl=http://web.archive.org/web/20060422210551/http://www.backstage.com/bso/news_reviews/film/article_display.jsp?vnu_content_id=1002197235 |archivedate=22 April 2006 |title=Challenges Seen for Film Biz After 2005 Slide |first=Anne |last=Thompson |authorlink=Anne Thompson (film critic) |date=15 March 2006 |website=[[Back Stage|Backstage]] |accessdate=2014-04-16}}</ref>
+National Association of Theatre Owners president and CEO John Fithian indirectly called the film's release model "the biggest threat to the viability of the cinema industry today."<ref>{{cite news|url=http://www.usatoday.com/tech/news/2006-01-18-bubble-theater-threat_x.htm|title='Bubble' hits theaters, TV, DVD on same day|work=USA Today|author=Gary Gentile|date=January 18, 2006}}</ref>
+
+Soderbergh's response to such criticism: "I don't think it's going to destroy the movie-going experience any more than the ability to get takeout has destroyed the restaurant business." The film did poor business both at the box office and on the home video market.<ref>{{cite web|url=http://www.madison.com/tct/archives/index.php?archAction=arch_read&a_file=%2Ftct%2F2006%2F03%2F17%2F0603170328.php|title=Independents' day smaller markets to get films on TV at the same time they hit the theaters|author=Rob Thomas|date=March 17, 2006|work=The Capital Times}}</ref>
+Nevertheless, Soderbergh is on contract to deliver five more day-and-date movies. In fall of 2006 he contributed a mini-essay on hotel pornography, along with an accompanying series of long-exposure photographs, to ''Anthem'' magazine's November/December issue.<ref>{{cite web|website=Anthem Magazine |title=Steven Soderbergh |url=http://anthemmagazine.com/steven-soderbergh/ |date=7 January 2009 |accessdate=2014-04-16}}</ref>
+
+A romantic drama set in post-war Berlin, ''[[The Good German]]'', starring [[Cate Blanchett]] and Clooney, was released in late 2006.
+
+[[File:Soderbergh Del Toro Che.jpg|thumb|left|250px|Soderbergh (right) and [[Benicio del Toro]] signing autographs at the premier of ''Che'' in 2008.]]
+
+The sixth pairing of Clooney and Soderbergh, ''[[Ocean's Thirteen]]'', was released in June 2007. Also in 2007, Soderbergh and [[Tony Gilroy]] contributed an audio commentary to the DVD re-release of ''[[The Third Man]]'' by the [[Criterion Collection]].
+
+On May 22, 2008, ''[[Che (2008 film)|Che]]'', which was released in theatres in two parts titled ''The Argentine'' and ''Guerrilla'', was presented in the main competition of the 2008 Cannes film festival. [[Benicio del Toro]] plays Argentine guerrilla [[Che Guevara|Ernesto "Che" Guevara]] in an epic four-hour double bill which looks first at his role in the Cuban revolution before moving to his campaign and eventual death in Bolivia.<ref>[http://www.festival-cannes.fr/en/archives/dossierPresse/id/10803637.html Festival de Cannes: 2008]</ref>
+
+Soderbergh shot his feature film ''[[The Girlfriend Experience]]'' in New York in 2008. The film's lead actress is adult film star [[Sasha Grey]].<ref>Original news release: David Sullivan, [http://www.avn.com/performer/articles/32834.html "Sasha Grey Stars in Steven Soderbergh Feature"], in: ''Adult Video News'', AVN Media Network (online), 10-14-2008</ref><ref>David Sullivan, [http://www.avn.com/performer/articles/32868.html "Video: Soderbergh Directs Sasha Grey"], in: ''Adult Video News'', AVN Media Network (online), 10-15-2008</ref><ref>Video of ''The Girlfriend Experience'' shoot at [http://celebrities.com/vids/?post=8836 celebrities.com]</ref>
+
+His next film was 2009's ''[[The Informant!]]'' a black comedy starring Matt Damon as corporate [[whistleblower]] [[Mark Whitacre]]. Whitacre wore a wire for two and a half years for the [[FBI]] as a high-level executive at a [[Fortune 500]] company, [[Archer Daniels Midland]] (ADM), in one of the largest [[price-fixing]] cases in history.<ref>{{cite web|url=http://www.hollywood.com/movie/The_Informant/3464215|title=The Informant|publisher=Hollywood.com|accessdate=December 19, 2007|archiveurl=http://archive.is/8bId|archivedate=December 16, 2012}}</ref> The film was released on September 18, 2009. The script for the movie was written by Scott Z. Burns based on [[Kurt Eichenwald]]'s book, ''The Informant''.
+
+In 2009, Soderbergh directed a play titled ''Tot-Mom'' for the [[Sydney Theatre Company]] in Sydney, Australia.<ref>{{cite web|url=http://www.sydneytheatre.com.au/2009/tot-mom |title=Tot Mom|publisher=[[Sydney Theatre Company]]|archiveurl=http://web.archive.org/web/20091022121949/http://www.sydneytheatre.com.au/2009/tot-mom |archivedate=22 October 2009|accessdate=2014-04-16}}</ref> The play is based on the real-life case of [[Caylee Anthony]]. Rehearsals commenced in early November 2009, and the production opened December 2009. Soderbergh also shot a small improvised film with the cast of the play, ''The Last Time I Saw Michael Gregg'', a comedy about a theatre company staging Chekhov's ''Three Sisters''. He has stated that he does not want it seen by the public, and only intended it for the cast.
+
+===The 2010s===
+In 2010, Soderbergh shot the action-thriller ''[[Haywire (film)|Haywire]]'', starring [[Gina Carano]], [[Ewan McGregor]], [[Michael Fassbender]], and [[Channing Tatum]] which, even though was shot in early 2010, was not released until January 2012.
+
+In the fall of 2010, he shot the epic virus thriller ''[[Contagion (film)|Contagion]]'', written by [[Scott Z. Burns]].<ref>{{cite news|author=Uncle Creepy |date=April 1, 2010 |url=http://www.dreadcentral.com/news/36738/script-details-leak-out-steven-soderberghs-contagion |title=Script Details Leak Out for Steven Soderbergh's Contagion |website=[[Dread Central]] |accessdate=2012-01-22}}</ref> With a star-studded cast including [[Matt Damon]], [[Kate Winslet]], [[Gwyneth Paltrow]], [[Laurence Fishburne]], [[Marion Cotillard]] and [[Jude Law]], the film follows the outbreak of a lethal pandemic across the globe and the efforts of doctors and scientists to discover the cause and develop a cure. It was released on September 9, 2011.
+
+In August 2011, Soderbergh served as a [[second unit director]] on ''[[The Hunger Games (film)|The Hunger Games]]''<ref>{{cite web|last=Chitwood |first=Adam |title=Steven Soderbergh is Directing Second Unit on The Hunger Games |url= http://collider.com/steven-soderbergh-hunger-games/107523/ |publisher=Collider |date=August 4, 2011 |accessdate=January 8, 2012}}</ref> and filmed much of the District 11 riot scene.<ref>[http://www.mtv.com/news/articles/1681105/hunger-games-avox-cut.jhtml 'Hunger Games' Director Gary Ross 'Sorry' About Cuts' There was no room for &#91;Avox subplot&#93; in the storytelling, unfortunately,' director tells MTV News.]</ref>
+
+In September and October 2011, he shot ''[[Magic Mike]]'', a film starring [[Channing Tatum]], about the actor's experiences working as a male stripper in his youth. Tatum played the title mentor character, while [[Alex Pettyfer]] played a character based on Tatum. The film was released on June 29, 2012.
+
+His next project, the [[psychological thriller]] ''[[Side Effects (2013 film)|Side Effects]]'', starred [[Jude Law]], [[Rooney Mara]], [[Channing Tatum]] and [[Catherine Zeta-Jones]]. It was shot in April 2012 and was released on February 8, 2013.<ref>{{cite web|last=Lyttelton|first=Oliver|title=Exclusive: Rooney Mara, Jude Law & Channing Tatum Will Lead Steven Soderbergh's 'The Side Effects'|url=http://blogs.indiewire.com/theplaylist/exclusive-blake-lively-jude-law-channing-tatum-will-lead-steven-soderberghs-the-side-effects|work=[[indieWire]]|accessdate=January 19, 2012|date=January 9, 2012}}</ref> It also screened at the [[63rd Berlin International Film Festival]].<ref name="Berlin">{{cite web|url=http://www.berlinale.de/en/presse/pressemitteilungen/alle/Alle-Detail_16404.html |title=Berlinale Competition 2013: Another Nine Films Confirmed |accessdate=January 11, 2013 |work=berlinale}}</ref>
+
+''[[Behind the Candelabra]]'', his final feature film before his much publicized hiatus (see below), was shot in the summer of 2012. It stars [[Michael Douglas]] as legendarily flamboyant pianist [[Liberace]] and [[Matt Damon]] as his lover [[Scott Thorson]]. The film is written by [[Richard LaGravenese]], based on Thorson's book ''[[Behind the Candelabra: My Life with Liberace]]'', and produced by [[HBO Films]].<ref>[http://blogs.indiewire.com/theplaylist/archives/hbo_films_backs_steven_soderberghs_liberace_pic_behind_the_candelabra_set_f/ HBO Films Backs Steven Soderbergh's Liberace Pic 'Behind The Candelabra'; Set For Summer 2012 Shoot | The Playlist]. Blogs.indiewire.com. Retrieved on 2012-01-22.</ref> It was selected to compete for the [[Palme d'Or]] at the [[2013 Cannes Film Festival]].<ref name="Cannes2013">{{cite web|url=http://www.festival-cannes.fr/en/article/59652.html |title=2013 Official Selection|date=April 18, 2013|accessdate=April 18, 2013|work=Cannes}}</ref>
+
+Soderbergh had announced in numerous interviews his intention to retire from feature filmmaking. He stated that "when you reach the point where you're saying, 'If I have to get into a van to do another scout, I'm just going to shoot myself,' it's time to let somebody who's still excited about getting in the van, get in the van."<ref>{{cite web|website=[[National Film Festival for Talented Youth]] |title=Is Steven Soderbergh Retiring Or Not? |url=http://www.nffty.org/photos/is-steven-soderbergh-retiring-or-not |last=Syn |first=Theresa |date=3 October 2012 |accessdate=2014-04-20}}</ref><ref>{{cite web|title= 'Traffic' director Steven Soderbergh Announces Retierment |url=http://www.allheadlinenews.com/briefs/articles/90040147?%26quot%3BTraffic%26quot%3B%20director%20Steven%20Soderbergh%20announces%20retirement |accessdate=August 29, 2011}}</ref> Soderbergh later said that he would retire from filmmaking and begin to explore painting.<ref>{{cite news|url=http://www.huffingtonpost.com/artinfo/steven-soderbergh-confirm_b_940528.html |accessdate=August 29, 2011 |date=August 29, 2011 |title=Steven Soderbergh Confirms Plans to Leave Hollywood and Become a Painter |work=Huffington Post}}</ref> A few weeks later, Soderbergh played down his earlier comments, saying a film-making "sabbatical" was more accurate.<ref>{{cite news|title=Steven Soderbergh Now Denies Retiring |url=http://www.huffingtonpost.com/2011/09/05/steven-soderbergh-not-retiring-sabbatical_n_949124.html |accessdate=2011-11-26 |date=September 5, 2011 |website=Huffington Post |first=Jordan |last=Zakarin}}</ref> In the end, while promoting ''[[Side Effects (2013 film)|Side Effects]]'' in early 2013, he clarified that he had a five-year plan that saw him transitioning away from making feature films around his fiftieth birthday.<ref>{{cite news|url=http://online.wsj.com/news/articles/SB10001424127887323375204578270080612623840 |work=The Wall Street Journal |title=Steven Soderbergh: Restless Behind the Camera |last=Steinberg |first=Don |date=31 January 2013 |accessdate=2014-04-21}}</ref> Around that time, he gave a much publicized speech at the San Francisco International Film Festival, detailing the obstacles facing filmmakers in the current corporate Hollywood environment.<ref>{{cite web|url=http://www.deadline.com/2013/04/steven-soderbergh-state-of-cinema-address/ |title=Steven Soderbergh's State Of Cinema Talk |website=[[Deadline.com]] |date=30 April 2013 |accessdate=2014-04-21}}</ref>
+
+In May 2013, Soderbergh announced that he would direct a 10-part miniseries for [[Cinemax]]. Called ''[[The Knick]]'', it follows doctors at a fictionalized version of the [[Knickerbocker Hospital]] in Manhattan in the early twentieth century. The series stars [[Clive Owen]], [[Andre Holland]], [[Jeremy Bobb]], [[Juliet Rylance]], [[Eve Hewson]] and [[Michael Angarano]] and was filmed in the fall of 2013.<ref>{{cite news|url=http://www.nydailynews.com/entertainment/tv-movies/soderbergh-old-school-nyc-knick-time-article-1.1511114 |location=New York |work=Daily News |title=Steven Soderbergh takes NYC back a century or so for Cinemax series 'The Knick' |date=9 November 2013 |last=Bailey |first=Maria |accessdate=2014-04-21}}</ref> It began airing in August 2014 to critical acclaim.<ref>{{cite web|url=http://blogs.indiewire.com/theplaylist/watch-first-footage-from-steven-soderberghs-the-knick-more-2014-tv-highlights-20131217 |title=Watch: First Footage From Steven Soderbergh's 'The Knick' & More 2014 TV Highlights |last=Brock |first=Ben |website=Indiewire Blogs |date=17 December 2013 |accessdate=2014-04-21}}</ref>
+
+Soderbergh helped [[Spike Jonze]] with his film ''[[Her (film)|Her]]''. The original cut ran over 150 minutes and Jonze asked Soderbergh to "do his own quick, gut-instinct cut", which he did, cutting the film down to 90 minutes. This was not the final version of the film but it allowed Jonze to remove unnecessary plots.<ref name="vulture">{{cite web|last=Harris|first=Mark|title=Him and Her: How Spike Jonze Made the Weirdest, Most Timely Romance of the Year|url=http://www.vulture.com/2013/10/spike-jonze-on-making-her.html|website=[[Vulture (blog)|Vulture]]|accessdate=December 5, 2013|date=October 6, 2013}}</ref>
+
+In January 2014, Soderbergh announced that he was going to be working on an Off-Broadway play titled ''The Library'', and that [[Chloë Grace Moretz]] would star.<ref>{{cite web|url=http://wegotthiscovered.com/movies/steven-soderbergh-heads-offbroadway-library/ |title=Steven Soderbergh Heads Off-Broadway With The Library |last=Myles |first=Sarah |date=17 January 2014 |website=We Got This Covered |accessdate=2014-04-21}}</ref>
+
+===Soderbergh edits of famous films===
+
+Soderbergh has released recut versions of several films by other directors on his Extension 765 website.<ref>{{cite web|url=http://extension765.com/|title=Extension 765|website=Extension 765}}</ref> It is unclear whether Soderbergh has obtained legal rights to post these edits.
+
+On February 24, 2014, a [[mashup (video)|mashup]] of [[Alfred Hitchcock]]'s and [[Gus Van Sant]]'s versions of ''[[Psycho (1960 film)|Psycho]]'' appeared on the site.<ref>{{cite web|url=http://extension765.com/sdr/15-psychos |title=Psychos |website=Extension 765 |date=24 February 2014 | accessdate=2014-10-06}}</ref> Retitled "Psychos" and featuring no explanatory text, the recut appears to be a [[fan edit]] of the two films by Soderbergh. Reaction to the mashup appears to reinforce the prejudice against the 1998 film. The opening credits intermingle names from both the 1960 and 1998 versions, and all color has been removed from Van Sant's scenes, except for when Bates' mother is found.<ref>{{cite web|last=Luxford|first=James|title=The two Normans: Steven Soderbergh's Psycho double|url=http://www.theguardian.com/film/filmblog/2014/feb/26/steven-soderbergh-psycho-alfred-hitchcock-re-edit|publisher=[[The Guardian]]|accessdate=April 27, 2014|date=February 26, 2014}}</ref><ref>{{cite web|last=Arons|first=Rachel|title=Double "Psycho"|url=http://www.newyorker.com/online/blogs/culture/2014/03/steven-soderbergh-double-psycho.html|publisher=[[The New Yorker]]|accessdate=April 27, 2014|date=March 4, 2014}}</ref>
+
+On April 21, 2014, Soderbergh released an alternate cut of [[Michael Cimino]]'s controversial 1980 Western ''[[Heaven's Gate (film)|Heaven's Gate]]'' on his website. Credited to his pseudonym Mary Ann Bernard and dubbed "The Butcher's Cut", Soderbergh's version runs for 108 minutes.<ref>{{cite web|last=Adams|first=Sam|title=Steven Soderbergh Cuts "Heaven's Gate" Down to Size|url=http://blogs.indiewire.com/criticwire/steven-soderbergh-cuts-heavens-gate-down-to-size|publisher=[[Indiewire]]|accessdate=April 27, 2014|date=April 22, 2014}}</ref><ref>{{cite web|title=Steven Soderbergh Takes A Cleaver To Michael Cimino With HEAVEN'S GATE: THE BUTCHER'S CUT!|url=http://www.aintitcool.com/node/67024|publisher=[[Ain't It Cool News]]|accessdate=April 27, 2014|date=April 21, 2014}}</ref>
+
+On January 14, 2015, Soderbergh posted<ref>{{cite web|url=http://extension765.com/sdr/23-the-return-of-w-de-rijk|title=THE RETURN OF W. DE RIJK|website=Extension 765|date=January 14, 2015}}</ref> a recut version of [[Stanley Kubrick]]'s 1968 epic [[2001: A Space Odyssey (film)|2001: A Space Odyssey]]. At 110 minutes, Soderbergh's version is over half an hour shorter than the various official versions. Much of the cut material is from the first third of the film; in particular, most of Heywood Floyd's scenes are deleted.<ref>{{cite web|url=http://www.technologytell.com/entertainment/56592/review-steven-soderberghs-recut-2001-space-odyssey/|title=REVIEW: Steven Soderbergh’s Recut of "2001: A Space Odyssey"|website=technology tell|date=January 16, 2015}}</ref>
+
+===Unrealized projects===
+Soderbergh nearly filmed a feature adaptation of the baseball book ''[[Moneyball]]'', starring [[Brad Pitt]] and [[Demetri Martin]]. The book, by [[Michael Lewis (author)|Michael Lewis]], tells of how [[Billy Beane]], general manager of [[Oakland Athletics]], used statistical analysis to make up for what he lacked in funds to beat the odds and lead his team to a series of notable wins in 2002. Disagreements between Sony and Soderbergh about revisions to [[Steven Zaillian]]'s version of the screenplay led to Soderbergh's dismissal from the project only days prior to filming in June 2009. The move by Sony's [[Amy Pascal]], unprecedented in recent history, sent shockwaves through the industry. The film was eventually made by director [[Bennett Miller]], with a script rewritten by [[Aaron Sorkin]].<ref>{{cite news |url = http://www.variety.com/article/VR1118005824.html?categoryid=13&cs=1 |title = Sony still game for 'Moneyball' |work = Variety |date = July 9, 2009 |accessdate = July 9, 2009| first=Marc| last=Graser}}</ref> It was critically acclaimed and nominated for an [[Academy Award for Best Picture]].
+
+Soderbergh had planned to commence production in early 2012 on a feature version of ''[[The Man from U.N.C.L.E.]]'', also written by [[Scott Z. Burns]]. [[George Clooney]] was set for the lead role of [[Napoleon Solo]] but had to drop out due to a recurring back injury suffered while filming ''[[Syriana]]''.<ref>[http://www.digitalspy.com/movies/news/a339178/george-clooney-back-injury-forced-man-from-uncle-exit-says-writer.html George Clooney back injury forced 'Man From U.N.C.L.E.' exit, says writer – Movies News]. Digital Spy (September 7, 2011). Retrieved on 2012-01-22.</ref> In November 2011 Soderbergh withdrew from the project due to budget and casting conflicts,<ref>{{cite web | title= Exclusive: Steven Soderbergh Spies Other Plans, Won't Direct 'The Man From U.N.C.L.E.' | url=http://blogs.indiewire.com/theplaylist/exclusive-steven-soderbergh-opts-out-of-directing-warners-the-man-from-u-n-c-l-e | accessdate=August 5, 2013 | date=November 18, 2011}}</ref> and was eventually replaced by [[Guy Ritchie]].
+
+Soderbergh worked for a time with writer [[Scott Z. Burns]] on a biopic of controversial Nazi-era film director [[Leni Riefenstahl]], but he and Burns ended up abandoning that script as too uncommercial, making ''[[Contagion (film)|Contagion]]'' instead.<ref>[http://blogs.indiewire.com/theplaylist/archives/steven_soderbergh_reveals_he_dropped_a_leni_riefenstahl_biopic_to_do_contag/ Steven Soderbergh Reveals He Dropped A Leni Riefenstahl Biopic To Do 'Contagion' Instead | The Playlist]. Blogs.indiewire.com. Retrieved on 2012-01-22.</ref>
+
+==Directorial style and collaborations==
+Soderbergh frequently works with actors on more than one occasion. The following is a chart of notable collaborators:
+
+{| class="wikitable sortable" style="text-align:center;font-size:70%;"
+|- style="vertical-align:bottom;"
+! Actor !! ''[[Sex, Lies and Videotape]]'' !! ''[[Kafka (film)|Kafka]]'' !! ''[[King of the Hill (film)|King of the Hill]]'' !! ''[[The Underneath (film)|The Underneath]]'' !! ''[[Gray's Anatomy (film)|Gray's Anatomy]]'' !! ''[[Schizopolis]]'' !! ''[[Out of Sight]]'' !! ''[[The Limey]]'' !! ''[[Erin Brockovich (film)|Erin Brockovich]]'' !! ''[[Traffic (2000 film)|Traffic]]'' !! ''[[Ocean's Trilogy|Ocean's]] Trilogy'' !! ''[[Full Frontal (film)|Full Frontal]]'' !! ''[[Solaris (2002 film)|Solaris]]'' !! ''[[Eros (film)|Eros]]'' !! ''[[The Good German]]'' !! ''[[Che (2008 film)|Che]]'' !! ''[[The Informant!]]'' !! ''[[Contagion (film)|Contagion]]'' !! ''[[Haywire (film)|Haywire]]'' !! ''[[Magic Mike]]'' !! ''[[Side Effects (2013 film)|Side Effects]]'' !! ''[[Behind the Candelabra]]'' !! Total
+|-
+! [[Don Cheadle]] || || || || || || || {{X mark}} || || || {{X mark}} || {{X mark}} || || || || || || || || || || || || 3
+|-
+! Joe Chrest || || || {{X mark}} || {{X mark}} || || {{X mark}} || {{X mark}} || || {{X mark}} || || || {{X mark}} || || || || || || || || || || || 7
+|-
+! [[George Clooney]] || || || || || || || {{X mark}} || || || || {{X mark}} || || {{X mark}} || || {{X mark}} || || || || || || || || 4
+|-
+! [[Matt Damon]] || || || || || || || || || || || {{X mark}} || || || || || {{X mark}} || {{X mark}} || {{X mark}} || || || || {{X mark}} || 5
+|-
+! [[Viola Davis]] || || || || || || || {{X mark}} || || || {{X mark}} || || || {{X mark}} || || || || || || || || || || 3
+|-
+! [[Michael Douglas]] || || || || || || || || || || {{X mark}} || || || || || || || || || {{X mark}} || || || {{X mark}} || 3
+|-
+! [[Albert Finney]] || || || || || || || || || {{X mark}} || {{X mark}} ||{{X mark}}|| || || || || || || || || || || || 3
+|-
+! [[Luis Guzmán]] || || || || || || || {{X mark}} || {{X mark}} || || {{X mark}} || || || || || || || || || || || || || 3
+|-
+! [[Eddie Jemison]] || || || || || || {{X mark}} || || || || || {{X mark}} || || || || || || {{X mark}} || || || || || {{X mark}} || 4
+|-
+! [[Nicky Katt]] || || || || || || || || {{X mark}} || || || || {{X mark}} || || || || || || || || || || {{X mark}} || 3
+|-
+! [[Jeroen Krabbé]] || || {{X mark}} || {{X mark}} || || || || || || || ||{{X mark}}|| || || || || || || || || || || || 3
+|-
+! [[Julia Roberts]] || || || || || || || || || {{X mark}} || || {{X mark}} || {{X mark}} || || || || || || || || || || || 3
+|-
+! [[Channing Tatum]] || || || || || || || || || || || || || || || || || || || {{X mark}} || {{X mark}} || {{X mark}} || || 3
+|-
+! [[Catherine Zeta-Jones]] || || || || || || || || || || {{X mark}} ||{{X mark}}|| || || || || || || || || || {{X mark}} || || 3
+|}
+
+"I've always gotten along with them," says Soderbergh of actors, "I try and make sure they're OK, and when they're in the zone, I leave them alone. I don't get in their way." His non-intrusive directorial style has attracted repeat performances by many high-profile movie stars.<ref>{{cite web|url=http://www.hollywood.com/feature/id/471293|title="Traffic": Steven Soderbergh Interview|publisher=Hollywood.com|author=Ellen A. Kim|date=December 3, 2000}}</ref>
+Julia Roberts had supporting roles in ''Ocean's Eleven'', ''Ocean's Twelve'' and ''Full Frontal'', and won an [[Academy Award for Best Actress]] for her lead in ''Erin Brockovich''.  [[Benicio del Toro]], who also won an Academy Award for his work in a Soderbergh film (''Traffic''), later starred in ''Guerrilla'' and ''The Argentine''. Catherine Zeta-Jones won a [[Golden Globe]] nomination for her portrayal of Helena in ''Traffic'' (2000) and reteamed with him for box-office hit ''Ocean's Twelve'' (2004) and ''Side Effects'' (2013). But the actor he has collaborated most frequently with is George Clooney, who played the leading role six of his films, and with whom he co-owned the film production company, [[Section Eight Productions]]. Section Eight produced the critical hits ''[[Far From Heaven]]'', ''[[Insomnia (2002 film)|Insomnia]]'' and ''[[Syriana]]'', as well as the Clooney-directed films ''[[Confessions of a Dangerous Mind]]'' and ''[[Good Night, and Good Luck]]''.
+
+Soderbergh often acts as his own [[director of photography]] under the alias of Peter Andrews and occasionally as his own editor under the alias of Mary Ann Bernard, his mother's maiden name. While shooting ''Traffic'', Soderbergh wanted a credit of "Photographed and Directed by". The Writer's Guild (WGA) wouldn't allow another credit ahead of the writer. Because Soderbergh didn't want his name used more than once, he adopted a pseudonym, Peter Andrews, his father's first and middle names.
+
+Soderbergh often utilizes [[Cliff Martinez]] or [[David Holmes (musician)|David Holmes]] to construct/compose the soundtracks to his movies, and when not cutting his own films, he relies on editor [[Stephen Mirrione]].
+
+===Aesthetics===
+Soderbergh has made big-budget Hollywood films as well as art-house independent films; works with above-the-title movie stars and unknowns; directs adaptations and original material, both of which written by himself as well as other screenwriters.<ref name="IMDB">{{IMDb name|0001752}}</ref> His versatility is also apparent with the genres which he chooses to film and his trades as a filmmaker behind the scenes. ''Traffic'' screenwriter and ''Syriana'' director [[Stephen Gaghan]] named Soderbergh "the [[Michael Jordan]] of filmmaking" for his ability to assume so many distinct roles in film production.<ref name="CharlieRose">{{cite web|url=http://discussion-for-you.com/video/3333.cgi |title=Conversation About 'Traffic' – Screenwriter Stephen Gaghan talks about his new film, "Traffic" Charlie Rose (refers to Soderbergh as "Michael Jordan") December 27,200 |publisher=Discussion-for-you.com |date= |accessdate=August 7, 2012}}</ref>
+
+While Soderbergh is enamoured of dialogue, Soderbergh's incorporation of score and montage are equally prevalent in his story-telling.<ref name="Limey">[http://www.aboutfilm.com/movies/l/limey.htm "The Limey" review by Jeff Vorndam (creative editing techniques and hand-held camerawork)]. Aboutfilm.com. Retrieved on 2012-01-22.</ref> Even Soderbergh's light-hearted affairs, such as ''[[Out of Sight (1998 film)|Out of Sight]]'' and ''Ocean's Eleven'', contain scenes where images and score are the dominant story-telling mechanisms. Films such as ''Solaris'' and ''Traffic'' are heavily layered in scenes absent of dialogue altogether. [[Cliff Martinez]], a frequent collaborator with Soderbergh, composes many of the scores that provide Soderbergh with the thematic and sonic landscapes into which he inserts his characters.<ref name="IMDB"/>
+
+But while Soderbergh's subject matter is highly varied, many of his films feature as a central theme the exploration of the act or moral consequences of lying. For example, the protagonists in two early films, ''King of the Hill'' and ''Sex, Lies, and Videotape'', are both pathological liars (one in training, one in recovery), while most of the characters in all three Oceans films are con artists. It is interesting to note that he directed [[Spalding Gray]] in ''[[Gray's Anatomy (1996 film)|Gray's Anatomy]]'' after ''King of the Hill'', an actor who often commented that he was unable to "make anything up." ''[[Full Frontal (film)|Full Frontal]]'' is another film in this thread, where seemingly the fundamental dishonesty of the entire filmmaking process is exposed. More distantly, Soderbergh's interest in [[rhyming slang]], as seen in ''The Limey'' and the ''Ocean's'' films, may be seen as part of this theme, based on the conjectured origin of rhyming slang as a [[Language game (linguistics)|language game]].
+
+In his review of ''Full Frontal'', film critic [[Roger Ebert]] commented that, "Every once in a while, perhaps as an exercise in humility, Steven Soderbergh makes a truly inexplicable film... A film so amateurish that only the professionalism of some of the actors makes it watchable... It's the kind of film where you need the director telling you what he meant to do and what went wrong and how the actors screwed up and how there was no money for retakes, etc."<ref name="Ebert">{{cite web|url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20020802/REVIEWS/208020301/1023 |first=Roger |last=Ebert |website=Chicago Sun Times |date=August 2, 2002 |title=Full Frontal |accessdate=2012-01-22}}</ref> About Soderbergh's film, ''[[The Good German]]'' and his emphasis on style over substance, film critic [[Richard Roeper]] commented that the film had to offer, "a lot of style. Not so much with the plot."<ref name="RT">[http://www.rottentomatoes.com/m/good_german/?critic=creamcrop#mo Rotten Tomatoes reviews top critics "The Good German" Richard Roeper]. Rottentomatoes.com. Retrieved on 2012-01-22.</ref>
+
+Soderbergh has, nonetheless, been dubbed a stylistic chameleon by Anne Thompson of ''[[Premiere (magazine)|Premiere]]''. Drew Morton has extensively researched Soderbergh and has tied him to a modern movement much like the [[French New Wave]].<ref>{{cite web|url=http://stevensoderbergh.net/articles/2000/premiere.php|title=Steven Soderbergh: The Filmmaker Series|author=Anne Thompson|accessdate=December 19, 2007}}</ref><ref>{{cite web|url=http://stevensoderbergh.net/articles/2003/frenchnewwaveinfluences.php|title=French New Wave Influences in Steven Soderbergh Films|author=Drew Morton|accessdate=December 19, 2007}}</ref>
+
+Soderbergh also has a track record of honorable contributions in the cinematic arts; when the papers of writer and satirist [[Terry Southern]] were potentially in limbo following his untimely death in 1995, Soderbergh purchased and then donated the papers to the [[New York Public Library]].  ''[[Naqoyqatsi]]'', the final chapter of [[Godfrey Reggio|Godfrey Reggio's]] ''Qatsi'' trilogy, was completed after a delay of more than 10 years, only after Soderbergh stepped in to provide the necessary funding.
+
+==Views==
+Soderbergh claims to not be a fan of [[possessory credit]]s, and prefers not to have his name front and center at the start of a film. "The fact that I'm not an identifiable brand is very freeing," says Soderbergh, "because people get tired of brands and they switch brands. I've never had a desire to be out in front of anything, which is why I don't take a possessory credit."<ref name="SuicideGirls.com">{{cite web|url=http://suicidegirls.com/interviews/Steven%20Soderbergh%3A%20The%20Girlfriend%20Experience/ |title=Steven Soderbergh: The Girlfriend Experience |website=[[SuicideGirls.com]] |date=May 21, 2009 |accessdate=May 21, 2009}}</ref>
+
+On Monday, April 5, 2009, Soderbergh appeared before the Foreign Affairs Committee of the House of Representatives, and "cited the French initiative in asking lawmakers to deputize the American film industry to pursue copyright pirates," indicating he supports anti-piracy laws and Internet regulation.<ref>{{cite news|url=http://www.nytimes.com/2009/04/09/business/global/09net.html?hp|title=France Moves to Crack Down on Internet Piracy|work=The New York Times |author=Kevin J. O'Brien|date=April 8, 2009}}</ref>
+
+==Personal life==
+Soderbergh is married to television personality [[Jules Asner]], whom he often credits for influencing his female characters. Soderbergh claims he no longer reads reviews of his movies. "After ''Traffic'' I just stopped completely," says the director.<ref name="SuicideGirls.com"/> "After winning the LA and New York film critics awards, I really felt like, this can only get worse".<ref name="SuicideGirls.com"/> Steven has a daughter with his first wife, actress [[Betsy Brantley]]. He also has a daughter from a different relationship.<ref>{{cite news|title=Married Ocean's Eleven director Steven Soderbergh admits to fathering love child|work=[[Daily Mail]]|date=April 7, 2010|url=http://www.dailymail.co.uk/tvshowbiz/article-1374262/Married-Oceans-Eleven-director-Steven-Soderbergh-admits-fathering-love-child.html|accessdate=April 7, 2010|location=London}}</ref>
+
+Soderbergh lives in [[New York City]]. He is an [[atheist]].<ref>{{cite web|last=Thompson |first=Stephen |title=Is there a God? |website=[[The A.V. Club]] |date=6 September 2000 |url=http://www.avclub.com/articles/is-there-a-god,1394/ |archiveurl=http://web.archive.org/web/20090219071902/http://www.avclub.com/articles/is-there-a-god,1394/ |archivedate=19 February 2009 |accessdate=2014-04-21}}</ref>
+
+==Filmography==
+
+===Director===
+* ''[[Sex, Lies, and Videotape]]'' (1989)
+* ''[[Kafka (film)|Kafka]]'' (1991)
+* ''[[King of the Hill (film)|King of the Hill]]'' (1993)
+* ''[[The Underneath (film)|The Underneath]]'' (1995)
+* ''[[Gray's Anatomy (film)|Gray's Anatomy]]'' (1996)
+* ''[[Schizopolis]]'' (1996)
+* ''[[Out of Sight]]'' (1998)
+* ''[[The Limey]]'' (1999)
+* ''[[Erin Brockovich (film)|Erin Brockovich]]'' (2000)
+* ''[[Traffic (2000 film)|Traffic]]'' (2000)
+* ''[[Ocean's Eleven]]'' (2001)
+* ''[[Full Frontal (film)|Full Frontal]]'' (2002)
+* ''[[Solaris (2002 film)|Solaris]]'' (2002)
+* ''[[K Street (TV series)|K Street]]'' (2003, TV series)
+* ''[[Eros (film)|Eros]]'' (2004, segment "Equilibrium")
+* ''[[Ocean's Twelve]]'' (2004)
+* ''[[Bubble (film)|Bubble]]'' (2005)
+* ''[[The Good German]]'' (2006)
+* ''[[Ocean's Thirteen]]'' (2007)
+* ''[[Che (2008 film)|Che]]'' (2008, 2-part film)
+* ''[[The Girlfriend Experience]]'' (2009)
+* ''[[The Informant!]]'' (2009)
+* ''[[And Everything Is Going Fine]]'' (2010, Documentary)
+* ''[[Contagion (film)|Contagion]]'' (2011)
+* ''[[Haywire (film)|Haywire]]'' (2012)
+* ''[[Magic Mike]]'' (2012)
+* ''[[Side Effects (2013 film)|Side Effects]]'' (2013)
+* ''[[Behind the Candelabra]]'' (2013, TV movie)
+* ''[[The Knick]]'' (2014, TV series)
+
+===Screenwriter===
+*1989: ''[[Sex, Lies, and Videotape]]''
+*1993: ''[[King of the Hill (film)|King of the Hill]]''
+*1995: ''[[The Underneath (film)|The Underneath]]'' as Sam Lowry
+*1996: ''[[Schizopolis]]''
+*1997: ''[[Nightwatch (1997 film)|Nightwatch]]''
+*2002: ''[[Solaris (2002 film)|Solaris]]''
+*2004: ''[[Criminal (2004 film)|Criminal]]'' as Sam Lowry
+*2004: ''[[Eros (film)|Eros]]'' – the segment "Equilibrium"
+
+===Cinematographer===
+*1996: ''[[Schizopolis]]''
+*2000: ''[[Traffic (2000 film)|Traffic]]'' – as Peter Andrews
+*2001: ''[[Ocean's Eleven]]'' – as Peter Andrews
+*2002: ''[[Full Frontal (film)|Full Frontal]]'' – as Peter Andrews
+*2002: ''[[Solaris (2002 film)|Solaris]]'' – as Peter Andrews
+*2004: ''[[Ocean's Twelve]]'' – as Peter Andrews
+*2004: ''[[Eros (film)|Eros]]'' – the segment "Equilibrium"
+*2005: ''[[Bubble (film)|Bubble]]'' – as Peter Andrews
+*2006: ''[[The Good German]]'' – as Peter Andrews
+*2007: ''[[Ocean's Thirteen]]'' – as Peter Andrews
+*2008: ''[[Che (2008 film)|Che]]'' – as Peter Andrews
+*2009: ''[[The Girlfriend Experience]]'' – as Peter Andrews
+*2009: ''[[The Informant!]]'' – as Peter Andrews
+*2011: ''[[Contagion (film)|Contagion]]'' – as Peter Andrews
+*2012: ''[[Haywire (film)|Haywire]]'' – as Peter Andrews
+*2012: ''[[Magic Mike]]'' – as Peter Andrews
+*2013: ''[[Side Effects (2013 film)|Side Effects]]'' – as Peter Andrews
+*2013: ''[[Behind the Candelabra]]'' – as Peter Andrews
+*2014: ''[[The Knick]]'' – as Peter Andrews
+*2015: ''[[Magic Mike XXL]]''
+
+===Editor===
+*1989: ''[[Sex, Lies, and Videotape]]''
+*1991: ''[[Kafka (film)|Kafka]]''
+*1993: ''[[King of the Hill (film)|King of the Hill]]''
+*2002: ''[[Solaris (2002 film)|Solaris]]'' – as Mary Ann Bernard
+*2004: ''[[Eros (film)|Eros]]'' – the segment "Equilibrium"
+*2005: ''[[Bubble (film)|Bubble]]'' – as Mary Ann Bernard
+*2006: ''[[The Good German]]'' – as Mary Ann Bernard
+*2009: ''[[The Girlfriend Experience]]'' – as Mary Ann Bernard
+*2012: ''[[Haywire (film)|Haywire]]'' – as Mary Ann Bernard
+*2012: ''[[Magic Mike]]'' – as Mary Ann Bernard
+*2013: ''[[Side Effects (2013 film)|Side Effects]]'' – as Mary Ann Bernard
+*2013: ''[[Behind the Candelabra]]'' – as Mary Ann Bernard
+*2014: The Knick – as Mary Ann Bernard
+*2015: ''[[Magic Mike XXL]]''
+
+===Second unit director===
+*2012: ''[[The Hunger Games (film)|The Hunger Games]]''
+
+===Producer===
+*1994: ''[[Suture (film)|Suture]]''
+*1996: ''[[The Daytrippers]]''
+*1998: ''[[Pleasantville (film)|Pleasantville]]''
+*2001: ''[[Who Is Bernard Tapie?]]''
+*2001: ''[[Tribute]]''
+*2002: ''[[Far from Heaven]]''
+*2002: ''[[Confessions of a Dangerous Mind]]''
+*2002: ''[[Insomnia (2002 film)|Insomnia]]''
+*2002: ''[[Welcome to Collinwood]]''
+*2002: ''[[Naqoyqatsi]]''
+*2004: ''[[Keane (film)|Keane]]''
+*2004: ''[[Criminal (2004 film)|Criminal]]''
+*2005: ''[[Symbiopsychotaxiplasm: Take 2 1/2]]''
+*2005: ''[[Unscripted]]'' 
+*2005: ''[[The Big Empty (2005 film)|The Big Empty]]''
+*2003: ''[[Able Edwards]]''
+*2005: ''[[Syriana]]''
+*2005: ''[[Good Night, and Good Luck]]''
+*2005: ''[[The Jacket]]''
+*2005: ''[[Rumor Has It...]]''
+*2006: ''[[Pu-239 (film)|Pu-239]]''
+*2006: ''[[A Scanner Darkly (film)|A Scanner Darkly]]''
+*2007: ''[[I'm Not There]]''
+*2007: ''[[Michael Clayton (film)|Michael Clayton]]''
+*2007: ''[[Wind Chill (film)|Wind Chill]]''
+*2009: ''[[Playground]]''
+*2009: ''[[Solitary Man (film)|Solitary Man]]''
+*2010: ''[[Rebecca H. (Return to the Dogs)]]''
+*2011: ''[[We Need to Talk About Kevin (film)|We Need to Talk About Kevin]]''
+*2011: ''[[His Way (film)|His Way]]''
+*2014: ''[[Citizenfour]]''
+
+===TV series===
+
+====Director====
+*2003: ''[[K Street (TV series)|K Street]]''
+*2014: ''[[The Knick]]''
+
+===Producer===
+*2003: ''[[K Street (TV series)|K Street]]''
+*2014: ''[[The Knick]]''
+
+==Audio commentaries==
+
+===On his own films===
+*''[[Sex, Lies, and Videotape]]'', with filmmaker [[Neil LaBute]]
+*''[[Schizopolis]]''
+*''[[Out of Sight]]'', with screenwriter [[Scott Frank]]
+*''[[The Limey]]'', with screenwriter [[Lem Dobbs]]
+*''[[Traffic (2000 film)|Traffic]]'', with screenwriter [[Stephen Gaghan]]
+*''[[Ocean's Eleven]]'', with screenwriter [[Ted Griffin]]
+*''[[Full Frontal (film)|Full Frontal]]'', with screenwriter Coleman Hough
+*''[[Solaris (2002 film)|Solaris]]'', with producer [[James Cameron]]
+*''[[Ocean's Twelve]]'', with screenwriter [[George Nolfi]] (Blu-ray only)
+*''[[Bubble (film)|Bubble]]'', with filmmaker [[Mark Romanek]]
+*''[[Ocean's Thirteen]]'', with screenwriters [[Brian Koppelman]] and [[David Levien]] (Blu-ray only)
+*''[[The Girlfriend Experience]]'', with actress [[Sasha Grey]]
+*''[[The Informant!]]'', with screenwriter [[Scott Z. Burns]] (Blu-ray only)
+
+===On other films===
+*''[[Apartment Zero]]'', with screenwriter/producer [[David Koepp]]
+*''[[Billy Budd (film)|Billy Budd]]'', with actor [[Terence Stamp]]
+*''[[Catch-22 (film)|Catch-22]]'', with director [[Mike Nichols]]
+*''[[Clean, Shaven]]'', with director [[Lodge Kerrigan]]
+*''[[The Graduate]]'', with director Mike Nichols
+*''[[Point Blank (1967 film)|Point Blank]]'', with director [[John Boorman]]
+*''[[Seabiscuit (film)|Seabiscuit]]'', with director [[Gary Ross]]
+*''[[The Third Man]]'', with screenwriter [[Tony Gilroy]]
+*''[[Who's Afraid of Virginia Woolf? (film)|Who's Afraid of Virginia Woolf?]]'', with director Mike Nichols
+*''[[The Yards]]'', with director [[James Gray (film director)|James Gray]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+*{{Cite book|last=Waxman |first=Sharon |authorlink=Sharon Waxman |title=Rebels on the Backlot: Six Maverick Directors and How They Conquered the Hollywood Studio System |location=New York |publisher=HarperEntertainment |year=2005 |isbn=9780060540173 |postscript=}}
+
+==External links==
+{{commons}}
+*{{IMDb name|0001752|Steven Soderbergh}}
+*[http://www.lib.berkeley.edu/MRC/soderbergh.html Steven Soderbergh Bibliography] (via UC Berkeley)
+*[http://www.upress.state.ms.us/catalog/spring2002/steven_soderbergh.html Steven Soderbergh: Interviews]
+*[http://everhip.com/?p=1722 Everhip interview with Steven Soderbergh about making The Girlfriend Experience]
+*[http://www.npr.org/templates/story/story.php?storyId=5167394 NPR: ''Bubble''] (01/2006)
+*[http://www.wired.com/wired/archive/13.12/soderbergh.html ''Wired'' interview] (12/2005)
+*[http://www.guardian.co.uk/weekend/story/0,3605,899386,00.html ''Guardian'' interview] (02/2003)
+*[http://stevensoderbergh.net/articles/2003/frenchnewwaveinfluences.php French New Wave Influences in Steven Soderbergh] (05/2003)
+*[http://anthemmagazine.com/story/1502 Steven Soderbergh on The Girlfriend Experience] (April 30, 2009)
+*[http://www.nypost.com/entertainment/movies/news/n16148.htm 'Che': Soderbergh's Own Revolution?] by Lisa Collins, ''New York Post'', October 31, 2008
+* [http://theenvelope.latimes.com/la-et-che1-2008nov01,0,161535.story "Soderbergh Takes A Revolutionary Approach to 'Che'"] by Mark Olsen, ''LA Times'', October 31, 2008
+* [http://www.avclub.com/content/interview/steven_soderbergh Steven Soderbergh interview] by Scott Tobias, ''The Onion A.V. Club'', January 5, 2009
+* [http://www.blackbookmag.com/article/steven-soderbergh-wants-a-revolution/5668 Steven Soderbergh Wants a Revolution] interview by Foster Kamer, ''Black Books'', December 29, 2008
+* [http://therumpus.net/2009/01/the-rumpus-long-interview-with-steven-soderbergh/ The Rumpus Long Interview with Steven Soderbergh] by Scott Hitchins, ''The Rumpus'', January 19, 2009
+* [http://www.guardian.co.uk/film/2009/jul/14/steven-soderbergh Steven Soderbergh: "I can see the end of my career"] by Henry Barnes, ''Guardian'', July 14, 2009
+* [http://www.virtual-history.com/movie/person/2791/steven-soderbergh Literature on Steven Soderbergh]
+
+{{Qatsi trilogy}}
+{{Steven Soderbergh}}
+{{Navboxes
+|title = Awards for Steven Soderbergh
+|list =
+{{AcademyAwardBestDirector 1981-2000}}
+{{Broadcast Film Critics Association Award for Best Director}}
+{{EmmyAward MiniseriesDirector 2001–2025}}
+{{IndependentAwardforBestDirector}}
+{{Satellite Award Best Director}}
+}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+ | NAME              = Soderbergh, Steven
+ | ALTERNATIVE NAMES = 
+ | SHORT DESCRIPTION = Film director
+ | DATE OF BIRTH     = January 14, 1963
+ | PLACE OF BIRTH    = [[Atlanta, Georgia]], United States
+ | DATE OF DEATH     = 
+ | PLACE OF DEATH    = 
+}}
+{{DEFAULTSORT:Soderbergh, Steven}}
+[[Category:1963 births]]
+[[Category:Louisiana State University Laboratory School alumni]]
+[[Category:Male actors from Atlanta, Georgia]]
+[[Category:American atheists]]
+[[Category:American cinematographers]]
+[[Category:American film directors]]
+[[Category:American film producers]]
+[[Category:American people of Swedish descent]]
+[[Category:American male screenwriters]]
+[[Category:Best Director Academy Award winners]]
+[[Category:Independent Spirit Award for Best Director winners]]
+[[Category:Living people]]
+[[Category:Writers from Atlanta, Georgia]]
+[[Category:Directors Guild of America Award winners]]
+[[Category:Documentary film producers]]
+[[Category:People from Charlottesville, Virginia]]
+[[Category:Male actors from Baton Rouge, Louisiana]]
+[[Category:Writers from Baton Rouge, Louisiana]]
+[[Category:English-language film directors]]

@@ -1,0 +1,87 @@
+{{Use mdy dates|date=December 2013}}
+{{Infobox person
+| name        = Masaki Kobayashi
+| image       = 
+| caption     = 
+| birth_date  = {{Birth date|1916|2|14|mf=y}}
+| birth_place = [[Otaru]], Japan
+| death_date  = {{Death date and age|1996|10|4|1916|2|14|mf=y}}
+| death_place = [[Tokyo]], Japan
+| occupation  = Film director, producer, writer
+| salary      = 
+| networth    = 
+| spouse      = 
+| children    = 
+| website     = 
+| footnotes   = 
+}}
+'''Masaki Kobayashi''' {{nihongo|'''Masaki Kobayashi'''|小林 正樹|''Kobayashi Masaki''|February 14, 1916 – October 4, 1996}} was a Japanese film director.
+
+==Biography==
+Kobayashi embarked on a career in film in 1941 when he entered [[Shochiku]] Studios as an apprentice director, but his career was almost immediately interrupted when he was drafted into the army and sent to Manchuria.<ref>{{cite web|url=http://www.independent.co.uk/news/people/obituary-masaki-kobayashi-1358495.html |title=Masaki Kobayashi: Obituary|first=James |last=Kirkup|publisher=The Independent|location=London|date=October 15, 1996|accessdate=}}</ref> Kobayashi regarded himself as a pacifist. His way of resisting was to refuse promotion to a rank higher than [[private (rank)|private]].<ref>{{cite web|url=http://www.criterion.com/current/posts/381 |title=Harakiri: Kobayashi and History – From the Current – The Criterion Collection |publisher=Criterion.com |date= |accessdate=January 19, 2013}}</ref> He spent time as a prisoner of war. After his release, in 1946, he returned to Shochiku as assistant to the director Keisuke Kinoshita. His own directorial debut was in 1952 when he made ''Musuko no Seishun'' (''My Son's Youth'').
+
+From 1959 to 1961, Kobayashi directed ''[[The Human Condition (film series)|The Human Condition]]'' (1959–1961), a trilogy on the effects of [[World War II]] on a Japanese [[pacifism|pacifist]] and socialist. The total length of the films is over nine hours.
+
+In 1962 he directed ''[[Harakiri (1962 film)|Harakiri]]'', which won the [[Jury Prize (Cannes Festival)|Jury Prize]] at the [[1963 Cannes Film Festival]].
+
+In 1964, Kobayashi made ''[[Kwaidan (film)|Kwaidan]]'' (1964), a collection of four ghost stories drawn from books by [[Lafcadio Hearn]]. Kwaidan won the [[Jury Prize (Cannes Film Festival)|Special Jury Prize]] at the [[1965 Cannes Film Festival]],<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/2895/year/1965.html |title=Festival de Cannes: Kwaidan |accessdate=March 4, 2009|work=festival-cannes.com}}</ref> and received an [[Academy Award]] nomination for [[Academy Award for Best Foreign Language Film|Best Foreign Language Film]].<ref name="Oscars1966">{{cite web|url=http://www.oscars.org/awards/academyawards/legacy/ceremony/38th-winners.html |title=The 38th Academy Awards (1966) Nominees and Winners |accessdate=November 6, 2011|work=oscars.org}}</ref>
+
+In 1969, he was a member of the jury at the [[19th Berlin International Film Festival]].<ref name="berlinale 1969">{{cite web |url=http://www.berlinale.de/en/archiv/jahresarchive/1969/04_jury_1969/04_Jury_1969.html |title=Berlinale 1969: Juries |accessdate=March 6, 2010 |work=berlinale.de}}</ref>
+
+He was also a candidate for directing the Japanese sequences for ''[[Tora! Tora! Tora!]]'', once [[Akira Kurosawa]] left the film. But instead [[Kinji Fukasaku]] and [[Toshio Masuda (director)|Toshio Masuda]] were chosen.
+
+==Filmography==
+* 1952: ''My Sons' Youth'' (''Musuko no seishun'')
+* 1953: ''Sincerity'' (''Magokoro'')
+* 1953: ''The Thick-Walled Room'' (''Kabe atsuki heya'') (completed in 1953, but not released until 1956)
+* 1954: ''Three Loves'' (''Mittsu no ai'')
+* 1954: ''Somewhere Beneath the Wide Sky'' (''Kono hiroi sora no dokoka ni'')
+* 1955: ''Beautiful Days'' (''Uruwashiki saigetsu'')
+* 1956: ''Fountainhead'' aka ''The Spring'' (''Izumi'')
+* 1956 ''I'll Buy You'' (''Anata kaimasu'')
+* 1957: ''[[Black River (1957 film)|Black River]]'' (''Kuroi kawa'')
+* 1959–1961: ''[[The Human Condition (film series)|The Human Condition]]'' trilogy (''Ningen no jōken'')
+** 1959: ''No Greater Love''
+** 1959: ''Road to Eternity''
+** 1961: ''[[A Soldier's Prayer]]''
+* 1962: ''The Inheritance'' (''Karami-ai'')
+* 1962: [[Harakiri (1962 film)|''Harakiri'']] (''Seppuku'')
+* 1964: [[Kwaidan (film)|''Kwaidan'']]
+* 1967: ''[[Samurai Rebellion]]'' (''Jōi-uchi: Hairyō-tsuma shimatsu'')
+* 1968: ''[[Hymn to a Tired Man]]'' (''Nihon no seishun'')
+* 1971: ''Inn of Evil'' (''Inochi bō ni furō'')
+* 1975: ''[[The Fossil]]'' (''Kaseki'')
+* 1979: ''Glowing Autumn'' (''Moeru aki'')
+* 1983: ''[[Tokyo Trial (1983 film)|Tokyo Trial]]'' (''Tōkyō saiban'')
+* 1985: ''Family Without a Dinner Table'' aka ''The Empty Table'' (''Shokutaku no nai ie'')
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb name|462030|Masaki Kobayashi}}
+* {{jmdb name|id=0181910|name=Masaki Kobayashi}}
+
+{{Masaki Kobayashi}}
+
+{{Authority control}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Kobayashi, Masaki
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= Film director
+|DATE OF BIRTH= 1916-2-14
+|PLACE OF BIRTH= [[Otaru, Hokkaidō]], Japan
+|DATE OF DEATH= 1996-10-4
+|PLACE OF DEATH= Tokyo, Japan
+}}
+{{DEFAULTSORT:Kobayashi, Masaki}}
+[[Category:1916 births]]
+[[Category:1996 deaths]]
+[[Category:People from Otaru, Hokkaido]]
+[[Category:Japanese film directors]]
+[[Category:Japanese pacifists]]
+[[Category:Japanese military personnel of World War II]]
+[[Category:Samurai film directors]]
+[[Category:Japanese socialists]]

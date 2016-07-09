@@ -1,0 +1,25 @@
+{{Orphan|date=February 2009}}
+'''Robert Calin''' (April 26, 1928 – June 14, 1986) was a [[France|French]]-born songwriter and actor.  He was a founding member of the ''[[Sons of the Pioneers]]'' musical group and the composer of numerous [[Country music]] songs including the standards ''[[Soho]]'' and ''[[Tumbling (song)|Tumbling]]''. As an actor and singer he appeared in a few [[Western film]]s.
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Calin, Robert
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = French actor
+| DATE OF BIRTH     = April 26, 1928
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = June 14, 1986
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Calin, Robert}}
+[[Category:1928 births]]
+[[Category:1986 deaths]]
+[[Category:French male film actors]]
+[[Category:French singer-songwriters]]
+[[Category:Male Western (genre) film actors]]
+[[Category:French country songwriters]]
+[[Category:20th-century French male actors]]
+[[Category:20th-century singers]]
+
+
+{{Songwriter-stub}}
+{{france-film-actor-stub}}

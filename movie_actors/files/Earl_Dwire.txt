@@ -1,0 +1,65 @@
+{{Infobox person
+| bgcolour      = silver
+| name          =  Earl Dwire
+| image         = Earl Dwire.jpg
+| imagesize     = 
+| caption       = 
+| birth_name     = 
+| birth_date     = {{birth date|1883|10|3}}
+| birth_place      = [[Waukegan, Illinois|Waukegan]] , [[Illinois]] , [[United States]]
+| death_date     = {{death date and age|1940|1|16|1883|10|3}} 
+| death_place    = [[Panorama City, California|Panorama City]],  [[California]], [[United States]]
+| height        = 
+| othername     = 
+| years_active   = 
+| spouse        = 
+| homepage      = 
+}}
+
+'''Earl Dwire''' (October 3, 1883 &ndash; January 16, 1940) was an American character actor who appeared in more than 150 movies between 1921 and his death in 1940. Noted for his almost frightening long face, Dwire worked mainly as a villain in westerns, including ''[[Riders of Destiny]]'' (1933) with [[John Wayne]]  in the first [[singing cowboy]] movie and ''[[The Trail Beyond]]'' (1934) opposite Wayne, [[Noah Beery, Sr.]], and [[Noah Beery, Jr.]] He also appeared in [[Bob Steele (actor)|Bob Steele]] vehicles such as ''[[Alias John Law]]'' (1935).
+
+==Partial filmography==
+*''[[Riders of Destiny]]'' - Slip Morgan (1933) 
+*''[[King Kong (1933 film)|King Kong]]'' - New York Theatregoer (uncredited)  (1933)
+*''[['Neath the Arizona Skies]]'' - Tom   (Nina's Father) (uncredited) (1934) 
+*''[[The Lawless Frontier]]'' - Pandro Zanti Posing as Don Yorba (1934)
+*''[[The Trail Beyond]]'' - Henchman Benoit (1934) 
+*''[[Randy Rides Alone]]'' - Sheriff (1934)
+*''[[The Man from Utah]]'' - Rodeo Announcer (uncredited) (1934) 
+*''[[Blue Steel (1934 film)|Blue Steel]]'' - Henchman (1934) 
+*''[[West of the Divide]]'' - Sheriff (1934)
+*''[[The Lucky Texan]]'' - Sheriff Miller (1934) 
+*''[[Lawless Range]]'' - Emmett (1935) 
+*''[[The New Frontier (1935 film)|The New Frontier]]'' - Pat Miller (uncredited)  (1935)
+*''[[Westward Ho (1935 film)|Westward Ho]]'' - Townsman Notifying Vigilantes (uncredited) (1935) 
+*''[[Paradise Canyon]]'' - Sheriff #2 - Arizona (uncredited) (1935) 
+*''[[The Dawn Rider]]'' - Pete (Expressman)  (1935)
+*''[[King of the Pecos]]'' - Rancher (uncredited) (1936) 
+*''[[Born to the West]]'' - Cowhand (uncredited)  (1937)
+*''[[On Trial (1939 film)|On Trial]]'' (1939)
+
+==External links==
+*{{IMDb name|0245429|Earl Dwire}}
+*[http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=dwire&GSfn=earl&GSbyrel=all&GSdyrel=all&GSob=n&GRid=3704823&df=all& findagrave.com]
+
+{{Authority control}}
+
+{{Persondata         <!-- Metadata: see [[Wikipedia:Persondata]] -->
+| NAME              =Dwire, Earl
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Actor
+| DATE OF BIRTH     =October 3, 1883
+| PLACE OF BIRTH    =[[Waukegan, Illinois|Waukegan]] , [[Illinois]] , [[United States]]
+| DATE OF DEATH     =January 16, 1940
+| PLACE OF DEATH    =[[Panorama City, California|Panorama City]],  [[California]], [[United States]]
+}}
+{{DEFAULTSORT:Dwire, Earl}}
+[[Category:1883 births]]
+[[Category:1940 deaths]]
+[[Category:American male film actors]]
+[[Category:Male actors from Illinois]]
+[[Category:Male Western (genre) film actors]]
+[[Category:20th-century American male actors]]
+
+
+{{US-film-actor-1880s-stub}}

@@ -1,0 +1,42 @@
+{{no footnotes|date=March 2013}}
+{{Infobox person
+|name = Nathan Lee Chasing His Horse
+|image = 
+|caption = 
+|birth_date = {{Birth date and age|1976|4|28}}
+|birth_place = [[Rosebud, South Dakota]], United States   
+}}
+'''Nathan Lee Chasing His Horse''' (born April 28, 1976) is a [[Native Americans in the United States|Native American]] actor. He is a member of the [[Lakota people|Rosebud Lakota Sioux Nation]], the son of Chief Joseph Chasing Horse and Winifred Chasing Horse.
+
+Chasing His Horse was cast to play the part of ''Smiles A Lot'' ([[Lakota language|Lakota]]: ''Iȟá s’a'') in [[Kevin Costner|Kevin Costner's]] movie ''[[Dances with Wolves]]''. He starred in three [[Turner Network Television|TNT]] telefilms with [[First Nations]] actor [[Eric Schweig]]: ''The Broken Chain'', ''[[Into the West (TV miniseries)|Into the West]]'' and ''[[Bury My Heart at Wounded Knee (film)|Bury My Heart at Wounded Knee]]''. 
+
+==Films==
+*''[[Bury My Heart at Wounded Knee (film)|Bury My Heart at Wounded Knee]]'' (2007, HBO Films) &mdash; One Bull
+*''[[Into the West (TV miniseries)|Into the West]]'' (2005, TV miniseries) &mdash; Sleeping Bear
+*''[[Dreamkeeper]]'' (2003, TV) &mdash; Verdel
+*''The Broken Chain'' (1993, TV) &mdash; Young [[Joseph Brant]]
+*''[[Dances with Wolves]]'' (1990) &mdash; Smiles A Lot
+
+==External links==
+* {{IMDb name|id=0496724}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Chasing His Horse, Nathan Lee
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American actor
+| DATE OF BIRTH     =April 28, 1976
+| PLACE OF BIRTH    = [[Rosebud, South Dakota]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Chasing His Horse, Nathan Lee}}
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:American male film actors]]
+[[Category:Lakota people]]
+[[Category:Native American male actors]]
+[[Category:Male Western (genre) film actors]]
+[[Category:American male child actors]]
+
+
+{{US-film-actor-1970s-stub}}

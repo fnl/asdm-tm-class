@@ -1,0 +1,707 @@
+{{Use mdy dates|date=April 2011}}
+{{Infobox person
+ | name             = Burt Lancaster
+ | image            = Burt Lancaster - publicity 1947.JPG
+ | imagesize        = 
+ | caption          = in ''[[Desert Fury]]'' (1947)
+ | birth_name       = Burton Stephen Lancaster
+ | birth_date       = {{birth date|1913|11|02}}
+ | birth_place      = [[Manhattan]], [[New York]], U.S.
+ | death_date       = {{death date and age|1994|10|20|1913|11|02}}
+ | death_place      = [[Century City]], [[California]], U.S.
+ | death_cause      = [[myocardial infarction|Heart attack]]
+ | education        = [[DeWitt Clinton High School]]
+ | alma_mater       = [[New York University]]
+ | years_active     = 1945–1991
+ | other_names      = 
+ | occupation       = Actor, director, producer
+ | website          = 
+ | spouse           = June Ernst <br>(m. 1935–1946; divorced) <br>Norma Anderson <br>(m. 1946–1969; divorced) <br>Susan Martin <br>(m. 1990–1994; his death)
+ | children         = [[Bill Lancaster]]<br>James<br>Susan<br>Joanna<br>Sighle
+}}
+'''Burton Stephen''' "'''Burt'''" '''Lancaster''' (November 2, 1913 – October 20, 1994) was an American film actor noted for his athletic physique, blue eyes, and distinctive smile (which he called ''"The Grin"''). After initially building his career on "tough guy" roles Lancaster abandoned his "all-American" image in the late 1950s in favor of more complex and challenging roles, and came to be regarded as one of the best motion picture actors of his generation.
+
+Lancaster was nominated four times for [[Academy Award]]s and won once for his work in ''[[Elmer Gantry (film)|Elmer Gantry]]'' in 1960. He also won a [[Golden Globe]] for that performance and [[BAFTA Award]]s for ''[[Birdman of Alcatraz (film)|The Birdman of Alcatraz]]'' (1962) and ''[[Atlantic City (1980 film)|Atlantic City]]'' (1980). His production company, [[Hecht Hill Lancaster|Hecht-Hill-Lancaster]], was the most successful and innovative star-driven independent production company in Hollywood in the 1950s, making movies such as ''[[Marty (film)|Marty]]'' (1955), ''[[Trapeze (film)|Trapeze]]'' (1956), ''[[Sweet Smell of Success]]'' (1957), and ''[[Separate Tables]]'' (1958).
+
+In 1999, the [[American Film Institute]] named Lancaster 19th among the [[AFI's 100 Years... 100 Stars|greatest male stars of all time]].<ref>[http://connect.afi.com/site/DocServer/stars50.pdf?docID=262 "America's Greatest Legends."] ''[[American Film Institute]].'' Retrieved: July 29, 2009.</ref>
+{{TOC limit|limit=2}}
+
+==Youth==
+Lancaster was born in [[Manhattan]], [[New York City]], at his parents' home at 209 East 106th Street, between Second and Third Avenues, today the site of Benjamin Franklin Plaza. Lancaster was the son of Elizabeth (née Roberts) and James Henry Lancaster, who was a postman.<ref name="buford p. 12">Buford 2008, p. 12.</ref> Both of his parents were [[Protestantism|Protestants]] of working-class origin. All of Lancaster's grandparents were [[Northern Irish]] immigrants to the U.S.; his maternal grandparents were from [[Belfast]], and were descendants of [[England|English]] immigrants to [[Ireland]].<ref name="buford p. 12"/> The family believed themselves to be related to [[Frederick Roberts, 1st Earl Roberts]].{{Citation needed|date=April 2012}} Lancaster grew up in [[East Harlem]] and spent much of his time on the streets, where he developed great interest and skill in gymnastics while attending [[DeWitt Clinton High School]], where he was a basketball star. Before he graduated from DeWitt Clinton, his mother died of a [[cerebral hemorrhage]]. Lancaster was accepted into [[New York University]] with an athletic scholarship but subsequently dropped out.<ref>Buford 2008, p. 28.</ref>
+
+==Circus career and military==
+ {{multiple image
+<!-- Essential parameters -->
+| align     = right
+| direction = vertical
+| width     = 260
+
+<!-- Image 1 -->
+| image1    = Circus-Lancaster-Cravat.jpg
+| width1    =
+| alt1      =
+| caption1  = Lancaster and [[Nick Cravat]], performing with the [[Federal Theatre Project]] Circus (1935–38)
+<!-- Image 2 -->
+| image2    = Circus-Lancaster.jpg
+| width2    =
+| alt2      =
+| caption2  = Cravat and Lancaster performing on the horizontal bars
+<!-- Image 3 -->
+| image3    =Burt Lancaster and Deborah Kerr in From Here to Eternity trailer.jpg
+| width3    =
+| alt3      =
+| caption3  = With [[Deborah Kerr]] in ''[[From Here to Eternity]]'' (1953)
+<!-- Image 4 -->
+| image4    =
+| width4    =
+| alt4      =
+| caption4  =
+<!-- Image 5 -->
+| image5    =
+| width5    =
+| alt3      =
+| caption5  =
+<!-- Image 6 -->
+| image6    =
+| width6    =
+| alt6      =
+| caption6  =
+<!-- Image 7 -->
+| image7    =
+| width7    =
+| alt7      =
+| caption7  =
+<!-- Image 8 -->
+| image8    =
+| width8    =
+| alt8      =
+| caption8  =
+<!-- Image 9 -->
+| image9    =
+| width9    =
+| alt9      =
+| caption9  =
+<!-- up to |image10 is accepted -->
+
+<!-- Extra parameters -->
+| header            =
+| header_align      = <!-- left/right/center -->
+| header_background =
+| footer            =
+| footer_align      = <!-- left/right/center -->
+| footer_background =
+| background color  =
+}}
+At the age of 19, Lancaster met [[Nick Cravat]], with whom he continued to work throughout his life. Together they learned to act in local theatre productions and circus arts at [[Union Settlement Association|Union Settlement]], one of the city's oldest settlement houses.<ref>Andreychuk 2005, p. 3.</ref> They formed the acrobat duo "Lang and Cravat" in the 1930s and soon joined the Kay Brothers circus. However, in 1939, an injury forced Lancaster to give up the profession, with great regret. He then found temporary work until 1942 — first as a salesman for [[Marshall Fields]] and then as a singing waiter in various restaurants.<ref>Andreychuk 2005, p. 6.</ref>
+
+The United States having then entered [[World War II]], Lancaster joined the [[United States Army]] and performed with the Army's Twenty-First [[Special Services (entertainment)|Special Services]] Division, one of the military groups organized to follow the troops on the ground and provide [[USO]] entertainment to keep up morale. He served with [[Mark W. Clark|General Mark Clark's]] [[United States Army North|Fifth Army]] in [[Italy]] from 1943–1945.<ref>Andreychuk 2005, p. 7.</ref>
+
+==Film career==
+
+===Acting===
+[[File:Killers001.jpg|left|thumb|With [[Ava Gardner]] in ''[[The Killers (1946 film)|The Killers]]'' (1946)]]
+Though initially unenthusiastic about acting, he returned from service, auditioned for a Broadway play, and was offered a role. Although [[Harry Brown (writer)|Harry Brown]]'s ''[[Eight Iron Men|A Sound of Hunting]]'' had a run of only three weeks, Lancaster's performance drew the attention of a Hollywood agent, [[Harold Hecht]], and through him to [[Hal Wallis]], who cast Lancaster in ''[[The Killers (1946 film)|The Killers]]'' (1946). (Hecht and Lancaster later formed several production companies in the 1950s to give Lancaster greater creative control.) The tall, muscular actor won significant acclaim and appeared in two more films the following year. Subsequently, he played in a variety of films, especially in dramas, [[Thriller (genre)|thrillers]], and military and adventure films. In two, ''[[The Flame and the Arrow]]'' and ''[[The Crimson Pirate]],'' a friend from his circus years, [[Nick Cravat]], played a key supporting role, and both actors impressed audiences with their acrobatic prowess.
+
+In 1953, Lancaster played one of his best remembered roles with [[Deborah Kerr]] in ''[[From Here to Eternity]].'' The [[American Film Institute]] acknowledged the iconic status of the scene from that film in which he and Deborah Kerr make love on a Hawaiian beach amid the crashing waves. The organization named it one of "AFI's top 100 Most Romantic Films" of all time.
+
+Lancaster won the 1960 [[Academy Award for Best Actor]], a [[Golden Globe Award]], and the [[New York Film Critics Award]] for his performance in ''[[Elmer Gantry (film)|Elmer Gantry]].''
+
+In 1966, at the age of 52, Lancaster appeared semi-nude in director [[Frank Perry]]'s film, ''[[The Swimmer (1968 film)|The Swimmer]]'' in what [[Roger Ebert]] called, "his finest performance."<ref name="Ebert">[http://www.rogerebert.com/reviews/the-swimmer-1968] Roger Ebert "The Swimmer" review, July 2, 1968</ref> Prior to working on ''The Swimmer'', Lancaster was terrified of the water because he didn't know how to swim. In preparation for the film, the athlete took swimming lessons from [[University of California Los Angeles|UCLA]] swim coach, Bob Horn.<ref name="StoryOftheSwimmer">"The Story of The Swimmer" Documentary, by [[Chris Innis]], available on the [[Grindhouse Releasing]] 2014 release of "The Swimmer" on Blu-ray/DVD</ref> The film was not released until 1968 when it proved to be a commercial failure, though Lancaster remained proud of the movie and his performance.
+
+During the latter part of his career, Lancaster left adventure and acrobatic films behind and portrayed more distinguished characters. This period brought him work on several European productions, with directors such as [[Luchino Visconti]] and [[Bernardo Bertolucci]]. Lancaster sought demanding roles, and if he liked a part or a director, he was prepared to work for much lower pay than he might have earned elsewhere. He even helped to finance movies whose artistic value he believed in. He also mentored directors such as [[Sydney Pollack]] and [[John Frankenheimer]] and appeared in several television films. Lancaster's last film was ''[[Field of Dreams]]'' (1989).
+
+For his contribution to the motion picture industry, Lancaster has a star on the [[Hollywood Walk of Fame]] at 6801 Hollywood Boulevard.
+
+==={{anchor|Hill-Hecht-Lancaster Productions}} Directing and producing===
+[[File:Burt Lancaster - Audrey Hepburn - 1960.JPG|thumb|left|With [[Audrey Hepburn]] in ''The Unforgiven'' (1960)]]
+Lancaster was an early and successful actor/producer. In 1952, Lancaster co-produced ''[[The Crimson Pirate]]'' with producer [[Harold Hecht]] (who had previously produced three Lancaster films under his own production company Norma Productions; ''[[Kiss the Blood Off My Hands]]'' (1948), ''[[The Flame and the Arrow]]'' (1950), and ''[[Ten Tall Men]]'' (1951)). In 1954, they collaborated again on ''[[His Majesty O'Keefe]]'', with Lancaster acting and Hecht producing. The writer for this film was [[James Hill (film producer)|James Hill]]. The trio started a production company, originally with Hill as a silent partner, under the name "Hecht-Lancaster." The name was later extended to include all three with "Hecht-Hill-Lancaster."
+
+The "H-H-L" team impressed Hollywood with its success; as ''Life'' wrote in 1957, "[a]fter the independent production of a baker's dozen of pictures it has yet to have its first flop ... (They were also good pictures.)."<ref name="hodgins19570610">Hodgins, Eric. [http://books.google.com/books?id=Nz8EAAAAMBAJ&lpg=PA146&pg=PA146#v=onepage&f=true  "Amid Ruins of an Empire a New Hollywood Arises."] ''Life,'' June 10, 1957, p. 146. Retrieved: April 22, 2012.</ref> Together they produced the films ''[[Apache (film)|Apache]]'' (1954), ''[[Vera Cruz (film)|Vera Cruz]]'' (1954), ''[[Marty (film)|Marty]]'' (1955) (which won both the [[Academy Award for Best Picture]] and the [[Palme d'Or]] award at the [[Cannes Film Festival]]), ''[[The Kentuckian]]'' (1955), ''[[Trapeze (film)|Trapeze]]'' (1956), ''[[The Bachelor Party]]'' (1956), ''[[Sweet Smell of Success]]'' (1957), ''[[Run Silent, Run Deep]]'' (1958), ''[[Separate Tables (film)|Separate Tables]]'' (1958), ''[[The Devil's Disciple]]'' (1959), ''[[Take a Giant Step]]'' (1959), ''[[Summer of the Seventeenth Doll]]'' (1960), and ''[[The Unforgiven (1960 film)|The Unforgiven]]'' (1960). The company dissolved in 1960, but Hecht would produce two more films in which Lancaster acted, under Norma Productions, ''[[The Young Savages]]'' (1961) and ''[[Birdman of Alcatraz (film)|Birdman of Alcatraz]]'' (1962). Twelve years later, Hecht and Lancaster produced ''[[Ulzana's Raid]]'' (1972) together.
+
+In the late 1960s, Lancaster teamed with [[Roland Kibbee]] to form "Norlan Productions" and along with "Bristol Films" produce ''[[The Scalphunters]]'' (1968), ''[[Valdez Is Coming]]'' (1971), and ''[[The Midnight Man (1974 film)|The Midnight Man]]'' (1974).
+
+Lancaster directed two films, ''[[The Kentuckian]]'' (1955) and ''The Midnight Man'' (1974).<ref>Buford 2008, pp. 138, 354.</ref>
+
+===Frequent collaborations===
+Lancaster used make-up veteran Robert Schiffer in 20 credited films, hiring Schiffer on nearly all the films he produced.
+
+Apart from acting in a total of 17 films produced by [[Harold Hecht]], Lancaster also appeared in eight films produced by [[Hal B. Wallis]].
+
+[[File:Judgment at Nuremberg-Burt Lancaster 2.jpg|thumb|in ''[[Judgment at Nuremberg]]'' (1961)]]
+Lancaster often asked his close friend [[Nick Cravat]] to appear in his films. They co-starred together in nine:<ref>{{cite web|url=http://www.dejascene.com/movies/index/nick-cravat/burt-lancaster|title=Nick Cravat and Burt Lancaster have starred together in 10 movies - Deja Scene|publisher=}}</ref> ''[[The Flame and the Arrow]]'' (1952), ''[[Ten Tall Men]]'' (1951), ''[[The Crimson Pirate]]'' (1952), ''[[Run Silent, Run Deep]]'' (1958), ''[[The Scalphunters]]'' (1968), ''[[Valdez Is Coming]]'' (1971), ''[[Ulzana's Raid]]'' (1972), ''[[The Midnight Man (1974 film)|The Midnight Man]]'' (1974), and ''[[The Island of Dr. Moreau (1977 film)|The Island of Dr. Moreau]]'' (1977).<ref>Guillen, Michael. [http://twitchfilm.com/2010/11/grin-smile-smirk-the-films-of-burt-lancaster.html "Gun, Smile, Smirk: The Films of Burt Lancaster."] ''twitchfilm.com'', November 16, 2010.</ref>
+
+Lancaster made seven films with [[Kirk Douglas]], including ''[[I Walk Alone]]'' (1948), ''[[Gunfight at the O.K. Corral (film)|Gunfight at the O.K. Corral]]'' (1957), ''[[The Devil's Disciple (1959 film)|The Devil's Disciple]]'' (1959), ''[[The List of Adrian Messenger]]'' (1963), ''[[Seven Days in May]]'' (1964), ''[[Victory at Entebbe]]'' (1976) and ''[[Tough Guys (1986 film)|Tough Guys]]'' (1986). Additionally, the pair acted in comedy musical sketches for the 1958 and 1959 Oscar celebrations. Although perceived as a friendly collaboration, the two actors were never friends or fond of each other in real life, as was depicted in their respective biographical books.
+
+[[John Frankenheimer]] directed five films with Lancaster: ''[[The Young Savages]]'' (1961), ''[[Birdman of Alcatraz (film)|Birdman of Alcatraz]]'' (1962), ''[[Seven Days in May]]'' (1964), ''[[The Train (1964 film)|The Train]]'' (1964), and ''[[The Gypsy Moths]]'' (1969).
+
+Lancaster starred in three films with [[Deborah Kerr]]: ''[[From Here to Eternity]]'', ''[[Separate Tables]]'', and ''[[The Gypsy Moths]]''.
+
+===Legacy===
+The [[centennial]] of Lancaster's birth was honored at New York City's [[Film Society of Lincoln Center]] in May 2013 with the screening of twelve of the actor's finest films, from ''The Killers'' of 1946 to ''Atlantic City'' in 1981.<ref name=NYTimes>Holden, Stephen. [http://www.nytimes.com/2013/05/12/movies/lots-of-lancaster-at-lincoln-center.html "Film: lots of Lancaster at Lincoln Center."] ''The New York Times'', May 12, 2013.</ref>
+
+==Personal life==
+
+===Marriages and relationships===
+[[File:Bill Lancaster 1967.JPG|thumb|left|Lancaster's son [[Bill Lancaster|Bill]] in ''[[The Big Valley]]'' (1967)]]
+Lancaster vigorously guarded his private life. He was married three times. His first two marriages ended in divorce—to June Ernst from 1935 to 1946, and to Norma Anderson from 1946 to 1969. His third marriage, to Susan Martin, was from September 1990 until his death in 1994. All five of his children were with Norma Anderson: [[Bill Lancaster|Bill]], who became a screenwriter; James; Susan; Joanna; and Sighle (pronounced Sheila). He claimed he was romantically involved with [[Deborah Kerr]] during the filming of ''[[From Here to Eternity]]'' in 1953.<ref>Buford 2008, pp. 127–30.</ref> However, Kerr stated that while there was a spark of attraction, nothing ever happened. He did have an affair with [[Joan Blondell]]. In her 1980 autobiography, [[Shelley Winters]] claimed to have had a long affair with him.<ref>Winters 1980, p. 259.</ref>
+
+===Political views===
+Lancaster was a vocal supporter of [[liberalism|liberal]] political causes, and frequently spoke out in support of [[racial minorities]], including at the [[March on Washington for Jobs and Freedom|March on Washington]] in 1963. He was a vocal opponent of the [[Vietnam War]] and political movements such as  [[McCarthyism]], and he helped pay for the successful defense of a soldier accused of "[[fragging]]" (murdering) another soldier during the war.<ref>Buford 2008, p. 266.</ref> In 1968, Lancaster actively supported the presidential candidacy of [[antiwar]] Senator [[Eugene McCarthy]] of [[Minnesota]], and frequently spoke on his behalf during the [[Democratic Party (United States)|Democratic]] primaries. He heavily campaigned for [[George McGovern]] in the 1972 presidential election. In 1985, Lancaster joined the fight against AIDS after his close friend, [[Rock Hudson]], contracted the disease. He campaigned for [[Michael Dukakis]] in the [[U.S. presidential election, 1988|1988 presidential election]].
+
+==Health problems and death==
+[[File:Burt Lancaster grave at Westwood Village Memorial Park Cemetery in Brentwood, California.JPG|thumb|Burt Lancaster's grave]]
+As Lancaster grew older, he became increasingly plagued by [[atherosclerosis]], barely surviving a routine [[gall bladder]] operation in January 1980. Following two minor [[myocardial infarction|heart attacks]] he had to undergo an emergency quadruple [[coronary bypass]] in 1983, after which he was extremely weak, but he still managed to continue acting and attended a 1988 Congressional hearing with old colleagues such as [[Jimmy Stewart]] and [[Ginger Rogers]] to protest media magnate [[Ted Turner]]'s plan to [[colorize]] various black-and-white films from the 1930s and 1940s. His acting career ended after he suffered a stroke on November 30, 1990 which left him partly [[paralysis|paralyzed]] and largely unable to speak. He died in his [[Century City]] apartment in Los Angeles from a third heart attack at 4:50 A.M. on October 20, 1994 at the age of 80.
+
+Lancaster was cremated and his ashes were buried under a large oak tree in [[Westwood Memorial Park]] located in [[Westwood Village]], Los Angeles County, California. A small square ground plaque inscribed only with "BURT LANCASTER 1913–1994" marks his final resting place. Upon his death, as he requested, he had no memorial or funeral service.<ref>[http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=1835 "Short bio-article w/burial location and pictures."] ''Find a Grave.'' Retrieved: November 18, 2011.</ref>
+
+==Filmography and awards==
+
+
+===Films===
+{| class="wikitable sortable"
+|-
+! Year !! Film !! Role !! class="unsortable" | Notes
+|-
+| 1946
+| ''[[The Killers (1946 film)|The Killers]]''
+| 'Swede' Andersen
+| With [[Ava Gardner]]
+|-
+| 1947
+| ''[[Brute Force (1947 film)|Brute Force]]''
+| Joe Collins
+| With [[Hume Cronyn]]
+|-
+| 1947
+| ''[[Desert Fury]]''
+| Tom Hanson
+| With [[Lizabeth Scott]]
+|-
+| 1948
+| ''[[I Walk Alone]]''
+| Frankie Madison
+| With [[Kirk Douglas]]
+|-
+| 1948
+| ''[[All My Sons (film)|All My Sons]]''
+| Chris Keller
+| With [[Edward G. Robinson]]
+|-
+| 1948
+| ''[[Sorry, Wrong Number]]''
+| Henry Stevenson
+| With [[Barbara Stanwyck]]
+|-
+| 1948
+| ''[[Kiss the Blood Off My Hands]]''
+| William Earle 'Bill' Saunders
+| With [[Joan Fontaine]]
+|-
+| 1949
+| ''[[Criss Cross (film)|Criss Cross]]''
+| Steve Thompson, narrator
+| With [[Yvonne de Carlo]]
+|-
+| 1949
+| ''[[Rope of Sand]]''
+| Michael (Mike) Davis
+| With [[Paul Henreid]]
+|-
+| 1950
+| ''[[The Flame and the Arrow]]''
+| Dardo Bartoli
+| With [[Virginia Mayo]]
+|-
+| 1950
+| ''[[Mister 880]]''
+| Steve Buchanan
+| With [[Dorothy McGuire]]
+|-
+| 1951
+| ''[[Vengeance Valley]]''
+| Owen Daybright
+| With [[Robert Walker (actor)|Robert Walker]]
+|-
+| 1951
+| ''[[Jim Thorpe&nbsp;– All-American]]''
+| [[Jim Thorpe]]
+| With [[Charles Bickford]]
+|-
+| 1951
+| ''[[Ten Tall Men]]''
+| Sgt Mike Kincaid
+| With [[Jody Lawrance]]
+|-
+| 1952
+| ''{{sortname|The|Crimson Pirate}}''
+| Capitan Vallo
+| With [[Nick Cravat]]
+|-
+| 1952
+| ''[[Come Back, Little Sheba (1952 film)|Come Back, Little Sheba]]''
+| Doc Delaney
+| With [[Shirley Booth]]
+|-
+| 1953
+| ''[[South Sea Woman]]''
+| Master Gunnery Sgt. James O'Hearn
+| With [[Virginia Mayo]]
+|-
+| 1953
+| ''[[From Here to Eternity]]''
+| 1st Sgt. Milton Warden
+| [[New York Film Critics Circle Award for Best Actor]]<br />Nominated—[[Academy Award for Best Actor]]
+|-
+| 1953
+| ''[[Three Sailors and a Girl]]''
+| Marine (uncredited)
+| With [[Jane Powell]]
+|-
+| 1954
+| ''[[His Majesty O'Keefe]]''
+| Captain David Dion O'Keefe, narrator
+| With [[Joan Rice]]
+|-
+| 1954
+| ''[[Apache (film)|Apache]]''
+| Massai
+| With [[Jean Peters]]
+|-
+| 1954
+| ''[[Vera Cruz (film)|Vera Cruz]]''
+| Joe Erin
+| With [[Gary Cooper]]
+|-
+| 1955
+| ''{{sortname|The|Kentuckian}}''
+| Elias Wakefield (Big Eli)
+| Director<br />Nominated—[[Golden Lion|Golden Lion for Best Director]]
+|-
+| 1955
+| ''[[The Rose Tattoo (film)|The Rose Tattoo]]''
+| Alvaro Mangiacavallo
+| With [[Anna Magnani]]
+|-
+| 1956
+| ''[[Trapeze (film)|Trapeze]]''
+| Mike Ribble
+| [[Silver Bear for Best Actor]] at [[6th Berlin International Film Festival|Berlin]]<ref name="Berlinale 1956">{{cite web |url=http://www.berlinale.de/en/archiv/jahresarchive/1956/03_preistr_ger_1956/03_Preistraeger_1956.html |title=6th Berlin International Film Festival: Prize Winners |accessdate=December 27, 2009 |work=berlinale.de}}</ref>
+|-
+| 1956
+| ''{{sortname|The|Rainmaker|The Rainmaker (1956 film)}}''
+| Bill Starbuck, a.k.a. Bill Smith, Bill Harley, Tornado Johnson
+| Nominated—[[Golden Globe Award for Best Actor&nbsp;– Motion Picture Drama]]
+|-
+| 1957
+| ''[[Gunfight at the O.K. Corral (film)|Gunfight at the O.K. Corral]]''
+| Marshal [[Wyatt Earp]]
+| With [[Kirk Douglas]]<br>[[Laurel Awards|Laurel Award for Top Male Action Star]]
+|-
+| 1957
+| ''[[Sweet Smell of Success]]''
+| J.J. Hunsecker
+| Written by [[Ernest Lehman]]
+|-
+| 1958
+| ''[[Run Silent, Run Deep (1958 film)|Run Silent, Run Deep]]''
+| Lt. Commander Jim Bledsoe
+| With [[Clark Gable]]
+|-
+| 1958
+| ''[[Separate Tables (film)|Separate Tables]]''
+| John Malcolm
+| With [[Rita Hayworth]]
+|-
+| 1959
+| ''{{sortname|The|Devil's Disciple|The Devil's Disciple (1959 film)}}''
+| The Rev. Anthony Anderson
+| With [[Kirk Douglas]] and [[Laurence Olivier]]
+|-
+| 1960
+| ''{{sortname|The|Unforgiven|The Unforgiven (1960 film)}}''
+| Ben Zachary
+| With [[Audrey Hepburn]]
+|-
+| 1960
+| ''[[Elmer Gantry (film)|Elmer Gantry]]''
+| Elmer Gantry
+| [[Academy Award for Best Actor]]<br />[[Golden Globe Award for Best Actor – Motion Picture Drama]]<br />[[Laurel Awards|Laurel Award for Top Male Dramatic Performance]]<br />[[New York Film Critics Circle Award for Best Actor]]<br />Nominated—[[BAFTA Award for Best Actor in a Leading Role]]
+|-
+| 1961
+| ''{{sortname|The|Young Savages}}''
+| ADA Hank Bell
+| With [[Dina Merrill]]
+|-
+| 1961
+| ''[[Judgment at Nuremberg]]''
+| Dr. Ernst Janning
+| With [[Spencer Tracy]]
+|-
+| 1962
+| ''[[Birdman of Alcatraz (film)|Birdman of Alcatraz]]''
+| [[Robert Stroud]]
+| [[BAFTA Award for Best Actor in a Leading Role]]<br />[[Volpi Cup|Volpi Cup for Best Actor]]<br />Nominated—[[Academy Award for Best Actor]]<br />Nominated—[[Golden Globe Award for Best Actor&nbsp;– Motion Picture Drama]]<br />Nominated—[[Laurel Awards|Laurel Award for Top Male Dramatic Performance]]
+|-
+| 1963
+| ''{{sortname|A|Child Is Waiting|}}''
+| Dr. Ben Clark
+| With [[Judy Garland]]
+|-
+| 1963
+| ''{{sortname|The|Leopard|The Leopard (1963 film)}}''
+| Prince Don Fabrizio Salina
+| With [[Claudia Cardinale]]
+|-
+| 1963
+| ''{{sortname|The|List of Adrian Messenger}}''
+| Cameo
+| With [[George C. Scott]]
+|-
+| 1964
+| ''[[Seven Days in May]]''
+| Gen. James Mattoon Scott
+| With [[Kirk Douglas]]<br />Nominated—[[Laurel Awards|Laurel Award for Top Male Dramatic Performance]]
+|-
+| 1964
+| ''{{sortname|The|Train|The Train (1964 film)}}''
+| Paul Labiche
+| With [[Jeanne Moreau]]<br />Nominated—[[Laurel Awards|Laurel Award for Top Male Action Performance]]
+|-
+| 1965
+| ''{{sortname|The|Hallelujah Trail}}''
+| Col. Thaddeus Gearhart
+| With [[Lee Remick]]
+|-
+| 1965
+| ''{{sortname|Mister|Moses}}''
+| Joe Moses
+| With [[Caroll Baker]]
+|-
+| 1966
+| ''{{sortname|The|Professionals|The Professionals (1966 film)}}''
+| Bill Dolworth
+| With [[Lee Marvin]]
+|-
+| 1967
+| ''All About People''
+| Narrator
+|
+|-
+| 1968
+| ''{{sortname|The|Scalphunters}}''
+| Joe Bass
+| With [[Shelley Winters]]<br />Nominated—[[Laurel Awards|Laurel Award for Top Male Action Performance]]
+|-
+| 1968
+| ''{{sortname|The|Swimmer|The Swimmer (1968 film)}}''
+| Ned Merrill
+| With [[Janice Rule]]
+|-
+| 1969
+| ''[[Castle Keep]]''
+| Maj. Abraham Falconer
+| With [[Peter Falk]]
+|-
+| 1969
+| ''{{sortname|The|Gypsy Moths}}''
+| Mike Rettig
+| With [[Deborah Kerr]]
+|-
+| 1970
+| ''[[King: A Filmed Record... Montgomery to Memphis]]''
+| Himself
+|
+|-
+| 1970
+| ''[[Airport (1970 film)|Airport]]''
+| Mel Bakersfeld
+| With [[Dean Martin]]
+|-
+| 1971
+| ''[[Lawman (film)|Lawman]]''
+| Bannock Town Marshal Jered Maddox
+| With [[Robert Ryan]]
+|-
+| 1971
+| ''[[Valdez Is Coming]]''
+| Marshal Bob Valdez
+| With [[Susan Clark]]
+|-
+| 1972
+| ''[[Ulzana's Raid]]''
+| U.S. Cavalry Scout McIntosh
+| With [[Bruce Davison]]
+|-
+| 1973
+| ''[[Scorpio (film)|Scorpio]]''
+| Cross
+| With [[Alain Delon]]
+|-
+| 1973
+| ''[[Executive Action (film)|Executive Action]]''
+| James Farrington
+| With [[Robert Ryan]]
+|-
+| 1974
+| ''{{sortname|The|Midnight Man|The Midnight Man (1974 film)}}''
+| Jim Slade
+| Co-Director
+|-
+| 1974
+| ''[[Conversation Piece (film)|Gruppo di famiglia in un interno (Conversation Piece)]]''
+| The Professor
+| [[David di Donatello for Best Actor]]<br />Fotogramas de Plata Award for Best Foreign Movie Performer
+|-
+| 1976
+| ''[[Buffalo Bill and the Indians, or Sitting Bull's History Lesson]]''
+| [[Ned Buntline]]
+| With [[Paul Newman]]
+|-
+| 1976
+| '' [[1900 (film)|1900 (Novecento)]]''
+| Alfredo's Grandfather
+| With [[Robert De Niro]]
+|-
+| 1976
+| ''{{sortname|The|Cassandra Crossing}}''
+| Col. Stephen Mackenzie
+| With [[Sophia Loren]]
+|-
+| 1977
+| ''[[Twilight's Last Gleaming]]''
+| Gen. Lawrence Dell
+| With [[Richard Widmark]]
+|-
+| 1977
+| ''{{sortname|The|Island of Dr. Moreau|The Island of Dr. Moreau (1977 film)}}''
+| Dr. Paul Moreau
+|
+|-
+| 1978
+| ''[[Go Tell the Spartans]]''
+| Maj. Asa Barker
+| With [[Craig Wasson]]
+|-
+| 1978
+| ''[[The Unknown War (documentary)|The Unknown War]]''
+| Burt Lancaster (Narrator)
+|
+|-
+| 1979
+| ''[[Zulu Dawn]]''
+| Col. [[Anthony Durnford]]
+| With [[Peter O'Toole]]
+|-
+| 1980
+| ''[[Atlantic City (1980 film)|Atlantic City]]''
+| Lou Pascal
+| [[BAFTA Award for Best Actor in a Leading Role]]<br />[[Boston Society of Film Critics Award for Best Actor]]<br />[[David di Donatello for Best Actor]]<br />Fotogramas de Plata Award for Best Foreign Movie Performer<br />[[Kansas City Film Critics Circle Award for Best Actor]]<br />[[Los Angeles Film Critics Association Award for Best Actor]]<br />[[National Society of Film Critics Award for Best Actor]]<br />[[New York Film Critics Circle Award for Best Actor]]<br />Nominated—[[Academy Award for Best Actor]]<br />Nominated—[[Genie Award for Best Performance by an Actor in a Leading Role]]<br />Nominated—[[Golden Globe Award for Best Actor&nbsp;– Motion Picture Drama]]
+|-
+| 1981
+| ''[[Cattle Annie and Little Britches (film)|Cattle Annie and Little Britches]]''
+| [[Bill Doolin]], the Oklahoma outlaw
+| With [[Amanda Plummer]] and [[Diane Lane]]
+|-
+| 1981
+| ''[[The Skin|La pelle]]''
+| Gen. [[Mark W. Clark|Mark Clark]]
+| With [[Marcello Mastroianni]]
+|-
+| 1983
+| ''[[Local Hero]]''
+| Felix Happer
+| Nominated—[[BAFTA Award for Best Actor in a Supporting Role]]
+|-
+| 1983
+| ''{{sortname|The|Osterman Weekend|The Osterman Weekend (film)}}''
+| CIA Director Maxwell Danforth
+| With [[Rutger Hauer]]
+|-
+| 1985
+| ''[[Little Treasure]]''
+| Delbert Teschemacher
+| With [[Margot Kidder]]
+|-
+| 1986
+| ''[[Tough Guys (1986 film)|Tough Guys]]''
+| Harry Doyle
+| With [[Kirk Douglas]]
+|-
+| 1987
+| ''[[Il Giorno prima]]''
+| Dr. Herbert Monroe
+| With [[Ben Gazzara]]
+|-
+| 1988
+| ''[[Rocket Gibraltar]]''
+| Levi Rockwell
+| With [[Patricia Clarkson]]
+|-
+| 1989
+| ''[[Field of Dreams]]''
+| Dr. Archibald 'Moonlight' Graham
+| With [[Kevin Costner]]
+|-
+| 1989
+| ''[[La Bottega dell'orefice]]''
+| The Jeweller
+| With [[Olivia Hussey]]
+|-
+|}
+
+===TV===
+{| class="wikitable sortable"
+|-
+! Year !! Film !! Role !! class="unsortable" | Notes
+|-
+| 1974
+| ''[[Moses the Lawgiver]]''
+| [[Moses]]
+| mini-series
+|-
+| 1976
+| ''[[Victory at Entebbe]]''
+| [[Shimon Peres]]
+| with [[Anthony Hopkins]]
+|-
+| 1978
+| ''{{sortname|The|Unknown War|The Unknown War (documentary)}}''
+| As himself, narrator
+| 20 episode USA-USSR archival documentary series on WWII
+|-
+| 1982
+| ''[[Marco Polo (1982 television film)|Marco Polo]]''
+| Teobaldo Visconti / Pope Gregory X
+| mini-series
+|-
+| 1982
+| ''[[Verdi (television film)|Verdi]]''
+| Narrator in American version
+| mini-series
+|-
+| 1985
+| ''[[Scandal Sheet (TV)|Scandal Sheet]]''
+| Harold Fallen
+|
+|-
+| 1986
+| ''[[Väter und Söhne – Eine deutsche Tragödie]]''
+| Geheimrat Carl Julius Deutz
+| mini-series
+|-
+Barnum (1986)  P.T. Barnum   directed by Lee Phillips
+| 1986
+| ''[[On Wings of Eagles (TV mini-series)|On Wings of Eagles]]''
+| Lieutenant Colonel [[Arthur D. Simons|Arthur D. "Bull" Simons]]
+| mini-series
+|-
+| 1989
+| ''[[I Promessi sposi (TV mini-series)|I Promessi sposi]]''
+| Cardinal Federigo Borromeo
+| mini-series
+|-
+| 1990
+| ''{{sortname|The|Phantom of the Opera|The Phantom of the Opera (1990 miniseries)}}''
+| Gerard Carriere
+| mini-series<br />Nominated — [[Golden Globe Award for Best Actor - Miniseries or Television Film]]
+|-
+| 1990
+| ''[[Voyage of Terror: The Achille Lauro Affair]]''
+| [[Leon Klinghoffer]]
+|
+|-
+| 1991
+| ''[[Separate but Equal (film)|Separate but Equal]]''
+| John W. Davis
+|
+|}
+
+===Box office ranking===
+For a number of years exhibitors voted Lancaster as among the most popular stars in the country:
+*1950 - 16th (US)
+*1951 - 25th (US)
+*1952 - 24th (US)
+*1953 - 17th (US)
+*1954 - 13th (US), 7th (UK)
+*1955 - 16th (US)
+*1956 - 4th (US), 3rd (UK)
+*1957 - 15th (US), 3rd (UK)
+*1958 - 20th (US)
+*1960 - 19th (US)
+*1961 - 11th (US)
+*1962 - 10th (US)
+
+==References==
+
+===Notes===
+{{Reflist|30em}}
+
+===Bibliography===
+{{Refbegin}}
+* Andreychuk, Ed. ''Burt Lancaster: A Filmography And Biography''. Jefferson, North Carolina: McFarland & Company, Inc., Publishers, 2005. ISBN 978-0-7864-2339-2.
+* Buford, Kate. ''Burt Lancaster: An American Life''. London: Aurum Press, 2008. ISBN 1-84513-385-4.
+* Winters, Shelley. ''Shelley: Also known as Shirley''. New York: Morrow, 1980. ISBN 978-0-688-03638-6.
+{{Refend}}
+
+==External links==
+{{commons|Burt Lancaster}}
+* {{IMDb name|44}}
+* {{tcmdb name|107800}}
+* {{AllRovi person|98588}}
+* {{IBDB name|78731}}
+* {{worldcat id|lccn-n83-65628}}
+* [http://www.virtual-history.com/movie/person/58/burt-lancaster Literature on Burt Lancaster]
+
+{{Navboxes
+|title = Awards for Burt Lancaster
+|list =
+{{AcademyAwardBestActor 1941–1960}}
+{{BAFTA Award for Best Actor 1960–1979}}
+{{Silver Bear for Best Actor}}
+{{Boston Society of Film Critics Award for Best Actor}}
+{{GoldenGlobeBestActorMotionPictureDrama 1943–1960}}
+{{Los Angeles Film Critics Association Award for Best Actor}}
+{{National Society of Film Critics Award for Best Actor}}
+{{New York Film Critics Circle Award for Best Actor}}
+{{ScreenActorsGuildAward LifeAchievement 1980–1999}}
+}}
+
+{{Authority control}}
+
+{{Persondata
+ | NAME              = Lancaster, Burt
+ | ALTERNATIVE NAMES = Lancaster, Burton Stephen
+ | SHORT DESCRIPTION = American actor
+ | DATE OF BIRTH     = November 2, 1913
+ | PLACE OF BIRTH    = Manhattan, New York City, New York, U.S.
+ | DATE OF DEATH     = October 20, 1994
+ | PLACE OF DEATH    = Los Angeles, California, U.S.
+}}
+{{DEFAULTSORT:Lancaster, Burt}}
+[[Category:1913 births]]
+[[Category:1994 deaths]]
+[[Category:20th-century American male actors]]
+[[Category:African-Americans' civil rights activists]]
+[[Category:American anti–Vietnam War activists]]
+[[Category:American male film actors]]
+[[Category:American military personnel of World War II]]
+[[Category:American people of English descent]]
+[[Category:American people of Northern Ireland descent]]
+[[Category:Anti-racism activists]]
+[[Category:BAFTA winners (people)]]
+[[Category:Best Actor Academy Award winners]]
+[[Category:Best Actor BAFTA Award winners]]
+[[Category:Best Drama Actor Golden Globe (film) winners]]
+[[Category:Best Foreign Actor BAFTA Award winners]]
+[[Category:Burials at Westwood Village Memorial Park Cemetery]]
+[[Category:California Democrats]]
+[[Category:Cardiovascular disease deaths in California]]
+[[Category:David di Donatello winners]]
+[[Category:Deaths from myocardial infarction]]
+[[Category:DeWitt Clinton High School alumni]]
+[[Category:LGBT rights activists from the United States]]
+[[Category:Male Western (genre) film actors]]
+[[Category:New York Democrats]]
+[[Category:Silver Bear for Best Actor winners]]
+[[Category:United States Army personnel]]
+[[Category:Volpi Cup winners]]

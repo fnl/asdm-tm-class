@@ -1,0 +1,330 @@
+{{Infobox person
+| name                  = Rhea Mitchell
+| image                 = Rhea Mitchell Tobacco Card.jpg
+| imagesize             = 
+| caption               = 
+| birth_name             = 
+| birth_date             = {{birth date|1890|12|10|mf=y}}
+| birth_place            = [[Portland, Oregon]], U.S.
+| death_date             = {{death date and age|1957|10|16|1890|12|10|mf=y}}
+| death_place            = [[Los Angeles, California]], U.S.
+| occupation            = Actress
+| yearsactive           = 1912&ndash;1952
+}}
+
+'''Rhea Mitchell''' (December 10, 1890 &ndash; September 16, 1957) was an American film [[actress]] who began her career during the [[silent film]] era. She earned the name of "the little stunt girl" because of her willingness to attempt thrilling scenes in motion pictures.<ref>Daisy Dean  "News Notes From Movieland",  ''Janesville Daily Gazette'' (Wednesday, October 4, 1916) p 6, Janesville, Wisconsin</ref>
+
+==Career==
+Mitchell began her career in 1909 playing in the [[Summer stock theatre|Baker Theater Stock Company]] in her hometown of [[Portland, Oregon]]. She followed with a season in the [[Orpheum Circuit]] and a run at the Alcazar Theater in [[San Francisco]].<ref name=moving>''The Moving Picture World'', Vol. 29 (1916) Chalmers Publishing Company, New York</ref> Mitchell made her film debut in 1912 with the New York Motion Picture Corporation <ref name=moving/> and would eventually appear in over 100 films during her career. She appeared a number of times with [[Western (genre)|Western]] star [[William S. Hart]] playing a leading role in those films. In 1916 she played in ''The Brink'' with Forrest Winant and Arthur Maude.<ref>"Unique Theater", ''Marshfield Times''  (April 26, 1916) p4, Marshfield, Wisconsin</ref>
+  
+After 1917, her roles became smaller and she appeared in a handful of films through the mid-30s and in several bit parts during the early 1950s which often went uncredited.
+
+==Later years and death==
+After her retirement from films, Mitchell managed a large apartment house in [[Los Angeles]].  While managing a second apartment in 1957, the La Brea District Apartments, a disgruntled houseboy named Sonnie Hartford, Jr., strangled her with the cord of her blue silk dressing gown.<ref name=telegram>"Ex-Star Slain, Jail Houseboy" (September 17, 1957) ''Long Beach, California Press-Telegram'' p 1.</ref><ref>''[[Los Angeles Times]]'', "Ex-Actress Strangled", September 17, 1957, Page 38.</ref> An article in the ''Press-Telegram'' read in part, <blockquote>"A search still was being made by police for a 'baldish, middleaged man' who reportedly kept company recently with the never-married Miss Mitchell. Seattle police were asked to question Miss Mitchell's only known relative, an aunt, Mrs. John Benson. Police said there was no sign of a struggle or criminal attack. Her body was discovered by the houseboy. The actress, known as Ginger to her friends, had played opposite such silent film stars as William S. Hart, [[Tom Mix]], [[King Baggot]] and [[Bert Lytell]].... She had appeared in film bit roles as recently as 1951."<ref name=telegram/></blockquote>
+
+Mitchell is buried at [[Hollywood Forever Cemetery]] in Los Angeles.
+
+==Selected filmography==
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+|1912
+|''The Hidden Trail''
+|
+|
+|-
+|1912
+|''His Squaw''
+|
+|
+|-
+|1913
+|''An Indian's Gratitude''
+|
+|
+|-
+|1913
+|''An Indian's Honor'' 
+|
+|
+|-
+|1914
+|''The Fires of Ambition''
+|Mrs. Patton 
+|
+|-
+|1914
+|''In the Southern Hills''
+|Nan Hopkins 
+|
+|-
+|1915
+|''[[The Scourge of the Desert]]''
+|Ellen Holt 
+|Alternative title: ''Reformed Outlaw''
+|-
+|1915
+|''[[On the Night Stage (1915 film)|On the Night Stage]]''
+|Belle Shields
+|
+|-
+|1915
+|''[[The Diamond from the Sky]]''
+|
+|
+|-
+|1915
+|''Tools of Providence''
+|Daisy Austin
+|
+|-
+|1916
+|''The Sable Curse''
+|Mary
+|Alternative title: ''The Sable Blessing''
+|-
+|1916
+|''[[Sequel to the Diamond from the Sky]]''
+|Esther Stanley 
+|
+|-
+|1916
+|''The Three Musketeers''
+|Constance Bonacieux
+| 
+|-
+|1917
+|''The Gilded Youth''
+|Mary 
+|
+|-
+|1917
+|''Whither Thou Goest''
+|Maizie
+|
+|-
+|1918
+|''Honor's Cross''
+|Jane Cabot
+|
+|-
+|1918
+|''[[The Goat (1918 film)|The Goat]]''
+|Bijou Lamour 
+|
+|-
+|1919
+|''[[The Money Corral]]''
+|Janet Collins 
+|
+|-
+|1919
+|''[[The Hawk's Trail]]''
+|Jean Drake
+|
+|-
+|1920
+|''The Devil's Claim''
+|Virginia Crosby 
+|
+|-
+|1920
+|''The Scoffer''
+|Alice Porn 
+|
+|-
+|1921
+|''A Ridin' Romeo''
+|Mabel Brentwood 
+|
+|-
+|1921
+|''The Innocent Cheat''
+|Peggy Adair
+|
+|-
+|1923
+|''The Greatest Menace''
+|Mary Lewis 
+|
+|-
+|1924
+|''The Other Kind of Love''
+|The Chorus Girl 
+|
+|-
+|1926
+|''Modern Youth''
+|
+|
+|-
+|1927
+|''The Home Trail''
+|
+|
+|-
+|1928
+|''Danger Patrol''
+|Gladys Lawlor 
+|
+|-
+|1933
+|''The Big Bluff''
+|
+|
+|-
+|1934
+|''Behold My Wife''
+|Reporter
+|Uncredited
+|-
+|1934
+|''One Hour Late''
+|Stage mother
+|Uncredited
+|-
+|1936
+|''[[San Francisco (1936 film)|San Francisco]]''
+|
+|Uncredited
+|-
+|1936
+|''Mysterious Crossing''
+|Hall clerk
+|Uncredited
+|-
+|1938
+|''The Ship That Died''
+|
+|
+|-
+|1940
+|''[[I Take This Woman (1940 film)|I Take This Woman]]''
+|Decker's Secretary 
+|Uncredited
+|-
+|1943
+|''Harrigan's Kid''
+|Woman at Race Track 
+|Uncredited
+|-
+|1943
+|''[[The Cross of Lorraine]]''
+|Mother
+|Uncredited
+|-
+|1944
+|''Marriage Is a Private Affair''
+|Nurse
+|Uncredited
+|-
+|1944
+|''[[Mrs. Parkington]]''
+|Mrs. Humphrey 
+|Uncredited
+|-
+|1945
+|''The Hidden Eye''
+|Pedestrian 
+|Uncredited
+|-
+|1946
+|''The Hoodlum Saint''
+|Reporter 
+|Uncredited
+|-
+|1947
+|''[[The Mighty McGurk]]''
+|Woman at Children's Society 
+|Uncredited
+|-
+|1947
+|''[[Green Dolphin Street]]''
+|Emily
+|Uncredited
+|-
+|1948
+|''The Bride Goes Wild''
+|Wedding Guest 
+|Uncredited
+|-
+|1948
+|''[[State of the Union (film)|State of the Union]]''
+|Jeny
+|Alternative title: ''The World and His Wife''
+|-
+|1949
+|''[[In the Good Old Summertime]]''
+|Woman at window
+|Uncredited
+|-
+|1950
+|''[[Stars in My Crown (film)|Stars In My Crown]]''
+|Mrs. Backett 
+|Uncredited
+|-
+|1950
+|''[[The Next Voice You Hear...]]''
+|Woman in church
+|Uncredited
+|-
+|1951
+|''[[The Unknown Man]]''
+|Maid
+|Uncredited
+|-
+|1951
+|''[[It's a Big Country]]''
+|School teacher
+|Uncredited
+|-
+|1952
+|''My Man and I''
+|Nurse 
+|Uncredited
+|-
+|1952
+|''[[The Member of the Wedding#Adaptations|The Member of the Wedding]]''
+|Townswoman
+|Uncredited
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+* {{IMDb name|id=0593671}}
+* {{Find a Grave|7901938}}
+
+{{Authority control}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Mitchell, Rhea
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= Actress
+|DATE OF BIRTH= December 10, 1890 
+|PLACE OF BIRTH= [[Portland, Oregon]], U.S.
+|DATE OF DEATH= September 16, 1957
+|PLACE OF DEATH= [[Los Angeles]], [[California]], U.S.
+}}
+{{DEFAULTSORT:Mitchell, Rhea}}
+[[Category:Actresses from Portland, Oregon]]
+[[Category:American film actresses]]
+[[Category:American murder victims]]
+[[Category:American silent film actresses]]
+[[Category:American stage actresses]]
+[[Category:Burials at Hollywood Forever Cemetery]]
+[[Category:Murdered entertainers]]
+[[Category:Vaudeville performers]]
+[[Category:Western (genre) film actresses]]
+[[Category:1890 births]]
+[[Category:1957 deaths]]
+[[Category:Deaths by strangulation in the United States]]
+[[Category:People murdered in California]]
+[[Category:20th-century American actresses]]

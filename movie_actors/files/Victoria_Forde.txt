@@ -1,0 +1,60 @@
+{{unreferenced|date=January 2008}}
+{{Infobox person
+| bgcolour      =
+| name          = Victoria Forde
+| image         = Victoria-Forde.jpg
+| image_size     = 
+| caption       = 
+| birth_name     =
+| birth_date     = {{Birth date|1896|04|21}}
+| birth_place      = [[New York, New York]], [[United States|USA]] 
+| death_date     = {{Death date and age|1964|07|24|1896|04|21}} 
+| death_place    = [[Beverly Hills, California]], [[USA]]
+| occupation    = Actress
+| parents       = [[Eugenie Forde]]
+| spouse        = [[Tom Mix]] (1918&ndash;1931) 1 Child
+}}
+
+'''Victoria Forde''' (April 21, 1896 – July 24, 1964) was an [[United States|American]] [[silent film]] [[actress]].
+
+==Biography==
+Born in [[New York City]], Victoria Forde was the daughter of [[Broadway theatre|Broadway]] actress [[Eugenie Forde]] who got her into films with [[American Mutoscope and Biograph Company|Biograph]] at age 14. In 1912, at age 16, she signed with [[Nestor Studios]] to make comedy films under director [[Al Christie]]. That same year, her mother made her film debut, appearing with her daughter in ''A Pair of Jacks'' (1912). During Forde's 5-year stay with Nestor, Al Christie would direct her in one hundred and sixteen short films. 
+
+Forde joined [[Selig Studios]] and became a star of [[Western film]]s, frequently performing opposite cowboy actor [[Tom Mix]]. A personal relationship developed between her and Mix and, in 1917, the two signed with the [[Fox Film Corporation]] where they continued to perform together. She became his fourth wife in 1918; the following year, after having performed in one hundred and seventy six film shorts, she gave up her film career to stay at home with their daughter, Thomasina. The marriage ended in divorce in 1931.
+
+===Death===
+Victoria Forde died in [[Beverly Hills]] on July 24, 1964. Being of the Catholic faith{{citation needed|date=September 2012}} she was interred in the [[Holy Cross Cemetery, Culver City|Holy Cross Cemetery]] in [[Culver City, California]].
+
+==Partial filmography==
+* ''[[Love in Quarantine]]'' (1910)
+* ''[[When the Heart Calls]]'' (1912)
+* ''[[His Only Son]]'' (1912)
+
+==External links==
+* {{IMDb name|id=285961|name=Victoria Forde}}
+* [http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=9022648 Victoria Forde at Find a Grave]
+
+{{Authority control}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Forde, Victoria
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= actress
+|DATE OF BIRTH= 1896-04-21
+|PLACE OF BIRTH= [[New York, New York]], [[United States|USA]] 
+|DATE OF DEATH= 1964-07-24 
+|PLACE OF DEATH= [[Beverly Hills, California]], [[USA]]
+}}
+{{DEFAULTSORT:Forde, Victoria}}
+[[Category:American silent film actresses]]
+[[Category:American film actresses]]
+[[Category:Western (genre) film actresses]]
+[[Category:Actresses from New York City]]
+[[Category:1896 births]]
+[[Category:1964 deaths]]
+[[Category:Burials at Holy Cross Cemetery, Culver City]]
+[[Category:20th-century American actresses]]
+
+
+{{US-film-actor-1890s-stub}}

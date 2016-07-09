@@ -1,0 +1,57 @@
+{{Infobox person
+|name=Patti McCarty
+|birth_date=February 11, 1921
+|death_date={{death date and age|1985|7|7|1921|2|22}}
+|occupation=Actress
+|yearsactive=1941-1946}}
+'''Patti McCarty''' (February 11, 1921 - July 7, 1985), in [[Healdsburg, California|Healdsburg]], [[Sonoma County, California]] was an American actress. From 1941 through 1946 she was a Hollywood B movie actress and performed bit parts in twenty-three films.  She died on July 7, 1985, in [[Honolulu, Hawaii]] at the age of 64.
+
+==Filmography==
+*''[[Under Age (1941 film)|Under Age]]'' (1941)
+*''[[She Knew All the Answers]]'' (1941)
+*''Adventure in Washington'' (1941)
+*''Blondie in Society'' (1941)
+*''Prairie Stranger'' (1941)
+*''[[You'll Never Get Rich]]'' (1941)
+*''The Officer and the Lady'' (1941)
+*''Beyond the Blue Horizon'' (1942)
+*''[[Wake Island (film)|Wake Island]]'' (1942)
+*''[[Here We Go Again (film)|Here We Go Again]]'' (1942)
+*''Death Rides the Plains'' (1943)
+*''[[Let's Face It!|Let's Face It]]'' (1943)
+*''Fighting Valley'' (1943)
+*''[[Isle of Forgotten Sins]]'' (1943)
+*''[[Devil Riders]]'' (1943)
+*''[[Fuzzy Settles Down]]'' (1944)
+*''Gunsmoke Mesa'' (1944)
+*''[[Gangsters of the Frontier]]'' (1944)
+*''[[Bluebeard (1944 film)|Bluebeard]]'' (1944)
+*''[[Rustlers' Hideout]]'' (1945)
+*''Terrors on Horseback'' (1946)
+*''Overland Riders'' (1946)
+*''Outlaws of the Plains'' (1946)
+
+==External links==
+* {{IMDb name|0565429}}
+* {{tcmdb name|121447}}
+
+{{Persondata
+| NAME              = McCarty, Patti
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American actor
+| DATE OF BIRTH     = February 11, 1921
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = July 7, 1985
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:McCarty, Patti}}
+[[Category:1921 births]]
+[[Category:1985 deaths]]
+[[Category:American film actresses]]
+[[Category:Western (genre) film actresses]]
+[[Category:People from Sonoma County, California]]
+[[Category:Actresses from the San Francisco Bay Area]]
+[[Category:20th-century American actresses]]
+
+
+{{US-film-actor-1920s-stub}}

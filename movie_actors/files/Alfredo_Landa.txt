@@ -1,0 +1,606 @@
+{{spanish name|Landa|Areta}}
+{{Infobox person
+| bgcolour = silver
+| image = Alfredo Landa.jpg
+| name = Alfredo Landa
+| birth_date = {{Birth date|1933|3|3| df=y}}
+| birth_name  = {{nowrap|Alfredo Landa Areta}}
+| birth_place = [[Pamplona]], [[Navarra]], [[Spain]]
+| height = 
+| death_date = {{Death date and age|2013|5|9|1933|3|3|df=y}}
+| death_place =[[Madrid]], [[Spain]]
+| yearsactive = 1957 - 2007
+| birthname = 
+| othername = 
+| homepage =
+| academyawards = 
+| occupation = [[Actor]]
+| spouse = Maite Imaz Aramendi
+| children = Ainhoa, Idoia and Alfredo
+}}
+
+'''Alfredo Landa Areta''' (March 3, 1933{{spaced ndash}}May 9, 2013) was a Spanish actor.<ref name="HR-obit"/>
+
+== Biography ==
+He was born in [[Pamplona]], [[Navarra]], [[Spain]]. He finished his pre-university studies in [[San Sebastián]]. He then began university studies on Law, where he began to work with university school groups. He left university to work in the theater.
+
+After working as a [[dubbing (filmmaking)|dubbing actor]] for a short time in the 1950s, he debuted with his first considerable role in film in [[José María Forqué]]'s ''[[Atraco a las tres]]'' in 1962.
+
+When [[Francisco Franco]] died in 1975, censorship began to disappear. This led to a growth of erotic comedies on Spanish cinema. Landa became the "sexually repressed" role of that trend, especially under directors [[Mariano Ozores]] and [[Pedro Lazaga]]. He even created his own trend, that some people called ''landismo''.<ref name=ElPais/>
+
+Afterwards, Landa changed his image, taking much deeper roles, like his bandit in ''[[El Bosque animado]]''.<ref>{{Cite journal
+  | title = Alfredo Landa, Goya de Honor por su carrera artística
+  | journal = [[20 minutos]]
+  | location = [[Madrid]]
+  | date = 2007-11-13
+  | url = http://www.20minutos.es/noticia/305471/0/Alfredo/landa/goya/
+  | accessdate = 2010-06-12}}</ref>
+
+Landa, along with [[Francisco Rabal]], won [[Best Actor Award (Cannes Film Festival)|Best Actor]] award at 1984 [[Cannes Film Festival]] for his memorable performance in ''[[Los santos inocentes]]''.
+
+He is now widely recognized as a great dramatic actor.
+ 
+After a career with more than one hundred and twenty movies, one dozen of TV series, and several stage successes, with a great amount of Spanish and European awards, 74-year-old Landa announced his retirement at the X Festival de Cine de [[Málaga]] (10th Movie Festival of Málaga) while receiving a new award.<ref name=ElMundo/>
+
+== Filmography==
+
+{| border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;"
+|-style="background:#B0C4DE;"
+! Year 
+! Film 
+! Director
+|- 
+| 1957
+|''[[El puente de la paz]]''
+|[[Rafael J. Salvia]]
+|- 
+| 1962
+|''[[Atraco a las tres]]''
+|[[José María Forqué]]
+|-
+|rowspan="3"| 1963
+|''[[La verbena de la paloma (film)|La verbena de la paloma]]''
+|[[José Luis Sáenz de Heredia]]
+|-
+|''[[Not on Your Life|El verdugo]]''
+|[[Luis García Berlanga]]
+|-
+|''[[Se vive una sola vez]]''
+|[[Arturo González]]
+|-
+|rowspan="4"|1964
+|''[[The Girl in Mourning|La niña de luto]]''
+|[[Manuel Summers]]
+|-
+|''[[Casi un caballero]]''
+|[[José María Forqué]]
+|-
+|''[[Llegaron los marcianos]]''
+|[[Franco Castellano]] and [[Giuseppe Moccia|Pipolo]]
+|-
+|''[[Nobleza baturra]]''
+|[[Juan de Orduña]]
+|-
+|rowspan="7"| 1965
+|''[[Historias de la televisión]]''
+|[[José Luis Sáenz de Heredia]]
+|-
+|''[[Whisky y vodka]]''
+|[[Fernando Palacios]]
+|-
+|''[[Ninette y un señor de Murcia]]''
+|[[Fernando Fernán Gómez]]
+|-
+|''[[La ciudad no es para mí]]''
+|[[Pedro Lazaga]]
+|-
+|''[[Hoy como ayer]]''
+|[[Mariano Ozores]]
+|-
+|''[[Nuevo en esta plaza]]''
+|[[Pedro Lazaga]]
+|-
+|''[[De cuerpo presente]]''
+|[[Antonio Eceiza]]
+|-
+|rowspan="6"| 1966
+|''[[El arte de no casarse]]''
+|[[Jorge Feliu]] and [[José María Font]]
+|-
+|''[[Las viudas]] (episode)''
+|[[José María Forqué]]
+|-
+|''[[Amor a la española]]''
+|[[Fernando Merino]]
+|-
+|''[[Los guardiamarinas]]''
+|[[Pedro Lazaga]]
+|-
+|''[[¿Qué hacemos con los hijos?]]''
+|[[Pedro Lazaga]]
+|-
+|''[[Las cicatrices]]''
+|[[Pedro Lazaga]]
+|-
+|rowspan="10"| 1967
+|-
+|''[[Crónica de nueve meses]]''
+|[[Mariano Ozores]]
+|-
+|''[[Pero ¿en qué país vivimos?]]''
+|[[José Luis Sáenz de Heredia]]
+|-
+|''[[Las que tienen que servir (film)|Las que tienen que servir]]''
+|[[José María Forqué]]
+|-
+|''[[Novios 68]]''
+|[[Pedro Lazaga]]
+|-
+|''[[40 grados a la sombra]]''
+|[[Mariano Ozores]]
+|-
+|''[[Un diablo bajo la almohada]]''
+|[[José María Forqué]]
+|-
+|''[[Los subdesarrollados]]''
+|[[Fernando Merino]]
+|-
+|''[[Los que tocan el piano]]''
+|[[Javier Aguirre (film director)|Javier Aguirre]]
+|-
+|''[[No somos de piedra]]''
+|[[Manuel Summers]]
+|-
+|rowspan="4"| 1968
+|''[[La dinamita está servida]]''
+|[[Fernando Merino]]
+|-
+|''[[Una vez al año ser hippy no hace daño]]''
+|[[Javier Aguirre (film director)|Javier Aguirre]]
+|-
+|''[[¿Por qué te engaña tu marido?]]''
+|[[Manuel Summers]]
+|-
+|''[[Despedida de casada]]''
+|[[Juan de Orduña]]
+|-
+|rowspan="5"| 1969
+|''[[No disponible]]''
+|[[Pedro Mario Herrero]]
+|-
+|''[[Las leandras]]''
+|[[Eugenio Martín]]
+|-
+|''[[Cuatro noches de boda]]''
+|[[Mariano Ozores]]
+|-
+|''[[Soltera y madre en la vida]]''
+|[[Javier Aguirre (film director)|Javier Aguirre]]
+|-
+|''[[El alma se serena]]''
+|[[José Luis Sáenz de Heredia]]
+|-
+|rowspan="7"| 1970
+|''[[La decente]]''
+|[[José Luis Sáenz de Heredia]]
+|-
+|''[[Cateto a babor]]''
+|[[Ramón Fernández (film director)|Ramón Fernández]]
+|-
+|''[[No desearás al vecino del quinto]]''
+|[[Ramón Fernández (film director)|Ramón Fernández]]
+|-
+|''[[El diablo cojuelo]]''
+|[[Ramón Fernández (film director)|Ramón Fernández]]
+|-
+|''[[Vente a Alemania, Pepe]]''
+|[[Pedro Lazaga]]
+|-
+|''[[Si estás muerto, ¿por qué bailas?]]''
+|[[Pedro Mario Herrero]]
+|-
+|''[[Préstame quince días]]''
+|[[Fernando Merino]]
+|-
+|rowspan="7"| 1971
+|''[[Aunque la hormona se vista de seda]]''
+|[[Vicente Escrivá]]
+|-
+|''[[No desearás la mujer del vecino]]''
+|[[Fernando Merino]]
+|-
+|''[[Los días de Cabirio]]''
+|[[Fernando Merino]]
+|-
+|''[[Vente a ligar al Oeste]]''
+|[[Pedro Lazaga]]
+|-
+|''[[Simón, contamos contigo]]''
+|[[Ramón Fernández (film director)|Ramón Fernández]]
+|-
+|''[[No firmes más letras, cielo]]''
+|[[Pedro Lazaga]]
+|-
+|''[[Los novios de mi mujer]]''
+|[[Ramón Fernández (film director)|Ramón Fernández]]
+|-
+|rowspan="3"| 1972
+|''[[Guapo heredero busca esposa]]''
+|[[Luis M. Delgado]]
+|-
+|''[[París bien vale una moza]]''
+|[[Pedro Lazaga]]
+|-
+|''[[Pisito de solteras]]''
+|[[Fernando Merino]]
+|-
+|rowspan="5"| 1973
+|''[[Las estrellas están verdes]]''
+|[[Pedro Lazaga]]
+|-
+|''[[Manolo la nuit]]''
+|[[Mariano Ozores]]
+|-
+|''[[Jenaro, el de los catorce]]''
+|[[Mariano Ozores]]
+|-
+|''[[Un curita cañón]]''
+|[[Luis M. Delgado]]
+|-
+|''[[El reprimido]]''
+|[[Mariano Ozores]]
+|-
+|rowspan="5"| 1974
+|''[[Dormir y ligar todo es empezar]]''
+|[[Mariano Ozores]]
+|-
+|''[[Las obsesiones de Armando]]''
+|[[Luis M. Delgado]]
+|-
+|''[[Fin de semana al desnudo]]''
+|[[Mariano Ozores]]
+|-
+|''[[Celedonio y yo somos así]]''
+|[[Mariano Ozores]]
+|-
+|''[[Cuando el cuerno suena]]''
+|[[Luis M. Delgado]]
+|-
+|rowspan="5"| 1975
+|''[[Solo ante el streaking]]''
+|[[José Luis Sáenz de Heredia]]
+|-
+|''[[Los pecados de una chica casi decente]]''
+|[[Mariano Ozores]]
+|-
+|''[[Tío ¿de verdad vienen de París?]]''
+| [[Mariano Ozores]]
+|-
+|''[[Esclava te doy]]''
+|[[Eugenio Martín]]
+|-
+|''[[Mayordomo para todo]]''
+|[[Mariano Ozores]]
+|-
+|rowspan="2"| 1976
+|''[[Alcalde por elección]]''
+|[[Mariano Ozores]]
+|-
+|''[[Foul Play (1977 film)|El puente]]''
+|[[Juan Antonio Bardem]]
+|- 
+| 1977
+|''[[Borrasca (film)|Borrasca]]''
+|[[Miguel Ángel Rivas]]
+|-
+|rowspan="2"| 1978
+|''[[Historia de S.]]''
+|[[Francisco Lara Polop]]
+|-
+|''[[El rediezcubrimiento de México]]''
+|[[Fernando Cortés]]
+|-
+|rowspan="4"| 1979
+|''[[Las verdes praderas]]''
+|[[José Luis Garci]]
+|-
+|''[[Paco el seguro]]''
+|[[Didier Haudepin]]
+|-
+|''[[El alcalde y la política]]''
+|[[Luis M. Delgado]]
+|-
+|''[[Polvos mágicos]]''
+|[[José Ramón Larraz]]
+|-
+|rowspan="4"| 1980
+|''[[El canto de la cigarra]]''
+|[[José María Forqué]]
+|-
+|''[[Préstame a tu mujer]]''
+|[[Jesús Yagüe]]
+|-
+|''[[El poderoso influjo de la luna]]''
+|[[Antonio del Real]]
+|-
+|''[[Forja de amigos]]''
+|[[Tito Davison]]
+|-
+|rowspan="3"| 1981
+|''[[El crack (1981 film)|El crack]]''
+|[[José Luis Garci]]
+|-
+|''[[Profesor eróticus]]''
+|[[Luis M. Delgado]]
+|-
+|''[[La próxima estación]]''
+|[[Antonio Mercero]]
+|-
+|rowspan="2"| 1982
+|''[[Piernas cruzadas]]''
+|[[Rafael Villaseñor]]
+|-
+|''[[Un Rolls para Hipólito]]''
+|[[Juan Bosch (film director)|Juan Bosch]]
+|-
+|rowspan="3"| 1983
+|''[[El crack II]]''
+|[[José Luis Garci]]
+|-
+|''[[Las autonosuyas]]''
+|[[Rafael Gil]]
+|-
+|''[[Una rosa al viento]]''
+|[[Miguel Iglesias (film director)|Miguel Iglesias]]
+|- 
+| 1984
+|''[[Los santos inocentes]]''
+|[[Mario Camus]]
+|-
+|rowspan="2"| 1985
+|''[[Los paraísos perdidos]]''
+|[[Basilio Martín Patino]]
+|-
+|''[[La vaquilla]]''
+|[[Luis García Berlanga]]
+|-
+|rowspan="2"| 1986
+|''[[Bandera negra]]''
+|[[Pedro Olea]]
+|-
+|''[[Tata mía]]''
+|[[José Luis Borau]]
+|-
+|rowspan="3"| 1987
+|''[[¡Biba la banda!]]''
+|[[Ricardo Palacios]]
+|-
+|''[[El pecador impecable]]''
+|[[Augusto Martínez Torres]]
+|-
+|''[[El bosque animado]]''
+|[[José Luis Cuerda]]
+|- 
+| 1988
+|''[[Sinatra (1988 film)|Sinatra]]''
+|[[Francesc Betriu]]
+|-
+|rowspan="2"| 1989
+|''[[El río que nos lleva]]''
+|[[Antonio del Real]]
+|-
+|''[[Bazar Viena]]''
+|[[Amalio Cuevas]]
+|- 
+| 1991
+|''[[Marcelino, pan y vino (1991)]]''
+|[[Luigi Comencini]] 
+|-
+|rowspan="2"| 1992
+|''[[Aquí, quién no corre, vuela]]''
+|[[Ramón Fernández (film director)|Ramón Fernández]]
+|-
+|''[[La marrana]]''
+|[[José Luis Cuerda]]
+|-
+|rowspan="2"| 1994
+|''[[Canción de cuna (1994 film)|Canción de cuna]]''
+|[[José Luis Garci]]
+|-
+|''[[Por fin solos]]''
+|[[Antonio del Real]]
+|- 
+| 1995
+|''[[King of the River (film)|El rey del río]]''
+|[[Manuel Gutiérrez Aragón]]
+|- 
+| 1996
+|''[[Los Porretas]]''
+|[[Carlos Suárez (film director)|Carlos Suárez]]
+|- 
+| 2000
+|''[[El árbol del penitente]]''
+|[[José María Borrell]]
+|-
+|rowspan="2"| 2002
+|''[[Story of a Kiss|Historia de un beso]]''
+|[[José Luis Garci]]
+|-
+|''[[El refugio del mal]]''
+|[[Félix Cábez]]
+|-
+|rowspan="2"| 2003
+|''[[The End of a Mystery|La luz prodigiosa]]''
+|[[Miguel Hermoso]]
+|-
+|''[[El oro de Moscú (film)|El oro de Moscú]]''
+|[[Jesús Bonilla]]
+|- 
+| 2004
+|''[[Tiovivo c. 1950]]''
+|[[José Luis Garci]]
+|- 
+| 2007
+|''[[Sunday Light|Luz de domingo]]''
+|[[José Luis Garci]]
+|-
+| 2007
+|''[[Noah's Ark (2007 film)|El Arca de Noé]]'' (voice, as [[God]])<ref>[http://www.blogdecine.com/trailers/trailer-cartel-y-web-de-el-arca-de-noe-con-alfredo-landa-en-el-papel-de-dios Alfredo Landa as God]</ref>
+|[[Juan Pablo Buscarini]]
+|}
+
+== Prizes ==
+In 2008 he received the Prince of Viana Prize from the Government of [[Navarre]] for promoting his homeland,<ref>{{Cite journal
+  | title = Vianako Printzea Kultura saria jaso du Alfredo Landak
+  | journal = [[Berria]]
+  | location = [[Andoain]]
+  | date = 2008-06-17
+  | url = http://paperekoa.berria.info/kultura/2008-06-17/049/008/vianako_printzea_kultura_saria_jaso_du_alfredo_landak.htm
+  | accessdate = 2010-06-12}}</ref> but he also has received many film prizes throughout his career:
+
+'''[[Cannes Film Festival]]'''
+{| class="wikitable" border="1"
+|- bgcolor="#CCCCCC"
+! '''Year''' || '''Award''' || '''Film''' || '''Result'''
+|-
+|1984||[[Best Actor Award (Cannes Film Festival)|Best Actor Award]]||''[[Los santos inocentes]]''||'''Winner''' 
+|-
+|}
+
+'''[[Goya Awards]]'''
+{| class="wikitable" border="1"
+|- bgcolor="#CCCCCC"
+! '''Year''' || '''Award''' || '''Film''' || '''Result'''
+|-
+|'''1987'''||'''[[Goya Award for Best Actor|Best Leading Actor]]'''||'''''[[El bosque animado]]'''''||'''Winner'''
+|-
+|1988||Best Leading Actor||''[[Sinatra (1988 film)|Sinatra]]''||Runner-up
+|-
+|1989||Best Leading Actor||''[[El río que nos lleva]]''||Runner-up
+|-
+|'''1992'''||'''Best Leading Actor'''||'''''[[La marrana]]'''''||'''Winner'''
+|-
+|1994||Best Leading Actor||''[[Canción de cuna (1994 film)|Canción de cuna]]''||Runner-up
+|-
+|2003||Best Leading Actor||''[[La luz prodigiosa]]''||Runner-up
+|-
+|2007||Best Leading Actor||''[[Luz de domingo]]''||Runner-up
+|-
+|'''2007'''||colspan=2|'''[[Honorary Goya Award]]'''||'''Winner'''
+|-
+|}
+
+'''[[Fotogramas de Plata]]'''
+{| class="wikitable" border="1"
+|- bgcolor="#CCCCCC"
+! '''Year''' || '''Award''' || '''Film''' || '''Result'''
+|-
+|1984||Best Film Actor||''[[Los santos inocentes]]''||Runner-up
+|-
+|1987||Best Film Actor||''[[¡Biba la banda!]]<br />[[El bosque animado]]<br />[[El pecador impecable]]''||Runner-up
+|-
+|1992||Best TV Actor||''[[El Quijote de Miguel de Cervantes]]''||Runner-up
+|-
+|1993||Best TV Actor||''[[Lleno, por favor]]''||Runner-up
+|-
+|2007||Best Film Actor||''[[Luz de domingo]]''||Runner-up
+|-
+|}
+
+'''[[Spanish Actor's Guild]]'''
+{| class="wikitable" border="1"
+|- bgcolor="#CCCCCC"
+! '''Year''' || '''Award''' || '''Film''' || '''Result'''
+|-
+|1992||Best Film Leading Actor||''[[La marrana]]''||Runner-up
+|-
+|1993||Best TV Leading Actor||''[[Lleno, por favor]]''||Runner-up
+|-
+|'''2007'''||'''Best Film Leading Actor'''||'''''[[Sunday Light|Luz de domingo]]'''''||'''Winner'''
+|-
+|}
+
+'''[[TP de Oro]]'''
+{| class="wikitable" border="1"
+|- bgcolor="#CCCCCC"
+! '''Year''' || '''Award''' || '''Film''' || '''Result'''
+|-
+|1984||Best actor||''[[Ninette y un señor de Murcia]]''||'''Winner'''
+|-
+|1986||Best actor||''[[Tristeza de amor]]''||'''Winner'''
+|-
+|1993||Best actor||''[[Lleno, por favor]]''||'''Winner'''
+|-
+|}
+
+'''[[Círculo de Escritores Cinematográficos]]'''
+{| class="wikitable" border="1"
+|- bgcolor="#CCCCCC"
+! '''Year''' || '''Award''' || '''Film''' || '''Result'''
+|-
+|1981||Best actor||''[[El crack (1981 film)|El crack]]''||'''Winner'''
+|-
+|1994||Best actor||''[[Canción de cuna (1994 film)|Canción de cuna]]''||'''Winner'''
+|-
+|2007||Best actor||''[[Sunday Light|Luz de domingo]]''||'''Winner'''
+|-
+|}
+
+==References==
+{{reflist|refs=
+<ref name=ElPais>{{Cite journal
+  | last = Umbral
+  | first = Francisco
+  | authorlink= Francisco Umbral
+  | title = Alfredo Landa
+  | journal = [[El País]]
+  | location = [[Madrid]]
+  | date = 1984-06-18
+  | url = http://www.elpais.com/articulo/opinion/LANDA/_ALFREDO/Alfredo/Landa/elpepiopi/19840618elpepiopi_14/Tes/
+  | accessdate = 2010-06-12}}</ref>
+
+<ref name=ElMundo>{{Cite journal
+  | last = Picón
+  | first = Jose Luis
+  | title = Alfredo Landa hace oficial en el Festival de Málaga su retirada del cine
+  | journal = [[El Mundo (Spain)|El Mundo]]
+  | location = [[Madrid]]
+  | date = 2007-03-16
+  | url = http://www.elmundo.es/elmundo/2007/03/15/cultura/1173994776.html?a=52051748d3d641c8d86f685846847d74&t=1174045280
+  | accessdate = 2010-06-12}}</ref>
+
+<ref name="HR-obit">{{
+cite news
+ |url=http://www.hollywoodreporter.com/news/spanish-actor-alfredo-landa-dies-520157
+ |title=Spanish Actor Alfredo Landa Dies at 80
+ |last=Rolfe|first=Pamela
+ |date=May 9, 2013
+ |publisher=[[The Hollywood Reporter]]
+ |accessdate=10 May 2013}}</ref>
+}}
+
+== External links ==
+*{{IMDb name|0484376}}
+
+{{Prix d'interprétation masculine 1980–1999}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Landa, Alfredo
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Spanish actor
+| DATE OF BIRTH     =1933-03-03
+| PLACE OF BIRTH    =[[Pamplona]], [[Navarra]], [[Spain]]
+| DATE OF DEATH     =2013-05-09
+| PLACE OF DEATH    =[[Madrid]], Spain
+}}
+{{DEFAULTSORT:Landa, Alfredo}}
+[[Category:1933 births]]
+[[Category:2013 deaths]]
+[[Category:Navarrese male actors]]
+[[Category:People from Pamplona]]
+[[Category:Spanish male film actors]]
+[[Category:Spanish male voice actors]]
+[[Category:Best Actor Goya Award winners]]
+[[Category:Honorary Goya Award winners]]

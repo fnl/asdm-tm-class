@@ -1,0 +1,69 @@
+{{Infobox person
+| name            = Virginia Vale
+| image           =
+| imagesize       =
+| caption         =
+| birth_name      = Dorothy Howe
+| birth_date      = {{Birth date|1920|05|20}}
+| birth_place     = [[Dallas, Texas]], U.S.
+| death_date      = {{Death date and age|2006|09|14|1920|05|20}}
+| death_place     = [[Los Angeles]], [[California]], U.S.
+| othername       =
+| occupation      = [[Actress]], [[U.S. Figure Skating Association]] Judge, Executive Secretary
+| yearsactive     = 1937-1945
+| spouse          =
+| domesticpartner =
+| website         =
+}}
+
+'''Virginia Vale''' (20 May 1920 - 14 Sep 2006) was an American film actress.  She starred in a number of B-movie Westerns but took a variety of other roles as well, notably in ''[[Blonde Comet]]'' (1941), in which she played a race car driver.
+
+==Life and career==
+Vale was born Dorothy Howe, and was credited under that name in several of her earlier films. The name Virginia Vale had been chosen in advance for the female winner of the 1939 "Gateway to Hollywood" contest, a nation-wide talent search sponsored by producer [[Jesse Lasky]] -- as noted (somewhat indignantly) then by another Virginia Vale<ref>[http://news.google.com/newspapers?id=ql8mAAAAIBAJ&sjid=DgEGAAAAIBAJ&pg=1240,1079152&dq=virginia-vale&hl=en "Star Dust", Virginia Vale, June 17, 1939]</ref> a syndicated columnist covering the film industry.<ref>Fleming, E.J. (2005). ''Carole Landis: A Tragic Life in Hollywood''. Jefferson, N.C.: McFarland and Co. ISBN 978-0-7864-2200-5,  [http://books.google.com/books?id=PCKwhIFDYx0C&lpg=PA275&dq=virginia.vale%20star.dust&pg=PA275#v=onepage&q=virginia.vale%20star.dust&f=false p.275]</ref>  Vale edged out [[Rhonda Fleming]] in the 1939 contest.<ref>{{cite news | title = Virginia Vale is alive and well | newspaper = [[Los Angeles Times]] | date = 1 Aug 1976 | url = http://pqasb.pqarchiver.com/latimes/access/644177282.html?dids=644177282:644177282&FMT=CITE&FMTS=CITE:AI&type=historic&date=Aug+01%2C+1976&author=&pub=Los+Angeles+Times&desc=Virginia+Vale+Is+Alive+and+Well&pqatl=google }}</ref>
+
+After her film career, she became an executive secretary at [[Lockheed Corporation|Lockheed]] and also a competition judge for the [[US Figure Skating Association]]. She was eventually honored by the USFSA for 50 years of service in that role.<ref name=obit>"LAFSC Mourns the Passing of Virginia Vale", The Ice Monitor, v.62, #3, Dec 2006, p.3 [http://www.lafsc.org/Newsletters/ICEMONITORDEC2006color.pdf]</ref><ref>"Friday's News from the 2004 Governing Council - (5/8/04)", US Figure Skating Association website [http://www.usfigureskating.org/event_story.asp?id=24928]</ref>  Before becoming a judge, she'd also briefly been a competition skater.<ref name=obit/>  Her life in film and skating was featured at the 2002 U.S. figure skating championships<ref>Josephine Lawless (2007).  Introduction to Vale's 1982 [http://www.lafsc.org/history(1).htm "History of the Los Angeles Figure Skating Club"]</ref> and a memorial trophy for "most outstanding performance" was given in her name at the 2007 California Championships.<ref>[http://shafersports.net/news%2007.html "And Now the News", 2007, ShaferSports.com]</ref>
+
+== Partial filmography ==
+*''[[Marshal of Mesa City]]'' (1939)
+*''[[King of Alcatraz]]'' (1938)
+*''[[Her Jungle Love]]'' (1938)
+*''[[Disbarred (1939 film)|Disbarred]]'' (1939)
+*''[[Three Sons]]'' (1939 film)
+*''[[Unmarried (film)|Unmarried]]'' (1939)
+*''[[Legion of the Lawless]]'' (1940)
+*''[[Triple Justice]]'' (1940)
+*''[[Bullet Code]]'' 1940
+*''[[Blonde Comet]]'' (1941)
+*''[[Broadway Big Shot]]'' (1942)
+*''[[Crime, Inc.]]'' (1945)
+
+== Bibliography ==
+* Boyd Magers, Michael G. Fitzgerald (1999), ''Westerns Women: Interviews With 50 Leading Ladies Of Movie And Television Westerns From The 1930s To The 1960s'', Jefferson, N.C.: McFarland and Co., ISBN 0-7864-2028-6
+* Herb Fagen (1996), ''White Hats and Silver Spurs: Interviews With 24 Stars of Film and Television Westerns of the Thirties Through the Sixties'', Jefferson, N.C.: McFarland and Co., ISBN 0-7864-0200-8
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+* [http://www.imdb.com/name/nm0883922/ Virginia Vale] at the [[Internet Movie Database]]
+* [http://www.lafsc.org/history(1).htm "History of the Los Angeles Figure Skating Club"], by Virginia Vale (1982 - originally published in club newsletter).
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Vale, Virginia
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American actor
+| DATE OF BIRTH     = 1920-05-20
+| PLACE OF BIRTH    = [[Dallas, Texas]]
+| DATE OF DEATH     = 2006-09-14
+| PLACE OF DEATH    = [[Los Angeles]], [[California]]
+}}
+{{DEFAULTSORT:Vale, Virginia}}
+[[Category:1920 births]]
+[[Category:2006 deaths]]
+[[Category:Cardiovascular disease deaths in California]]
+[[Category:Actresses from Dallas, Texas]]
+[[Category:Western (genre) film actresses]]
+[[Category:20th-century American actresses]]
+[[Category:American film actresses]]
+[[Category:Figure skating judges]]

@@ -1,0 +1,413 @@
+{{Use mdy dates|date=November 2014}}
+{{Infobox person
+| name          = Justus D. Barnes
+| image         = great train robbery still.jpg
+| imagesize     = 256px
+| caption       = Justus D. Barnes, from ''[[The Great Train Robbery (1903 film)|The Great Train Robbery]]''
+| birth_name    =
+| birth_date    = {{birth date|1862|10|02|mf=yes}}
+| birth_place   = [[Little Falls (town), New York|Little Falls, New York]], U.S.
+| death_date    = {{death date and age|1946|02|06|1862|10|02|mf=yes}}
+| death_place   = [[Weedsport, New York]], U.S.
+| resting_place = Weedsport Rural Cemetery 
+| occupation    = Actor
+| yearsactive   =
+| other_names   = J.D. Barnes<br>Justice Barnes<br>Justus Barnes 
+}}
+
+'''Justus D. Barnes''' (October 2, 1862 &ndash; February 6, 1946) was an [[United States|American]] stage and silent film [[actor]]. Barnes is best known for his role as an [[outlaw]] in the 1903  short silent [[Western (genre)|Western]], ''[[The Great Train Robbery (1903 film)|The Great Train Robbery]]''.
+
+==Career==
+Barnes was born in [[Little Falls, New York]].<ref>{{cite book|last=Vazzana|first=Eugene Michael |title=Silent Film Necrology|edition=2|year=2001|publisher=McFarland|isbn=0-786-41059-0|page=30}}</ref> He appeared in his best known role, a bandit in the twelve minute silent Western ''The Great Train Robbery'', in 1903.<ref name="nyt_obit">{{cite news|title=Justus D. Barnes; Stage and Screen Actor, 84, Dies in Weedsport, N.Y.|date =February 8, 1946|work=The New York Times|page=19}}</ref> He began acting on the stage before making his film debut in 1903 in ''The Great Train Robbery''. The film was one of the first American films to emphasize narrative. In a memorable scene, Barnes' character points his gun directly at the camera and fires a shot. The film went on to become one of the most successful and best known commercial films in the early era of silent films.<ref>{{cite book|last=Erish|first=Andrew A.|title=Col. William N. Selig, the Man Who Invented Hollywood|year=2012|publisher=University of Texas Press|isbn=0-292-74269-X|page=35}}</ref>
+
+In late July 1908, Barnes was hired as an actor in the stock company for the [[Edison Manufacturing Company]], a film production company owned by [[Thomas Edison]].<ref>{{cite book|last=Musser|first=Charles |title=Before the Nickelodeon: Edwin S. Porter and the Edison Manufacturing Company|year=1991|publisher=University of California Press|isbn=0-520-06080-6|page=417}}</ref> In 1910, he signed on with the [[Thanhouser Company]] in [[New Rochelle, New York]]. From 1910 to 1917, Justus appeared in more than seventy films for the Thanhouser. He portrayed Ham Peggotty in ''[[David Copperfield (1911 film)|David Copperfield]]'', the oldest known film adaption of the [[David Copperfield|1850 novel]] by [[Charles Dickens]].<ref name="nyt_obit"/> He also played supporting roles in ''[[Nicholas Nickleby (1912 film)|Nicholas Nickleby]]'' (1912), ''[[Aurora Floyd (film)|Aurora Floyd]]'' (1912), and ''[[A Dog of Flanders (1914 film)|A Dog of Flanders]]'' (1914). He made his final onscreen appearance in 1917.
+
+==Death==
+Barnes died on February 6, 1946 in Weedsport, New York at the age of 83.<ref>{{cite journal|date=February 16, 1949|title=The Final Curtain|journal=Billboard|publisher=Nielsen Business Media, Inc.|volume=58|issue=7|page=87|issn=0006-2510|url=http://books.google.com/books?id=fBgEAAAAMBAJ&pg=PT86&dq=justus+d+barnes+weedsport&hl=en&sa=X&ei=hlBlVL6eFZTXoATe54CgBw&ved=0CB0Q6AEwAA#v=onepage&q=justus%20d%20barnes%20weedsport&f=false}}</ref>
+
+==Selected filmography==
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 1903
+| ''[[The Great Train Robbery (1903 film)|The Great Train Robbery]]''
+| Bandit who fires at camera
+| Uncredited
+|-
+| 1910
+| ''[[Young Lord Stanley]]''
+| The girl's father 
+| Alternative title: ''His Only Son''
+|-
+| 1911
+| ''The Declaration of Independence''
+| [[Samuel Adams]]
+| 
+|-
+| 1911
+| ''[[David Copperfield (1911 film)|David Copperfield]]''
+| Ham Peggotty
+|
+|-
+| 1912
+| ''On Probation''
+| The Rich Old Widower 
+|
+|-
+| 1912
+| ''[[Nicholas Nickleby (1912 film)|Nicholas Nickleby]]''
+| Nicholas' Uncle Ralph
+|
+|-
+| 1912
+| ''The Baby Bride''
+| The Minister 
+| 
+|-
+| 1912
+| ''When Mandy Came to Town''
+| The Father
+| 
+|-
+| 1912
+| ''The Portrait of Lady Anne''
+| Lady Anne's Father in 1770
+| 
+|-
+| 1912
+| ''Cousins''
+| Father on Farm 
+| 
+|-
+| 1912
+| ''[[The Voice of Conscience]]''
+| Doctor
+| Credited as Justice Barnes
+|-
+| 1912
+| ''[[Aurora Floyd (film)|Aurora Floyd]]''
+| Aurora's father
+|
+|-
+| 1912
+| ''[[The Star of Bethlehem (film)|The Star of Bethlehem]]''
+| Gaspar, a Magi 
+|
+|-
+| 1912
+| ''[[With the Mounted Police]]''
+| Mounted Policeman 
+| 
+|-
+| 1913
+| ''When the Studio Burned''
+| Director
+| 
+|-
+| 1913
+| ''While Mrs. McFadden Looked Out''
+| Mr. McFadden
+| 
+|-
+| 1913
+| ''For Another's Sin''
+| Bank Examiner
+|
+|-
+| 1913
+| ''A Victim of Circumstances''
+| The Father
+|
+|-
+| 1913
+| ''When Darkness Came''
+| The Senior Partner 
+|
+|-
+| 1913
+| ''The Farmer's Daughters''
+| Father
+| 
+|-
+| 1913
+| ''He Couldn't Lose''
+| Green, a lawyer
+| 
+|-
+| 1913
+| ''A Beauty Parlor Graduate''
+| Uncle Bill
+| 
+|-
+| 1913
+| ''An Amateur Animal Trainer''
+| Belle's father 
+| 
+|-
+| 1914
+| ''[[Joseph in the Land of Egypt (1914 film)|Joseph in the Land of Egypt]]''
+| Undetermined role
+| 
+|-
+| 1914
+| ''[[Percy Gets a Job#Percy's First Holiday|Percy's First Holiday]]''
+| Undetermined role
+| Uncredited
+|-
+| 1914
+| ''A Leak in the Foreign Office''
+| Abdool - Trevor's Afghan companion  
+|
+|-
+| 1914
+| ''A Can of Baked Beans''
+| Mr. Morton
+| 
+|-
+| 1914
+| ''Their Best Friend''
+| Jack's Father 
+| 
+|-
+| 1914
+| ''Cardinal Richelieu's Ward''
+| Huguet 
+| Credited as Justus Barnes
+|-
+| 1914
+| ''A Debut in the Secret Service''
+| Abdul
+| 
+|-
+| 1914
+| ''The Infant Heart Snatcher''
+| The Judge
+|
+|-
+| 1914
+| ''The Mohammedan's Conspiracy''
+| Abdul
+|
+|-
+| 1914
+| ''[[A Dog of Flanders (1914 film)|A Dog of Flanders]]''
+| The Rich Miller 
+| Lost film<ref>{{cite book|last=Tarbox|first=Charles H. |title=Lost Films, 1895-1917|year=1983|publisher=Jef Films Inc|isbn=0-961-09160-6|page=19}}</ref>
+|-
+| 1914
+| ''From the Shadows''
+| Stage Manager 
+| Alternative title: ''Out of the Shadows''
+|-
+| 1914
+| ''His Enemy''
+| John Baird 
+| 
+|-
+| 1914
+| ''The Harlow Handicap''
+| George Carnes
+| 
+|-
+| 1914
+| ''Arty, the Artist''
+| Mr. Miles - May's Father 
+| 
+|-
+| 1914
+| ''[[Gold (1914 film)|Gold]]''
+| The Village Bully 
+| 
+|-
+| 1914
+| ''The Mettle of a Man''
+| John Ross
+| 
+|-
+| 1914
+| ''The Harvest of Regrets''
+| Mr. Sheldon
+|
+|-
+| 1914
+| ''The Diamond of Disaster''
+| The Bandit
+| 
+|-
+| 1914
+| ''Lucy's Elopement''
+| Ezra Jenkins 
+| 
+|-
+| 1915
+| ''The Home of Silence''
+| Ralph's father
+| 
+|-
+| 1915
+| ''Helen Intervenes''
+| Store Manager
+| 
+|-
+| 1915
+| ''The Smuggled Diamond''
+| Chief of the Secret Service 
+|
+|-
+| 1915
+| ''The Adventure of Florence''
+| Mr. Clark - Florence's Father 
+|
+|-
+| 1915
+| ''[[The Final Reckoning (1915 film)|The Final Reckoning]]''
+| Judge Granger 
+| 
+|-
+| 1915
+| ''Bianca Forgets''
+| Bianca's father
+| 
+|-
+| 1915
+| ''Love and Money''
+| The American Suitor's Father 
+| 
+|-
+| 1915
+| ''The Heart of the Princess Marsari''
+| Paul's Wealthy Uncle  
+| 
+|-
+| 1915
+| ''[[God's Witness]]''
+| Judge
+| Lost film<ref>{{cite book|last=Soister|first=John T.|date=2012|title=American Silent Horror, Science Fiction and Fantasy Feature Films, 1913–1929|publisher=McFarland & Company|isbn=0-786-48790-9|page=233}}</ref>
+|-
+| 1915
+| ''Bud Blossom''
+| Bud's grandfather
+| 
+|-
+| 1915
+| ''[[The Country Girl (1915 film)|The Country Girl]]''
+| The Squire, her Guardian 
+|
+|-
+| 1915
+| ''Old Jane of the Gaiety''
+| Choreographer 
+|
+|-
+| 1915
+| ''His Two Patients''
+| The Blacksmith 
+| 
+|-
+| 1915
+| ''The Marvelous Marathoner''
+| Ewing Webster 
+| 
+|-
+| 1915
+| ''Snapshots''
+| Henry Spear - Editor 
+| 
+|-
+| 1915
+| ''From the River's Depths''
+| William Hewins - Dorothy's Father 
+| Alternative title: ''A Call from the Dead''
+|-
+| 1915
+| ''Weary Walker's Woes''
+| Lawyer
+|
+|-
+| 1915
+| ''[[Mr. Meeson's Will#Adaptation|Mr. Meeson's Will]]''
+| Mr. Meeson
+|
+|-
+| 1916
+| ''Outwitted''
+| The Contractor 
+| 
+|-
+| 1916
+| ''[[Fear (1916 film)|Fear]]''
+| Jasper 
+| 
+|-
+| 1916
+| ''Arabella's Prince''
+| The Prince 
+| 
+|-
+| 1917
+| ''Her Life and His''
+| Political Boss 
+| 
+|-
+| 1917
+| ''Hinton's Double''
+| Detective Denton
+| 
+|-
+| 1917
+| ''The Candy Girl''
+| Officer Quinn 
+| 
+|-
+| 1917
+| ''An Amateur Orphan''
+| Dave's Father 
+| Credited as Justus Barnes
+|-
+| 1917
+| ''It Happened to Adele''
+| Vincent's Uncle 
+| 
+|-
+| 1917
+| ''Cy Whittaker's Ward''
+| Simmons 
+| Credited as J.D. Barnes
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb name|55661|Justus D. Barnes}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Barnes, Justus D.
+| ALTERNATIVE NAMES = Barnes, Justus; Barnes, Justice; Barnes, J.D.
+| SHORT DESCRIPTION = American actor
+| DATE OF BIRTH     = October 2, 1862
+| PLACE OF BIRTH    = [[Little Falls (town), New York|Little Falls, New York]]
+| DATE OF DEATH     = February 6, 1946
+| PLACE OF DEATH    = [[Weedsport, New York]], U.S.
+}}
+{{DEFAULTSORT:Barnes, Justus D.}}
+[[Category:1862 births]]
+[[Category:1946 deaths]]
+[[Category:19th-century American male actors]]
+[[Category:20th-century American male actors]]
+[[Category:American male film actors]]
+[[Category:American male stage actors]]
+[[Category:American male silent film actors]]
+[[Category:Burials in New York]]
+[[Category:Male actors from New York]]
+[[Category:Male Western (genre) film actors]]
+[[Category:People from Little Falls, New York]]
+
+
+{{US-film-actor-1860s-stub}}

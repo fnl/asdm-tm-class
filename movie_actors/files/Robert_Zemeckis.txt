@@ -1,0 +1,229 @@
+{{Use mdy dates|date=December 2013}}
+
+{{Infobox person
+| name = Robert Zemeckis
+| image = Robert Zemeckis by David Shankbone.jpg
+| imagesize = 
+| caption = Zemeckis at the 2010 [[Tribeca Film Festival]].
+| birth_name = Robert Lee Zemeckis
+| birth_date = {{Birth date and age|1952|5|14}}
+| birth_place = [[Chicago|Chicago, Illinois]], U.S. 
+| residence = Santa Barbara, California, U.S.
+| nationality = American
+| alma_mater = [[University of Southern California]] 
+| occupation  = {{flatlist|
+*Film director
+*[[film producer]]
+*writer}}
+| years_active = 1972–present
+| notable_works = 
+{{flatlist|
+*''[[Romancing the Stone]]''
+*''[[Back to the Future (film series)|Back to the Future]]'' trilogy
+*''[[Who Framed Roger Rabbit]]''
+*''[[Forrest Gump]]''
+*''[[Cast Away]]''
+*''[[The Polar Express (film)|The Polar Express]]''}}
+| spouse = [[Mary Ellen Trainor]] (1980–2000; divorced) <br> Leslie Harter (2001–present)
+| children = 3
+}}
+
+'''Robert Lee Zemeckis'''<ref name=filmref/> (born May 14, 1952)<ref name=filmref>{{cite web|title=Robert Zemeckis profile at|url=http://www.filmreference.com/film/31/Robert-Zemeckis.html | publisher = FilmReference.com|accessdate=October 20, 2012}}</ref> is an American [[film director]], producer, and [[screenwriter]]. Zemeckis first came to public attention in the 1980s as the director and co-creator of the science fiction comedy ''[[Back to the Future (franchise)|Back to the Future]]'' film series, as well as the [[Academy Award]]-winning live-action/animated family comedy ''[[Who Framed Roger Rabbit]]'' (1988), though in the 1990s he diversified into more dramatic fare, including 1994's ''[[Forrest Gump]]'',<ref>{{cite news|last=Gleiberman|first=Owen|url=http://www.ew.com/ew/article/0,,302943,00.html|title=Movie Review: Forrest Gump|work=[[Entertainment Weekly]]|date=July 15, 1994|accessdate=January 26, 2007}}</ref> for which he won an [[Academy Award for Best Director]].
+
+His films are characterized by an interest in state-of-the-art special effects, including the early use of [[match moving|the insertion of computer graphics into live-action footage]] in ''[[Back to the Future Part II]]'' (1989) and the pioneering [[performance capture]] techniques seen in ''[[The Polar Express (film)|The Polar Express]]'' (2004), ''[[Beowulf (2007 film)|Beowulf]]'' (2007) and ''[[A Christmas Carol (2009 film)|A Christmas Carol]]'' (2009). Though Zemeckis has often been pigeonholed as a director interested only in effects,<ref name= "castaway">{{cite news|last=Kehr|first=Dave|url=http://query.nytimes.com/gst/fullpage.html?res=9807EED6133FF934A25751C1A9669C8B63|title='Cast Away' Director Defies Categorizing|work=[[The New York Times]]|date=December 17, 2000|accessdate=March 31, 2008 }}</ref> his work has been defended by several critics, including [[David Thomson (film critic)|David Thomson]], who wrote that "No other contemporary director has used special effects to more dramatic and narrative purpose."<ref name= "thomson">Robert Zemeckis profile, ''The New Biographical Dictionary of Film'' by David Thomson (2002 ed.);  ISBN 0-375-70940-1, pp. 958-59.</ref>
+
+==Early life==
+Zemeckis was born in [[Chicago]], [[Illinois]],<ref name=filmref/> the son of Rose (née Nespeca) and Alphonse Zemeckis.<ref name=roseobit>{{cite news|title=Rose Zemeckis Obituary|url=http://www.legacy.com/obituaries/nwherald/obituary.aspx?page=lifestory&pid=142373147|work=[[Northwest Herald]]|location=[[Crystal Lake, Illinois]]|accessdate=October 20, 2012}}</ref> His father was [[Lithuanian American]] and his mother was Italian American. Zemeckis grew up on the south side of the city.<ref name="italian">{{cite news|last=Kunk|first=Deborah J.|title= The Man Who Framed Roger Rabbit|work=[[St. Paul Pioneer Press|Pioneer Press]]|location=[[St. Paul, Minnesota]]|date=June 26, 1988|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=PD&s_site=twincities&p_multi=SP&p_theme=realcities&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EB5D76FD2F5639C&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|accessdate=December 10, 2007}}</ref> He attended a [[Roman Catholic]] grade school.<ref name="achieve">{{cite web|url=http://www.achievement.org/autodoc/page/zem0int-1|title=Robert Zemeckis interview|publisher=Academy of Achievement: A Museum of Living History, 1996-06-29|accessdate=January 22, 2007|page=[http://www.achievement.org/autodoc/page/zem0int-3]}}</ref> Zemeckis has said "the truth was that in my family there was no art. I mean, there was no music, there were no books, there was no theater... The only thing I had that was inspirational, was television—and it actually was."<ref name= "achieve">Academy of Achievement interview, p. [http://www.achievement.org/autodoc/page/zem0int-1 1]</ref>
+
+As a child, he loved television and was fascinated by his parents' [[8 mm film]] home movie camera. Starting off by filming family events like birthdays and holidays, he gradually began producing narrative films with his friends that incorporated [[stop-motion]] work and other special effects. Along with enjoying movies, Zemeckis remained an avid TV watcher. "You hear so much about the problems with television," he said, "but I think that it saved my life." Television gave Zemeckis his first glimpse of a world outside of his blue-collar upbringing;<ref name="achieve"/> specifically, he learned of the existence of [[film school]]s on an episode of ''[[The Tonight Show Starring Johnny Carson]]''. After seeing ''[[Bonnie and Clyde (film)|Bonnie and Clyde]]'' with his father and being heavily influenced by it,<ref name= "castaway"/> Zemeckis decided that he wanted to go to film school. His parents disapproved of the idea, Zemeckis later said, "But only in the sense that they were concerned... for my  family and my friends and the world that I grew up in, this was the kind of dream that really was impossible. My parents would sit there and say, 'Don't you see where you come from? You can't be a movie director.' I guess maybe some of it I felt I had to do in spite of them, too."<ref name= "achieve"/>
+
+==USC education and early films==
+Zemeckis applied only to [[University of Southern California]]'s [[USC School of Cinematic Arts|School of Cinematic Arts]], and went into the Film School on the strength of an essay and a music video based on a [[The Beatles|Beatles]] song. Not having heard from the university itself, Zemeckis called and was told he had been rejected because of his average grades. The director gave an "impassioned plea" to the official on the other line, promising to go to summer school and improve his studies, and eventually convinced the school to accept him.<ref name= "achieve"/> Arriving at USC that Fall, Zemeckis encountered a program that was, in his words, made up of "a bunch of hippies [and] considered an embarrassment by the university."<ref name= "achieve"/> The classes were difficult, with professors constantly stressing how hard the movie business was. Zemeckis remembered not being much fazed by this, citing the "healthy cynicism" that had been bred into him from his Chicago upbringing.<ref name= "achieve"/>
+
+While at USC, Zemeckis developed a close friendship with the writer [[Bob Gale]], who was also a student there. Gale later recalled, "The graduate students at USC had this veneer of intellectualism...So Bob and I gravitated toward one another because we wanted to make Hollywood movies. We weren't interested in the [[French New Wave]]. We were interested in [[Clint Eastwood]] and [[James Bond]] and [[Walt Disney]], because that's how we grew up."<ref name= "block">Shone, Tom. ''Blockbuster: How Hollywood Learned To Stop Worrying And Love The Summer''.  New York: Free Press, 2004.  ISBN 0-7432-3568-1 p. 123-125.</ref> Zemeckis graduated from USC in 1973.<ref>[http://cinema.usc.edu/alumni/alumni-history/ Notable Alumni, USC School of Cinematic Arts].</ref>
+
+As a result of winning a [[Student Academy Awards|Student Academy Award]] at USC for his film, ''A Field of Honor'', Zemeckis came to the attention of [[Steven Spielberg]]. Spielberg said, "He barged right past my secretary and sat me down and showed me this student film...and I thought it was spectacular, with police cars and a riot, all dubbed to [[Elmer Bernstein]]'s score for ''[[The Great Escape (film)|The Great Escape]]''."<ref name="block"/> Spielberg became Zemeckis's mentor and executive produced his first two films, both of which Zemeckis co-wrote with Gale. He later executive produced other Zemeckis films, including the [[Back to the Future (franchise)|''Back to the Future'' trilogy]] and ''[[Who Framed Roger Rabbit]]''. {{citation needed|date=August 2014}}
+
+''[[I Wanna Hold Your Hand (film)|I Wanna Hold Your Hand]]'' (1978), starring [[Nancy Allen (actress)|Nancy Allen]], and  ''[[Used Cars]]'' (1980), starring [[Kurt Russell]], were well-received critically but were commercial failures. ''I Wanna Hold Your Hand'' was the first of several Zemeckis films to incorporate historical figures and celebrities into his movies. In the film, he used archival footage and doubles to simulate the presence of The Beatles. After the failure of his first two films, and the Spielberg-directed bomb ''[[1941 (film)|1941]]'' in 1979 (for which Zemeckis and Gale had written the screenplay), the pair gained a reputation for writing "scripts that everyone thought were great [but] somehow didn't translate into movies people wanted to see."<ref name="block"/>
+
+==Breakthrough films and ''Forrest Gump''==
+As a result of his reputation within the industry, Zemeckis had trouble finding work in the early 1980s, though he and Gale kept busy. They wrote scripts for other directors, including ''Car Pool'' for [[Brian De Palma]] and ''Growing Up'' for Spielberg; neither ended up getting made. Another Zemeckis-Gale project, [[Back to the Future|about a teenager who accidentally travels back in time to the 1950s]], was turned down by every major studio.<ref name= "horo">Horowitz, Mark. "Back with a Future", [[American Film]], July/August 1988. pp. 32-35.</ref> The director was jobless until [[Michael Douglas]] hired him in 1984 to film ''[[Romancing the Stone]]''. A romantic adventure starring Douglas and [[Kathleen Turner]], ''Romancing'' was expected to flop (to the point that, after viewing a rough cut of the film, the producers of the then-in-the-works ''[[Cocoon (film)|Cocoon]]'' fired Zemeckis as director),<ref name= "horo"/> but the film became a sleeper hit.  While working on ''Romancing the Stone'', Zemeckis met composer [[Alan Silvestri]], who has scored all of his subsequent pictures.
+
+[[File:Zemeckis1997(cropped).jpg|thumb|right|Overseeing the filming of ''Contact'' in 1997.]]
+After ''Romancing'', the director suddenly had the clout to direct his time-traveling screenplay, which was titled ''[[Back to the Future]]''. Starring [[Michael J. Fox]], [[Lea Thompson]], and [[Christopher Lloyd]], the 1985 film was wildly successful upon its release, and was followed by two sequels, released as ''[[Back to the Future Part II]]'' in 1989 and ''[[Back to the Future Part III]]'' in 1990. Before the ''Back to the Future'' sequels were released, Zemeckis collaborated with Disney and directed another film, the madcap 1940s-set mystery ''[[Who Framed Roger Rabbit]]'', which painstakingly combined [[traditional animation]] and live action; its US$70 million budget made it one of the most expensive films made up to that point. The film was both a financial and critical success, and won four [[Academy Award]]s. In 1990, Zemeckis commented, when asked if he would want to make non-comedies, "I would like to be able to do everything. Just now, though, I'm too restless to do anything that's not really zany."<ref name="horo"/>
+
+In 1992, Zemeckis directed the black comedy ''[[Death Becomes Her]]'', starring [[Meryl Streep]], [[Goldie Hawn]], and [[Bruce Willis]].  Although his next film would have some comedic elements, it was Zemeckis's first with dramatic elements, and was also his biggest commercial success to date, 1994's ''[[Forrest Gump]]''. Starring [[Tom Hanks]] in the title role, and borrowing to some extent from [[Woody Allen]]'s earlier ''[[Zelig]]'', ''Forrest Gump'' tells the story of a man with a low [[I.Q.]], who unwittingly participates in some of the major events of the twentieth century, falls in love, and interacts with several major historical figures in the process. The film grossed $677 million worldwide and became the top grossing U.S. film of 1994; it won six Academy Awards, including [[Academy Award for Best Picture|Best Picture]], Hanks as [[Academy Award for Best Actor|Best Actor]], and Zemeckis as [[Academy Award for Best Director|Best Director]]. In 1997, Zemeckis directed ''[[Contact (1997 US film)|Contact]]'', a long-gestating project based on [[Carl Sagan]]'s 1985 [[Contact (novel)|novel of the same name]]. The film centers on Eleanor Arroway, a scientist played by [[Jodie Foster]], who believes she has made contact with extraterrestrial beings.
+
+== Work in the 2000s and interest in digital filmmaking ==
+In 1999, Zemeckis donated $5 million towards the Robert Zemeckis Center for Digital Arts at USC, a {{convert|35000|sqft|m2|adj=on}} center that houses production stages, an immense 60-system digital editing lab, and a 50-seat screening room. When the Center opened in March 2001, Zemeckis spoke in a panel about the future of film, alongside friends [[Steven Spielberg]] and [[George Lucas]]. Of those (including Spielberg) who clung to celluloid and disparaged the idea of shooting digitally, Zemeckis said, "These guys are the same ones who have been saying that [[LP album|LPs]] sound better than CDs. You can argue that until you're blue in the face, but I don't know anyone who's still buying vinyl. Film, as we have traditionally thought of it, is going to be different. But the continuum is man's desire to tell stories around the campfire. The only thing that keeps changing is the campfire."<ref>Hayes, Dade, and Dana Harris. "Helmers mull digital around state-of-art campfire," [[Variety (magazine)|Variety]], 2001-03-05; accessed 2014-08-27.</ref> The Robert Zemeckis Center currently hosts many film school classes, much of the [[USC Interactive Media Division|Interactive Media Division]], and [[Trojan Vision]], USC's student television station, which has been voted the number one college television station in the country.
+
+In 1996, Zemeckis had begun developing a project titled ''The Castaway'' with [[Tom Hanks]] and writer [[William Broyles, Jr.]]. The story, which was inspired by [[Robinson Crusoe]], is about a man (Hanks) who becomes stranded on a desert island and undergoes a profound physical and spiritual change.<ref name= "lies">[http://www.ew.com/ew/article/0,,277168,00.html Fall Movie Preview: December], [[Entertainment Weekly]], 2000-08-18; retrieved 2007-09-11.</ref> While working on ''The Castaway'', Zemeckis also became attached to a [[Alfred Hitchcock|Hitchcockian]] thriller titled ''[[What Lies Beneath]]'', the story of a married couple experiencing an extreme case of [[empty nest syndrome]] that was based on an idea by Steven Spielberg.<ref name="pair">Petrikin, Chris.  [http://www.variety.com/article/VR1117481417.html?categoryid=13&cs=1&query=%22what+lies+beneath%22+AND+%22tom+hanks%22 "Pairing for Zemeckis: Fox, DW near to sharing next two projects"], ''[[Variety (magazine)|Variety]]'', 1998-10-14; retrieved 2007-09-11.</ref> Because Hanks's character needed to undergo a dramatic weight loss over the course of ''The Castaway'' (which was eventually retitled ''[[Cast Away]]''), Zemeckis decided that the only way to retain the same crew while Hanks lost the weight was to shoot ''What Lies Beneath'' in between. He shot the first part of ''Cast Away'' in early 1999, and shot ''What Lies Beneath'' in fall 1999, completing work on ''Cast Away'' in early 2000.<ref name="pair"/> Zemeckis later quipped, when asked about shooting two films back-to-back, "I wouldn't recommend it to anyone."<ref name="lies"/> ''What Lies Beneath'', starring [[Harrison Ford]] and [[Michelle Pfeiffer]], was released in July 2000 to mixed reviews, but did well at the box office, grossing over $155 million, domestically. ''Cast Away'' was released that December and grossed $233 million domestically; {{citation needed|date=August 2014}} Hanks received an Oscar nomination for [[Academy Award for Best Actor|Best Actor]] for his portrayal of Chuck Noland.
+
+In 2004, Zemeckis reteamed with Hanks and directed ''[[The Polar Express (film)|The Polar Express]]'', based on the children's book of the [[The Polar Express|same name]] by [[Chris Van Allsburg]]. ''The Polar Express'' utilized the [[computer animation]] technique known as [[performance capture]], whereby the movements of the actors are captured digitally and used as the basis for the animated characters. As the first major film to use performance capture, ''The Polar Express'' caused ''[[The New York Times]]'' to write that, "Whatever critics and audiences make of this movie, from a technical perspective it could mark a turning point in the gradual transition from an analog to a digital cinema."<ref>{{cite news|last=Kehr|first=Dave|url=http://www.nytimes.com/2004/10/24/movies/24kehr.html|title=FILM: The Face That Launched A Thousand Chips|work=[[The New York Times]]|date=October 24, 2004|accessdate=March 31, 2008}}</ref>
+
+In February 2007, Zemeckis and [[Walt Disney Studios (production)|Walt Disney Studios]] chairman [[Dick Cook]] announced plans for a new performance capture film company devoted to CG-created, 3-D movies.<ref>{{cite news|author=Staff|url=http://www.reuters.com/article/idUSN0545679120070206|title=Disney, "Polar Express" director in animation deal|publisher=[[Reuters]]|date=February 5, 2007|accessdate=November 21, 2010}}</ref> The company, [[ImageMovers Digital]], created films using the performance capture technology, with Zemeckis directing most of the projects and Disney distributed and marketed the motion pictures worldwide. Zemeckis used the performance capture technology again in his film, ''[[Beowulf (2007 film)|Beowulf]]'', which retells the Anglo-Saxon [[epic poem]] of the [[Beowulf|same name]] and starred [[Ray Winstone]], [[Angelina Jolie]], and [[Anthony Hopkins]]. [[Hugo Award]]-winning science fiction writer [[Neil Gaiman]], who co-wrote the adaptation with [[Roger Avary]], described the film as a "cheerfully violent and strange take on the Beowulf legend."<ref>{{cite news|author=Goldstein, Hilary|url=http://movies.ign.com/articles/720/720459p1.html|title=Comic-Con 2006: Neil Gaiman's Future Movies|publisher=IGN.com|date=July 21, 2006|accessdate=January 13, 2007}}</ref> The film was released on November 16, 2007, to mostly positive reviews.
+
+In July 2007, ''[[Variety (magazine)|Variety]]'' announced that Zemeckis had written a screenplay for ''[[A Christmas Carol (2009 film)|A Christmas Carol]]'', based on [[Charles Dickens]]' 1843 short story of the same name, with plans to use performance capture and release it under the aegis of ImageMovers Digital. Zemeckis wrote the script with [[Jim Carrey]] in mind, and Carrey agreed to play a multitude of roles in the film, including [[Ebenezer Scrooge]] as a young, middle-aged, and old man, and the three ghosts who haunt Scrooge.<ref>Fleming, Michael. [http://www.variety.com/article/VR1117968136.html?categoryid=1236&cs=1&query=%22bob+hoskins%22+AND+%22christmas+carol%22 "Jim Carrey set for 'Christmas Carol': Zemeckis directing Dickens adaptation"], ''[[Variety (magazine)|Variety]]'', July 6, 2007; retrieved September 11, 2007.</ref> The film began production in February 2008, and was released on November 6, 2009, again to mixed reviews.<ref>{{cite news| url=http://www.variety.com/VR1117980473.html?query=christmas+carol+carrey|work=Variety|title=Studios rush to fill '09 schedule|first=Pamela|last=McClintock|date=February 7, 2008}}</ref> Actor [[Gary Oldman]] also appeared in the film.<ref>[http://www.geeksofdoom.com/2008/07/03/gary-oldman-to-play-three-roles-in-robert-zemeckis-a-christmas-carol Gary Oldman To Play Three Roles in Robert Zemeckis' ''‘A Christmas Carol''], geeksofdoom.com; accessed August 27, 2014.</ref>
+
+In August 2008, ''[[IGN|Movies IGN]]'' revealed in an interview with [[Philippe Petit]] that Zemeckis is working with Petit to turn Petit's memoir ''To Reach the Clouds'' into a feature film.<ref>Aftab, Kaleem [http://movies.ign.com/articles/895/895054p1.html "Man on Wire Q&A"]</ref> Robert Zemeckis was either seriously considered to, or attached to direct the 2005 version of ''[[Charlie and the Chocolate Factory]]''. Zemeckis is an avid supporter of 3-D Digital Cinema, and has stated that, starting with the 3-D presentations of ''[[Beowulf (2007 film)|Beowulf]]'', all of his future films will be done in 3-D using digital [[motion capture]]. He has reportedly backed away from that statement and said that the decision to use 3-D will be on a film-by-film basis. {{citation needed|date=August 2014}}
+
+On August 19, 2009, it was reported that Zemeckis and his company were in talks with [[Apple Corps|Apple Corps Ltd]] to remake the animated film ''[[Yellow Submarine (film)|Yellow Submarine]]'' in 3-D once again utilizing performance capture. However, on March 12, 2010, with Zemeckis' biggest Disney ally gone, former chairman Dick Cook, and amid drastic cost-cutting by the new management team, Disney announced that it was ending its relationship with ImageMovers Digital.<ref>{{Cite web|url=http://www.awn.com/news/business/disney-close-zemeckis-imagemovers-digital-studio|title=Disney to Close Zemeckis' ImageMovers Digital Studio|publisher=AWN}}</ref> The studio's final film, 2011's Zemeckis-produced ''[[Mars Needs Moms]]'', was the second worst box office failure in history, with a net loss of roughly $130 million. Zemeckis made his return to live-action filmmaking with ''[[Flight (2012 film)|Flight]]'', a 2012 drama for Paramount, starring [[Denzel Washington]].
+
+On January 31, 2014, it was announced that a [[Back to the Future (musical)|stage]] [[Musical theatre|musical]] adaptation of Zemeckis's first [[Back to the Future]] film was in production.<ref>[http://www.bbc.co.uk/news/entertainment-arts-25976383 Back to the Future musical announced]</ref> The show, which will be co-written by original writers Robert Zemeckis and Bob Gale, is expected to be performed in 2015, on the 30th anniversary year of the film.<ref>{{cite web|url=http://www.theguardian.com/stage/2014/jan/31/back-to-the-future-musical|title=Back to the Future: 80s movie gets musical makeover|publisher=[[The Guardian]]|work=theguardian.com|date=January 31, 2014|accessdate=February 1, 2014}}</ref> According to Gale, the musical will be "true to the spirit of the film without being a slavish remake".<ref>{{cite web|url=http://www.standard.co.uk/goingout/theatre/back-to-the-future-stage-musical-version-of-80s-classic-film-to-hit-londons-west-end-9098264.html|title=Back to the Future: stage musical version of 80s classic film to hit London's West End|publisher=[[London Evening Standard]]|work=standard.co.uk|date=January 31, 2014|accessdate=February 7, 2014}}</ref>
+
+As of April 2014, Zemeckis was working on his next movie, entitled ''[[The Walk (2015 film)|The Walk]]'', a biographical film based on the life of French high-wire professional [[Philippe Petit]], the man who tight rope walked between the World Trade Center towers in 1974. {{citation needed|date=August 2014}}
+
+[[Paramount Pictures]] and [[New Regency]] announced in February 2015 that Zemeckis would direct Brad Pitt in a romantic thriller set during World War II.<ref>{{cite news| url = http://www.hollywoodreporter.com/news/robert-zemeckis-direct-brad-pitt-770867| title=Robert Zemeckis to Direct Brad Pitt Romantic Thriller| first= Erik | last= Hayden	| date= February 6, 2015 | accessdate= February 12, 2015 | archivedate= February 12, 2015 |archiveurl = https://web.archive.org/web/20150212215451/http://www.hollywoodreporter.com/news/robert-zemeckis-direct-brad-pitt-770867 | deadurl=no}}</ref>
+
+==Personal life==
+[[File:Robert Zemeckis 2013.jpg|thumb|Zemeckis with wife Leslie Harter, at the French premiere of ''[[Flight (2012 film)|Flight]]'', January 2013.]]
+Zemeckis has said that, for a long time, he sacrificed his personal life in favor of a career. "I won an Academy Award when I was 44 years old," he explained, "but I paid for it with my 20s. That decade of my life from film school till 30 was nothing but work, nothing but absolute, driving work. I had no money. I had no life."<ref name="achieve"/> In the early 1980s, Zemeckis married actress [[Mary Ellen Trainor]], with whom he had a son, Alexander Francis.<ref name= filmref/> He described the marriage as difficult to balance with filmmaking,<ref name="achieve"/> and his relationship with Trainor eventually ended in divorce.<ref name=filmref/> On December 4, 2001, he married actress Leslie Harter,<ref name=filmref/> with whom he has two children.<ref name=roseobit>{{cite news|title=Rose Zemeckis obituary|url=http://www.legacy.com/obituaries/nwherald/obituary.aspx?page=lifestory&pid=142373147|work=[[Northwest Herald]]|location=[[Crystal Lake, Illinois]]|accessdate=October 20, 2012}}</ref>
+
+Zemeckis is a [[private pilot]] who has logged approximately 1,600 hours of flight time as of October 2012.<ref name=lax102012>{{cite news|url=http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-denzel-zemeckis-ca-flight-20121021,0,6995683,full.story|title=How the movie 'Flight' got off the ground|first=John|last=Horn|work=[[Los Angeles Times]]|date=October 20, 2012|accessdate=October 20, 2012}}</ref>  He flies a [[Cirrus SR20]], known for having a parachute that safely lowers the plane to the ground in case of an emergency.<ref name="toronto sun">{{cite news|url=http://www.torontosun.com/2012/10/31/director-robert-zemeckis-comes-back-to-live-action-for-flight.|title=Director Robert Zemeckis comes back to live-action for Flight=October 31, 2012}}</ref>
+
+According to campaign donation records, Zemeckis has frequently contributed to political candidates affiliated with the [[Democratic Party (United States)|Democratic Party]], as well as PACs that support the interests of aircraft owners and pilots, [[family planning]] interests, and a group that advocates for Hollywood women.<ref>[http://www.newsmeat.com/celebrity_political_donations/Robert_Zemeckis.php Robert Zemeckis profile], newsmeat.com; accessed August 27, 2014.</ref>
+
+==Filmography==
+
+===Film===
+{|class="wikitable sortable" 
+|-
+! Year !! Title !! Director !! Producer !! Writer !! Notes
+|-
+| 1978 || ''[[I Wanna Hold Your Hand (film)|I Wanna Hold Your Hand]]'' ||{{yes}}|| ||{{yes}}||
+|-
+| 1979 || ''[[1941 (film)|1941]]'' || || ||{{yes}}||
+|-
+| 1980 || ''[[Used Cars]]'' ||{{yes}}|| ||{{yes}}||
+|-
+| 1984 || ''[[Romancing the Stone]]'' ||{{yes}}|| || ||
+|-
+| 1985 || ''[[Back to the Future]]'' ||{{yes}}|| ||{{yes}}||
+|-
+| 1988 || ''[[Who Framed Roger Rabbit]]'' ||{{yes}}|| || ||
+|-
+| 1989 || ''[[Back to the Future Part II]]'' ||{{yes}}|| ||{{yes}}||
+|-
+| 1990 || ''[[Back to the Future Part III]]'' ||{{yes}}|| ||{{yes}}||
+|-
+| 1992 || ''[[Death Becomes Her]]'' ||{{yes}}||{{yes}}|| ||
+|-
+| 1994 || ''[[Forrest Gump]]'' ||{{yes}}|| || ||
+|-
+| 1996 || ''[[The Frighteners]]'' || ||{{yes}}|| ||
+|-
+| 1997 || ''[[Contact (1997 US film)|Contact]]'' ||{{yes}}||{{yes}}|| ||
+|-
+| rowspan="2"| 1999 || ''[[House on Haunted Hill (1999 film)|House on Haunted Hill]]'' || ||{{yes}}|| ||
+|-
+| ''Robert Zemeckis on Smoking, Drinking and Drugging in the 20th Century: The Pursuit of Happiness'' ||{{yes}}|| || || Documentary<ref name=tws2G44ee>{{cite news
+ |first= Andy 
+ |last= Meisler
+ |title= TELEVISION/RADIO; Getting Down to What Makes America High
+ |work= The New York Times
+ |date= August 29, 1999
+ |url= http://www.nytimes.com/1999/08/29/arts/television-radio-getting-down-to-what-makes-america-high.html?src=pm
+ |accessdate= May 7, 2012
+}}</ref>
+|-
+| rowspan="2"| 2000 || ''[[What Lies Beneath]]'' ||{{yes}}||{{yes}}|| ||
+|-
+| ''[[Cast Away]]'' ||{{yes}}||{{yes}}|| ||
+|-
+| 2001 || ''[[Thirteen Ghosts|Thir13en Ghosts]]'' || ||{{yes}}|| ||
+|-
+| 2002 || ''[[Ghost Ship (2002 film)|Ghost Ship]]'' || ||{{yes}}|| ||
+|-
+| rowspan="2"| 2003 || ''[[Matchstick Men]]'' || ||{{yes}}|| ||
+|-
+| ''[[Gothika]]'' || ||{{yes}}|| ||
+|-
+| 2004 || ''[[The Polar Express (film)|The Polar Express]]'' ||{{yes}}||{{yes}}||{{yes}}||
+|-
+| 2005 || ''[[House of Wax (2005 film)|House of Wax]]'' || ||{{yes}}|| ||
+|-
+| 2006 || ''[[Monster House (film)|Monster House]]'' || ||{{yes}}|| ||
+|-
+| rowspan="3"| 2007 || ''[[The Reaping]]'' || ||{{yes}}|| ||
+|-
+| ''[[Beowulf (2007 film)|Beowulf]]'' ||{{yes}}||{{yes}}|| ||
+|-
+| ''[[Return to House on Haunted Hill]]'' || ||{{yes}}|| ||
+|-
+| 2009 || ''[[A Christmas Carol (2009 film)|A Christmas Carol]]'' ||{{yes}}||{{yes}}||{{yes}}||
+|-
+| 2010 || ''[[Behind the Burly Q]]'' || ||{{yes}}|| ||
+|-
+|rowspan="2"| 2011 || ''[[Mars Needs Moms]]'' || ||{{yes}}|| || 
+|-
+| ''[[Real Steel]]'' || ||{{yes}}|| ||
+|-
+|rowspan=2|2012 || ''[[Flight (2012 film)|Flight]]'' ||{{yes}}||{{yes}}|| ||
+|-
+| ''Bound by Flesh'' || ||{{yes}}|| || Documentary
+|-
+|rowspan=1|2015 || ''[[The Walk (2015 film)|The Walk]]'' ||{{yes}}||{{yes}}||{{yes}}||
+|-
+|}
+
+===Television===
+{|class="wikitable" 
+|-
+! Year !! Film !! Notes
+|-
+| 1989–1996 || ''[[Tales from the Crypt (TV series)|Tales from the Crypt]]'' || Executive producer
+|}
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{Commons}}
+*{{IMDb name|709}}
+*{{amg name|117906|Robert Zemeckis}}
+*{{Charlie Rose view|1210}}
+*{{Worldcat id|lccn-n85-376871}}
+*{{NYTtopic|people/z/robert_zemeckis}}
+*{{Nndb|224/000025149}}
+
+{{Robert Zemeckis}}
+{{Navboxes
+| title = Awards for Robert Zemeckis
+| list =
+{{AcademyAwardBestDirector 1981-2000}}
+{{DirectorsGuildofAmericaAwardFeatureFilm 1980-1999}}
+{{Golden Globe Award for Best Director 1991-2015}}
+{{Saturn Award for Best Director}}
+}}
+{{Dark Castle Entertainment}}
+{{Authority control}}
+
+{{Persondata 
+| NAME              = Zemeckis, Robert Lee
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American film director
+| DATE OF BIRTH     = May 14, 1952
+| PLACE OF BIRTH    = Chicago, Illinois, U.S. 
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Zemeckis, Robert}}
+[[Category:1952 births]]
+[[Category:American Cinema Editors]]
+[[Category:American film directors]]
+[[Category:American film directors of Italian descent]]
+[[Category:American film producers]]
+[[Category:American male screenwriters]]
+[[Category:American people of Lithuanian descent]]
+[[Category:Best Director Academy Award winners]]
+[[Category:Best Director Golden Globe winners]]
+[[Category:Living people]]
+[[Category:Writers from Chicago, Illinois]]
+[[Category:Science fiction film directors]]
+[[Category:University of Southern California alumni]]
+[[Category:Directors Guild of America Award winners]]
+[[Category:Fantasy film directors]]
+[[Category:Film directors from Illinois]]
+[[Category:American writers of Italian descent]]
+[[Category:English-language film directors]]
+[[Category:Student Academy Award winners]]

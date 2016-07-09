@@ -1,0 +1,84 @@
+{{other people|David Sharpe}}
+{{Infobox person
+| name                    = Dave Sharpe
+| image                   = Davesharpe001.jpg
+| caption                 = 
+| birth_name               = David Hardin Sharpe
+| birth_date               = {{birth date|1910|02|02}}
+| birth_place              = [[St. Louis, Missouri]], [[United States]]
+| death_date               = {{Death date and age|1980|03|30|1910|02|02}}
+| death_place              = [[Altadena, California]], [[United States]]
+| restingplace            = Cremated
+| restingplacecoordinates = 
+| othername               = 
+| occupation              = [[Stunt performer]]
+| years_active             = 1922-1978
+| spouse                  = Margaret Messinger<br/>Gertrude Messinger<br/>Jean
+| partner                 = 
+| children                = Virginia
+| parents                 =  
+| influences              = 
+| influenced              = 
+| website                 = 
+| academyawards           = 
+| afiawards               = 
+| arielaward              = 
+| baftaawards             = 
+| césarawards             = 
+| emmyawards              = 
+| filmfareawards          = 
+| geminiawards            = 
+| goldenglobeawards       = 
+| goldenraspberryawards   = 
+| goyaawards              = 
+| grammyawards            = 
+| iftaawards              = 
+| laurenceolivierawards   = 
+| naacpimageawards        = 
+| nationalfilmawards      = 
+| sagawards               = 
+| tonyawards              = 
+| awards                  = 
+}}
+'''Dave Sharpe''' (2 February 1910 - 30 March 1980) was an [[United States|American]] [[actor]] and [[stunt performer]].
+
+He was called the "Crown Prince of Daredevils" and ranks alongside [[Yakima Canutt]] as one of Hollywood's all time greatest stuntmen.  He appeared in more than 5,000 films, over six decades, although most were uncredited appearances.
+
+==Biography==
+Sharpe won the [[US National Tumbling Championship]] in 1925 and 1926. He began his film career as a [[child actor]] in the 1920s. He was married for a short time to [[film actress]] [[Gertrude Messinger]].  Eventually he became the "Ramrod" (Stunt co-ordinator) for [[Republic Pictures]] from 1939 until mid-1942 when America entered [[World War II]]. He was replaced in this role by [[Tom Steele (stuntman)|Tom Steele]] while Sharpe joined the [[United States Army Air Corps|Army Air Corps]] in 1943. Gertrude Messinger's brother, Buddy, died in 1965. Dave (Sharpe) married Buddy's widow, Margaret Messinger.
+
+Sharpe was inducted into the [[Stuntman's Hall of Fame]] in 1980.  He died in 1980 of [[Lou Gehrig's disease]]. [[Tony Curtis]] gave the eulogy at his funeral. His ashes were either given to a friend or family.
+
+==External links==
+{{Portal|Biography}}
+* {{IMDb name|0789211}}
+* [http://www.b-westerns.com/sharpe.htm Dave Sharpe at B-Westerns]
+* {{Find a Grave|9982571}}
+
+{{Authority control}}
+
+{{Persondata
+|NAME= Sharpe, Dave
+|ALTERNATIVE NAMES= Sharpe, David Hardin
+|SHORT DESCRIPTION= [[Stunt performer]]
+|DATE OF BIRTH= 2 February 1910
+|PLACE OF BIRTH= [[St. Louis, Missouri]], [[United States]]
+|DATE OF DEATH= 30 March 1980 
+|PLACE OF DEATH= [[Altadena, California]], [[United States]]
+}}
+{{DEFAULTSORT:Sharpe, Dave}}
+[[Category:1910 births]]
+[[Category:1980 deaths]]
+[[Category:Male actors from St. Louis, Missouri]]
+[[Category:American stunt performers]]
+[[Category:American male film actors]]
+[[Category:Male film serial actors]]
+[[Category:Male Western (genre) film actors]]
+[[Category:American male child actors]]
+[[Category:Deaths from motor neurone disease]]
+[[Category:United States Army Air Forces soldiers]]
+[[Category:American military personnel of World War II]]
+[[Category:20th-century American male actors]]
+
+
+{{US-film-actor-1910s-stub}}

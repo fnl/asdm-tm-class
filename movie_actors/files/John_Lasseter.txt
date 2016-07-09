@@ -1,0 +1,540 @@
+{{Use mdy dates|date=May 2015}}
+{{Infobox person
+| name                  = John Lasseter
+| image                 = [[File:John Lasseter 2002.jpg|250px]]
+| caption               = Lasseter in 2002
+| birthname             = John Alan Lasseter
+| birth_date            = {{Birth date and age|1957|01|12}}
+| birth_place           = [[Hollywood]], [[California]], [[United States]]
+| occupation            = Animator<br>Film director <br> Chief Creative Officer, <br> [[Pixar|Pixar Animation Studios]], <br> [[Walt Disney Animation Studios]], <br> [[DisneyToon Studios]]<br>Principal Creative Advisor, <br> [[Walt Disney Imagineering]]
+| alma_mater            = [[Pepperdine University]]<br>[[California Institute of the Arts]]
+| yearsactive           = 1978–present
+| notable_works         = ''[[Luxo Jr.]]'' <br>''[[Toy Story]]'' <br> ''[[A Bug's Life]]'' <br> ''[[Toy Story 2]]'' <br> ''[[Cars (film)|Cars]]'' <br> ''[[Cars 2]]''
+| spouse                = Nancy Lasseter (1988–present)<ref name=Guardian3D>{{cite news|last=O'Connor|first=Stuart|title=How to tell a great toy story|url=http://www.guardian.co.uk/technology/2009/feb/12/interview-john-lasseter-pixar|accessdate=May 11, 2013|newspaper=The Guardian|date=February 12, 2009|quote=I was doing a lot of amateur 3D photography – in 1988, when I got married to my wife Nancy, we took 3D wedding pictures.}}</ref>
+| signature             = John Lasseter signature.svg
+| website               =
+}}
+'''John Alan Lasseter''' (born January 12, 1957) is an<!--awards and nominations don't belong here--> American [[animator]], film director, screenwriter, producer and the [[chief creative officer]] at [[Pixar]], [[Walt Disney Animation Studios]], and [[DisneyToon Studios]]. He is also the Principal Creative Advisor for [[Walt Disney Imagineering]].<ref>{{cite news|last=Grover|first=Ronald|title=The Happiest Place on Earth – Again|url=http://www.businessweek.com/investor/content/mar2006/pi20060310_909483.htm|accessdate=April 20, 2012|newspaper=Bloomberg Businessweek|date=March 10, 2006}}</ref>
+
+Lasseter began his career as an animator with [[The Walt Disney Company]]. After being fired from Disney for promoting [[computer animation]], he joined Lucasfilm, where he worked on the then-groundbreaking use of [[Computer-generated imagery|CGI]] animation. The Graphics Group of the Computer Division of [[Lucasfilm]] was sold to [[Steve Jobs]] and became [[Pixar]] in 1986. Lasseter oversees all of Pixar's films and associated projects as executive producer. In addition, he directed ''[[Toy Story]]'' (1995), ''[[A Bug's Life]]'' (1998), ''[[Toy Story 2]]'' (1999), ''[[Cars (film)|Cars]]'' (2006), and ''[[Cars 2]]'' (2011). Since 2007, he also oversees all of Walt Disney Animation Studios' (and its division, DisneyToon Studios') films and associated projects as executive producer.
+
+He has won two [[Academy Awards]], for [[Academy Award for Animated Short Film|Animated Short Film]] (for ''[[Tin Toy]]''), as well as a [[Academy Special Achievement Award|Special Achievement Award]] (for ''Toy Story'').<ref name="imdb-awards" />
+
+==Early years==
+Lasseter was born in Hollywood, California. His mother, Jewell Mae (née Risley; 1918–2005), was an art teacher at [[Bell Gardens High School]], and his father, Paul Eual Lasseter (1924–2011), was a parts manager at a [[Chevrolet]] [[Car dealership|dealership]].<ref>{{cite news|last=Baillie|first=Russell|title=John Lasseter king of Toon town|url=http://www.nzherald.co.nz/lifestyle/news/article.cfm?c_id=6&objectid=10384751&pnum=3|accessdate=April 20, 2012|newspaper=The New Zealand Herald|date=June 3, 2006}}</ref><ref>{{cite news|title=John Lasseter Addresses Graduating Class at Seaver College Commencement Ceremony|url=http://www.pepperdine.edu/pr/events/2009/april/seaver-graduation-09.htm|accessdate=April 20, 2012|newspaper=Pepperdine University|date=April 2009}}</ref><ref name="ref1">{{cite news|last=|first=|title=Jewell Risley Lasseter|pages=|publisher=The Whittier Daily News|date=November 1, 2005|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=WDNB&p_theme=wdnb&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=10DA5CE4612FE920&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|accessdate=December 15, 2009}}</ref> Lasseter is a fraternal [[twin]]; his sister Johanna Lasseter-Curtis, who became a baker based in the [[Lake Tahoe]] area, is six minutes older.<ref name="Schlender">{{cite news|last=Schlender|first=Brent|title=Pixar's magic man|url=http://money.cnn.com/2006/05/15/magazines/fortune/pixar_futureof_fortune_052906/index.htm|accessdate=April 20, 2012|newspaper=CNN Money|date=May 17, 2006}}</ref><ref>{{cite news|last=Siig|first=Melissa|title=Bake Me a Cupcake: Cake Tahoe brings the cupcake craze to Truckee|url=http://www.moonshineink.com/food/bake-me-cupcake|accessdate=May 8, 2014|newspaper=Moonshine Ink|date=January 11, 2013}}</ref>
+
+Lasseter grew up in [[Whittier, California]]. His mother's profession contributed to his growing preoccupation with animation. He often drew cartoons during church services at the [[Church of Christ]] his family attended. As a child, Lasseter would race home from school to watch [[Chuck Jones]] cartoons on television.  While in high school, he read ''The Art of Animation'' by [[Bob Thomas (reporter)|Bob Thomas]]. The book covered the history of Disney animation and explored the making of Disney's 1959 film ''[[Sleeping Beauty (1959 film)|Sleeping Beauty]]'', which made Lasseter realize he wanted to do animation himself. When he saw Disney's 1963 film ''[[The Sword in the Stone (film)|The Sword in the Stone]]'', he finally made the decision that he should become an animator.<ref>{{cite news|last=McCracken|first=Harry|title=Luxo Sr. – An Interview with John Lasseter|url=http://www.harrymccracken.com/luxo.htm|accessdate=April 20, 2012|newspaper=Animato|year=1990}}</ref>
+
+Lasseter's higher education began at [[Pepperdine University]], which was the alma mater of his parents and his siblings. However, he heard of a new [[character animation]] program at the [[California Institute of the Arts]] (CalArts) and decided to leave Pepperdine to follow his dream of becoming an animator. His mother further encouraged him to take up a career in animation, and in 1975 he enrolled as the second student in the CalArts character animation program created by Disney animators [[Jack Hannah]] and [[T. Hee]]. Lasseter was taught by three members of [[Disney's Nine Old Men]] team of veteran animators – [[Eric Larson]], [[Frank Thomas (animator)|Frank Thomas]] and [[Ollie Johnston]], and his classmates included future animators and directors like [[Brad Bird]], [[John Musker]], [[Henry Selick]], [[Tim Burton]], and [[Chris Buck]].<ref name=ft>{{cite news|last=Garrahan|first=Matthew|title=Lunch with the FT: John Lasseter|url=http://www.ft.com/intl/cms/s/0/d65cc760-e35a-11dd-a5cf-0000779fd2ac.html|accessdate=April 20, 2012|newspaper=Financial Times|date=January 17, 2009}}</ref><ref name="Day">{{cite news|last=Day|first=Aubrey|title=Interview: John Lasseter|url=http://www.totalfilm.com/features/interview-john-lasseter/page:5|accessdate=April 20, 2012|newspaper=Total Film|date=June 3, 2009}}</ref><ref>{{cite news|last1=King|first1=Susan|title=Walt Disney Animation Studios turns 90 in colorful fashion|url=http://articles.latimes.com/2013/dec/10/entertainment/la-et-mn-disney-anniversary-20131210|accessdate=September 2, 2014|work=Los Angeles Times|date=December 10, 2013}}</ref> During his time there, he produced two animated shorts; ''Lady and the Lamp'' (1979) and ''Nitemare'' (1980), which both won the student Academy Award for Animation.<ref>{{cite news|title=Pixar Filmmaker John Lasseter To Receive "Contribution To Cinematic Imagery Award" From Art Directors Guild|url=http://web.archive.org/web/20101205135942/www.pixar.com/companyinfo/press_box/news/20040115-126701.htm|accessdate=April 20, 2012|newspaper=Pixar|date=January 12, 2004}}</ref>
+
+While at CalArts, Lasseter first started working for the Walt Disney Company at [[Disneyland]] in [[Anaheim, California|Anaheim]] during summer breaks, and got a position as a [[Jungle Cruise]] skipper, where he learned the basics of comedy and comic timing to entertain captive audiences on the ride.<ref name="Schlender" /><ref>{{cite news|title=John Lasseter does AM Radio, too?|url=http://www.theblueparrot.info/wabacmachine/The_Blue_Parrots_perch/Entries/2007/2/2_John_Lasseter_does_AM_Radio,_too.html|accessdate=April 20, 2012|newspaper=The Blue Parrot's perch|date=February 2, 2007}}</ref>
+
+==First years at Disney==
+Upon graduating in 1979, Lasseter immediately obtained a job as an animator at [[Walt Disney Animation Studios|Walt Disney Feature Animation]] on the basis of his early success with ''Lady and the Lamp''.<ref name="Getlin">{{cite news|last1=Getlin|first1=Josh|title=Fate Of Next 'Snow White' Rests In CalArts' Hands|work=Los Angeles Times|publisher=Times Mirror Company|date=October 21, 1979|pages=V1-V4}} (Available through [[ProQuest]] Historical Newsstand.)</ref>  To put that in perspective, the studio had reviewed approximately 10,000 portfolios in the late 1970s in search of talent, then selected only about 150 candidates as apprentices, of which only about 45 were kept on permanently.<ref name="Getlin" /> In the fall of 1979, Disney animator [[Mel Shaw]] told the ''[[Los Angeles Times]]'', "John's got an instinctive feel for character and movement and shows every indication of blossoming here at our studios ... In time he'll make a fine contribution."<ref name="Getlin" />
+
+However, Lasseter soon realized something was missing; after ''[[One Hundred and One Dalmatians|101 Dalmatians]]'', which in his opinion was the film where Disney had reached its highest plateau, the studio had lost momentum and was criticized for often repeating itself without adding any new ideas or innovations.<ref name="awm-lasseter">{{cite web |last=Lyons |first=Mike |title=Toon Story: John Lasseter's Animated Life |url=http://www.awn.com/mag/issue3.8/3.8pages/3.8lyonslasseter.html |work=Animation World Magazine |accessdate=October 13, 2010|date=November 1998 }}</ref><ref>{{cite news|last=Lazarus|first=David|title=A deal bound to happen|url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/01/25/BUGA6GSFUO1.DTL&type=printable|accessdate=April 20, 2012|newspaper=SFGate.com|date=January 25, 2006}}</ref>  In 1980 or 1981, he coincidentally came across some video tapes from one of the then new computer-graphics conferences, who showed some of the very beginnings of computer animation, primarily floating spheres and such, which he experienced as a revelation.<ref name="Schlender" /> But it wasn't until shortly after, when he was invited by his friends [[Jerry Rees]] and [[Bill Kroyer]], while working on ''[[Mickey's Christmas Carol]]'', to come and see the first lightcycle sequences for an upcoming film entitled ''[[Tron]]'', featuring (then) state-of-the-art [[computer generated imagery]], that he really saw the huge potential of this new technology in animation. Up to that time, the studio had used a [[multiplane camera]] to add depth to its animation. Lasseter realized that computers could be used to make films with three-dimensional backgrounds where traditionally animated characters could interact to add a new level of visually stunning depth that had not been possible before.  He knew adding dimension to animation had been a longtime dream of animators, going back to [[Walt Disney]] himself.<ref name="Schlender" />
+
+Later, he and [[Glen Keane]] talked about how great it would be to make an animated feature where the background was computer animated, and then showed Keane the book ''[[The Brave Little Toaster]]'' by [[Thomas Disch]], which he thought would be a good candidate for the film. Keane agreed, but first they decided to do a short test film to see how it worked out, and chose ''[[Where the Wild Things Are]]'', a decision based on the fact that Disney had considered producing a feature based on the works of [[Maurice Sendak]]. Satisfied with the result, Lasseter, Keane and executive Thomas L. Wilhite went on with the project, especially Lasseter who dedicated himself to it, while Keane eventually went on to work with ''[[The Great Mouse Detective]]''.<ref>{{cite news|last=Ghez|first=Didier|title=Interview with Glen Keane|url=http://www.pizarro.net/didier/_private/interviu/Keane.html|accessdate=April 20, 2012|newspaper=The Ultimate Disney Books Network|date=May 2, 1997}}</ref>
+
+Lasseter and his colleagues unknowingly stepped on some of their direct superiors' toes by circumventing them in their enthusiasm to get the project into motion. During a pitch meeting for the film to two of them, animation administrator Ed Hansen, and head of Disney studios, [[Ron W. Miller]], the project was cancelled, due to lack of perceived cost benefits for the mix of traditional and computer animation.<ref>{{cite news|last=Hill|first=Jim|title="To Infinity and Beyond!" is an entertaining look back at Pixar's first two decades|url=http://jimhillmedia.com/editor_in_chief1/b/jim_hill/archive/2007/11/29/to-infinity-and-beyond-is-an-entertaining-look-back-at-pixar-s-first-two-decades.aspx|accessdate=April 20, 2012|newspaper=Jim Hill Media|date=November 28, 2007}}</ref> A few minutes after the meeting, Lasseter was summoned by Hansen to his office. As Lasseter recalled, Hansen told him, "Well, John, your project is now complete, so your employment with the Disney Studios is now terminated."<ref name="Paik">{{cite book|last=Paik|first=Karen|title=To Infinity and Beyond!: The Story of Pixar Animation Studios|date=2007|publisher=Chronicle Books|location=San Francisco|isbn=9780811850124}}</ref>{{rp|40}} Wilhite was able to arrange to keep Lasseter around temporarily until the ''Wild Things'' test project was complete in January 1984, but with the understanding there would be no further work for Lasseter at Disney Animation.<ref name="Paik" />{{rp|40}}  ''The Brave Little Toaster'' would later become [[The Brave Little Toaster (film)|a 2D animated feature film]] directed by one of Lasseter's friends, [[Jerry Rees]], and co-produced by Wilhite (whom by then had left to start [[Hyperion Pictures]]), and some of the staff of Pixar would be involved in the film alongside Lasseter.
+
+==Lucasfilm/Pixar==
+[[File:George Lucas 66ème Festival de Venise (Mostra).jpg|thumb|left|John Lasseter with [[George Lucas]] at the [[Venice Film Festival]] in [[66th Venice International Film Festival|2009]].]]
+
+While putting together a crew for the planned feature, Lasseter had made some contacts in the computer industry, among them [[Alvy Ray Smith]] and [[Ed Catmull]] at [[Pixar|Lucasfilm Computer Graphics Group]]. After being fired, and feeling glum knowing his employment with Disney was to end shortly,<ref name="Paik" />{{rp|40}} Lasseter visited a computer graphics conference in November 1983 at the ''[[RMS Queen Mary|Queen Mary]]'' in [[Long Beach, California|Long Beach]], where he met and talked to Catmull again.<ref name="Price">{{cite book|last=Price|first=David A.|title=The Pixar Touch: The Making of a Company|date=2009|publisher=Vintage Books|location=New York|isbn=9780307278296}}</ref>{{rp|45}} Catmull inquired about ''The Brave Little Toaster'', which Lasseter explained had been shelved.<ref name="Schlender" /><ref name="Paik" />{{rp|40}} From his experience at Lucasfilm, Catmull assumed Lasseter was simply between projects, since Hollywood studios have traditionally laid off people whenever they don't have enough movies in progress to keep them busy.<ref name="Price" />{{rp|45}} Still devastated at being forced out of the only company he had ever wanted to work for, Lasseter couldn't find the strength to tell Catmull that he had been fired.<ref name="Schlender" /><ref name="Price" />{{rp|45}}
+
+Catmull later telephoned Smith that day and mentioned Lasseter was not working at Disney. Smith told Catmull to put down the phone and hire Lasseter right now.<ref name="Price" />{{rp|45}} Before the day was over, Lasseter had made a deal to work freelance with Catmull and his colleagues on a project that resulted in their first computer animated short: ''[[The Adventures of André and Wally B.]]'' Because Catmull was not allowed to hire animators, he was given the title "Interface Designer";<ref>{{cite book|last=M. Buckley|first=A.|title=Pixar: The Company and Its Founders|url=http://books.google.si/books?id=YenH2ahvGvcC&pg=PA27&lpg=PA27&dq=A.+M.+Buckley+Interface+Designer&source=bl&ots=ATxey6IdFn&sig=-GlxgfylA6d-0GLsz6P5YkzXjbc&hl=en&ei=wnqcTqX6KuPm4QSThajMCg&sa=X&oi=book_result&ct=result&redir_esc=y#v=onepage&q&f=false|publisher=Google Books|accessdate=April 20, 2012|page=27}}</ref> "Nobody knew what that was but they didn't question it in budget meetings".<ref name="Day" /> Lasseter spent a lot of time at Lucasfilm in the [[San Francisco Bay Area]] in the spring of 1984, where he worked together closely with Catmull and his team of computer science researchers.<ref name="Paik" />{{rp|40–41}}  Lasseter learned how to use some of their software, and in turn, he taught the computer scientists about filmmaking, animation, and art.<ref name="Paik" />{{rp|40–41}}  The short turned out to be more revolutionary than Lasseter first had visualized before he came to Lucasfilm. His original idea had been to create only the backgrounds on computers, but in the final short everything was computer animated, including the characters.
+
+After the short CGI film was presented at [[SIGGRAPH]] in the summer of 1984, Lasseter returned to Los Angeles with the hope of directing ''The Brave Little Toaster'' at Hyperion Pictures.<ref name="Paik" />{{rp|45}}  He soon learned that funding had fallen through and called Catmull with the bad news.<ref name="Paik" />{{rp|45}}  Catmull called back with a job offer, and Lasseter joined Lucasfilm as a full-time employee in October 1984 and moved to the Bay Area.<ref name="Paik" />{{rp|45}} Lasseter and Catmull's collaboration, which has since lasted over thirty years, would ultimately result in ''[[Toy Story]]'' (1995), which was the first-ever computer-animated [[feature film]].
+
+Due to [[George Lucas]]'s financially crippling divorce, he was forced to sell off Lucasfilm Computer Graphics, by this time renamed the Pixar Graphics Group. It was spun off as a separate corporation with [[Steve Jobs]] as its majority shareholder in 1986. Over the next 10 years, Pixar evolved from a computer company that did animation work on the side into an animation studio.  Lasseter oversees all of Pixar's films and associated projects as executive producer.  As well as ''Toy Story'', he also personally directed ''[[A Bug's Life]]'' (1998), ''[[Toy Story 2]]'' (1999), ''[[Cars (film)|Cars]]'' (2006), and ''[[Cars 2]]'' (2011).
+
+He has won two [[Academy Awards]], for [[Academy Award for Animated Short Film|Animated Short Film]] (''Tin Toy''), as well as a [[Academy Special Achievement Award|Special Achievement Award]] (''Toy Story'').<ref name="imdb-awards">{{cite web|url=http://www.imdb.com/name/nm0005124/awards|title=John Lasseter – Awards|author=IMDb|authorlink=Internet Movie Database}}</ref> Lasseter has been nominated on four other occasions – in the category of [[Academy Award for Best Animated Feature|Animated Feature]], for both ''[[Monsters, Inc.]]'' (2001) and ''Cars'', in the [[Academy Award for Writing Original Screenplay|Original Screenplay]] category for ''Toy Story'' and in the Animated Short category for ''[[Luxo, Jr.]]'' (1986), while the short ''[[Knick Knack]]'' (1989) was selected by [[Terry Gilliam]] as one of the ten best animated films of all time.<ref name="The Guardian">{{cite web| last=Gilliam | first=Terry | title=Terry Gilliam Picks the Ten Best Animated Films of All Time | publisher=The Guardian | date=April 27, 2001 | url=http://film.guardian.co.uk/features/featurepages/0,,479022,00.html }}</ref> In 2008, he was honored with the [[Winsor McCay Award]], the lifetime achievement award for animators.
+
+Lasseter received a star on the [[Hollywood Walk of Fame]] in Hollywood on November 1, 2011. It is located at 6834 Hollywood Boulevard.<ref>{{cite news|last=Sperling|first=Nicole|title=John Lasseter receives star on the Hollywood Walk of Fame|url=http://latimesblogs.latimes.com/movies/2011/11/john-lasseter-receives-star-on-the-walk-of-fame.html|accessdate=April 20, 2012|newspaper=Los Angeles Times|date=November 1, 2011}}</ref>
+
+Lasseter was also the recipient of the [[Austin Film Festival]]'s 2011 Extraordinary Contribution to Filmmaking Award.
+
+Lasseter is a member of the [[Academy of Motion Picture Arts and Sciences]] and served nine consecutive years on its board of governors from 2005 to 2014 when he had to relinquish his seat due to term limits.<ref name="Kilday">{{cite news|last1=Kilday|first1=Gregg|title=Academy: Cheryl Boone Isaacs Reelected as President|url=http://www.hollywoodreporter.com/news/academy-cheryl-boone-isaacs-reelected-723649|accessdate=August 11, 2014|work=The Hollywood Reporter|publisher=Prometheus Global Media LLC|date=August 5, 2014}}</ref>  His last position on the board was as first vice president.<ref name="Kilday" />
+
+== Return to Disney ==
+Disney announced that it would be purchasing Pixar on January 24, 2006, and Lasseter was named chief creative officer of both Pixar and Walt Disney Feature Animation, the latter of which he renamed [[Walt Disney Animation Studios]].<ref name="Day" /> On January 25, 2006, Lasseter was welcomed by his new employees in Burbank with warm applause, as they hoped that he could save the studio from which he had been fired 22 years earlier.<ref name="Price" />{{rp|253–254}} Lasseter was also named principal creative adviser at [[Walt Disney Imagineering]], where he helps design attractions for [[Walt Disney Parks and Resorts|Disney Parks]]. Since 2007, he oversees all of Walt Disney Animation Studios' films and associated projects as executive producer. He reports directly to Disney Chairman and CEO [[Bob Iger|Robert Iger]], bypassing Disney's studio and theme park executives. He also received green-light power on films with [[Roy E. Disney]]'s consent.
+
+In December 2006, Lasseter announced that Disney Animation will start producing animated shorts that will be released theatrically once more. Lasseter said he sees this medium as an excellent way to train and discover new talent in the company as well as a testing ground for new techniques and ideas. The shorts will be in 2D, CGI or a combination of both.<ref>{{cite news|last=Solomon|first=Charles|title=Disney tries out new talent in an old form, the cartoon short – Business – International Herald Tribune|url=http://www.nytimes.com/2006/12/03/business/worldbusiness/03iht-disney.3755522.html?_r=1|accessdate=April 20, 2012|newspaper=The New York Times|date=December 3, 2006}}</ref> Recent shorts have included ''[[Get a Horse!]]'' (2013) and ''[[Feast (2014 film)|Feast]]'' (2014).
+
+In June 2007, Catmull and Lasseter were given control of [[DisneyToon Studios]], a division of Walt Disney Animation Studios housed in a separate facility in Glendale.  Since then, as president and chief creative officer, respectively, they have supervised three separate studios for Disney, each with its own production pipeline: Pixar, Disney Animation, and DisneyToon.  While Disney Animation and DisneyToon are located in the Los Angeles area, Pixar is located over 350 miles (563 kilometers) northwest in the Bay Area, where Catmull and Lasseter both live. Since they could not be physically present at all three studios at once, they appointed a [[general manager]] for each studio to manage day-to-day business affairs, then established a routine of spending at least two days per week (usually Tuesdays and Wednesdays) in Southern California.<ref>{{cite news|last1=Lev-Ram|first1=Michal|title=A candid conversation with Pixar's philosopher-king, Ed Catmull|url=http://fortune.com/2014/12/31/pixar-head-ed-catmull/|accessdate=January 11, 2015|work=Fortune|publisher=Time Inc.|date=December 31, 2014}}</ref>
+
+Lasseter is a close friend and admirer of Japanese animator [[Hayao Miyazaki]], whom he first met when [[TMS Entertainment]] sent a delegation of animators to the Disney studio in 1981 and showed a clip from Miyazaki's first feature film, ''[[The Castle of Cagliostro]]'' (1979).<ref name="Brzeski">{{cite news|last1=Brzeski|first1=Patrick|title=John Lasseter Pays Emotional Tribute to Hayao Miyazaki at Tokyo Film Festival|url=http://www.hollywoodreporter.com/news/john-lasseter-pays-emotional-tribute-743635|accessdate=November 10, 2014|work=The Hollywood Reporter|publisher=Prometheus Global Media|date=October 24, 2014}}</ref> Lasseter was so deeply moved that in 1985 he insisted on showing that clip and other examples of Miyazaki's work after dinner to a woman he had just met (who would become his wife).<ref name="Brzeski" />  He visited Miyazaki during his first trip to Japan in 1987, and saw drawings for ''[[My Neighbor Totoro]]'' (1988).<ref name="Brzeski" />  After Lasseter became a successful director and producer at Pixar, he went on to serve as executive producer on several of Miyazaki's films for their release in the United States, and oversaw the translation and [[Dubbing (filmmaking)|dubbing]] of their English language soundtracks.<ref name="Brzeski" /> The gentle forest spirit Totoro from ''My Neighbor Totoro'' makes an appearance as a plush toy in ''[[Toy Story 3|Toy&nbsp;Story&nbsp;3]]''.
+
+==Other work==
+[[File:Annie Awards johnlasseter and wife brighter.jpg|thumb|right|upright|John Lasseter with his wife Nancy Lasseter at the 2006 [[Annie Awards]] red carpet at the [[Alex Theatre]] in [[Glendale, California]].]]
+Lasseter drew the most widely known versions of the [[BSD Daemon]], a cartoon mascot for the [[BSD Unix]] [[operating system]].<ref>{{cite web|title=The BSD Daemon|url=http://www.freebsd.org/copyright/daemon.html|publisher=FreeBSD|accessdate=April 20, 2012}}</ref>
+
+Lasseter owns the "Marie E." [[steam locomotive]], a H.K. Porter [[0-4-0]]ST saddle tank locomotive formerly owned by one of Walt Disney's "[[Disney's Nine Old Men|Nine Old Men]]", [[Ollie Johnston]]. The locomotive has made two visits to the [[Pacific Coast Railroad (tourist)|Pacific Coast Railroad]] in [[Santa Margarita, CA]] in May 2007 and June 2010, where Lasseter ran the locomotive alongside the original Santa Fe & [[Disneyland Railroad]] "Retlaw 1" coaches.<ref>{{cite web|author=Pcrailroad at Gmail.Com |url=http://pcrailroad.blogspot.com/2007/05/2007-round-up.html |title=Pacific Coast Railroad Co.: The 2007 Round-Up |publisher=Pcrailroad.blogspot.com |date=May 14, 2007 |accessdate=December 31, 2010}}</ref>  In 2005, Lasseter was given permission to bring the Marie E. to Disneyland as part of a celebration honoring Johnston.  Johnston was able to take the locomotive around the Disneyland Railroad three times.  This is the only time in history an outside locomotive has been permitted to operate on any of the Disney railroads.<ref>{{cite web|title=Ollie Johnston and the Marie E.|url=https://www.youtube.com/watch?v=fvK4UE_4xTg|publisher=MankinVegas|accessdate=May 14, 2013}}</ref>
+
+==Personal life==
+Lasseter lives in [[Glen Ellen, California]] with his wife Nancy, a graduate of [[Carnegie Mellon University]], whom he met at a computer graphics conference. Nancy majored in computer graphics applications, and worked for a while as a household engineer and a computer graphics engineer at [[Apple Inc.|Apple Computer]].<ref name=SATrustees /> They married in 1988,<ref name=Guardian3D /> and have five sons,<ref name=SATrustees>{{cite web|title=Trustees of Sonoma Academy 2011–12|url=http://www.sonomaacademy.org/about-us/trustees/index.aspx|publisher=Sonoma Academy|accessdate=December 25, 2013}}</ref><ref name=SKDayLife>{{cite news|title=VIDEO: ‘A Day in the Life of John Lasseter’  Read more: VIDEO: ‘A Day in the Life of John Lasseter’|url=http://www.stitchkingdom.com/disney-video-a-day-life-john-lasseter-16887/|accessdate=March 8, 2012|newspaper=Stitch Kingdom|date=July 12, 2011}}</ref> born between {{Birth based on age as of date|18|1998|11|23|noage=1}} and 1997.<ref name=SFGateGeneration>{{cite news|last=Swartz|first=Jon|title=Pixar's Lasseter – This Generation's Walt Disney|url=http://www.sfgate.com/business/article/Pixar-s-Lasseter-This-Generation-s-Walt-Disney-2976893.php|accessdate=December 25, 2013|newspaper=SFGate|date=November 23, 1998|quote=Lasseter says he depends heavily on his and wife Nancy's "own test audience" of five sons – ages 16 months to 18.}}</ref>
+
+The Lasseters own [[Lasseter Family Winery]] in Glen Ellen, California.<ref>{{cite news|last=Boone|first=Virginie|title=Lasseter winery coming into its own|url=http://www.pressdemocrat.com/article/20110926/LIFESTYLE/110929716/1309?p=all&tc=pgall|accessdate=October 7, 2011|newspaper=The Press Democrat|date=September 26, 2011}}</ref> Their residence has a narrow-gauge railroad (for the aforementioned locomotive) and a swimming pool with a lazy river that runs through a cave.<ref name="Roper">{{cite news|last1=Roper|first1=Caitlin|title=Big Hero 6 Proves It: Pixar’s Gurus Have Brought the Magic Back to Disney Animation|url=http://www.wired.com/2014/10/big-hero-6/|accessdate=November 9, 2014|work=Wired|publisher=Condé Nast|date=October 21, 2014}}</ref>  Lasseter owns a collection of more than 1,000 [[Aloha shirt|Hawaiian shirts]] and wears one every day.<ref name="Roper" /> Naturally, Lasseter also inherited his late father's passion for cars; besides having directed two films about them, he watches auto races at [[Sonoma Raceway]] near his home and collects [[classic car]]s, of which one of his favorites is his black 1952 [[Jaguar XK120]].<ref>{{cite news|last1=Keegan|first1=Rebecca|title=Animated -- and driven: For John Lasseter, Pixar's boyish visionary, 'Cars 2' is a gearhead's dream|url=http://articles.latimes.com/2011/jun/19/entertainment/la-ca-pixar-20110619|accessdate=November 19, 2014|work=Los Angeles Times|publisher=Tribune Publishing Company|date=June 19, 2011}}</ref>
+
+On May 2, 2009, Lasseter received an honorary doctorate from [[Pepperdine University]].<ref>{{cite news | url=http://www.pepperdine.edu/pr/events/2009/april/seaver-graduation-09.htm | title=John Lasseter Addresses Graduating Class at Seaver College Commencement Ceremony | publisher=[[Pepperdine University]] | date=April 2009 | accessdate=June 9, 2011}}</ref> He delivered a commencement address in which he encouraged the graduating class of more than 500 students never to let anyone tarnish their dreams.
+
+His influences include [[Walt Disney]], [[Chuck Jones]], [[Frank Capra]] and [[Preston Sturges]].<ref>{{cite web |url= http://artsbeat.blogs.nytimes.com/2011/11/01/pixars-john-lasseter-answers-your-questions/?_php=true&_type=blogs&_r=0/ |author= Goodman, Stephanie |date= November 1, 2011 |title= 'Pixar’s John Lasseter Answers Your Questions' |publisher= [[Arts Beat]] |accessdate= February 20, 2014}}</ref>
+{{-}}
+
+==Filmography==
+
+===Feature films===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1981
+| ''[[The Fox and the Hound]]''
+|
+| [[Inbetweening|inbetweener]] (uncredited)
+|-
+| 1985
+| ''[[Young Sherlock Holmes]]''
+|
+| computer animation: ILM
+|-
+| 1987
+| ''[[The Brave Little Toaster (film)|The Brave Little Toaster]]''
+|
+| story artist
+|-
+| 1991
+| ''[[Beauty and the Beast (1991 film)|Beauty and the Beast]]''
+|
+| executive producer: 3D version
+|-
+| 1992
+| ''[[Porco Rosso]]''
+|
+| executive creative consultant: US version
+|-
+| 1995
+| ''[[Toy Story]]''
+|Green Alien (on helium)
+| director/story/modeling & animation system development
+|-
+| 1998
+| ''[[A Bug's Life]]''
+| Harry the Fly
+| director/story
+|-
+| 1999
+| ''[[Toy Story 2]]''
+| Blue Rock 'Em Sock 'Em Robot
+| director/story
+|-
+| 2000
+| ''[[Buzz Lightyear of Star Command: The Adventure Begins]]''
+|
+| characters
+|-
+| 2001
+| ''[[Monsters, Inc.]]''
+|
+| executive producer
+|-
+| 2002
+| ''[[Spirited Away]]''
+|
+| executive producer: US version
+|-
+| 2003
+| ''[[Finding Nemo]]''
+|
+| executive producer
+|-
+| 2004
+| ''[[The Incredibles]]''
+|
+| executive producer
+|-
+| 2005
+| ''[[Howl's Moving Castle (film)|Howl's Moving Castle]]''
+|
+| executive producer: US version
+|-
+|rowspan="2"| 2006
+| ''[[Cars (film)|Cars]]''
+|
+| director/story/screenplay
+|-
+| ''[[Tales from Earthsea (film)|Tales from Earthsea]]''
+|
+| executive producer: US<ref name=THREarthsea>{{cite news|last=Honeycutt|first=Kirk|title=Tales From Earthsea – Film Review|url=http://www.hollywoodreporter.com/review/tales-earthsea-film-review-29875|accessdate=December 27, 2013|newspaper=The Hollywood Reporter|date=October 14, 2010}}</ref>
+|-
+|rowspan="2"| 2007
+| ''[[Meet the Robinsons]]''
+|
+| executive producer
+|-
+| ''[[Ratatouille (film)|Ratatouille]]''
+|
+| executive producer
+|-
+|rowspan="3"| 2008
+| ''[[WALL-E]]''
+|
+| executive producer
+|-
+| ''[[Tinker Bell (film)|Tinker Bell]]''
+|
+| executive producer
+|-
+| ''[[Bolt (2008 film)|Bolt]]''
+|
+| executive producer
+|-
+|rowspan="4"| 2009
+| ''[[Up (2009 film)|Up]]''
+|
+| executive producer/senior creative team: Pixar
+|-
+| ''[[Ponyo]]''
+|
+| executive producer: US, Director: English Dub
+|-
+| ''[[Tinker Bell and the Lost Treasure]]''
+|
+| executive producer
+|-
+| ''[[The Princess and the Frog]]''
+|
+| executive producer
+|-
+|rowspan="3"| 2010
+| ''[[Toy Story 3]]''
+|
+| story/executive producer/senior creative team: Pixar
+|-
+| ''[[Tinker Bell and the Great Fairy Rescue]]''
+|
+| executive producer
+|-
+| ''[[Tangled]]''
+|
+| executive producer
+|-
+|rowspan="3"| 2011
+| ''[[Cars 2]]''
+| John Lassetire
+| director/story/characters
+|-
+| ''[[Winnie the Pooh (2011 film)|Winnie the Pooh]]''
+|
+| executive producer
+|-
+| ''[[The Muppets (film)|The Muppets]]''
+|
+| creative consultant<ref name="The Hollywood Reporter">{{cite news|last=Kit|first=Borys|title=Disney Picks Pixar Brains for Muppets Movie|url=http://www.hollywoodreporter.com/news/disney-picks-pixar-brains-muppets-25821|accessdate=November 24, 2011|newspaper=The Hollywood Reporter|date=October 14, 2010}}</ref>
+|-
+|rowspan="3"| 2012
+| ''[[Brave (2012 film)|Brave]]''
+|
+| executive producer
+|-
+| ''[[Secret of the Wings]]''
+|
+| executive producer
+|-
+| ''[[Wreck-It Ralph]]''
+|
+| executive producer
+|-
+|rowspan="3"| 2013
+| ''[[Monsters University]]''
+|
+| executive producer
+|-
+| ''[[Planes (film)|Planes]]''
+|
+| story/executive producer
+|-
+| ''[[Frozen (2013 film)|Frozen]]''
+|
+| executive producer
+|-
+|rowspan="3"| 2014
+| ''[[The Pirate Fairy]]''
+|
+| story/executive producer
+|-
+| ''[[Planes: Fire & Rescue]]''
+|
+| executive producer
+|-
+| ''[[Big Hero 6 (film)|Big Hero 6]]''
+|
+| executive producer
+|-
+|rowspan="3"| 2015
+| ''[[Tinker Bell and the Legend of the NeverBeast]]''
+|
+| executive producer
+|- 
+| ''[[Inside Out (2015 film)|Inside Out]]''
+|
+| executive producer
+|-
+| ''[[The Good Dinosaur]]''
+|
+| executive producer
+|-
+|rowspan="3"| 2016
+| ''[[Zootopia]]''
+|
+| executive producer
+|-
+| ''[[Finding Dory]]''
+|
+| executive producer
+|-
+| ''[[List of Walt Disney Animation Studios films#Moana|Moana]]''
+|
+| executive producer
+|-
+| 2017
+| ''[[Toy Story 4]]''
+|
+| director/story
+|}
+
+===Short films===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Notes
+|-
+| 1983
+| ''[[Mickey's Christmas Carol]]''
+| creative talent
+|-
+| 1984
+| ''[[The Adventures of André and Wally B.]]''
+| character design and animation, models: André/Wally B.
+|-
+| 1986
+| ''[[Luxo Jr.]]''
+| writer, director, producer, models, animation
+|-
+| 1987
+| ''[[Red's Dream]]''
+| writer, director, animator
+|-
+| 1988
+| ''[[Tin Toy]]''
+| story, director, animator, modeler
+|-
+| 1989
+| ''[[Knick Knack]]''
+| writer, director
+|-
+| 1997
+| ''[[Geri's Game]]''
+| executive producer
+|-
+| 2000
+| ''[[For the Birds (film)|For the Birds]]''
+| executive producer
+|-
+| 2002
+| ''[[Mike's New Car]]''
+| executive producer
+|-
+| rowspan="2" | 2003
+| ''[[Exploring the Reef]]''
+| executive producer
+|-
+| ''[[Boundin']]''
+| executive producer
+|-
+| rowspan="2" | 2005
+| ''[[Jack-Jack Attack]]''
+| executive producer
+|-
+| ''[[One Man Band (film)|One Man Band]]''
+| executive producer
+|-
+| rowspan="2" | 2006
+| ''[[Mater and the Ghostlight]]''
+| original story, director
+|-
+| ''[[Lifted (2006 film)|Lifted]]''
+| executive producer
+|-
+| rowspan="2" | 2007
+| ''[[How to Hook Up Your Home Theater]]''
+| executive producer
+|-
+| ''[[Your Friend the Rat]]''
+| executive producer
+|-
+| rowspan="3" | 2008
+| ''[[Presto (film)|Presto]]''
+| executive producer
+|-
+| ''[[Glago's Guest]]''
+| executive producer
+|-
+| ''[[BURN-E]]''
+| executive producer
+|-
+| 2008–present
+| ''[[Cars Toons]]''
+| director, executive producer
+|-
+| rowspan="4" | 2009
+| ''[[Super Rhino]]''
+| executive producer
+|-
+| ''[[Partly Cloudy]]''
+| executive producer
+|-
+| ''[[Dug's Special Mission]]''
+| executive producer
+|-
+| ''[[Prep & Landing]]''
+| executive producer
+|-
+| rowspan="2" | 2010
+| ''[[Day & Night (2010 film)|Day & Night]]''
+| executive producer
+|-
+| ''[[Prep & Landing: Operation: Secret Santa]]''
+| executive producer
+|-
+| rowspan="6" | 2011
+| ''[[Prep & Landing: Naughty vs. Nice]]''<ref name=ABC>{{cite news|title="PREP & LANDING: NAUGHTY VS. NICE," PRODUCED BY WALT DISNEY ANIMATION STUDIOS, AIRS MONDAY, DECEMBER 5 ON THE ABC TELEVISION NETWORK|url=http://www.abcmedianet.com/web/showpage/showpage.aspx?program_id=003359&type=lead|accessdate=November 12, 2011|newspaper=ABC Medianet}}</ref>
+| executive producer
+|-
+| ''[[La Luna (2011 film)|La Luna]]''
+| executive producer
+|-
+| ''[[The Ballad of Nessie]]''
+| executive producer
+|-
+| ''[[Hawaiian Vacation]]''
+| executive producer
+|-
+| ''[[Pixie Hollow Games]]''
+| executive producer
+|-
+| ''[[Small Fry (film)|Small Fry]]''
+| story/executive producer
+|-
+| rowspan="4" | 2012
+| ''[[Tangled Ever After]]''
+| executive producer
+|-
+| ''[[Partysaurus Rex]]''
+| story/executive producer
+|-
+| ''[[Paperman]]''
+| executive producer
+|-
+| ''[[The Legend of Mor'du]]''
+| executive producer
+|-
+| rowspan="5" | 2013
+| ''[[The Blue Umbrella (2013 film)|The Blue Umbrella]]''
+| executive producer
+|-
+| ''[[Party Central]]''
+| executive producer
+|- 
+| ''[[Toy Story of Terror!]]''
+| executive producer
+|-
+| ''[[Tinker Bell (film series)#Pixie Hollow Bake Off|Pixie Hollow Bake Off]]''
+| executive producer
+|-
+| ''[[Get a Horse!]]''
+| executive producer
+|-
+| rowspan="3" | 2014
+|''[[Planes: Fire & Rescue#Home media|Vitaminamulch: Air Spectacular]]''
+| executive producer
+|- 
+|''[[Feast (2014 film)|Feast]]''<ref>{{cite news|title=Walt Disney Animation Studios' 'Feast' to Premiere at the Annecy International Animated Film Festival|url=https://thewaltdisneycompany.com/blog/walt-disney-animation-studios-feast-premiere-annecy-international-animated-film-festival|accessdate=April 24, 2014|newspaper=Disney Post|date=April 24, 2014}}</ref>
+| executive producer
+|-
+|''[[Toy Story That Time Forgot]]''
+| executive producer
+|-
+| rowspan="3" | 2015
+|''[[Frozen Fever]]''<ref>{{cite news|last=Graser|first=Marc|title=‘Frozen’ Characters to Return in ‘Frozen Fever’ Animated Short|url=http://variety.com/2014/film/news/disney-frozen-characters-to-return-in-frozen-fever-animated-short-1201296499/|publisher=Variety|accessdate=September 2, 2014|date=September 2, 2014}}</ref>
+| executive producer
+|-
+| ''[[Lava (2014 film)|Lava]]''<ref>{{cite news|last=Koch|first=Dave|title=Inside Out Adds Animated Short|url=http://blog.bcdb.com/adds-animated-short-7714/|publisher=Big Cartoon News|accessdate=June 20, 2014|date=June 20, 2014}}</ref>
+| executive producer
+|-
+|''[[Sanjay's Super Team]]''
+| executive producer
+|}
+
+==See also==
+*[[List of Pixar films]]
+*[[List of Pixar shorts]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{commons category}}
+*{{IMDb name|5124}}
+*Richard Verrier and Dawn C. Chmielewski, [http://pqasb.pqarchiver.com/latimes/access/975435471.html?dids=975435471:975435471&FMT=ABS&FMTS=ABS:FT&type=current&date=Jan+25%2C+2006&author=Richard+Verrier+and+Dawn+C.+Chmielewski&pub=Los+Angeles+Times&edition=&startpage=A.1&desc=Fabled+Film+Company+May+Get+a+Reanimator Fabled Film Company May Get a Reanimator], ''[[Los Angeles Times]]'', January 25, 2006
+*[http://money.cnn.com/2006/05/15/magazines/fortune/pixar_futureof_fortune_052906/index.htm Fortune Magazine interview with John Lasseter] – includes biographic information
+*[http://www.kcrw.com/etc/programs/tt/tt040218john_lasseter_and_an KCRW's The Treatment: John Lasseter and Andrew Stanton (02/04)]
+*[http://www.kcrw.com/etc/programs/tt/tt060607john_lasseter KCRW's The Treatment: John Lasseter (06/06)]
+
+{{John Lasseter}}
+{{Pixar Animation Studios}}
+{{Walt Disney Animation Studios}}
+{{Walt Disney Studios}}
+{{Navboxes
+|title = Awards for John Lasseter
+|list =
+{{Annie Award for Directing in an Animated Feature Production 1996–2010}}
+{{Annie Award for Writing in a Feature Production 1996–2010}}
+{{BAFTA Los Angeles Britannia Awards}}
+{{Golden Globe Award for Best Animated Feature Film}}
+}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Lasseter, John
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American animator
+| DATE OF BIRTH     = 1957-01-12
+| PLACE OF BIRTH    = Hollywood, California, USA
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Lasseter, John}}
+[[Category:1957 births]]
+[[Category:American animators]]
+[[Category:American film directors]]
+[[Category:American male screenwriters]]
+[[Category:Animated film directors]]
+[[Category:California Institute of the Arts alumni]]
+[[Category:Directors of Best Animated Short Academy Award winners]]
+[[Category:Disney people]]
+[[Category:Living people]]
+[[Category:People from Hollywood, Los Angeles]]
+[[Category:Pixar people]]
+[[Category:Animated film producers]]
+[[Category:Special Achievement Academy Award winners]]
+[[Category:Computer animation people]]
+[[Category:Film directors from California]]
+[[Category:Annie Award winners]]
+[[Category:Student Academy Award winners]]

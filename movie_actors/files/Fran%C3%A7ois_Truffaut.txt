@@ -1,0 +1,285 @@
+{{Infobox person
+ | name             = François Truffaut
+ | image            = François Truffaut (1965).jpg
+ | caption          = François Truffaut (1965)
+ | imagesize        = 
+ | birth_name       = 
+ | birth_date       = {{Birth date|df=yes|1932|2|6}}
+ | birth_place      = [[Paris]], France
+ | death_date       = {{Death date and age|df=yes|1984|10|21|1932|2|6}}
+ | death_place      = [[Neuilly-sur-Seine]], [[Hauts-de-Seine]], France
+ | spouse           = {{marriage|Madeleine Morgenstern|1957|1965}} (divorced; 2 children)
+ | occupation       = Actor, film critic, filmmaker, producer, screenwriter
+ | years_active     = 1955–84
+}}
+'''François Roland Truffaut''' ({{IPA-fr|fʁɑ̃.swa ʁɔ.lɑ̃ tʁyfo|}}; 6 February 1932 – 21 October 1984) was a French film director, screenwriter, producer, actor, and [[Film criticism|film critic]], as well as one of the founders of the [[French New Wave]].<ref>Obituary ''[[Variety Obituaries|Variety]]'', 24 October 1984.</ref> In a film career lasting over a quarter of a century, he remains an icon of the [[Cinema of France|French film]] industry, having worked on over 25 films. <!--Along with [[Jean-Luc Godard]], Truffaut was one of the most influential figures of the French New Wave, inspiring directors such as [[Steven Spielberg]], [[Quentin Tarantino]], [[Brian De Palma]], [[Martin Scorsese]], and [[Wes Anderson]]{{Citation needed|date=February 2011}}.--> Truffaut's film ''[[The 400 Blows]]'' came to be a defining film of the French New Wave movement. He also directed such classics as ''[[Shoot the Piano Player]]'' (1960), ''[[Jules et Jim]]'' (1961), ''[[The Wild Child]]'' (1970), ''[[Two English Girls]]'' (1971), ''[[Day for Night (film)|Day for Night]]'' (1973) and ''[[The Woman Next Door]]'' (1981).
+
+== Early life ==
+Truffaut was born in Paris on 6 February 1932. His mother was Janine de Montferrand. His mother's future husband, Roland Truffaut, accepted him as an adopted son and gave him his surname. He was passed around to live with various nannies and his grandmother for a number of years. It was his grandmother who instilled in him her love of books and music. He lived with his grandmother until her death when Truffaut was eight years old. It was only after his grandmother's death that he lived with his parents for the first time.<ref name="New Wave Film Encyclopedia">{{cite web|url=http://www.newwavefilm.com/french-new-wave-encyclopedia/francois-truffaut.shtml |title=FRANCOIS TRUFFAUT – French New Wave Director |publisher=Newwavefilm.com |accessdate=6 February 2012}}</ref> The identity of Truffaut's biological father was unknown, though a private detective agency in 1968 revealed that their inquiry into the matter led to a Roland Levy, a Jewish dentist from [[Bayonne]]. Truffaut's mother's family disputed the findings but Truffaut himself believed and embraced them.<ref>{{cite book|url=http://books.google.com/books?id=UtDWnNzi3jMC&pg=PA94&dq=%22Francois+Truffaut%22+%22a+dentist+from%22&hl=en&ei=jEH1TdbFM-fn0QH1-KC_AQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCoQ6AEwAA#v=onepage&q=%22Francois%20Truffaut%22%20%22a%20dentist%20from%22&f=false |title=François Truffaut: film author 1932–1984 – Robert Ingram, Paul Duncan |publisher=Google Books |accessdate=6 February 2012}}</ref>
+
+Truffaut would often stay with friends and try to be out of the house as much as possible. His best friend throughout his youth and until his death was [[Robert Lachenay]], who was the inspiration for the character René Bigey in ''[[The 400 Blows]]'' and would work as an assistant on some of Truffaut's films. It was the cinema that offered him the greatest escape from an unsatisfying home life. He was eight years old when he saw his first movie, [[Abel Gance]]'s ''Paradis Perdu'' (''Paradise Lost'') from 1939. It was there that his obsession began. He frequently played truant from school and would sneak into theaters because he didn't have enough money for admission. After being expelled from several schools, at the age of fourteen he decided to become self-taught. Some of his academic "goals" were to watch three movies a day and read three books a week.<ref name="New Wave Film Encyclopedia" /><ref name="AllMovie">{{cite web|url=http://www.allmovie.com/artist/franois-truffaut-114620/bio |title=François Truffaut – Movie and Film Biography and Filmography |publisher=Allmovie.com |date=21 October 1984 |accessdate=6 February 2012}}</ref>
+
+Truffaut frequented [[Henri Langlois]]' [[Cinémathèque Française]] where he was exposed to countless foreign films from around the world. It was here that he became familiar with American cinema and directors such as [[John Ford]], [[Howard Hawks]] and [[Nicholas Ray]], as well as those of British director [[Alfred Hitchcock]]. {{Citation needed|date=January 2010}}
+
+== Career ==
+After starting his own film club in 1948, Truffaut met [[André Bazin]], who would have great effect on his professional and personal life. Bazin was a critic and the head of another film society at the time. He became a personal friend of Truffaut's and helped him out of various financial and criminal situations during his formative years.<ref>{{cite book| last=Truffaut| first=François| title=Correspondence, 1945–1984| location=New York| publisher = Farrar, Straus and Giroux| year= 1989| pages = 17, 50, 57}}</ref>
+
+Truffaut joined the [[French Army]] in 1950, aged 18, but spent the next two years trying to escape. Truffaut was arrested for attempting to desert the army. Bazin used his various political contacts to get Truffaut released and set him up with a job at his newly formed film magazine ''[[Cahiers du cinéma]]''. Over the next few years, Truffaut became a critic (and later editor) at ''Cahiers'', where he became notorious for his brutal, unforgiving reviews. He was called "The Gravedigger of French Cinema"<ref>{{cite web|url=http://www.newstatesman.com/film/2009/04/quatre-cents-truffaut-cinema |title=Film as an act of love|author = SUKHDEV SANDHU |publisher= New Statesman |date=2 April 2009}}</ref> and was the only French critic not invited to the [[Cannes Film Festival]] in 1958. He supported Andre Bazin in the development of one of the most influential theories of cinema itself, the [[auteur theory]].
+
+In 1954, Truffaut wrote an article called "Une Certaine Tendance du Cinéma Français" ("A Certain Trend of French Cinema"),<ref name="AllMovie" /> in which he attacked the current state of French films, lambasting certain screenwriters and producers. The article resulted in a storm of controversy. Truffaut later devised the auteur theory, which stated that the director was the "author" of his work; that great directors such as Renoir or Hitchcock have distinct styles and themes that permeate all of their films. Although his theory was not widely accepted then, it gained some support in the 1960s from American critic [[Andrew Sarris]]. In 1967, Truffaut published his book-length interview of Hitchcock, ''Hitchcock/Truffaut'' (New York: Simon and Schuster).
+
+After having been a critic, Truffaut decided to make films of his own. He started out with the short film ''[[Une Visite]]'' in 1955 and followed that up with ''[[Les Mistons]]'' in 1957. After seeing [[Orson Welles]]' ''[[Touch of Evil]]'' at the [[Expo 58]], he was inspired to make his feature film debut in 1959 with ''[[The 400 Blows|Les Quatre Cents Coups]] (The 400 Blows)''.
+[[File:Montmartre-Truffaut.JPG|thumb|Truffaut's grave]] This film was an instant success and won him a prize at the Cannes Film Festival.<ref>{{cite web|url=http://www.francoistruffaut.com/bio.html |title=Francois Truffaut |publisher=François Truffaut |accessdate=6 February 2012}}</ref> This film and the following films were successful even with the low budget he had to make the films.
+
+He was also notably one of the main stars in [[Steven Spielberg]]'s 1977 film ''[[Close Encounters of the Third Kind]]'', where he played scientist Claude Lacombe.
+
+== Personal life and views ==
+Truffaut was married to Madeleine Morgenstern from 1957 to 1965, and they had two daughters, Laura (born 1959) and Eva (born 1961). Madeleine was the daughter of Ignace Morgenstern, managing director of one of France's largest film distribution companies, and was largely responsible for securing funding for Truffaut's first films. While he had affairs with many of his leading ladies – in 1968 he was the fiancé of [[Claude Jade]] – Truffaut and actress [[Fanny Ardant]] lived together from 1981 to 1984 and had a daughter, Joséphine Truffaut (born 28 September 1983).<ref name="New Wave Film Encyclopedia" /><ref>{{cite web|title=Francois Truffaut, New Wave Director, Dies|url=http://www.nytimes.com/books/99/04/18/specials/truffaut-obit.html|work=New York Times|accessdate=1 May 2013|author=Eric Pace|date=22 October 1984|quote=Mr. Truffaut's 1957 marriage to Madeleine Morgenstern ended in divorce. He is survived by two adult daughters from that marriage, Laura Truffaut-Wong of San Francisco and Eva Truffaut of Paris, and by a 13-month-old daughter, Josephine.}}</ref>
+
+Truffaut was an atheist.<ref>{{cite book|title=Encyclopedia of Religion and Film|year=2011|publisher=ABC-CLIO|isbn=9780313330728|author=Eric Michael Mazur|accessdate=30 September 2012|page=438|quote=Yet Truffaut, an atheist, was not stumping for God with these conservative attacks.}}</ref><ref>{{cite book|title=The Films of Jean-Luc Godard: Seeing the Invisible|year=1999|publisher=Cambridge University Press|isbn=9780521589710|author=David Sterritt|accessdate=11 September 2012|page=17|quote=One way of understanding Godard's approach is to contrast it with that of François Truffaut, one of his most respected New Wave colleagues. As a self-described atheist, Truffaut took special pleasure in the materiality of cinema, noting that no photographic image can be obtained without real, physical light making direct contact with a real, physical object in the immediate presence of the camera.}}</ref>
+
+== Death ==
+In July 1983, Truffaut rented [[France Gall]] and [[Michel Berger]]'s house outside [[Honfleur]], Normandy (composing for [[Philippe Labro]]'s film, ''[[Rive droite, rive gauche]]'') when he had a first stroke and was diagnosed with a [[brain tumor]].<ref>[[Antoine de Baecque]] and [[Serge Toubiana]]'s Biography of François Truffaut</ref> He was expected to attend his friend [[Miloš Forman]]'s ''[[Amadeus (film)|Amadeus]]'' premiere<ref>http://education.francetv.fr/videos/francois-truffaut-l-autobiographie-dans-ses-films-v111061</ref> when he died on 21 October 1984, aged 52, at the [[American Hospital]] in [[Neuilly-sur-Seine]] in France.<ref>{{cite news |title=Francois Truffaut, New Wave Director, Dies  |url=http://www.nytimes.com/books/99/04/18/specials/truffaut-obit.html |quote=François Truffaut, the exuberant film director whose depictions of children, women and romantic obsessions helped make him a leader of the New Wave group of French movie makers, died yesterday. He was 52 years old. Mr. Truffaut died at the American Hospital in Neuilly-sur-Seine, a Paris suburb, a hospital spokesman said. He had been hospitalized about 10 days ago for treatment of cancer.|newspaper=[[New York Times]] |date=22 October 1984 |accessdate=26 May 2011 }}</ref> At the time of his death, he still had numerous films in preparation. His goal was to make 30 films and then retire to write books for his remaining days. He was five films short of his personal goal. He is buried in Paris' [[Montmartre Cemetery]].
+
+== Work ==
+''[[The 400 Blows]]'' was released in 1959 to much critical and commercial acclaim. Truffaut received a Best Director award from the [[Cannes Film Festival]], the same festival that had banned him only one year earlier. The film follows the character of [[Antoine Doinel]] through his perilous misadventures in school, an unhappy home life and later reform school. The film is highly autobiographical. Both Truffaut and Doinel were only children of loveless marriages; they both committed petty crimes of theft and truancy from the military. Truffaut cast [[Jean-Pierre Léaud]] as Antoine Doinel. Léaud was seen as an ordinary boy of 13 who auditioned for the role after seeing a flyer, but interviews filmed after the film's release (one is included on the Criterion DVD of the film) reveal Léaud's natural sophistication and an instinctive understanding of acting for the camera. Léaud and Truffaut collaborated on several films over the years. Their most noteworthy collaboration was the continuation of the Antoine Doinel character in a series of films called "The Antoine Doinel Cycle."
+
+The primary focus of ''The 400 Blows'' is on the life of a young character by the name of Antoine Doinel. This film follows this character through his troubled adolescence. He is caught in between an unstable parental relationship and an isolated youth. The film focuses on the real life events of the director, François Truffaut. From birth Truffaut was thrown into an undesired situation. As he was born out of wedlock, his birth had to remain a secret because of the social stigma associated with illegitimacy. He was registered as "A child born to an unknown father" in the hospital records. He was looked after by a nurse for an extended period of time. His mother eventually married and her husband Roland gave his surname, Truffaut, to François.
+
+Although he was legally accepted as a legitimate child, his parents did not accept him. The Truffauts had another child who died shortly after birth. This experience saddened them greatly and as a result they despised François because of the memory of regret that he represented (Knopf 4{{Specify|date=September 2008}}). He was an outcast from his earliest years, dismissed as an unwanted child. François was sent to live with his grandparents. It wasn't until François's grandmother's death before his parents took him in, much to the dismay of his own mother. The experiences with his mother were harsh. He recalled being treated badly by her but he found comfort in his father's laughter and overall spirit. The relationship with Roland was more comforting than the one with his own mother. François had a very depressing childhood after moving in with his parents. They would leave him alone whenever they would go on vacations. He even recalled memories of being alone during Christmas. Being left alone forced François into a sense of independence, he would often do various tasks around the house in order to improve it such as painting or changing the electric outlets. Sadly, these kind gestures often resulted in a catastrophic event causing him to get scolded by his mother. His father would mostly laugh them off.
+
+''The 400 Blows'' marked the beginning of the [[French New Wave]] movement, which gave directors such as [[Jean-Luc Godard]], [[Claude Chabrol]] and [[Jacques Rivette]] a wider audience. The New Wave dealt with a self-conscious rejection of traditional cinema structure. This was a topic on which Truffaut had been writing for years.
+
+Following the success of ''The 400 Blows'', Truffaut featured disjunctive editing and seemingly random voice-overs in his next film ''[[Shoot the Piano Player]]'' (1960) starring [[Charles Aznavour]]. Truffaut has stated that in the middle of filming, he realized that he hated gangsters. But since gangsters were a main part of the story, he toned up the comical aspect of the characters and made the movie more attuned to his liking. Even though ''Shoot the Piano Player'' was much appreciated by critics, it performed poorly at the box office. While the film focused on two of the French New Wave's favorite elements, American [[Film Noir]] and themselves, Truffaut never again experimented as heavily.
+
+In 1962, Truffaut directed his third movie, ''[[Jules and Jim]]'', a romantic drama starring [[Jeanne Moreau]]. Over the next decade, Truffaut had varying degrees of success with his films. In 1963, Truffaut was approached to direct an American film called ''[[Bonnie and Clyde (film)|Bonnie and Clyde]]'', with a treatment written by ''[[Esquire (magazine)|Esquire]]'' journalists, [[David Newman (filmmaker)|David Newman]] and [[Robert Benton]] intended to introduce the French New Wave to Hollywood. Although he was interested enough to help in script development, Truffaut ultimately declined, but not before interesting [[Jean-Luc Godard]] and American actor and would be producer, [[Warren Beatty]], the latter of whom proceeded with the film with director [[Arthur Penn]]. As for Truffaut, his first American film was an 1966 adaptation of [[Ray Bradbury]]'s classic science fiction novel ''[[Fahrenheit 451 (1966 film)|Fahrenheit 451]]'', showcasing Truffaut's love of books. His only English-speaking film was a great challenge for Truffaut, because he barely spoke English himself. This was also his first film shot in color. The larger scale production was difficult for Truffaut, who had worked only with small crews and budgets.
+
+Truffaut worked on projects with varied subjects. ''[[The Bride Wore Black]]'' (1968), a brutal tale of revenge, is a stylish homage to the films of [[Alfred Hitchcock]] (once again starring Jeanne Moreau). ''[[Mississippi Mermaid]]'' (1969), with [[Catherine Deneuve]], is an identity-bending romantic thriller. ''[[Stolen Kisses]]'' (1968) and ''[[Bed and Board (1970 film)|Bed and Board]]'' (1970) are continuations of the Antoine Doinel Cycle. And ''[[The Wild Child]]'' (1970) included Truffaut's acting debut in the lead role of 18th century physician [[Jean Marc Gaspard Itard]].
+
+''[[Two English Girls]]'' (1971) is the yin to the ''Jules and Jim'' yang. It is based on a story written by [[Henri-Pierre Roche]], who also wrote ''Jules and Jim''. It is about a man who falls equally in love with two sisters, and their love affair over a period of years.
+
+''[[Day for Night (film)|Day for Night]]'' won Truffaut a [[Academy Award for Best Foreign Language Film|Best Foreign Film Oscar]] in 1973.<ref name="Oscars1975">{{cite web|url=http://www.oscars.org/awards/academyawards/legacy/ceremony/47th-winners.html |title=The 47th Academy Awards (1975) Nominees and Winners |accessdate=10 January 2012 |work=oscars.org}}</ref> The film is probably his most reflective work. It is the story of a film crew trying to finish their film while dealing with all of the personal and professional problems that accompany making a movie. Truffaut plays the director of the fictional film being made. This film features scenes shown in his previous films. It is considered to be his best film since his earliest work. ''[[Time Magazine|Time]]'' magazine placed it on their list of 100 Best Films of the Century (along with ''The 400 Blows'').
+
+In 1975, Truffaut gained more notoriety with ''[[The Story of Adele H.]]'' [[Isabelle Adjani]] in the title role earned a nomination for a [[Academy Award for Best Actress|Best Actress Oscar]]. Truffaut's 1976 film ''[[Small Change (film)|Small Change]]'' gained a [[Golden Globe Award for Best Foreign Language Film|Golden Globe Nomination for Best Foreign Film]].
+
+One of Truffaut's final films gave him an international revival. In 1980, his film ''[[The Last Metro]]'' garnered twelve [[César Award]] nominations with ten wins, including Best Director.
+
+Truffaut's final movie was shot in black and white. It gives his career almost a sense of having bookends. ''[[Confidentially Yours]]'' is Truffaut's tribute to his favorite director, [[Alfred Hitchcock]]. It deals with numerous Hitchcockian themes, such as private guilt vs. public innocence, a woman investigating a murder, anonymous locations, etc.
+
+Among Truffaut's films, a series features the character [[Antoine Doinel]], played by the actor [[Jean-Pierre Léaud]]. He began his career in ''[[The 400 Blows]]'' at the age of fourteen, and continued as the favorite actor and "double" of Truffaut. The series continued with ''[[Antoine and Colette]]'' (a short film in the anthology ''Love at Twenty''), ''[[Stolen Kisses]]'' (in which he falls in love with Christine Darbon alias [[Claude Jade]]), ''[[Bed and Board (1970 film)|Bed and Board]]'' about the married couple Antoine and Christine—and, finally, ''[[Love on the Run (1979 film)|Love on the Run]]'', where the couple go through a divorce.
+
+In the last movies, Léaud's girlfriend and later wife, Christine Darbon, was played by Truffaut's favorite actress, [[Claude Jade]]. During the filming of ''Stolen Kisses'', Truffaut himself fell in love with, and was briefly engaged to, Claude Jade.
+
+A keen reader, Truffaut adapted many literary works, including two novels by [[Henri-Pierre Roché]], [[Ray Bradbury]]'s ''[[Fahrenheit 451 (1966 film)|Fahrenheit 451]]'', [[Henry James]]' "[[The Altar of the Dead]]", filmed as ''[[The Green Room (film)|The Green Room]]'', and several American [[Detective fiction|detective novels]].
+
+Truffaut's other films were from original screenplays, often co-written by the screenwriters [[Suzanne Schiffman]] or [[Jean Gruault]]. They featured diverse subjects, the sombre ''[[The Story of Adele H.]]'', inspired by the life of the daughter of [[Victor Hugo]], with [[Isabelle Adjani]]; ''[[Day for Night (film)|Day for Night]]'', shot at the [[Studios Riviera|Studio La Victorine]] describing the ups and downs of film-making; and ''[[The Last Metro]]'', set during the [[German occupation of France during World War II|German occupation of France]], a film rewarded by ten [[César Award]]s.
+
+Known as being a lifelong cinephile, Truffaut once (according to the 1993 documentary film ''[[François Truffaut: Stolen Portraits]]'') threw a hitchhiker he had picked up out of his car after learning that the hitchhiker didn't like films.
+
+Truffaut is admired among other filmmakers and several tributes to his work have appeared in other films such as ''[[Almost Famous]]'', ''[[Face (2009 film)|Face]]'' and ''[[The Diving Bell and the Butterfly (film)|The Diving Bell and the Butterfly]]'', as well as novelist [[Haruki Murakami]]'s ''[[Kafka on the Shore]]''.
+
+== Attitude towards other filmmakers ==
+Truffaut expressed his admiration for filmmakers such as [[Luis Buñuel]], [[Ingmar Bergman]], [[Robert Bresson]], [[Roberto Rossellini]], and [[Alfred Hitchcock]]. Truffaut wrote a book about Hitchcock, based on a lengthy series of interviews.<ref>http://www.goodreads.com/book/show/393601.Hitchcock_Truffaut</ref> He once called [[German New Wave]] filmmaker [[Werner Herzog]] "the most important film director alive".
+
+On [[Jean Renoir]], "I think Renoir is the only filmmaker who's practically infallible, who has never made a mistake on film. And I think if he never made mistakes, it's because he always found solutions based on simplicity—human solutions. He's one film director who never pretended. He never tried to have a style, and if you know his work—which is very comprehensive, since he dealt with all sorts of subjects—when you get stuck, especially as a young filmmaker, you can think of how Renoir would have handled the situation, and you generally find a solution."<ref>On Jean Renoir [http://www.newyorker.com/online/blogs/movies/2010/08/francois-truffaut-last-interview.html TRUFFAUT’S LAST INTERVIEW]</ref>
+
+In 1973, [[Jean-Luc Godard]] accused Truffaut of making a movie that was a "lie", and Truffaut replied with a 20-page letter in which he accused Godard of being a radical-chic hypocrite, a man who believed everyone to be "equal" in theory only. The two never saw each other again.<ref>{{cite web|last=Gleiberman|first=Owen|title=Godard and Truffaut: Their spiky, complex friendship is its own great story in 'Two in the Wave|url=http://insidemovies.ew.com/2010/05/27/godard-truffaut-and-their-spiky-friendship/}}</ref> However, as noted by Serge Toubiana and Antoine de Baecque in their biography of Truffaut, Godard tried to reconcile their friendship later on, and after Truffaut's death wrote the introduction to a collection of his letters and a lengthy tribute in his video-essay film [[Histoire(s) du cinéma]].
+
+== Filmography ==
+
+=== Director: features ===
+{| class="wikitable sortable" style="width:100%;"
+|-
+!Year||English Title||Original title||Notes
+|-
+|1959 || ''[[The 400 Blows]]'' || ''Les Quatre Cents Coups'' || [[Antoine Doinel]] series; nominated for the [[Academy Award for Best Writing (Original Screenplay)|Academy Award for Best Writing (Story and Screenplay – written directly for the screen)]]<ref name="Oscars1960">{{cite web|url=http://www.oscars.org/awards/academyawards/legacy/ceremony/32nd-winners.html |title=The 32nd Academy Awards (1960) Nominees and Winners |accessdate=15 November 2011|work=oscars.org}}</ref>
+|-
+|1960 || ''[[Shoot the Piano Player]]'' || ''Tirez sur le pianiste'' ||
+|-
+|1962 || ''[[Jules and Jim]]'' || ''Jules et Jim'' ||
+|-
+|1964 || ''[[The Soft Skin]]'' || ''La Peau douce'' ||
+|-
+|1966 || ''[[Fahrenheit 451 (1966 film)|Fahrenheit 451]]'' || ''Fahrenheit 451'' || Filmed in English
+|-
+|1968 || ''[[The Bride Wore Black]]'' || ''La Mariée était en noir'' ||
+|-
+|1968 || ''[[Stolen Kisses]]'' || ''Baisers volés'' || Antoine Doinel series; nominated for the [[Academy Award for Best Foreign Language Film]]<ref name="Oscars1969">{{cite web|url=http://www.oscars.org/awards/academyawards/legacy/ceremony/41st-winners.html |title=The 41st Academy Awards (1969) Nominees and Winners |accessdate=15 November 2011|work=oscars.org}}</ref>
+|-
+|1969 || ''[[Mississippi Mermaid]]'' || ''La sirène du {{sic|hide=y|Mississipi}}'' ||
+|-
+|1970 || ''[[The Wild Child]]'' || ''L'Enfant sauvage'' ||
+|-
+|1970 || ''[[Bed and Board (1970 film)|Bed and Board]]'' || ''Domicile conjugal'' || Antoine Doinel series
+|-
+|1971 || ''[[Two English Girls]]'' || ''Les Deux anglaises et le continent'' ||
+|-
+|1972 || ''[[Such a Gorgeous Kid Like Me]]'' || ''Une belle fille comme moi'' ||
+|-
+|1973 || ''[[Day for Night (film)|Day for Night]]'' || ''La Nuit américaine'' || Winner of the [[Academy Award for Best Foreign Language Film]]<ref name="Oscars1975" /><br />Winner of the 1974 [[BAFTA Award for Best Film]]<br />Nominated for the [[Academy Award for Directing]] and [[Academy Award for Writing Original Screenplay]]<ref name="Oscars1975" /><br /> Actress [[Valentina Cortese]] was nominated for [[Academy Award for Best Supporting Actress]]
+|-
+|1975 || ''[[The Story of Adele H.]]'' || ''L'Histoire d'Adèle H.'' || Actress [[Isabelle Adjani]] was nominated for [[Academy Award for Best Actress]]
+|-
+|1976 || ''[[Small Change (film)|Small Change]]'' || ''L'Argent de poche'' || Called ''Pocket Money'' in English-speaking countries outside North America. Entered into the [[26th Berlin International Film Festival]].<ref name="imdb Small Change">{{cite web |url=http://www.imdb.com/title/tt0074152/awards |title=IMDB.com: Awards for Small Change |accessdate=16 July 2010 |work=imdb.com}}</ref>
+|-
+|1977 || ''[[The Man Who Loved Women (1977 film)|The Man Who Loved Women]]'' || ''L'Homme qui aimait les femmes'' || Entered into the [[27th Berlin International Film Festival]].<ref name="imdb The Man Who Loved Women">{{cite web |url=http://www.imdb.com/title/tt0076155/awards |title=IMDB.com: Awards for The Man Who Loved Women |accessdate=25 July 2010 |work=imdb.com}}</ref>
+|-
+|1978 || ''[[The Green Room (film)|The Green Room]]'' || ''La Chambre verte'' ||
+|-
+|1979 || ''[[Love on the Run (1979 film)|Love on the Run]]'' || ''L'Amour en fuite'' || Antoine Doinel series, entered into the [[29th Berlin International Film Festival]].<ref name="imdb Love on the Run">{{cite web |url=http://www.imdb.com/title/tt0078771/awards |title=IMDB.com: Awards for Love on the Run |accessdate=14 August 2010 |work=imdb.com}}</ref>
+|-
+|1980 || ''[[The Last Metro]]'' || ''Le Dernier métro'' || Nominated for the [[Academy Award for Best Foreign Language Film]]<ref name="Oscars1981">{{Cite web|url=http://www.oscars.org/awards/academyawards/legacy/ceremony/53rd-winners.html |title=The 53rd Academy Awards (1981) Nominees and Winners |accessdate=8 June 2013 |work=oscars.org}}</ref> <br />Winner of 10 [[Cesar Awards]]
+|-
+|1981 || ''[[The Woman Next Door]]'' || ''La Femme d'à côté'' ||
+|-
+|1983 || ''[[Confidentially Yours]]'' || ''Vivement dimanche!'' ||
+|}
+
+=== Director: shorts and collaborations ===
+{| class="wikitable sortable" style="width:100%;"
+|-
+!Year||Title||Original title||Notes
+|-
+|1955 || ''[[Une Visite|A Visit]]''||''Une Visite'' ||
+|-
+|1957 || ''[[Les Mistons|The Mischief Makers]]''|| ''Les Mistons'' ||
+|-
+|1958 || ''[[Une Histoire d'eau|A Story of Water]]'' || ''Une Histoire d'eau''|| Co-directed with [[Jean-Luc Godard]]
+|-
+|1961 || ''[[The Army Game (film)|The Army Game]]'' || "Tire-au-flanc 62" || Directed by [[Claude de Givray]]; Truffaut credited as co-director
+|-
+|1962 || ''[[Antoine and Colette]]'' || ''Antoine et Colette'' || Antoine Doinel series, segment from ''[[Love at Twenty]]''
+|}
+
+=== Screenwriter only ===
+{| class="wikitable sortable" style="width:100%;"
+|-
+!Year||Title||Original title||Notes
+|-
+|1960|| ''[[Breathless (1960 film)|Breathless]]'' || ''À bout de souffle'' || Directed by Jean-Luc Godard
+|- style=background:#efefef;
+|1988|| ''[[The Little Thief]]''|| ''La Petite voleuse'' || Directed by [[Claude Miller]]
+|-
+|1995|| ''[[Belle Époque (miniseries)|Belle Époque]]'' || ''Belle Époque'' || [[Miniseries]], with [[Jean Gruault]]; directed by [[Gavin Millar]]
+|}
+
+=== Actor ===
+{| class="wikitable sortable" style="width:100%;"
+|-
+!Year||Title||Role||Notes
+|-
+|1956 || ''[[Fool's Mate (1956 film)|Le Coup du berger]]'' || Party guest (uncredited)|| Directed by [[Jacques Rivette]]
+|-
+|1959 || ''[[The 400 Blows]]'' || Man in Funfair (uncredited)||
+|-
+|1970 || ''[[The Wild Child]]'' || Dr. Jean Itard || Lead role
+|-
+|1970 || ''[[Bed and Board (1970 film)|Bed & Board]]'' || Newspaper vendor – voice (uncredited)||
+|-
+|1973 || ''[[Day for Night (film)|Day for Night]]'' || Ferrand, the film director|| Lead role
+|-
+|1975 || ''[[The Story of Adele H.]]'' || Officer (uncredited)||
+|-
+|1976 || ''[[Small Change (film)|Small Change]]'' || Martine's Father (uncredited)||
+|-
+|1977 || ''[[The Man Who Loved Women (1977 film)|The Man Who Loved Women]]'' || Man at Funeral (uncredited)||
+|-
+|1977 || ''[[Close Encounters of the Third Kind]]'' || Claude Lacombe || Directed by [[Steven Spielberg]]
+|-
+|1978 || ''[[The Green Room (film)|The Green Room]]'' || Julien Davenne || Lead role
+|-
+|1981 || ''[[The Woman Next Door]]'' || Cameo (uncredited)||
+|}
+
+=== Producer only ===
+{| class="wikitable sortable" style="width:100%;"
+|-
+!Year||Title||Original title||Notes
+|-
+|1958 || ''[[Anna la bonne|Good Anna]]'' || ''Anna your mam'' || Directed by [[Harry Kümel]]
+|-
+|1960 || ''[[Testament of Orpheus]]'' || ''Le testament d'Orphée''|| Directed by [[Jean Cocteau]]
+|-
+|1961 || ''[[Le scarabée d'or|The Gold Bug]]'' || Le scarabée d'or || Directed by [[Robert Lachenay]]
+|-
+|1968 || ''[[L'Enfance Nue|Naked Childhood]]'' || ''L'Enfance Nue'' || Directed by [[Maurice Pialat]]
+|}
+
+== Bibliography ==
+* ''Les 400 Coups'' (1960) with M. Moussy (English translation: ''The 400 Blows'')
+* ''Le Cinéma selon Alfred Hitchcock'' (1967, second edition 1983) (English translation: ''Hitchcock'' and ''[[Hitchcock/Truffaut]]'' with the collaboration of Helen G. Scott)
+* ''Les Aventures d'Antoine Doinel'' (1970) (English translation: ''Adventures of Antoine Doinel''; translated by Helen G. Scott)
+* ''Jules et Jim'' (film script) (1971) (English translation: ''Jules and Jim''; translated by Nicholas Fry)
+* ''La Nuit américaine et le Journal de Fahrenheit 451'' (1974)
+* ''Le Plaisir des yeux'' (1975)
+* ''L'Argent de poche'' (1976) (English title: ''Small change: a film novel''; translated by Anselm Hollo)
+* ''L'Homme qui aimait les femmes'' (1977)
+* ''Les Films de ma vie'' (1981) (English translation: ''Films in my life''; translated by Leonard Mayhew)
+* ''{{lang|fr|Correspondance}}'' (1988) (English translation: ''Correspondence, 1945–1984''; translated by Gilbert Adair)
+* ''Le Cinéma selon François Truffaut'' (1988) edited by Anne Gillain
+* ''Belle époque'' (1996) with [[Jean Gruault]]
+
+== See also ==
+* [[François Truffaut Award]]
+* [[List of brain tumor patients]]
+* ''[[Paris Belongs to Us]]''
+* ''[[Two in the Wave]]'', a 2010 documentary film about Truffaut's relationship with [[Jean-Luc Godard]]
+* [[Cinémathèque Française|La Cinémathèque Française]] will offer a full retrospective and an exhibition of François Truffaut's work<ref name="http://www.cinematheque.fr">{{cite web |url=http://www.cinematheque.fr/fr/expositions-cinema/itinerances/truffaut1.html |title=François Truffaut, l'exposition}}</ref> in 2014 / 2015
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* [https://www.youtube.com/watch?v=TqeNrxrqoWs Animated Google Logo for François Truffaut's 80th birthday ] on YouTube
+{{Commons category}}
+* {{IMDb name|76|François Truffaut}}
+* [http://www.newwavefilm.com/french-new-wave-encyclopedia/francois-truffaut.shtml ''New Wave Film Encyclopedia'': "François Truffaut"] an extensive biography
+* [http://www.cinematismo.com/biografias/francois-truffaut-1932-1984/ ''François Truffaut complete biography'': "François Truffaut"]
+* [http://www.lib.berkeley.edu/MRC/truffaut.html François Truffaut bibliography] via the UC Berkeley Media Resources Center
+* [http://www.guardian.co.uk/film/francoistruffaut Francois Truffaut] at ''[[The Guardian]] Film''
+* [http://movies.nytimes.com/person/1242289/Francois-Truffaut Francois Truffaut] at ''[[The New York Times]] Movies''
+* {{NYTtopic|people/t/francois_truffaut}}
+* {{Worldcat id|lccn-n80-36636}}
+* [http://zakka.dk/euroscreenwriters/interviews/francois_truffaut_529.htm Legendary interview with Truffaut from 1970]
+* [http://www.allmovie.com/artist/francois-truffaut-114620 AllMovie.com Biography]
+
+{{François Truffaut}}
+{{AcademyAwardBestForeignLanguageFilm 1961–1980}}
+{{BAFTA Award for Best Direction 1968-1984}}
+{{Prix de la mise en scene 1946–1959}}
+{{César Award for Best Director}}
+{{French New Wave}}
+{{Use dmy dates|date=December 2013}}
+
+{{Authority control}}
+
+{{Persondata
+| NAME              = Truffaut, François
+| ALTERNATIVE NAMES = Truffaut, François Roland
+| SHORT DESCRIPTION = French screenwriter, director, producer or actor
+| DATE OF BIRTH     = 6 February 1932
+| PLACE OF BIRTH    = Paris, France
+| DATE OF DEATH     = 21 October 1984
+| PLACE OF DEATH    = [[Neuilly-sur-Seine]], Hauts-de-Seine, France
+}}
+{{DEFAULTSORT:Truffaut, Francois}}
+[[Category:1932 births]]
+[[Category:1984 deaths]]
+[[Category:Male actors from Paris]]
+[[Category:Best Director BAFTA Award winners]]
+[[Category:Best Director César Award winners]]
+[[Category:Burials at Montmartre Cemetery]]
+[[Category:Cancer deaths in France]]
+[[Category:Deaths from brain tumor]]
+[[Category:Film historians]]
+[[Category:Film theorists]]
+[[Category:French atheists]]
+[[Category:French male film actors]]
+[[Category:French film critics]]
+[[Category:French film directors]]
+[[Category:French film producers]]
+[[Category:French screenwriters]]
+[[Category:20th-century French male actors]]
+[[Category:20th-century historians]]
+[[Category:French male writers]]
+[[Category:Critics of religions]]

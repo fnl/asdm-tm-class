@@ -1,0 +1,124 @@
+{{Infobox person
+|image = File:Robert Wiene 1930's.jpg
+|imagesize = 300
+| caption      = Robert Wiene in the early 1930s
+| name         = Robert Wiene
+| birth_date   = 27 April 1873
+| birth_place  = [[Breslau]], [[Province of Silesia|Silesia]], [[German Empire]]
+| death_date   = 17 July 1938 (aged 65) 
+| death_place  = [[Paris]], [[France]]
+| othername   = 
+| occupation  = [[Screenwriter]], [[Film director|director]]
+| yearsactive = [[1913 in film|1913]] - [[1938 in film|1938]]
+| imdb_id     = 0927468
+}}
+'''Robert Wiene''' ({{IPA-de|ˈviːnə|lang}}; 27 April 1873 &ndash; 17 July 1938) was an important [[film director]] of the [[Germany|German]] silent cinema. He is particularly known for directing the influential German silent film ''[[The Cabinet of Dr. Caligari]]'' and a succession of other [[German Expressionism|expressionist]] films. Wiene also directed a variety of other films of varying styles and genres. Following the [[Nazi]] rise to power in Germany, Wiene fled into exile.
+
+==Early life==
+Robert Wiene was born in [[Breslau]],<ref>then in [[Germany|German]] [[Province of Silesia|Silesia]], now [[Wroclaw]] in [[Poland]]</ref> as the elder son of the successful [[theatre]] actor Carl Wiene. His younger brother [[Conrad Wiene|Conrad]] also became an actor, but Robert Wiene at first studied law at the [[University of Berlin]]. In 1908 he also started to act, at first in small parts on stage. His first involvement with film was in 1912, writing and directing ''[[Die Waffen der Jugend]]''.
+
+==Peak success==
+His most memorable feature films are the [[horror film]] ''[[The Cabinet of Dr. Caligari]]'' (1920) and ''[[Raskolnikow (film)|Raskolnikow]]'' (1923), an adaptation of [[Dostoyevsky]]'s ''[[Crime and Punishment]]'', both of which had a deep influence on the German cinema of that time.
+
+==Exile==
+Four months after the Nazis took power Wiene's latest film, "Taifun," was banned on May 3, 1933. A Hungarian film company had been inviting German directors to come to [[Budapest]] to make films in simultaneous German/Hungarian versions, and given his uncertain career prospects under the new German regime Wiene took up that offer in September to direct "One Night in Venice" (1934).<ref>Jung, Uli, and Walter Schatzberg. "The Invisible Man behind Caligari." Film History vol. 5 pp 22-35, 1993.</ref> Wiene went later to London, and finally to Paris where together with [[Jean Cocteau]] he tried to produce a sound remake of ''The Cabinet of Dr. Caligari''.<ref>Robinson, David. ''Das Cabinet des Dr. Caligari''. British Film Institute, 2004, p. 58.</ref>
+
+Wiene never returned to Germany, although the reason is unclear. He had no connection to left-wing politics, and had collaborated with Nazi favorite Richard Strauss on "Der Rosenkavalier" in 1925. Although one German obituary identified him as a Jew, he had identified himself as a Protestant in Viennese university and residence records from 1894 through 1925.<ref>Jung, Uli, and Walter Schatzberg. "The Invisible Man behind Caligari." Film History vol. 5 pp 22-35, 1993.</ref> In addition, Wiene had adapted from a novel and directed the 1923 silent religious film "I.N.R.I.," depicting in a conventional way the events prededing the crucifixion of Christ.
+
+Wiene died in Paris ten days before the end of production of a spy film, ''[[Ultimatum (1938 film)|Ultimatum]]'', after having suffered from [[cancer]]. The film was finished by Wiene's friend [[Robert Siodmak]].
+
+==Selected filmography ==
+
+===Director===
+{{col-begin}}
+{{col-break}}
+* ''[[He This Way, She That Way]]'' (1915)
+* ''[[The Canned Bride]]'' (1915)
+* ''[[The Queen's Love Letter]]'' (1916)
+* ''[[The Queen's Secretary]]'' (1916)
+* ''[[Lehmann's Honeymoon]]'' (1916)
+* ''[[The Robber Bride (film)|The Robber Bride]]'' (1916)
+* ''[[The Wandering Light]]'' (1916)
+* ''[[Frau Eva]]'' (1916)
+* ''[[Steadfast Benjamin]]'' (1916)
+* ''[[The Man in the Mirror (1917 film)|The Man in the Mirror]]'' (1917)
+* ''[[Fear (1917 film)|Fear]]'' (1917)
+* ''[[Life Is a Dream (1917 film)|Life Is a Dream]]'' (1917)
+* ''[[The Night of Queen Isabeau]]'' (1920)
+* ''[[The Cabinet of Dr. Caligari]]'' (1920)
+* ''[[Genuine (film)|Genuine]]'' (1920)
+* ''[[The Three Dances of Mary Wilford]]'' (1920)
+* ''[[Panic in the House of Ardon]]'' (1920)
+* ''[[A Woman's Revenge (1921 film)|A Woman's Revenge]]'' (1921)
+* ''[[The Infernal Power]]'' (1922)
+{{col-break}}
+* ''[[Raskolnikow (film)|''Raskolnikow'']] (1923)
+* ''[[The Doll Maker of Kiang-Ning]]'' (1923)
+* ''[[I.N.R.I. (film)|I.N.R.I.]]'' (1923)
+* ''[[The Hands of Orlac (1924 film)|Orlacs Hände]]'' (1924)
+* ''[[Boarding House Groonen]]'' (1925)
+* ''[[The Guardsman (1925 film)|The Guardsman]]'' (1925)
+* ''[[Der Rosenkavalier (1926 film)|Der Rosenkavalier]]'' (1925)
+* ''[[The Queen of Moulin Rouge]]'' (1926)
+* ''[[The Famous Woman]]'' (1927)
+* ''[[The Mistress (1927 film)|The Mistress]]'' (1927)
+* ''[[The Great Adventuress]]'' (1928)
+* ''[[Folly of Love]]'' (1928)
+* ''[[The Woman on the Rack]]'' (1928)
+* ''[[The Other (1930 film)|The Other]]'' (1930)
+* ''[[The Prosecutor Hallers]]'' (1930)
+* ''[[The Love Express]]'' (1931)
+* ''[[Typhoon (1933 film)|Typhoon]] (1933)
+* ''[[A Night in Venice (1934 film)|One Night in Venice]]'' (1934)
+* ''[[Ultimatum (1938 film)|Ultimatum]]'' (1938)
+{{col-end}}
+
+===Writer===
+* ''[[The Weapons of Youth]]'' (1913)
+* ''[[The Marriage of Luise Rohrbach]]'' (1917)
+* ''[[Frank Hansen's Fortune]]'' (1917)
+* ''[[Imprisoned Soul]]'' (1917)
+* ''[[The Princess of Neutralia]]'' (1917)
+* ''[[Countess Kitchenmaid]]'' (1918)
+* ''[[The Homecoming of Odysseus (1918 film)|The Homecoming of Odysseus]]'' (1918)
+* ''[[Her Sport]]'' (1919)
+* ''[[Diamonds (1920 film)|Diamonds]]'' (1920)
+* ''[[The Adventure of Doctor Kircheisen]]'' (1921)
+* ''[[The Power of Darkness (1924 film)|The Power of Darkness]]'' (1924)
+* ''[[The Guardsman (1925 film)|The Guardsman]]'' (1925)
+* ''[[Strauss Is Playing Today]]'' (1928)
+* ''[[Typhoon (1933 film)|Typhoon]] (1933)
+
+==Notes==
+{{reflist}}
+
+==References==
+* Jung, Uli & Schatzberg, Walter. ''Beyond Caligari: The Films of Robert Wiene''. Berghahn Books, 1999.
+
+== External links ==
+* {{IMDb name|id=0927468|name=Robert Wiene}}
+* [http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=87187503 Robert Wiene on Find A Grave]
+
+{{Robert Wiene}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Wiene, Robert
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = German film director
+| DATE OF BIRTH     = 27 April 1873
+| PLACE OF BIRTH    = [[Breslau]], [[Silesia]]   [[German Empire|Germany]]
+| DATE OF DEATH     = 16 June 1938
+| PLACE OF DEATH    = [[Paris]]   [[France]]
+}}
+{{DEFAULTSORT:Wiene, Robert}}
+[[Category:1873 births]]
+[[Category:1938 deaths]]
+[[Category:People from Wrocław]]
+[[Category:People from the Province of Silesia]]
+[[Category:German Jews]]
+[[Category:German film directors]]
+[[Category:German-language film directors]]
+[[Category:Silent film directors]]
+[[Category:Cinema pioneers]]
+[[Category:People who emigrated to escape Nazism]]
+[[Category:Cancer deaths in France]]

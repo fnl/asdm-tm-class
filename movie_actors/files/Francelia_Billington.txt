@@ -1,0 +1,76 @@
+{{Infobox person
+| bgcolour      =
+| name          = Francelia Billington
+| image         = Billington.jpg
+| image_size     = 200px
+| caption       = 
+| birth_name     = 
+| birth_date     = {{Birth date|1895|02|1}}
+| birth_place      = [[Dallas, Texas]], [[United States|USA]]
+| death_date     = {{Death date and age|1934|11|24|1895|02|1}} (tuberculosis)
+| death_place    = [[Glendale, California]], [[USA]]
+| occupation    = actress
+| spouse        = [[Lester Cuneo]] (1920–1925) 
+}}
+'''Francelia Billington''' (1 February 1895 – 24 November 1934) was an early American silent-screen actress, and an accomplished camera operator.
+
+==Early life==
+Billington was in born in [[Dallas, Texas]], the daughter of James Billington and his wife, musician Adelaide Bueter. She was born and raised on a ranch, allowing her to become an expert at horsemanship, which later served her in a movie career that was to consist of a number of Westerns.  She attended school at a convent where, at a very early age, she began playing parts in plays.  When she was 10 years old, she moved to [[New Orleans]] and continued her interest in outdoor activities, becoming quite accomplished at swimming, diving and rowing.
+
+==Career==
+[[File:Francelia Billington behind the camera.jpg|thumb|Francelia Billington operating a movie camera in 1914]]
+She began working in films for the [[Kalem Company|Kalem Company's West Coast studio]] in 1912, then she moved to [[Reliance-Majestic Studios]] the following year, and continued starring in films under its banner when [[D. W. Griffith]] became the studio's director-general. Billington made ''The Half Breed'' with [[Jack Pickford]] in 1913. The production was filmed at the
+old Majestic Studio on [[Boyle Heights]].<ref>''Yesterday In The Films'', [[Los Angeles Times]], December 1, 1935, pg. H2.</ref>
+
+Billington left Majestic in 1915, and following her association with the Palo Alto Film Corporation, where she worked with [[Nell Shipman]], one of the most remarkable figures in film history, on the uncompleted film ''Wanda of the Red Street'',  she joined [[Universal Studios|Universal]]. There she played leads for such directors as [[Rupert Julian]] and [[Rex Ingram (director)|Rex Ingram]]. In 1917, she went over to The American Film Company in [[Santa Barbara, California|Santa Barbara]] to star in features directed by [[Edward Sloman]]. Her return to Universal in 1918 brought her a co-starring role in one of the silent film's true cinematic milestones, [[Erich von Stroheim]]'s directorial debut, ''[[Blind Husbands]]''. Billington played the wife and [[Sam De Grasse]] the husband.<ref>''Von Stroheim Picture Heads Clune Program'', Los Angeles Times, June 24, 1924, pg. A11.</ref> Although her performance brought praise from the critics, the Fates had no great roles waiting for Billington, and she continued in a mix of undistinguished melodramas, Westerns and action films.
+
+==Later years==
+Billington's level of [[film]] production slowed down with only five total films in 1918 and 1919. One of her 1920s features was a Western genre film with [[Tom Mix]], entitled ''Desert Love.'' Later that year, she returned once again to Rex Ingram's directorship with ''Hearts are Trumps.'' Billington acted the role of ''Sybil Sayre'' in the first film made for the Ray Rockett Film Corporation, in 1920.<ref name=marriage/> She was cast with [[Betty Blythe]] in ''The Truant Husband'' (1921). The screenplay was based on a story penned by [[Albert Payson Terhune]] which had recently appeared in [[Cosmopolitan Magazine]].<ref>''At the Theaters This Week'', [[Washington Post]], February 7, 1921, pg. 5.</ref> Billington supported [[Madge Bellamy]] in ''The White Sin'' (1924).<ref>''Attractions Coming To Local Playhouses'', Washington Post, April 17, 1924, pg. 15.</ref>
+
+==Marriage==
+In October 1920  Billington married [[Lester Cuneo]] at the Riverside Inn in [[Riverside, California]]. They resided at Cuneo's home in [[Beverly Hills, California]].<ref name=marriage>''Flashes'', [[Los Angeles Times]], October 15, 1920, pg. III4.</ref> 
+The couple appeared in fourteen films together, with their last two features in 1925, but apparently the marriage was on the rocks well before that. Despondent over the breakdown of the marriage and the downhill slide of his film career, Cuneo committed suicide by shooting himself on November 2, 1925, supposedly two days after his divorce from Billington became final.
+
+==Death==
+Billington's health was visibly declining at the beginning of 1934. She died from [[tuberculosis]], there were no obituaries in the trade papers, and her death went unnoticed by the film industry and the public.  She is interred at [[Calvary Cemetery, East Los Angeles|Calvary Cemetery]] in [[East Los Angeles, California]].<ref>{{cite web|url=http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=9021740|title = Francelia Billington internment location|publisher=[[Find a Grave]] website|accessdate=24 October 2013}}</ref>
+
+==Selected filmography==
+* ''[[A Mix-Up in Pedigrees]]'' (1913)
+* ''[[The Lover's Gift]]'' (1914)
+* ''[[My Fighting Gentleman]]'' (1917)
+* ''[[The Wrong Man (1917 film)|The Wrong Man]]'' (1917)
+* ''[[Blind Husbands]]'' (1919)
+
+==References==
+<references/>
+
+==External links==
+{{commons category}}
+*{{IMDb name | id = 0082537 | name = Francelia Billington}}
+*{{Amg name|6217}}
+*[http://www.silentsaregolden.com/photos2/franceliabillington.html Francelia Billington] photo at silentsaregolden
+*[http://www.silentsaregolden.com/articles/franceliabillingtonbio.html Frencelia Billington] article
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Billington, Francelia
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American actor
+| DATE OF BIRTH     = February 1, 1895
+| PLACE OF BIRTH    = [[Dallas, Texas]], [[United States|USA]]
+| DATE OF DEATH     = November 24, 1934
+| PLACE OF DEATH    = [[Glendale, California]], [[USA]]
+}}
+{{DEFAULTSORT:Billington, Francelia}}
+[[Category:American silent film actresses]]
+[[Category:American film actresses]]
+[[Category:Deaths from tuberculosis]]
+[[Category:People from Dallas, Texas]]
+[[Category:Actresses from Texas]]
+[[Category:Western (genre) film actresses]]
+[[Category:Infectious disease deaths in California]]
+[[Category:1895 births]]
+[[Category:1934 deaths]]
+[[Category:20th-century American actresses]]
+[[Category:Burials at Calvary Cemetery, East Los Angeles]]

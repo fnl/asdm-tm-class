@@ -1,0 +1,76 @@
+{{for|the Indian field hockey player|Tarsem Singh (field hockey)}}
+{{Indian name|Tarsem|Singh}}
+{{Use Indian English|date=June 2013}}
+{{Use dmy dates|date=June 2011}}
+{{Infobox person
+| name            = Tarsem Singh
+| image           = Tarsem Singh at WonderCon 2011.jpg
+| imagesize       =
+| alt             =
+| caption         =
+| birth_name       = Tarsem Singh Dhandwar 
+| birth_date       = {{Birth date and age|df=yes|1961|05|26}}
+| birth_place      = [[Jalandhar]], [[Punjab, India|Punjab]], India
+| othername       = Tarsem
+| occupation      = Film director, producer, screenwriter
+| yearsactive     = 1990–present
+| spouse          =
+| domesticpartner = 
+| website         = [http://www.tarsem.org www.tarsem.org]
+}}
+
+'''Tarsem Singh Dhandwar''' ({{lang-pa|ਤਰਸੇਮ ਸਿੰਘ ਧੰਦ੍ਵਾਰ}}; born 26 May 1961), known professionally as '''Tarsem''', is an [[Indian people|Indian]]-[[United States|American]] director who has worked on films, music videos, and commercials.
+
+== Early life ==
+Tarsem was born in [[Jalandhar]], [[Punjab, India|Punjab]] to a [[Punjabi people| Punjabi]] [[Sikh]] family. His father was an aircraft engineer.<ref name="Patrick Goldstein">{{Cite news|url = http://articles.latimes.com/2007/jun/26/entertainment/et-goldstein26 | title =A ‘Fall' no one wants to take| first =Patrick | last = Goldstein | work = The Los Angeles Times| date= 26 June 2007}}</ref> He attended [[Bishop Cotton School (Shimla) | Bishop Cotton School]] in [[Shimla]], [[Hans Raj College]] in [[Delhi]], and is a graduate of the [[Art Center College of Design]] in [[Pasadena, California | Pasadena]], California.<ref>{{cite news| url= http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080603/PEOPLE/868926055 | work= The Chicago Sun-Times | title = Tarsem and the legend of "The Fall"}}</ref>
+
+== Career ==
+Tarsem began his career directing music videos, including those of "[[Hold On (En Vogue song)|Hold On]]" by [[En Vogue]], "[[Sweet Lullaby]]" by [[Deep Forest]] and [[R.E.M.]]'s smash hit "[[Losing My Religion]]", the latter of which won Best Video of the Year at the 1991 [[MTV Video Music Awards]].  He has directed dozens of commercials for brands such as [[Nike Inc.|Nike]] and [[Coca-Cola]].<ref>{{Cite web |url= http://www.rediff.com/movies/2008/may/26singh.htm|title = Hindi movies often do not capture the beauty of India | first = Aseem | last = Chhabra| work = Rediff}}</ref> Tarsem's feature film directorial debut was ''[[The Cell]]'' (2000), starring [[Jennifer Lopez]].
+
+In 2003, Tarsem directed one of the most elaborate [[Pepsi]] commercials to date.  It combined a gladiator theme with [[Queen (band) | Queen]]'s "[[We Will Rock You]]". The commercial starred [[Enrique Iglesias]] in the version of the commercial aired in Europe and North America and [[Amr Diab]] in the version aired in the Arab world. In the western version, Iglesias plays the role of an emperor hoarding Pepsi with [[Britney Spears]], [[Pink (singer)|Pink]], and [[Beyoncé Knowles]] all playing similar roles of [[gladiatrix| gladiatrices]] about to engage in combat for the emperor's and crowd's entertainment. Ultimately the gladiatrices turn against the emperor and throw him from his seat. On the other hand, Diab's version shows the gladiatrices being attacked by a lion after the emperor realizes their intentions.
+
+Tarsem's second film, ''[[The Fall (2006 film)|The Fall]]'', debuted at the [[2006 Toronto International Film Festival]] and was released theatrically in the United States in 2008. His third film was 2011's ''[[Immortals (2011 film)|Immortals]]''.<ref name= "Patrick Goldstein"/><ref>{{Cite news| url= http://www.guardian.co.uk/film/2008/oct/04/fall.tarsem.singh |title= Final fantasy| first = Damon | last = Wise| work =The Guardian|location=London|date= 4 October 2008}}</ref> He directed an adaptation of the [[Brothers Grimm]] story of "[[Snow White]]", called ''[[Mirror Mirror (film) |Mirror Mirror]]'' (2012).<ref>{{Cite news|url= http://www.hollywoodreporter.com/blogs/heat-vision/its-official-tarsem-directing-relativitys-34180 |title=It's Official: Tarsem Directing Relativity's Snow White Movie | first = Borys | last = Kit | work = The Hollywood Reporter| date = 1 November 2010}}</ref><ref>{{cite web | url = http://www.mania.com/singh-confirmed-for-snow-white_article_126177.html |title=Singh Confirmed for Snow White | first = Jarrod| last = Sarafin| work = Mania}}</ref>
+
+== Filmography ==
+* ''[[The Cell]]'' (2000)
+* ''[[The Fall (2006 film)|The Fall]]'' (2006)
+* ''[[Immortals (2011 film)|Immortals]]'' (2011)
+* ''[[Mirror Mirror (film)|Mirror Mirror]]'' (2012)
+* ''[[Self/less]]'' (2015)
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* Henry Keazor/Thorsten Wuebbena: ''[http://www.vttrs.de Video Thrills the Radio Star – Musikvideos: Geschichte, Themen, Analysen, Bielefeld]''. 2005, p.&nbsp;256–260.
+
+== External links ==
+* {{IMDb name|802248}}
+* {{Official website|http://www.tarsem.org}}
+* [http://www.mvdbase.com/tech.php?first=&last=Tarsem Tarsem Singh  at the Music Video DataBase]
+* [http://iamrogue.com/video_blog/onset/immortals-entry-1 "6 part video journal with Tarsem Singh on the set of IMMORTALS at iamrogue.com"]
+
+{{Tarsem Singh}}
+{{BAFTA Los Angeles Britannia Awards}}
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Singh, Tarsem
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Indian film director
+| DATE OF BIRTH     = 26 May 1961
+| PLACE OF BIRTH    = Jalandhar, India
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Singh, Tarsem}}
+[[Category:1961 births]]
+[[Category:Advertising directors]]
+[[Category:Grammy Award winners]]
+[[Category:Indian film directors]]
+[[Category:Indian film producers]]
+[[Category:Indian music video directors]]
+[[Category:Indian screenwriters]]
+[[Category:Living people]]
+[[Category:MTV Video Music Award for Best Direction]]
+[[Category:Punjabi people]]

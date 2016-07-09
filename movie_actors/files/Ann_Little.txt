@@ -1,0 +1,82 @@
+{{Infobox person
+| name          = Ann Little
+| image         = Ann Little Stars of the Photoplay.jpg
+| imagesize     = 
+| caption       = '''Ann Little''' in a circa 1920 publicity photograph
+| birth_date    = {{birth date|1891|2|7|mf=y}}
+| birth_place   = [[Mount Shasta, California]], U.S.
+| height        = 
+| death_date    = {{death date and age|1984|5|21|1891|2|7|mf=y}}
+| death_place   = [[Los Angeles, California]], U.S.
+| birth_name    = Mary Brooks
+| occupation    = Actress
+| years_active  = 1911–1932
+| spouse        = [[Allan Forrest]] (1916–1918; divorced)
+}}
+'''Ann Little''' (February 7, 1891 – May 21, 1984) was an American film actress whose career was most prolific during the [[silent film]] era of the early 1910s through the early 1920s.
+
+==Life and career==
+Born '''Mary Brooks''' on a ranch near the town of [[Mount Shasta, California]], she began appearing in a traveling stock theater group after graduating high school. After briefly relocating to [[San Francisco]] in the early 1910s, she made the transition to films; first appearing in one-reel [[Western (genre)|Western]] shorts with actor and director [[Broncho Billy Anderson]]. Her first film appearance was in the 1911 release ''The Indian Maiden's Lesson'' as a [[Native Americans in the United States|Native American]] named 'Red Feather'. Little would often appear as Native American characters in many of her earliest films.
+
+By 1912, Little was appearing regularly in [[Thomas H. Ince]] directed Western-themed serials, often as an "Indian princess" and usually starring opposite [[Francis Ford (actor)|Francis Ford]], [[Grace Cunard]], [[Olive Tell]], [[Jack Conway (filmmaker)|Jack Conway]], [[Ethel Grandin]], early American child actress [[Mildred Harris]] and notable early cowboy star [[Art Acord]] for [[Essanay Studios]]. Between 1911 and 1914, Little would appear in approximately sixty shorts, the overwhelming majority of them Westerns and many of them serials that ran in installments. Other notable co-stars of the era included [[Harold Lockwood]], [[Jane Wolfe]], [[William Worthington (actor)|William Worthington]], [[Tom Chatterton]], and actor/director [[Frank Borzage]].
+
+Although possibly best recalled for her appearances in Westerns, Ann Little showed versatility as an actress by appearing in a number of well received roles in other dramatic genres and even comedies. Most notably among her dramatic roles was the early American cinematic [[American Civil War|Civil War]] serials directed by [[William J. Bauman]] and Thomas Ince. Another notable film of the period was the 1914 Ruth Ann Baldwin penned and [[Allan Dwan]] adapted epic ''Damon and Pythias'', which included a cast of thousands of extras. While signed under contract to [[Universal Studios]], she would make nearly six serials, most of them Western-themed one and two-reel dramas.
+
+[[File:"Lightning Bryce" Ann Little and Jack Hoxie.jpg|thumb|250px|''Lightning Bryce'', starring Ann Little and [[Jack Hoxie]]. 1919 [[lobby card]].]]
+By 1917, Little was signed to [[Paramount Pictures]] and often being paired with the highly successful actor [[Wallace Reid]] in a number of popular dramas and comedies, and while allegedly tired of being typecast as an actress of Western serials starred opposite cowboy actor [[Jack Hoxie]] in the popular 1919 serial ''Lightning Bryce''. By the early 1920s however, Little would only take dramatic roles outside of the Western genre. Notable films of the period include the race-car adventure films ''[[The Roaring Road]]'' (1919) and ''[[Excuse My Dust]]'' (1920) with Wallace Reid, ''The Cradle of Courage'' with [[William S. Hart]] and the crime-drama ''The Greatest Menace'' (1923) opposite [[Wilfred Lucas]].
+
+==Later years==
+While still at the peak of her public popularity, Ann Little retired from the motion picture industry in the early 1930s. In her later years she managed the [[Chateau Marmont Hotel|Chateau Marmont]] on the [[Sunset Strip]] but rarely spoke of her years in acting.<ref>{{cite journal|url=http://www.csmonitor.com/Books/2013/0501/Life-at-the-Marmont-6-stories-of-Hollywood-stars-at-the-famous-hotel/Workaholic-Billy-Wilder|journal=The Christian Science Monitor|title=Life at the Marmont': 6 stories of Hollywood stars at the famous hotel|date=May 1, 2013}}</ref> 
+
+Ann Little died at age 93, in [[Los Angeles]], and was interred at the [[Forest Lawn Memorial Park, Glendale|Forest Lawn Memorial Park, Glendale, California]].
+
+==Selected filmography==
+*''[[Custer's Last Fight]]'' (1912)
+*''[[The Invaders (1912 film)|The Invaders]]'' (1912)
+*''[[The Paymaster's Son]]'' (1913)
+*''[[The Battle of Gettysburg (1913 film)|The Battle of Gettysburg]]'' (1913)
+*''[[The Black Box (serial)|The Black Box]]'' (1915)
+*''[[Nan of Music Mountain]]'' (1917)
+*''[[Rimrock Jones]]'' (1918)
+*''[[Believe Me, Xantippe]]'' (1918)
+*''[[The Man from Funeral Range]]'' (1918)
+*''[[The Squaw Man (1918 film)|The Squaw Man]]'' (1918)
+*''[[The Roaring Road]]'' (1919)
+*''[[Told in the Hills]]'' (1919)
+*''[[Excuse My Dust]]'' (1920)
+*''[[The Blue Fox]]'' (1921)
+*''[[Nan of the North]]'' (1922)
+*''[[The Eagle's Talons]]'' (1923)
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{IMDb name|id=0514517|name=Ann Little}}
+* [http://www.silentera.com/people/actresses/Little-Ann.html Ann Little] at Silent Era People
+* [http://movies2.nytimes.com/gst/movies/filmography.html?p_id=42703 Ann Little] at ''The New York Times Movies''
+* [http://www.afi.com/members/catalog/SearchResult.aspx?Type=PN&CatID=DATABIN_CAST&ID=13346&AN_ID=18441 Ann Little] at [[American Film Institute]]
+
+{{Authority control}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Little, Ann
+|ALTERNATIVE NAMES= Brooks, Mary
+|SHORT DESCRIPTION= Actress 
+|DATE OF BIRTH= 1891-2-7
+|PLACE OF BIRTH= [[Mount Shasta, California]], U.S.
+|DATE OF DEATH= 1984-5-21
+|PLACE OF DEATH= [[Los Angeles, California]], U.S.}}
+{{DEFAULTSORT:Little, Ann}}
+[[Category:1891 births]]
+[[Category:1984 deaths]]
+[[Category:American film actresses]]
+[[Category:American silent film actresses]]
+[[Category:Film serial actresses]]
+[[Category:Western (genre) film actresses]]
+[[Category:Actresses from California]]
+[[Category:20th-century American actresses]]
+[[Category:Burials at Forest Lawn Memorial Park (Glendale)]]
+[[Category:People from Siskiyou County, California]]

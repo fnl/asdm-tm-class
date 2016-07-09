@@ -1,0 +1,415 @@
+{{other people}}
+{{Infobox person
+| name = Frank Capra
+| image = Capra-signed 1930s.jpg
+| image_size = 
+| caption = Capra during the 1930s
+| birth_name = Francesco Rosario Capra
+| birth_date = {{birth date|mf=yes|1897|05|18}}
+| birth_place = [[Bisacquino]], [[Sicily]],<br />[[Kingdom of Italy (1861-1946)|Kingdom of Italy]]
+| death_date = {{death date and age|mf=yes|1991|09|03|1897|05|18}}
+| death_place = [[La Quinta, California]],<br />[[United States]]
+| death_cause = [[Heart failure]]
+| occupation = {{hlist |Director |Producer |Writer}}
+| years_active = 1922–1964
+| party = [[Republican Party (United States)|Republican]]
+| spouse = {{Plainlist|
+{{marriage|()=small |Helen Howell |1923 |1927 |end=div}}
+{{marriage|()=small |Lucille Warner |1932 |1984 |end=wid}}
+}}
+| children = 4
+}}
+
+'''Frank Russell Capra''' (May 18, 1897{{spaced ndash}}September 3, 1991) was an American film director, producer and [[Screenwriter|writer]] who became the creative force behind [[Frank Capra filmography#Films that won Academy Awards|some of the major award-winning films of the 1930s and 1940s]]. Born in Italy and raised in [[Los Angeles]] from the age of five, his rags-to-riches story has led film historians such as [[Ian Freer]] to consider him the "[[American dream]] personified."<ref name="Freer">Freer 2009, pp. 40–41.</ref>
+
+Capra became one of America's most influential directors during the 1930s, winning three Oscars as Best Director. Among his leading films was ''[[It Happened One Night]]'' (1934), which became the first film to win all five top Oscars, including Best Picture. Other leading films in his prime included ''[[You Can't Take It With You (film)|You Can't Take It With You]]'' (1938) and ''[[Mr. Smith Goes to Washington]]'' (1939). During World War II, Capra served in the [[Signal Corps (United States Army)|US Army Signal Corps]] and produced [[propaganda film]]s, such as the ''[[Why We Fight]]'' series.
+
+After World War II Capra's career declined as his later films like ''[[It's a Wonderful Life]]'' (1946) were critically derided as being "simplistic" or "overly idealistic".<ref>Poague 2004, p. viii.</ref> In succeeding decades, however, his films have been favorably reassessed.
+
+Outside of directing, Capra was active in the film industry, engaging in various political and social issues. He served as President of the [[Academy of Motion Pictures Arts and Sciences]], worked alongside the [[Writers Guild of America, West|Screenwriters Guild]], and was head of the [[Directors Guild of America]].
+
+==Early life==
+Capra was born '''Francesco Rosario Capra''' in [[Bisacquino]], [[Sicily]], a village near [[Palermo]]. He was the youngest of seven children of Salvatore Capra, a fruit grower, and the former Rosaria "Serah" Nicolosi. Capra's family was Roman Catholic.<ref>De Las Carreras, Maria Elena. [http://www.catholiceducation.org/articles/arts/al0154.html "The Catholic Vision of Frank Capra."] ''Crisis, 20'', no. 2, February 2002. Retrieved: May 31, 2011.</ref>
+
+The name "Capra", notes Capra's biographer Joseph McBride, represents his family's closeness to the land, and means "goat".<ref name=McBride>McBride 1992, p. 16.</ref> He notes that the English word "capricious" derives from it, "evoking the animal's skittish temperament", adding that "the name neatly expresses two aspects of Frank Capra's personality: emotionalism and obstinacy."<ref name=McBride/>
+
+In 1903, when he was five, Capra immigrated to the United States with his family, who traveled in the steerage section of the boat, which was the cheapest way to gain passage. For Capra, the journey, which took 13 days, remained in his mind for the rest of his life as one of his worst experiences:
+
+{{quote|You're all together – you have no privacy. You have a cot. Very few people have trunks or anything that takes up space. They have just what they can carry in their hands or in a bag. Nobody takes their clothes off. There's no ventilation, and it stinks like hell. They're all miserable. It's the most degrading place you could ever be.<ref>McBride 1992, p. 29.</ref>}}
+
+Capra remembers the ship's arrival in New York Harbor, where he saw "a [[Statue of Liberty|statue]] of a great lady, taller than a church steeple, holding a torch above the land we were about to enter". He recalls his father's exclamation at the sight:
+
+{{quote|Ciccio, look! Look at that! That's the greatest light since the star of Bethlehem! That's the light of freedom! Remember that. ''Freedom''.<ref>McBride 1992, p. 30.</ref>}}
+
+The family settled in [[Los Angeles]]'s East Side (today Chinatown) which Capra described in his autobiography as an Italian "ghetto." <ref name="google">McBride [http://books.google.co.uk/books?id=DMkLpTFBEtUC 1992, p. 34.]</ref> Capra's father worked as a fruit picker and young Capra sold newspapers after school for 10 years, until he graduated from high school. Instead of working after graduating, as his parents wanted, he enrolled in college. He worked through college at the [[California Institute of Technology]], playing banjo at nightclubs and taking odd jobs, which included working at the campus laundry facility, waiting tables, and cleaning engines at a local power plant. He studied [[chemical engineering]] and graduated in the spring of 1918.<ref>[http://alumni.caltech.edu/distinguished_alumni/by_year?year=1966 "Distinguished Alumni Award: 1966 Recipients."] ''Caltech Alumni Association''. Retrieved: December 18, 2010.</ref> Capra later wrote that his college education had "changed his whole viewpoint on life from the viewpoint of an alley rat to the viewpoint of a cultured person".<ref name="Wakeman p. 96"/>
+
+== World War I and after ==
+
+Soon after graduating college, Capra enlisted in the US Army as a [[second lieutenant]], having already worked on the campus [[ROTC]]. In the Army, he taught mathematics to artillerymen at [[Fort Point, San Francisco|Fort Scott, San Francisco]]. His father died during the war in an accident (1916). In the army, Capra contracted [[Spanish flu]] and was medically discharged to return home to live with his mother. He became a [[Naturalization|naturalized]] [[United States nationality law|U.S. citizen]] in 1920, taking the name '''Frank Russell Capra'''.<ref name="Wakeman p. 96">Wakeman 1987, p. 96.</ref>
+
+Living at home with his siblings and mother, Capra was the only family member with a college education, yet he was the only one who remained chronically unemployed. After a year without work, seeing how his siblings had steady jobs, he felt he was a failure, which led to bouts of depression and abdominal pains, later discovered to have been an undiagnosed burst appendix.<ref name="Wakeman p. 96"/>
+
+After recovering at home, Capra moved out and spent the next few years living in flophouses in San Francisco and hopping freight trains, wandering the Western Unites States. To support himself, he took odd jobs on farms, as a movie extra, playing poker, and selling local oil well stocks.
+
+It was during this time that the 24-year old Capra directed a 32-minute documentary film entitled ''La Visita Dell'Incrociatore Italiano LIBYA a San Francisco''. Not only did it document the visit of the Italian naval vessel LIBYA to San Francisco, but also the reception given to the crew of the ship by San Francisco's L'Italia Virtus Club, now known as the [[San Francisco Italian Athletic Club]].
+
+At age 25, Capra took a job selling books written and published by American philosopher, [[Elbert Hubbard]].<ref name="Wakeman p. 96"/>  Capra recalled that he "hated being a peasant, being a scrounging new kid trapped in the Sicilian ghetto of Los Angeles ... All I had was cockiness – and let me tell you that gets you a long way."<ref name=Stevens>Stevens 2006, pp. 74–76.</ref>
+
+==Early career==
+
+===Silent film comedies===
+During his book sales efforts{{spaced ndash}}and nearly broke{{spaced ndash}}Capra read a newspaper article about a new movie studio opening in San Francisco. Capra phoned them saying he had moved from Hollywood, and falsely implied that he had experience in the budding film industry. Capra's only prior exposure to films was in 1915 while attending Manual Arts High School. The studio's founder, Walter Montague, was nonetheless impressed by Capra and offered him $75 to direct a one-reel silent film. Capra, with the help of a cameraman, made the film in two days and cast it with amateurs.<ref name="Wakeman p. 96"/>
+
+After that first serious job in films, Capra began efforts to finding similar openings in the film industry. He took a position with another minor San Francisco studio, and subsequently received an offer to work with producer [[Harry Cohn]] at his new studio in Los Angeles. During this time, he worked as a property man, film cutter, title writer, and assistant director.<ref name="Wakeman p. 97">Wakeman 1987, p. 97.</ref>
+
+Capra later became a gag writer for [[Hal Roach]]'s ''Our Gang'' series and then writer for [[slapstick comedy]] director, [[Mack Sennett]], where he wrote scripts for comedian [[Harry Langdon]]. According to Capra, it was he who invented Langdon's character, the innocent fool living in a "naughty world."<ref name="Wakeman p. 97"/>
+
+When Langdon eventually left Sennett to make longer, feature-length movies with [[First National]] Studios, he took Capra along as his personal writer and director. They made three feature films together during 1926 and 1927, all of them successful with critics and the public. The films made Langdon a recognized comedian in the caliber of [[Charlie Chaplin]] and [[Buster Keaton]]. Capra and Langdon later had a falling out, and Capra was fired. During the following years, Langdon's films went into decline without Capra's assistance.{{citation needed|date=April 2013}} After splitting with Langdon, Capra directed a picture for First National, ''[[For the Love of Mike]]'', (1927). This was a silent comedy about three bickering godfathers, a German, a Jew, and an Irishman, starring a budding actress, [[Claudette Colbert]]. The movie was considered a failure.<ref name="Wakeman p. 97"/>
+
+===Columbia Pictures===
+'''Early sound films'''
+Capra returned to Harry Cohn's studio, now named [[Columbia Pictures]], which was then producing short films and two-reel comedies used as "fillers", which played between main features. Columbia was one of many start-up studios on "[[Poverty Row]]" in Los Angeles. Like the others, Columbia was unable to compete with larger studios which often had their own production facilities, distribution and theaters. Cohn rehired Capra in 1928 to help his studio produce new, full-length feature films, to compete with the major studios. Capra would eventually direct 20 films for Cohn's studio, including all of his classics.<ref name="Wakeman p. 97"/>
+
+Because of Capra's engineering education, he adapted more easily to the new sound technology than most directors. He welcomed the transition to sound, recalling, "I wasn't at home in silent films."<ref name="Wakeman p. 97"/> Most studios were unwilling to invest in the new sound technology, assuming it was a passing fad. Many in Hollywood considered sound a threat to the industry and hoped it would pass quickly; McBride notes that "Capra was not one of them." When he saw [[Al Jolson]] singing in ''[[The Jazz Singer]]'' in 1927, considered the first talkie, Capra recalled his reaction:
+
+{{quote|It was an absolute shock to hear this man open his mouth and a song come out of it. It was one of those once-in-a-lifetime experiences.<ref>McBride 1992, p. 200.</ref>}}
+
+Few of the studio heads or crew were aware of Capra's engineering background until he began directing ''[[The Younger Generation]]'' in 1929. The chief cinematographer who worked with Capra on a number of films, was likewise unaware. He describes this early period in sound for film:
+
+{{quote|It wasn't something that came up. You had to bluff to survive. When sound first came in, nobody knew much about it. We were all walking around in the dark. Even the sound man didn't know much about it. Frank lived through it. But he was quite intelligent. He was one of the few directors who knew what the hell they were doing. Most of your directors walked around in a fog – they didn't know where the door was.<ref>McBride 1992, p. 201.</ref>}}
+
+During his first year with Columbia, Capra directed nine films, some of which were successful. After the first few, Harry Cohn said "it was the beginning of Columbia making a better quality of pictures."<ref>McBride 1992, p. 189.</ref> According to Barson, "Capra became ensconced as Harry Cohn's most trusted director."<ref name=Barson/> His films soon established Capra as a "bankable" director known throughout the industry, and Cohn raised Capra's initial salary of $1,000 per film to $25,000 per year.<ref name="Wakeman p. 97"/> Capra directed a film for MGM during this period, but soon realized he "had much more freedom under Harry Cohn's benevolent dictatorship", where Cohn also put Capra's "name above the title" of his films, a first for the movie industry.<ref>McBride 1992, p. 197.</ref> Capra wrote of this period and recalled the confidence that Cohn placed in Capra's vision and directing:
+
+{{quote|I owed Cohn a lot – I owed him my whole career. So I had respect for him, and a certain amount of love. Despite his crudeness and everything else, he gave me my chance. He took a gamble on me.<ref>McBride 1992, p. 199.</ref>}}
+
+Capra directed his first "real" sound picture, ''[[The Younger Generation]]'', in 1929. It was a rags-to-riches romantic comedy about a Jewish family's upward mobility in New York City, with their son later trying to deny his Jewish roots in order to keep his rich gentile girlfriend. According to Capra biographer [[Joseph McBride (writer)|Joseph McBride]], Capra "obviously felt a strong identification with the story of a Jewish immigrant who grows up in the ghetto of New York... and feels he has to deny his ethnic origins to rise to success in America."  Capra, however, denied any connection of the story with his own life.
+
+Nonetheless, McBride insists that ''[[The Younger Generation]]'' abounds with parallels to Capra's own life." McBride notes the "devastatingly painful climactic scene", where the young social-climbing son, embarrassed when his wealthy new friends first meet his parents, passes his mother and father off as house servants. That scene, notes McBride, "echoes the shame Capra admitted feeling toward his own family as he rose in social status."<ref>McBride 1992, p. 203.</ref>
+
+During his years at Columbia, Capra worked often with screenwriter [[Robert Riskin]] (husband of [[Fay Wray]]), and cameraman [[Joseph Walker (cinematographer)|Joseph Walker]]. In many of Capra's films, the wise-cracking and sharp dialogue was often written by Riskin, and he and Capra went on to become Hollywood's "most admired writer-director team."<ref name="Wakeman p. 98">Wakeman 1987, p. 98.</ref>
+
+==Film career (1934–1941)==
+
+===''It Happened One Night'' (1934)===
+<!-- Deleted image removed: [[File:Frank Capra with stills - 1938.jpg|thumb|Capra looking over movie stills for ''[[You Can't Take It with You (film)|You Can't Take It with You]]'' (1938) {{Pufc|1=Frank Capra with stills - 1938.jpg|date=5 November 2014}}]] -->
+<!-- Deleted image removed: [[File:Capra-Cohn-39.jpg|thumb|Receiving his first Oscar with producer Harry Cohn, 1935]] -->
+Capra's films in the 1930s enjoyed immense success at the [[Academy Awards]]. ''[[It Happened One Night]]'' (1934) became the first film to win all five top Oscars ([[Academy Award for Best Picture|Best Picture]], [[Academy Award for Directing|Best Director]], [[Academy Award for Best Actor|Best Actor]], [[Academy Award for Best Actress|Best Actress]], and [[Academy Award for Writing Adapted Screenplay|Best Screenplay]]). Written by [[Robert Riskin]], it is one of the first of the "screwball comedies", and with its release in the [[Great Depression]], critics considered it an escapist story and a variation of the "American Dream". The film established the names of Capra, Columbia Pictures, stars [[Clark Gable]] and [[Claudette Colbert]], in the movie industry. The film has been called "[[Picaresque novel|picaresque]]", and was one of the earliest "road movies" which inspired variations on its theme by other filmmakers.<ref name="Wakeman p. 99">Wakeman 1987, p. 99.</ref>
+
+The film was followed by ''[[Broadway Bill]]'' (1934), a screwball comedy about horse racing. The film was a turning point for Capra, however, as he began to conceive of an additional dimension to his movies. He started using his films to convey messages to the public. Capra explains his new thinking:
+{{quote|My films must let every man, woman, and child know that God loves them, that I love them, and that peace and salvation will become a reality only when they all learn to love each other.<ref name="Wakeman p. 99"/>}}
+
+This added goal was inspired after meeting with a Christian Scientist friend who told him to view his talents in a different way:
+{{quote|The talents you have, Mr. Capra, are not your own, not self-acquired. God gave you those talents; they are His gifts to you, to use for His purpose.<ref name="Wakeman p. 99"/>}}
+
+Capra began to embody messages in subsequent films, many of which conveyed "fantasies of goodwill." The first of those was ''[[Mr. Deeds Goes to Town]]'' (1936), for which Capra won his second Best Director Oscar. Critic [[Alistair Cooke]] observed that Capra was "starting to make movies about themes instead of people."<ref name="Wakeman p. 100">Wakeman 1987, p. 100.</ref>
+
+In 1938, Capra won his third Director Oscar in five years for ''[[You Can't Take It with You (film)|You Can't Take It with You]]'', which also won Best Picture. In addition to his three directing wins, Capra received directing nominations for three other films (''[[Lady for a Day]]'', ''[[Mr. Smith Goes to Washington]]'', and ''[[It's a Wonderful Life]]''). On May 5, 1936, Capra hosted the [[8th Academy Awards]] ceremony.
+
+===''Mr. Smith Goes to Washington'' (1939)===
+Although ''[[It's a Wonderful Life]]'' is his best-known film, Friedman notes that it was ''[[Mr. Smith Goes to Washington]]'' (1939) which most represented the "Capra myth." That film expressed Capra's patriotism more than any others, and "presented the individual working within the democratic system to overcome rampant political corruption."<ref name=Friedman/>
+
+The film, however, became Capra's most controversial. In his research before filming, he was able to stand close to President Roosevelt during a press conference after the recent acts of war by Germany in Europe. Capra recalls his fears:
+{{quote|And panic hit me. Japan was slicing up the colossus of China piece by piece. Nazi panzers had rolled into Austria and Czechoslovakia; their thunder echoed over Europe. England and France shuddered. The Russian bear growled ominously in the Kremlin. The black cloud of war hung over the chancelleries of the world. Official Washington from the President down, was in the process of making hard, torturing decisions. "And here was I, in the process of making a satire about government officials; ... Wasn't this the most untimely time for me to make a film about Washington?"<ref>Capra 1971, p. 259.</ref>}}
+
+When the filming was completed, the studio sent preview copies to Washington. [[Joseph P. Kennedy]], U.S. ambassador to the UK, wrote to Columbia head Harry Cohn, "Please do not play this picture in Europe."<ref name=Friedman/> Politicians were concerned about the potential negative impact the film might have on the morale of the United States' allies, as World War II had begun. Kennedy wrote to president Roosevelt that "in foreign countries this film must inevitably strengthen the mistaken impression that the United States is full of graft, corruption and lawlessness."<ref name=Beauchamp/> Many studio heads agreed nor did they want negative feelings about Hollywood to be instilled in political leaders.<ref>Capra 1971, p. 261.</ref>
+
+Nonetheless, Capra's vision of the film's significance was clear:
+{{quote|The more uncertain are the people of the world, the more their hard-won freedoms are scattered and lost in the winds of chance, the more they need a ringing statement of America's democratic ideals. The soul of our film would be anchored in Lincoln. Our Jefferson Smith would be a young Abe Lincoln, tailored to the rail-splitter's simplicity, compassion, ideals, humor, and unswerving moral courage under pressure.<ref>Capra 1971, p. 260.</ref>}}
+
+Capra pleaded with Cohn to allow the film to go into distribution and remembers the intensity of their decision making:
+{{quote|Harry Cohn paced the floor, as stunned as Abraham must have been when the Lord asked him to sacrifice his beloved son Isaac.<ref>Capra 1971, p. 289.</ref>}}
+
+Cohn and Capra chose to ignore the negative publicity and demands, and released the film as planned. It was later nominated for 11 Academy Awards, only winning one (for Best Original Story) partly because of the number of major pictures that were [[12th Academy Awards|nominated that year]], including ''[[The Wizard of Oz (1939 film)|The Wizard of Oz]]'' and ''[[Gone with the Wind (film)|Gone with the Wind]]''.<ref name=Barson>Barson 1995, pp. 56–63.</ref> Hollywood columnist [[Louella Parsons]] called it a "smash patriotic hit" and most critics agreed, seeing that audiences left the theaters with "an enthusiasm for democracy" and "in a glow of patriotism."<ref name=Beauchamp>Beauchamp 2010, pp. 364–365.</ref>
+
+The significance of the film's message was established further in France, shortly after World War II began. When the French public were asked to select which film they wanted to see most, having been told by the Vichy government that soon no more American films would be allowed in France, the overwhelming majority chose it over all others. To a France, soon to be invaded and occupied by Nazi forces, the film most expressed the "perseverance of democracy and the American way."<ref name=Friedman/>
+
+===''Meet John Doe'' (1941)===
+[[File:Meet John Doe 1941.jpg|thumb|left|[[Walter Brennan]], [[Gary Cooper]], [[Irving Bacon]], [[Barbara Stanwyck]], and [[James Gleason]] in ''Meet John Doe'']]
+In 1941 Capra directed ''[[Meet John Doe]]'' (1941), considered by some to be Capra's most controversial movie. The film's hero, played by Gary Cooper, is a former baseball player now bumming around, lacking goals. He is selected by a news reporter to represent the "common man", used to capture the imagination of ordinary Americans. The film was released shortly before America became involved in World War II, and citizens were still in an isolationist mood. According to some historians, the film was made to convey a "deliberate reaffirmation of American values", although ones which seemed uncertain with respect to the future.
+
+Film author Richard Glazer speculates that the film may have been autobiographical, "reflecting Capra's own uncertainties." Glazer describes how "John's accidental transformation from drifter to national figure parallels Capra's own early drifting experience and subsequent involvement in movie making ... ''Meet John Doe'', then, was an attempt to work out his own fears and questions."<ref name="Wakeman p. 101">Wakeman 1987, p. 101.</ref>
+
+==World War II years (1941–1945)==
+
+===Enlisting after Pearl Harbor===
+[[File:Frank Capra.JPG|thumb|Editing film as Major during World War II]]
+Within four days after the Japanese [[Attack on Pearl Harbor]] on December 7, 1941, Capra quit his successful directing career in Hollywood and enlisted as a [[Major (United States)|major]] in the [[United States Army]]. He also gave up his presidency of the [[Screen Directors Guild]]. Being 44 years of age, he was not asked to enlist, but, notes Friedman, "Capra had an intense desire to prove his patriotism to his adopted land."<ref name=Friedman/>
+
+Capra recalls some personal reasons for enlisting:
+{{quote|I had a guilty conscience. In my films I championed the cause of the gentle, the poor, the downtrodden. Yet I had begun to live like the [[Aga Khan]]. The curse of Hollywood is big money. It comes so fast it breeds and imposes its own mores, not of wealth, but of ostentation and phony status.<ref>Capra 1971, p. 314.</ref>}}
+
+===''Why We Fight'' series===
+{{main|Why We Fight}}
+During the next four years of [[World War II]], Capra's job was to head a special section on morale to explain to soldiers "why the hell they're in uniform", writes Capra, and were not "propaganda" films like those created by the Nazis and Japan. Capra directed or co-directed seven documentary war information films.
+
+Capra was assigned to work directly under Chief of Staff [[George C. Marshall]], the most senior officer in command of the Army, who later created the [[Marshall Plan]] and was awarded a [[Nobel Peace Prize]]. Marshall chose to bypass the usual documentary film-making department, [[Signal Corps (United States Army)|Signal Corps]], because he felt they were not capable of producing "sensitive and objective troop information films." One colonel explained the importance of these future films to Capra:
+{{quote|You were the answer to the General's prayer ... You see, Frank, this idea about films to explain "Why" the boys are in uniform is General Marshall's own baby, and he wants the nursery right next to his Chief of Staff's office.<ref>Capra 1971, p. 322.</ref>}}
+
+[[File:Capra-Army-45.jpg|thumb|Receiving medal from General [[George C. Marshall]], 1945]]
+During his first meeting with General Marshall, Capra was told his mission:
+{{quote|Now, Capra, I want to nail down with you a plan to make a series of documented, factual-information films – the first in our history – that will explain to our boys in the Army ''why'' we are fighting, and the ''principles'' for which we are fighting ... You have an opportunity to contribute enormously to your country and the cause of freedom. Are you aware of that, sir?<ref>Capra 1971, p. 326.</ref>}}
+
+The films included the seven-episode ''[[Why We Fight]]'' series – consisting of ''[[Prelude to War]]'' (1942), ''[[The Nazis Strike]]'' (1942), ''[[Divide and Conquer (newsreel)|Divide and Conquer]]'' (1943), ''[[The Battle of Britain]]'' (1943),  ''[[The Battle of Russia]]'' (1943), ''[[The Battle of China]]'' (1944), ''[[War Comes to America]]'' (1945)&nbsp;– plus ''[[Know Your Enemy: Japan]]'' (1945), ''[[Here Is Germany]]'' (1945), ''[[Tunisian Victory]]'' (1945), and ''[[Two Down and One to Go]]'' (1945) that do not bear the ''[[Why We Fight]]'' banner; as well as the [[African-American]] related film, ''[[The Negro Soldier]]'' (1944).
+
+After completion of the first few documentaries, government officials and U.S. Army staff found them to be powerful messages and excellent presentations of why it was necessary for the U.S. to fight in the war. All footage came from military and government sources, whereas during earlier years, many newsreels secretly used footage from enemy sources. Animated charts were created by [[Walt Disney]] and his animators. A number of Hollywood composers wrote the background music, including [[Alfred Newman (composer)|Alfred Newman]] and Russian-born composer [[Dimitri Tiomkin]]. After the first complete film was viewed by General Marshall along with U.S. Army staff, Marshall approached Capra: "Colonel Capra, how did you do it? That is a most wonderful thing."<ref>Capra 1971, p. 341.</ref>
+
+Officials made efforts to see that the films were seen in theaters throughout the U.S. They were translated into French, Spanish, Portuguese, and Chinese for use by other countries. [[Winston Churchill]] ordered that ''all'' of them be shown to the British public in theaters.<ref>Capra 1971, p. 336.</ref> They are today often broadcast on television and used as a teaching aid.<ref name=Friedman/>
+
+The ''[[Why We Fight]]'' series is widely considered a masterpiece of war information documentaries, and won an Academy Award. ''[[Prelude to War]]'' won the 1942 [[Academy Award for Documentary Feature]]. When his career ended, Capra regarded these films as his most important works. As a [[Colonel (United States)|colonel]], he received the Legion of Merit in 1943 and the Distinguished Service Medal in 1945.
+
+==Post-war career (1946–1961)==
+
+===''It's a Wonderful Life'' (1946)===
+[[Image:Guardian angel clarence.jpg|155px|right|thumbnail|[[Henry Travers]] and [[James Stewart]]]]
+After the war ended, along with directors [[William Wyler]] and [[George Stevens]], Capra founded [[Liberty Films]]. Their studio became the first independent company of directors since United Artists in 1919 whose goal was to make films without interference by studio bosses. However, the only picture completed by the studio was ''[[It's a Wonderful Life]]'' (1946).<ref name=Stevens/> It was a box office disappointment, but was nonetheless nominated for five [[Academy Award]]s.
+
+The [[American Film Institute]] named it one of the best films ever made, putting it at the top of the list of [[AFI's 100 Years... 100 Cheers]], a list of what AFI considers to be the most inspirational American movies of all time. The film also appeared in another AFI Top 100 list: it placed at 11th on [[AFI's 100 Years... 100 Movies]] list of the top American films. It would become Capra's last important film and, although he directed five more films over the next 14 years, his successful years were now behind him.<ref name=Stevens/>
+
+For ''[[State of the Union (film)|State of the Union]]'' (1948), Capra changed studios, working for the only time for [[MGM Pictures]]. Although the project had an excellent pedigree with stars [[Spencer Tracy]] and [[Katharine Hepburn]], the film was not a success, and Capra's eyebrow-raising statement, "I think ''State of the Union'' was my most perfect film in handling people and ideas" has few adherents today.<ref>Poague 2004, p. 180.</ref>
+
+===Representing U.S. at International Film Festival===
+In January 1952, Capra was requested by the U.S. Ambassador to India to represent the U.S. film industry at the International Film Festival to be held in India. A State Department friend of Capra asked him and explained why his trip would be important:
+{{quote|[Ambassador] Bowles thinks the Festival is a Communist shenanigan of some kind, but he doesn't know what ... Bowles has asked for ''you''. "I want a free-wheeling guy to take care of our interest on his own. I want Capra. His name is big here, and I've heard he's quick on his feet in an alley fight."<ref>Capra 1971, p. 429.</ref>}}
+
+After two weeks in India, Capra discovered that Bowles' fears were warranted, as many film sessions were used by Russian and Chinese representatives to give long political speeches. At a lunch with 15 Indian directors and producers, he stressed that "they must preserve freedom as artists, and that any government control would hinder that freedom. A [[totalitarian system]] –  and they would become nothing but publicity men for the party in power." Capra had a difficult time communicating this, however, as he noted in his diary:
+{{quote|They all think some super-government or super-collection of individuals dictates all American pictures. Free enterprise is mystery to them. Somebody ''must'' control, either visible or invisible ... Even intellectuals have no great understanding of liberty and freedom ... Democracy only a theory to them. They have no idea of service to others, of service to the poor. The poor are despised, in a sense.<ref>Capra 1971, p. 433.</ref>}}
+
+When he returned to Washington to give his report, Secretary of State [[Dean Acheson]] gave Capra his commendation for "virtually single-handedly forestalling a possible Communist take-over of Indian films." Ambassador Bowles also conveyed gratitude to Capra for "one helluva job."<ref>Capra 1971, p. 437.</ref>
+
+===Disillusionment period and Later Years===
+Although ''[[It's a Wonderful Life]]'' and ''[[State of the Union (film)|State of the Union]]'' were successful soon after the war ended, Capra's themes were becoming out of step with changes in the film industry and the public mood. Friedman finds that while Capra's ideas were popular with depression-era and prewar audiences, they became less relevant to a prospering post-war America. Capra had become "disconnected from an American culture that had changed" during the previous decade.<ref name=Friedman/> Biographer [[Joseph McBride (writer)|Joseph McBride]] argues that Capra's disillusionment was more related to the negative effect that the [[House Un-American Activities Committee]] (HUAC) had on the film industry in general. The HUAC interrogations in the early 1950s ended many Hollywood careers. Capra himself was not called to testify, although he was a prime target of the committee due to his past associations with many [[Hollywood blacklist]]ed screenwriters.<ref name=Friedman/>
+
+Capra blames his early retirement from films on the rising power of stars, which forced him to continually compromise his artistic vision. He also claims that increasing budgetary and scheduling demands were constraining his creative abilities.<ref name=Friedman/> Film historian [[Michael Medved]] agrees with and understands Capra's impressions, noting that he walked away from the movie business because "he refused to adjust to the cynicism of the new order."<ref name=Medved>Medved 1992, p. 279.</ref> In his autobiography written in 1971, Capra expressed his feelings about the shifting film industry:<ref>Capra 1971, p. 486.</ref>
+
+{{quote|The winds of change blew through the dream factories of make-believe, tore at its crinoline tatters.... The hedonists, the homosexuals, the hemophiliac bleeding hearts, the God-haters, the quick-buck artists who substituted shock for talent, all cried: "Shake 'em! Rattle 'em! God is dead. Long live pleasure! Nudity? Yea! Wife-swapping? Yea! Liberate the world from prudery. Emancipate our films from morality!".... Kill for thrill – shock! Shock! To hell with the good in man, Dredge up his evil – shock! Shock!<ref name=Medved/>}}
+
+Capra added that in his opinion, "practically all the Hollywood film-making of today is stooping to cheap salacious pornography in a crazy bastardization of a great art to compete for the 'patronage' of deviates and masturbators."<ref>Capra 1971, p. 400.</ref>{{#tag:ref| Medved points out the irony in Capra's expression of disillusionment: Capra's film ''It Happened One Night'' (1934) was the first film to win all five top Oscars; and in 1991, a few months after Capra's death, ''[[The Silence of the Lambs (film)|The Silence of the Lambs]]'' also won all five top Oscars. Medved observes that the film, "a pitch-dark thriller about transvestite and cannibalistic serial killers" would later equal Capra's earlier achievement.<ref name=Medved/>|group=Note}}
+
+Capra remained employable in Hollywood during and after the HUAC hearings, but chose nonetheless to demonstrate his loyalty by attempting to re-enlist in the Army at the outbreak of the [[Korean War]], in 1950. He was rejected due to his age.{{citation needed|date=June 2012}} He was later invited to join the Defense Department's newly formed Think Tank project, VISTA, but was denied the necessary clearance. According to Friedman, "these two rejections were devastating to the man who had made a career of demonstrating American ideals in film", along with his directing award-winning documentary films for the Army. By 1952, at the age of 55, Capra effectively retired from Hollywood filmmaking and spent his later years working with [[Caltech]], his alma mater, to produce educational films on science topics.<ref name=Friedman/>
+
+===Later films (1950–1961)===
+Capra directed two films at [[Paramount Pictures]] starring [[Bing Crosby]], ''[[Riding High (1950 film)|Riding High]]'' (1950) and ''[[Here Comes the Groom]]'' (1951). From 1952 to 1956, Capra produced four science-related television specials in color for [[The Bell Laboratory Science Series]]: ''[[Our Mr. Sun]]'' (1956), ''[[Hemo the Magnificent]]'' (1957), ''[[The Bell Laboratory Science Series#The Strange Case of the Cosmic Rays (1957)|The Strange Case of the Cosmic Rays]]'' (1957), and ''[[The Bell Laboratory Science Series#The Unchained Goddess (1958)|Meteora: The Unchained Goddess]]'' (1958). These educational science documentaries were popular favorites for school science classrooms.<ref>Capra 1997, p. 443.</ref> It was eight years before he directed another theatrical film, ''[[A Hole in the Head]]'' (1959) with [[Frank Sinatra]] and [[Edward G. Robinson]], his first feature film in color.
+Capra's final theatrical film was with [[Glenn Ford]] and [[Bette Davis]], named ''[[Pocketful of Miracles]]'' (1961), a remake of his 1933 film ''[[Lady for a Day]]''. In the mid-1960s he worked on pre-production for an adaptation of Martin Caidin's novel ''[[Marooned (novel)|Marooned]],'' but budgetary constraints caused him to eventually shelve it.<ref>[http://www.tcm.com/thismonth/article.jsp?cid=151873&mainArticleId=151863 " 'Marooned'."] ''tcm.com.'' Retrieved: September 26, 2010.</ref>
+
+Capra's final film, ''[[Rendezvous in Space]]'' (1964), was an industrial film made for the [[Martin Marietta]] Company and shown at the [[1964 New York World's Fair]]. It was exhibited at the [[New York Hall of Science]] after the Fair ended.
+
+==Directing style==
+Capra's directing style relied on improvisation to a great extent. He was noted for going on the set with no more than the master scenes written. He explained his reasoning:
+{{quote|What you need is what the scene is about, who does what to whom, and who cares about whom ... All I want is a master scene and I'll take care of the rest – how to shoot it, how to keep the machinery out of the way, and how to focus attention on the actors at all times.<ref name="Wakeman p. 102"/>}}
+
+According to some experts, Capra used great, unobtrusive craftsmanship when directing, and felt it was bad directing to distract the audience with fancy technical gimmicks. Film historian and author William S. Pechter described Capra's style as one "of almost classical purity." He adds that his style relied on editing to help his films sustain a "sequence of rhythmic motion." Pechter describes its effect:
+{{quote|Capra's [editing] has the effect of imposing order on images constantly in motion, imposing order on chaos. The end of all this is indeed a kind of beauty, a beauty of controlled motion, more like dancing than painting ... His films move at a breathtaking clip: dynamic, driving, taut, at their extreme even hysterical; the unrelenting, frantic acceleration of pace seems to spring from the release of some tremendous accumulation of pressure.<ref name="Wakeman p. 102"/>}}
+
+Film critic John Raeburn discusses an early Capra film, ''[[American Madness]]'' (1932), as an example of how he had  mastered the movie medium and expressed a unique style:
+{{quote|The tempo of the film, for example, is perfectly synchronized with the action ... As the intensity of the panic increases, Capra reduces the duration of each shot and uses more and more crosscutting and jump shots to emphasize the "madness" of what is happening ... Capra added to the naturalistic quality of the dialogue by having speakers overlap one another, as they often do in ordinary life; this was an innovation that helped to move the talkies away from the example of the legitimate stage.<ref name="Wakeman p. 98">Wakeman 1987, p. 98.</ref>}}
+
+As for Capra's subject matter, film author Richard Griffith tries to summarize Capra's common theme:
+{{quote|[A] messianic innocent ... pits himself against the forces of entrenched greed. His inexperience defeats him strategically, but his gallant integrity in the face of temptation calls for the goodwill of the "little people", and through their combined protest, he triumphs.<ref name="Wakeman p. 102">Wakeman 1987, p. 102.</ref>}}
+
+Capra's personality when directing gave him a reputation for "fierce independence" when dealing with studio bosses. On the set he was said to be gentle and considerate, "a director who displays absolutely no exhibitionism."<ref name="Wakeman p. 103">Wakeman 1987, p. 103.</ref>
+
+Because Capra's films often carry a message about basic goodness in human nature, and show the value of unselfishness and hard work, his wholesome, feel-good themes have led some cynics to term his style "Capra-corn." However, those who hold his vision in higher regard prefer the term "Capraesque".<ref name=Friedman>Pendergast 2000, pp. 428–429.</ref>
+
+Capra's basic themes of championing the common man, as well as his use of spontaneous, fast-paced dialogue and goofy, memorable lead and supporting characters, made him one of the most popular and respected filmmakers of the 20th century. His influence can be traced in the works of many directors, including [[Robert Altman]],<ref name="dvdtalk.com">[http://www.dvdtalk.com/reviews/25265/premiere-frank-capra-collection-the/ "The Premiere Frank Capra Collection."] ''DVD Talk Review of the DVD Video.'' Retrieved: September 26, 2010.</ref> [[Ron Howard]],<ref name="dvdtalk.com"/> [[Masaki Kobayashi]],<ref>Christian, Diane and Bruce Jackson. [http://csac.buffalo.edu/harakiri.pdf "The Buffalo Film Seminars: Hara Kari (1962), directed by Masaki Kobayashi."] ''csac.buffalo.edu,'' February 26, 2008. Retrieved: September 26, 2010.</ref> [[Akira Kurosawa]],<ref>[http://www.bampfa.berkeley.edu/filmseries/kurosawa_centennial "BAM/PFA Film Programs: Kurosawa."] ''banpfa.berkeley.edu.'' Retrieved: September 26, 2010.</ref> [[John Lasseter]],<ref>Day, Aubrey  [http://www.totalfilm.com/features/interview-john-lasseter/page:13 "Film features: Interview: John Lasseter."] ''totalfilm.com,'' June 3, 2009. Retrieved: September 26, 2010.</ref> [[David Lynch]],<ref>Barney 2009, pp. 35, 119, 265.</ref> [[John Milius]],<ref name="dvdtalk.com"/> [[Martin Scorsese]],<ref name="dvdtalk.com"/> [[Steven Spielberg]],<ref>[http://projects.latimes.com/hollywood/star-walk/frank-capra/ "Frank Capra: Hollywood Star Walk."] ''The Los Angeles Times,'' September 3, 1991. Retrieved: September 26, 2010.</ref> [[Oliver Stone]]<ref name="dvdtalk.com"/> and [[François Truffaut]] <ref>Dixon 1993, p. 150.</ref>
+
+==Personal life==
+Capra married actress Helen Howell in 1923; they divorced in 1928. He married Lucille Warner in 1928, with whom he had a daughter and three sons, one of whom died in infancy.
+
+Capra was four times president of the [[Academy of Motion Picture Arts and Sciences]] and three times president of the [[Directors Guild of America]], which he helped found. Under his presidency, he worked to give directors more artistic control of their films. During his career as a director, he retained an early ambition to teach science, and after his career declined in the 1950s, he made educational TV films related to science subjects.<ref name="Wakeman p. 103"/>
+
+Physically, Capra was short, stocky, and vigorous, and enjoyed outdoor activities such as hunting, fishing, and mountain climbing. In his much later years, he spent time writing short stories and songs, along with playing his guitar.<ref name="Wakeman p. 103"/> He collected fine and rare books during the 1930s and '40s. His 'Distinguished Library' was sold at auction in New York in 1949, realizing over $68,000.
+
+His son [[Frank Capra, Jr.]], one of the four children born to Capra and his second wife, Lucille Capra, was the president of [[Screen Gems|EUE Screen Gems Studios]], in [[Wilmington, North Carolina]], until his death on December 19, 2007. His grandson, [[Frank Capra III]], is a Hollywood director and worked as an assistant director in the 1995 film ''[[The American President]]'', which referred to Capra in the film's dialogue.
+
+==Death==
+In 1985, at age 88, Capra suffered one of a series of strokes.<ref>Lambert, Gavin. [http://articles.latimes.com/1992-05-17/books/bk-561_1_frank-capra "Book review: "The World Outside the Pictures: 'Frank CAapra: The Catastrophe of Success'."] ''The Los Angeles Times'', May 27, 1992.</ref> Capra died in [[La Quinta, California]], of a [[myocardial infarction|heart attack]] in his sleep in 1991 at the age of 94.<ref>[http://www.filmreference.com/film/9/Frank-Capra.html "Frank Capra Biography."] ''FilmReference.com''. Retrieved: April 15, 2015.</ref> He was interred in the [[Coachella Valley Public Cemetery]] in [[Coachella, California]].<ref>Brooks 2006, p. 248.</ref>
+
+He left part of his {{convert|1100|acre|km2|0|sing=on}} ranch in [[Fallbrook, California]], to [[Caltech]] as a retreat center.<ref name="caltechyhistory">[http://www.caltechy.org/about/history/75years/ "75th Year Booklet: The Caltech Y History."] ''caltechy.org.'' Retrieved: July 24, 2011.</ref>  Capra's personal papers and some film related materials are contained in the [[Wesleyan University]] Cinema Archives, which allows scholars and media experts full access.<ref>[http://www.wesleyan.edu/cinema/collections/capra.htm#bio "Description of the Capra Collection."] ''wesleyan.edu''. Retrieved: 23 March 2010.</ref>
+
+==Political beliefs==
+Capra’s political beliefs coalesced in his films, which promoted and celebrated the spirit of American individualism. A conservative Republican, Capra railed against [[Franklin Delano Roosevelt]] during his tenure as governor of New York State, and opposed his presidency during the years of the Depression. Capra stood against government intervention during the national economic crisis.<ref>Wilson 2013, p. 266.</ref>
+
+==Legacy==
+During the golden age of Hollywood, Capra's "fantasies of goodwill" made him one of the two or three most famous and successful directors in the world.<ref name="Wakeman p. 103"/> Film historian [[Ian Freer]] notes that at the time of his death in 1991, his legacy remained intact:
+{{quote|He had created feelgood entertainments before the phrase was invented, and his influence on culture – from Steven Spielberg to David Lynch, and from television soap operas to greeting-card sentiments – is simply too huge to calculate.<ref name=Freer/>}}
+
+Director/actor [[John Cassavetes]] contemplating Capra’s contribution to the art of film quipped: "Maybe there really wasn't an America, it was only Frank Capra." <ref>Lazere 1987, p. 178.</ref> Capra’s films were his love letters to an idealized America –  a cinematic landscape of his own invention. The performances his actors gave were invariable portrayals of  personalities developed into recognizable images of popular culture, "their acting has the bold simplicity of an icon..."  <ref>Dickstein 2010, pp. 479–480.</ref>
+
+Like his contemporary, director [[John Ford]], Capra defined and aggrandized the tropes of mythic America where individual courage invariably triumphs over collective evil. Film historian Richard Griffith speaks of Capra's "...reliance on sentimental conversation and the ultimate benevolence of ordinary America to resolve all deep conflicts." <ref name="Dickstein  2010, p. 479">Dickstein  2010, p. 479.</ref> "Average America" is visualized  as "...a tree lined street, undistinguished frame houses surrounded by modest areas of grass, a few automobiles. For certain purposes it assumed that all ''real ''Americans live in towns like this, and so great is the power of myth, even the born city-dweller is likely to believe vaguely that he too lives on this shady street, or comes from it, or is going to."  <ref>Dickstein 2010, p. 480.</ref>
+
+NYU Professor of Humanities and Performing Arts, Leonard Quart writes:
+
+"There would be no enduring conflicts – harmony, no matter how contrived and specious, would ultimately triumph in the last frame...In true Hollywood fashion, no Capra film would ever suggest that social change was a complex, painful act. For Capra, there would be pain and loss, but no enduring sense of tragedy would be allowed to intrude on his fabulist world." <ref name="Dickstein  2010, p. 479"/>
+The theatre screen was the mirror in front of which American movie audiences sat enamored with the reflected images of their better selves–an idealistic storybook America.
+
+Although Capra's stature as a director had declined in the 1950s, his films underwent a revival in the 1960s:
+{{quote|Ten years later, it was clear that this trend had reversed itself. Post-[[auteur]]ist critics once more acclaimed Capra as a cinematic master, and perhaps more surprisingly, young people packed Capra festivals and revivals all over the United States.<ref name="Wakeman p. 103"/>}}
+
+French film historian John Raeburn, editor of ''[[Cahiers du cinéma]]'', notes that Capra's films were unknown in France, but there too his films underwent a fresh discovery by the public. He believes the reason for his renewed popularity had to do with his themes, which he made credible "an ideal conception of an American national character":
+{{quote|There is a strong libertarian streak in Capra's films, a distrust of power wherever it occurs and in whomever it is invested. Young people are won over by the fact that his heroes are uninterested in wealth and are characterized by vigorous ... individualism, a zest for experience, and a keen sense of political and social justice. ... Capra's heroes, in short, are ideal types, created in the image of a powerful national myth.<ref name="Wakeman p. 103"/>}}
+
+In 1982, the [[American Film Institute]] honored Capra by giving him their [[AFI Life Achievement Award]]. The event was used to create the television film, ''The American Film Institute Salute to Frank Capra'', hosted by James Stewart. In 1986, Capra received the [[National Medal of Arts]].
+
+During his acceptance speech for the AFI award, Capra stressed his most important values:
+{{quote|The art of Frank Capra is very, very simple: It's the love of people. Add two simple ideals to this love of people: the freedom of each individual, and the equal importance of each individual, and you have the principle upon which I based all my films.}}
+
+Capra expanded on his visions in his 1971 autobiography, ''The Name Above the Title'':
+{{quote|Forgotten among the hue-and criers were the hard-working stiffs that came home too tired to shout or demonstrate in streets ... and prayed they'd have enough left over to keep their kids in college, despite their knowing that some were pot-smoking, parasitic parent-haters.<br><br> Who would make films about, and for, these uncomplaining, unsqueaky wheels that greased the squeaky? Not me. My "one man, one film" Hollywood had ceased to exist. Actors had sliced it up into capital gains. And yet – mankind needed dramatizations of the truth that man is essentially good, a living atom of divinity; that compassion for others, friend or foe, is the noblest of all virtues. Films must be made to say these things, to counteract the violence and the meanness, to buy time to demobilize the hatreds.<ref>Capra 1971, p. 468.</ref>}}
+
+==Awards and honors==
+In 1957, Capra was awarded the George Eastman Award, given by [[George Eastman House]] for distinguished contribution to the art of film.<ref>[http://www.eastmanhouse.org/museum/awards.php "Awards granted by George Eastman House International Museum of Photography & Film"] ''[[George Eastman House]]''. Retrieved: April 30, 2012.</ref>
+
+Los Angeles Mayor [[Sam Yorty]], by vote of the city council, declared May 12, 1962 as "Frank Capra Day." [[George Sidney]], President of the [[Directors Guild]], stated that "This is the first time in the history of Hollywood, that the city of Los Angeles has officially recognized a creative talent." At the event ceremony, director [[John Ford]] announced that Capra had also received the [[Order of British Empire]] (OBE) on the recommendation of [[Winston Churchill]].<ref name="Capra 1971 p. 488">Capra 1971, p. 488.</ref> Ford suggested publicly to Capra:
+{{quote|Make those human comedy-dramas, the kind only you can make – the kind of films America is proud to show here, behind the iron curtain, the bamboo curtain – and behind the lace curtain.<ref name="Capra 1971 p. 488"/>}}
+
+An annual ''[[It's a Wonderful Life]]'' celebration that Capra attended in 1981, during which he said, "This is one of the proudest moments of my life," was recounted in  [[The New Yorker]].<ref>"Talk of the Town." ''The New Yorker,'' January 12, 1981, pp. 29–31.</ref>
+
+===Academy Awards===
+Capra won five Academy Awards. He was nominated six times for Best Director and seven times for Outstanding Production/Best Picture. Out of six nominations for Best Director, Capra received the award three times. He briefly held the record for winning the most Best Director Oscars when he won for the third time in 1938, until this record was matched by [[John Ford]] in 1941, and then later surpassed by Ford in 1952. [[William Wyler]] also matched this record upon winning his third Oscar in 1959.
+
+==Filmography==
+{{main|Frank Capra filmography}}
+<!-- redundant---==Frank Capra Bibliography==
+{{main|Frank Capra bibliography}}---see talk in other article--->
+
+==See also==
+* [[The Bell Laboratory Science Series]]
+* [[Diptendu Pramanick|Frank Capra at the First International Film Festival of India, 1952]]
+
+==Notes==
+{{notelist}}
+{{Reflist|group=Note}}
+
+==Citations==
+{{Reflist|colwidth=30em}}
+
+==Bibliography==
+{{Refbegin}}
+* Barney, Richard A. [http://books.google.com/books?id=ZGk0J0HgmcsC&pg=PA119&lpg=PA119&dq=David+Lynch+capra&source=bl&ots=DaJB386C39&sig=qvyiXXuWFsIXxK5Y3tR1xs_bWP0&hl=en&ei=ujxfTNyNK8K88galh820DQ&sa=X&oi=book_result&ct=result&resnum=9&ved=0CC4Q6AEwCA#v=onepage&q=Capra&f=false ''David Lynch: Interviews''] (Conversations with Filmmakers Series). Jackson, Mississippi: University Press of Mississippi, 2009. ISBN 978-1-60473-237-5.
+* Barson, Michael. ''The Illustrated Who's Who of Hollywood Directors: The Sound Era. '' New York: Noonday Press, 1995. ISBN 0-374-52428-9.
+* Beauchamp, Cari. ''Joseph P. Kennedy Presents: His Hollywood Years.'' New York: Vintage, 2010. ISBN 978-0-307-47522-0.
+* Brooks, Patricia and Johnathan. "Chapter 8: East L.A. and the Desert." ''Laid to Rest in California: A Guide to the Cemeteries and Grave Sites of the Rich and Famous''. Guilford, Connecticut: Globe Pequot Press, 2006. ISBN 978-0-7627-4101-4.
+* Capra, Frank. ''Frank Capra, The Name Above the Title: An Autobiography''. New York: The Macmillan Company, 1971. ISBN 0-306-80771-8.
+* [[Charlotte Chandler|Chandler, Charlotte]]. ''The Girl Who Walked Home Alone: Bette Davis, A Personal Biography''. New York: Simon & Schuster, 2006. ISBN 0-7862-8639-3.
+* Dickstein, Morris. ''Dancing in The Dark: A Cultural History of The Great Depression.'' New York:  W.W. Norton & Company, 2010. ISBN 978-0-393-07225-9.
+* Dixon, Wheeler W. [http://books.google.com/books?id=XP4Ugr7Bv8UC&printsec=frontcover&dq=Francois+Truffaut+capra&source=bl&ots=DQDvtwKIXq&sig=fPbpyDH3t30aOZZf-ffcqCCqJeY&hl=en&ei=NT1fTJ-nFcO88ga0isXCDQ&sa=X&oi=book_result&ct=result&resnum=2&ved=0CBYQ6AEwAQ#v=onepage&q=Capra&f=false ''The Early Film Criticism of Francois Truffaut.''] Bloomington, Indiana: Indiana University Press, 1993. ISBN 978-0-253-20771-5.
+* Freer, Ian. ''Movie Makers: 50 Iconic Directors from Chaplin to the Coen Brothers.'' London: Quercus Publishing Plc, 2009. ISBN 978-1-84724-512-0.
+* Kotsabilas-Davis, James and [[Myrna Loy]]. ''Being and Becoming''. New York: Primus, Donald I Fine Inc., 1987. ISBN 1-55611-101-0.
+* Lazere, Donald. ''American Media and Mass Culture: Left Perspectives.'' Berkeley, California: University of California Press, 1987. ISBN 978-0-520-04496-8.
+* Medved, Michael. ''Hollywood vs. America: Popular Culture and the War on Traditional Values.'' New York:  HarperCollins, 1992. ISBN 978-0-06-016882-7.
+* [[Joseph McBride (writer)|McBride, Joseph]]. ''Frank Capra: The Catastrophe of Success''. New York: Touchstone Books, 1992. ISBN 0-671-79788-3.
+* Oderman, Stuart. ''Talking To the Piano Player: Silent Film Stars, Writers and Directors Remember''. Albany, Georgia: BearManor Media, 2005. ISBN 1-59393-013-5.
+* Poague, Leland. ''Frank Capra: Interviews'' (Conversations With Filmmakers Series). Jackson, Mississippi: University Press of Mississippi, 2004. ISBN 978-1-57806-617-9.
+* Pendergast, Tom and Sara, eds. ''St. James Encyclopedia of Popular Culture, Vol. 1.'' Detroit: St. James Press, 2000. ISBN 1-55862-348-5.
+* Stevens, George Jr. ''Conversations with the Great Moviemakers of Hollywood's Golden Age.'' New York: Alfred A. Knopf, 2006. ISBN 978-1-4000-4054-4.
+* Wakeman, John, ed. ''World Film Directors: Volume One, 1890–1945.'' New York: H.W. Wilson Co., 1987. ISBN 978-0-8242-0757-1.
+* Wiley, Mason and Damien Bona. ''Inside Oscar: The Unofficial History of the Academy Awards''. New York: Ballantine Books, 1987. ISBN 0-345-34453-7.
+* Wilson, Victoria. ''A Life of Barbara Stanwyck: Steel-True 1907–1940''. New York: Simon & Schuster, 2013, ISBN 978-0-6848-3168-8.
+{{Refend}}
+
+==External links==
+{{Commons category}}
+* [http://xroads.virginia.edu/~MA97/halnon/capra/home.html Capra Smith and Doe: Filming the American Hero] from American Studies at the University of Virginia
+* {{IMDb name|1008}} Retrieved on May 19, 2009
+* {{tcmdb name|28439}} Retrieved on May 19, 2009
+* [http://film.virtual-history.com/person.php?personid=1732 Bibliography]
+* [http://www.bfi.org.uk/sightandsound/feature/49664 Capra before he became "Capraesque"] [[British Film Institute|BFI]] [[Sight & Sound]] magazine November 2010 article on Capra's early career, by [[Joseph McBride (writer)|Joseph McBride]]
+* [http://nhinet.org/sullivan18-1&2.pdf "Sentimental Hogwash?: On Capra's ''It's A Wonderful Life''", ''Humanitas'', Vol. XVIII, No's 1&2, 2005]
+* [http://www.crisismagazine.com/2011/the-catholic-vision-of-frank-capra "The Catholic Vision of Frank Capra", Crisis Magazine, October 2011]
+* {{Find a Grave|171|work=Motion picture director, writer, producer|author=A. J. Mack|date=January 1, 2001|accessdate=July 1, 2011}}
+
+===Video clips===
+;10th annual [[American Film Institute|AFI]] Life Achievement Award ceremony, 1982
+* {{YouTube|id=YhMyKpV3UIk|title=Frank Capra introduced}}
+* {{YouTube|id=t746ZVw09P4|title=Frank Capra accepts Life Achievement Award}}
+* {{YouTube|id=PgYXldIUJqU|title=Charlton Heston introduction}}
+* {{YouTube|id=1AGbKhMDXoY|title=James Stewart at the "Tribute to Frank Capra"}}
+* {{YouTube|id=HV9Ovo7rVcs|title=Bette Davis at the "Tribute to Frank Capra"}}
+* {{YouTube|id=MN4sBkMM--k&NR|title=Jack Lemmon at the "Tribute to Frank Capra"}}
+* {{YouTube|id=wopQkpYnnoA&NR|title=Frank Capra receiving Academy Awards}}
+
+;Misc documentaries
+* {{Internet Archive short film|id=our_mr_sun|name="Our Mr. Sun (1956)"}}
+
+;War documentaries
+* {{Internet Archive short film|id=gov.dod.dimoc.20361|name="Attack! Battle of New Britain (1944)"}} Producer
+* {{Internet Archive film|id=AttackinthePasific|name="Attack in the Pacific (1944)"}}
+* {{Internet Archive film|id=HERE_IS_GERMANY|name="Here is Germany (1945)"}}
+* {{Internet Archive film|id=gov.archives.arc.36080|name="Know Your Ally&nbsp;– Britain (1944)"}} Producer
+* {{Internet Archive short film|id=gov.fdr.31|name="The Negro Soldier (1943)"}} Producer
+* {{Internet Archive short film|id=battle_of_san_pietro|name="The Battle of San Pietro (1945)"}} Co-Supervising Producer
+* {{Internet Archive film|id=TunisianVictory1944|name="Tunisian Victory (1944)"}}
+* {{Internet Archive short film|id=TwoDownandOnetoGo|name="Two Down and One to Go (1945)"}}
+* {{Internet Archive short film|id=YourJobInGermany1945|name="Your Job In Germany (1945)"}}
+
+;Movie trailers and interviews
+* {{Internet Archive film clip|id=ItHappenedOneNightTrailer|description="It Happened One Night trailer (1934)"}}
+* {{YouTube|id=GaYi4RxEOHc|title=Mr. Deeds Goes to Town(1936)}}
+* {{YouTube|id=SxKoaIq6DcY|title=Lost Horizon (1937)}}
+** {{YouTube|id=EE2VUhGDu5Y|title=Discussing Lost Horizon on Dick Cavett Show}}
+* {{YouTube|id=sm9qaEJ3MBc|title=Mr. Smith Goes to Washington (1939)}}
+* {{YouTube|id=9j3gdbdnoEk|title=Meet John Doe (1941)}}
+* {{YouTube|id=LJfZaT8ncYk|title=It's a Wonderful Life (1946)}}
+* {{YouTube|id=Z00CUH_B31w|title=State of the Union (1948)}}
+* {{YouTube|id=xwn6MwQbEFc|title=A Hole in the Head (1959)}}
+
+;Feature films
+* {{Internet Archive film|id=meet_john_doe|name="Meet John Doe (1941)"}}
+
+===Audio clips===
+* [https://archive.org/details/FrankCapraAtTheSanFranciscoInternationalFestival Frank Capra at the 1971 San Francisco International Festival]
+
+{{S-start}}
+{{S-npo}}
+{{s-bef|before= [[Frank Lloyd]]}}
+{{s-ttl|title = [[Academy of Motion Picture Arts and Sciences#Presidents of the Academy|President of the Academy of Motion Picture Arts and Sciences]]|years = 1935–1939}}
+{{s-aft|after = [[Walter Wanger]]}}
+{{s-end}}
+
+{{Frank Capra}}
+{{Why We Fight}}
+{{AcademyAwardBestDirector 1927–1940|state=autocollapse}}
+{{AcademyAwardshosts 1927–1940|state=autocollapse}}
+{{Portal bar|Biography}}
+{{Authority control}}
+
+{{Persondata 
+| NAME              = Capra, Frank
+| ALTERNATIVE NAMES = Capra, Francesco Rosario
+| SHORT DESCRIPTION = Film director
+| DATE OF BIRTH     = May 18, 1897
+| PLACE OF BIRTH    = Bisacquino, Sicily, Italy
+| DATE OF DEATH     = September 3, 1991
+| PLACE OF DEATH    = La Quinta, California, United States
+}}
+{{DEFAULTSORT:Capra, Frank}}
+[[Category:1897 births]]
+[[Category:1991 deaths]]
+[[Category:American anti-communists]]
+[[Category:American chemical engineers]]
+[[Category:American film directors]]
+[[Category:American Roman Catholics]]
+[[Category:American military personnel of Italian descent]]
+[[Category:American military personnel of World War I]]
+[[Category:American military personnel of World War II]]
+[[Category:Best Director Academy Award winners]]
+[[Category:Best Director Golden Globe winners]]
+[[Category:Presidents of the Academy of Motion Picture Arts and Sciences]]
+[[Category:Presidents of the Directors Guild of America]]
+[[Category:California Institute of Technology alumni]]
+[[Category:California Republicans]]
+[[Category:Cardiovascular disease deaths in California]]
+[[Category:Deaths from myocardial infarction]]
+[[Category:American film directors of Italian descent]]
+[[Category:Italian emigrants to the United States]]
+[[Category:People from the Province of Palermo]]
+[[Category:Propaganda film directors]]
+[[Category:Recipients of the Distinguished Service Medal (United States)]]
+[[Category:American people of Sicilian descent]]
+[[Category:United States National Medal of Arts recipients]]
+[[Category:Burials at Coachella Valley Public Cemetery]]
+[[Category:American male screenwriters]]
+[[Category:American film producers]]
+[[Category:United States Army Air Forces officers]]
+[[Category:First Motion Picture Unit personnel]]
+[[Category:United States Army officers]]

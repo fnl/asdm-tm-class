@@ -1,0 +1,575 @@
+{{pp-semi-protected|small=yes}}
+{{Use dmy dates|date=March 2013}}
+{{Use Australian English|date=January 2013}}
+{{Infobox person
+| name           = Hugh Jackman
+| image          = Hugh Jackman 2015 04.jpg
+| caption        = Jackman in 2015
+| alt            = <!--- see [[WP:ALT]] --->
+| birth_name     = Hugh Michael Jackman
+| birth_date     = {{birth date and age|df=yes|1968|10|12}}
+| birth_place    = [[Sydney]], New South Wales, Australia
+| occupation     = Actor, producer, singer
+| years_active   = 1994–present
+| known_for      = ''[[X-Men (film series)|X-Men]]'', ''[[Van Helsing (film)|Van Helsing]]'', ''[[Tony Award]]'', ''[[81st Academy Awards]]'', ''[[Real Steel]]'', ''[[Les Misérables (2012 film)|Les Misérables]]'', ''[[Prisoners (2013 film)|Prisoners]]''
+| spouse         = {{marriage|[[Deborra-Lee Furness]]|1996}}
+| children       = 2 (adopted)
+}}
+
+'''Hugh Michael Jackman''' (born 12 October 1968)<ref>{{cite news|title=Monitor|newspaper=[[Entertainment Weekly]]|publisher=[[Time Inc.]]|date=12/19 Oct 2012|issue=1228/1229|page=23}}</ref> is an [[Australians|Australian]] actor, producer, and singer who is involved in film, musical theatre and television.
+
+Jackman has won international recognition for his roles in major films, notably as superhero, period, and romance characters. He is best known for his long-running role as [[Wolverine (character)|Wolverine]] in the [[X-Men (film series)|''X-Men'' film series]], as well as for his leads in the romantic-comedy fantasy ''[[Kate & Leopold]]'' (2001), the action-horror film ''[[Van Helsing (film)|Van Helsing]]'' (2004), the magic-themed drama ''[[The Prestige (film)|The Prestige]]'' (2006), the epic historical romantic drama ''[[Australia (2008 film)|Australia]]'' (2008), the sci-fi sports drama ''[[Real Steel]]'' (2011), the film version of ''[[Les Misérables (2012 film)|Les Misérables]]'' (2012), and the thriller ''[[Prisoners (2013 film)|Prisoners]]'' (2013). His work in ''Les Misérables'' earned him his first [[Academy Award]] nomination for [[Academy Award for Best Actor|Best Actor]] and his first [[Golden Globe Award for Best Actor – Motion Picture Musical or Comedy]] in 2013. He is also a singer, dancer, and actor in stage musicals, and won a [[Tony Award]] for his role in ''[[The Boy from Oz]]''.
+
+A four-time host of the Tony Awards, winning an [[Emmy Award]] for one of these appearances, Jackman also hosted the [[81st Academy Awards]] on 22 February 2009.
+
+==Early life==
+Jackman was born in [[Sydney]], [[New South Wales]], the son of Grace McNeil (née Greenwood) and Christopher John Jackman, a Cambridge-trained accountant.<ref>{{cite book|last=Sullivan|first=Leanne|title=Who's who in Australia|url=http://books.google.com/books?id=5es-AQAAIAAJ|accessdate=9 November 2013|year=2009|publisher=Crown Content|isbn=978-1-74095-166-1}}</ref><ref name=tegl12011>{{cite news|last=Illey|first=Chrissy|title=Hugh Jackman: The Wonderful Wizard of Oz|url=http://www.telegraph.co.uk/culture/film/8781262/Hugh-Jackman-The-Wonderful-Wizard-of-Oz.html|newspaper=[[The Daily Telegraph]]|date=3 October 2011|accessdate=9 November 2013|location=London}}</ref> His parents were English and had come to Australia in 1967 as part of the "[[Ten Pound Poms]]" immigration.<ref name=tegl12011/> One of his paternal great-grandfathers was [[Greeks|Greek]].<ref>{{cite web|url=http://www.star.gr/Pages/Lifestyle.aspx?art=229260&artTitle=chiou_tzakman_stis_fleves_mou_kylaei_elliniko_aima |script-title=el: Χιου Τζάκμαν: «Στις φλέβες μου κυλάει ελληνικό αίμα» |trans-title=Hugh Jackman: "Greek blood runs in my veins" |work=[[Star Channel]] |date=24 May 2014 |accessdate=9 December 2014 |quote=It is true, I have Greek origins. Bellas was the family name two generations back... I feel like I'm part Greek and I am actually by blood.}}</ref><ref>{{cite web|last=Jovic|first=Maja|url=http://neoskosmos.com/news/en/hugh-jackman-ready-for-greece |title= Jackman's ready for Greece |work=[[Neos Kosmos (newspaper)|Neos Kosmos]] |date=26 May 2014 |accessdate=9 December 2014 |quote=The family surname was Bellas. My great-grandfather, from my father's side, was Greek... It was an island, I think Ios, is that right? I have not been there yet, but my dad and his brother used to go a lot.}}</ref> His parents were devout Christians, having been converted by Evangelist [[Billy Graham]] after their marriage.<ref name=tegl12011/> Jackman has four older siblings, and was the second of his parents' children to be born in Australia.<ref name="bravo">{{cite episode|title = Hugh Jackman |episodelink = Inside the Actors Studio|series = Inside the Actors Studio|serieslink = Inside the Actors Studio|network = [[Bravo (US TV channel)|Bravo]]|airdate = |season = |number = }}; can be viewed at http://www.youtube.com/watch?v=Sf6DH_LKjro</ref> He also has a younger half-sister, from his mother's remarriage.<ref>{{cite news|title=Jackman's Sisterly Pride|url=http://www.teenhollywood.com/2004/05/21/jackmans-sisterly-pride|accessdate=9 November 2013|newspaper=Teen Hollywood|date=21 May 2004}}</ref> His parents divorced when he was eight, and Jackman remained in Australia with his father and Jackman's two brothers, while his mother moved back to England with Jackman's two sisters.<ref name=tegl12011/><ref>{{cite news|title=Hugh Jackman relishes performing|url=http://www.today.com/id/4893079|accessdate=9 November 2013|newspaper=[[Today.com]]|date=11 May 2004|agency=Associated Press}}</ref><ref>{{cite news|title=Hugh Jackman and his mum finally at peace|url=http://www.perthnow.com.au/entertainment/hugh-jackman-and-his-mum-finally-at-peace/story-e6frg30l-1225799467882|accessdate=9 November 2013|newspaper=[[Perth Now]]|date=18 November 2009}}</ref> As a child, Jackman liked the outdoors, spending a lot of time at the beach and on camping trips and school holidays all over Australia. He wanted to see the world: "I used to spend nights looking at atlases. I decided I wanted to be a chef on a plane. Because I'd been on a plane and there was food on board, I presumed there was a chef. I thought that would be an ideal job."<ref name="Biography Today">{{cite book |first=|title=Biography Today|year=2010|page=86|publisher=Omnigraphics|location=Detroit, Michigan |isbn=978-0-7808-1058-7}}</ref>
+
+Jackman went to primary school at Pymble Public School and later attended the all-boys [[Knox Grammar School]] on Sydney's [[Upper North Shore]], where he starred in its production of ''[[My Fair Lady]]'' in 1985, and became the school captain in 1986.<ref>{{cite news|last=Scobie |first=Claire |url=http://www.telegraph.co.uk/culture/film/starsandstories/3833405/Hugh-Jackman-X-appeal.html |title=Hugh Jackman: X Appeal |work=The Daily Telegraph |location=UK |date=18 December 2008 |accessdate=6 September 2010 }}</ref> Following graduation, he spent a [[gap year]] working at [[Uppingham School]] in England.<ref>{{cite news|title=Hollywood star, Hugh Jackman, returns to Uppingham|url=http://www.uppingham.co.uk/hollywood-star-hugh-jackman-returns-to-uppingham|accessdate=9 November 2013|newspaper=[[Uppingham School]]|date=25 May 2012}}</ref> On his return, he studied at the [[University of Technology, Sydney]], graduating in 1991 with a BA in [[Communication studies|Communications]].<ref>{{cite web|url=http://www.newsroom.uts.edu.au/news/detail.cfm?ItemId=11098|title=Alumnus Hugh Jackman honoured at UTS 20-year celebration|accessdate=27 May 2009}}</ref> In his final year of university, he took a drama course to make up additional credits. The class did [[Václav Havel]]'s [[The Memorandum]] with Jackman as the lead.<ref name="bravo"/> He later commented, "In that week I felt more at home with those people than I did in the entire three years [at university]".<ref>{{cite news|last=Lariviere|first=Serafin|title=Hugh Jackman on overcoming his fear of being called a poof|url=http://dailyxtra.com/toronto/arts-and-entertainment/hugh-jackman-overcoming-fear-called-poof|accessdate=9 November 2013|newspaper=Daily Xtra|date=29 June 2011}}</ref>
+
+After obtaining his BA, Jackman completed the one-year course "The Journey" at the Actors' Centre in Sydney.<ref name="bravo"/> About studying acting full-time, he stated, "It wasn't until I was 22 that I ever thought about my hobby being something I could make a living out of. As a boy, I'd always had an interest in theatre. But the idea at my school was that drama and music were to round out the man. It wasn't what one did for a living. I got over that. I found the courage to stand up and say, 'I want to do it'."<ref name="Biography Today">{{cite book |first=|title=Biography Today|year=2010|page=87|publisher=Omnigraphics|location=Detroit, Michigan |isbn=978-0-7808-1058-7}}</ref> After completing "The Journey", he was offered a role on the popular soap opera ''[[Neighbours]]'' but turned it down<ref>{{cite web|url=http://www.tiscali.co.uk/entertainment/film/biographies/hugh_jackman_biog/2.html|title=''home and away''|accessdate=27 May 2009}}</ref> to attend the [[Western Australian Academy of Performing Arts]] of [[Edith Cowan University]] in [[Perth, Western Australia]], from which he graduated in 1994.<ref>{{cite web|url=http://www.thewest.com.au/default.aspx?MenuID=77&ContentID=8095|title=Jackman back as boy from Waapa|accessdate=27 May 2009}} {{Dead link|date=September 2010|bot=H3llBot}}</ref>
+
+Jackman has said he "always loved acting but when I started at drama school I was like the dunce of the class. It just wasn't coming right to me. Everyone was cooler, everyone seemed more likely to succeed, everyone seemed more natural at it and in retrospect I think that is good. I think it is good to come from behind as an actor. I think it is good to go into an audition thinking 'Man I've got to be at my best to get this gig.'"<ref name="shavemagazine">{{cite web |url=http://www.shavemagazine.com/entertainment/interview-Hugh-Jackman/2 |title=Interview: Hugh Jackman |publisher=[[Shave (magazine)|Shave Magazine]] |first=Ziyah |last=Karmali |accessdate=8 November 2011}}</ref>
+
+==Career==
+
+===Early work===
+On the night of his final Academy graduation performance, Jackman received a phone call offering him a role on ''[[Correlli]]'': "I was technically unemployed for thirteen seconds." ''Correlli'', devised by Australian actress [[Denise Roberts]], was a 10-part drama series on ABC, Jackman's first major professional job, and where he met his future wife [[Deborra-Lee Furness]]: "Meeting my wife was the greatest thing to come out of it."<ref name="Biography Today">{{cite book |first=|title=Biography Today |year=201 0|page=876 |publisher=Omnigraphics |location=Detroit, Michigan |isbn=978-0-7808-1058-7}}</ref> The show lasted only one season.
+
+After ''Correlli'' Jackman went on the stage in Melbourne. In 1996, Jackman played [[Gaston (Beauty and the Beast)|Gaston]] in the local Walt Disney production of ''[[Beauty and the Beast (musical)|Beauty and the Beast]]'', and Joe Gillis in ''[[Sunset Boulevard (musical)|Sunset Boulevard]]''.<ref name="bravo"/> During his stage musical career in Melbourne, he starred in the 1998 [[Midsumma]] festival cabaret production ''[[Summa Cabaret]]''. He also hosted Melbourne's [[Carols by Candlelight]] and Sydney's [[The Domain, Sydney|Carols in the Domain]].
+
+Jackman's early film work includes ''[[Erskineville Kings]]'' and ''[[Paperback Hero (1999 film)|Paperback Hero]]'' (1999), and his television work includes ''[[Law of the Land]]'', ''[[Halifax f.p.]]'', ''[[Blue Heelers]]'', and ''[[The Man from Snowy River (TV series)|Banjo Paterson's The Man from Snowy River]]''.
+
+===''Oklahoma!''===
+Jackman became known outside Australia in 1998, when he played the leading role of Curly in the [[Royal National Theatre]]'s acclaimed stage production of ''[[Oklahoma!]]'', in London's [[West End theatre|West End]].<ref name="bravo"/> The performance earned him an [[Olivier Award]] nomination for Best Actor in a Musical. Jackman said "I totally felt like it can't get any better than this. On some level that production will be one of the highlights of my career."<ref name="Biography Today">{{cite book |first=|title=Biography Today|year=2010|page=89|publisher=Omnigraphics|location=Detroit, Michigan|isbn=978-0-7808-1058-7}}</ref> He also starred in the [[Oklahoma! (1999 film)|1999 film version of the same stage musical]], which has been screened in many countries.
+
+===''X-Men''===
+[[File:HughJackmanApr09b.jpg|thumb|upright|Jackman at the ''[[X-Men Origins: Wolverine]]'' premiere, April 2009.]]
+In 1999, Jackman was cast as [[Wolverine (character)|Wolverine]] in [[Bryan Singer]]'s ''[[X-Men (film)|X-Men]]'' (2000), replacing [[Dougray Scott]]. His co-stars included [[Patrick Stewart]], [[James Marsden]], [[Famke Janssen]], and [[Ian McKellen]]. According to a [[CBS]] interview in November 2006, Jackman's wife [[Deborra-Lee Furness]] told him not to take the role, a comment she later told him she was glad he ignored.{{citation needed | date = October 2012}}
+
+Wolverine was tough for Jackman to portray because he had few lines, but a lot of emotion to convey in them. To prepare, he watched [[Clint Eastwood]] in the [[Dirty Harry (film series)|''Dirty Harry'' movies]] and [[Mel Gibson]] in [[Mad Max 2|''Road Warrior'']]. "Here were guys who had relatively little dialogue, like Wolverine had, but you knew and felt everything. I'm not normally one to copy, but I wanted to see how these guys achieved it."<ref name="Biography Today">{{cite book |first=|title=Biography Today|year=2010|pages=90–91|publisher=Omnigraphics|location=Detroit, Michigan |isbn=978-0-7808-1058-7}}</ref> Jackman was adamant about doing his own stunts for the movie. "We worked a lot on the movement style of Wolverine, and I studied some martial arts. I watched a lot of [[Mike Tyson]] fights, especially his early fights. There's something about his style, the animal rage, that seemed right for Wolverine. I kept saying to the writers, 'Don't give me long, choreographed fights for the sake of it. Don't make the fights pretty."<ref name="Biography Today">{{cite book |first=|title=Biography Today|year=2010|page=91|publisher=Omnigraphics|location=Detroit, Michigan |isbn=978-0-7808-1058-7}}</ref>
+
+Jackman also had to get used to wearing Wolverine's claws. "Every day in my living room, I'd just walk around with those claws, to get used to them. I've got scars on one leg, punctures straight through the cheek, on my forehead. I'm a bit clumsy. I'm lucky I didn't tell them that when I auditioned."<ref name="Biography Today"/>
+
+Jackman, at 1.89m (6&nbsp;ft 2.5 inches),<ref name="Height">{{cite web |work=imdb.com |title=Hugh Jackman |url=http://www.imdb.com/name/nm0413168/bio |accessdate=18 December 2008}}</ref> stands 30&nbsp;cm taller than Wolverine, who is said in the original comic book to be {{convert|5|ft|3|in|m}}.<ref>[http://www.marvel.com/universe/Wolverine_(James_Howlett) Marvel Universe: Wolverine (James Howlett)] ''Marvel.com''</ref> Hence, the filmmakers were frequently forced to shoot Jackman at unusual angles or only from the waist up to make him appear shorter than he actually is, and his co-stars wore platform soles. Jackman was also required to add a great deal of muscle for the role, and in preparing for the fourth film in the series, he bench-pressed over 136&nbsp;kg (300&nbsp;lb).<ref>{{cite journal |last=Fleming |first=Michael |date=December 2008 |title=''Playboy'' Interview: Hugh Jackman |journal=Playboy |page= 62}}</ref>
+
+Jackman reprised his role in 2003's ''[[X2 (film)|X2: X-Men United]]'', 2006's ''[[X-Men: The Last Stand]]'', and the 2009 prequel ''[[X-Men Origins: Wolverine]]'', although [[Troye Sivan]] played the younger version of James Howlett. He also [[cameo appearance|cameo]]ed as Wolverine in 2011's ''[[X-Men: First Class]]''. He returned for the role of Wolverine again in 2013's ''[[The Wolverine (film)|The Wolverine]]'', a stand-alone sequel taking place after the events of ''X-Men: The Last Stand'', and reprised the character in the 2014 sequel ''[[X-Men: Days of Future Past]]''. In 2015, Jackman announced that the upcoming 2017 sequel to ''The Wolverine'' will be the final time he plays the role.<ref>{{cite news|title=Why Hugh Jackman Is Walking Away From Wolverine|url=http://www.cinemablend.com/new/Why-Hugh-Jackman-Walking-Away-From-Wolverine-71336.html|accessdate=May 8, 2015|publisher=Cinema Blend|date=May 7, 2015}}</ref>
+
+===2001===
+Jackman starred as Leopold in the 2001 romantic comedy film ''[[Kate & Leopold]]'', a role for which he received a Best Actor [[Golden Globe]] nomination.<ref name="bravo"/> Jackman plays a [[Victorian era|Victorian]] English [[duke]] who accidentally time-travels to 21st-century Manhattan, where he meets Kate ([[Meg Ryan]]), a cynical advertising executive. In 2001, Jackman also starred in the action/drama ''[[Swordfish (film)|Swordfish]]'' with [[John Travolta]] and [[Halle Berry]]. This was the second time Jackman worked with Berry, and the two have worked together thrice more in the ''[[X-Men]]'' movies.
+
+He hosted an episode of ''[[Saturday Night Live]]'' in 2001.<ref>[http://www.imdb.com/title/tt0694825/ "saturday night live"] imdb.com</ref>
+
+===2002–2015 (stage)===
+In 2002, Jackman sang the role of Billy Bigelow in the musical ''[[Carousel (musical)|Carousel]]'' in a special concert performance at [[Carnegie Hall]] with the [[Orchestra of St. Luke's]].
+
+In 2004, Jackman won the [[Tony Award]] and the [[Drama Desk Award]] for Outstanding Actor in a Musical for his 2003–2004 [[Broadway theatre|Broadway]] portrayal of Australian songwriter and performer [[Peter Allen (musician)|Peter Allen]] in the hit musical ''[[The Boy from Oz]]'', which he also performed in Australia in 2006.<ref name="bravo"/> In addition, Jackman hosted the Tony Awards in 2003, 2004, and 2005, garnering positive reviews. His hosting of the 2004 Tony Awards earned him an [[Emmy|Emmy Award]] for Outstanding Individual Performer in a Variety, Musical or Comedy program.
+
+Jackman co-starred with [[Daniel Craig]] on Broadway at the [[Schoenfeld Theatre]] in a limited engagement of the play ''[[A Steady Rain]]'', which ran from 10 September 2009 to 6 December 2009.<ref>{{cite news|last=Gans|first=Andrew|title=A Steady Rain, with Craig and Jackman, to Play Broadway's Schoenfeld|url=http://www.playbill.com/news/article/130947-A-Steady-Rain-with-Craig-and-Jackman-to-Play-Broadways-Schoenfeld|accessdate=9 November 2013|newspaper=[[Playbill]]|date=9 July 2009}}</ref>
+
+He returned to Broadway in a new show, ''Hugh Jackman, Back on Broadway'' at the [[Broadhurst Theatre]], which began performances on 25 October 2011 and concluded on 1 January 2012.<ref>{{cite web|title=Photo Flash: HUGH JACKMAN, BACK ON BROADWAY- Production Shots!|url=http://www.broadwayworld.com/article/Photo-Flash-HUGH-JACKMAN-BACK-ON-BROADWAY--Production-Shots-20111102|work=Broadway World|accessdate=9 November 2013|date=2 November 2011}}</ref>
+
+Jackman returned to Broadway in the new play, ''The River'', which ran at the [[Circle in the Square Theatre]] from October 2014 to February 2015.<ref>{{cite web|url=http://www.broadwayworld.com/article/Its-Official-Hugh-Jackman-Laura-Donnelly-Cush-Jumbo-Set-for-Jez-Butterworths-THE-RIVER-at-Circle-in-the-Square-This-Fall-20140508#.U2xYAvldVfg|publisher=broadwayworld.com|title=It's Official! Hugh Jackman, Laura Donnelly, Cush Jumbo Set for Jez Butterworth's THE RIVER at Circle in the Square This Fall|accessdate=9 May 2014}}</ref>
+
+===2003–2008 (films)===
+After 2003's ''[[X2 (film)|X2: X-Men United]]'', Jackman played the title role of monster killer [[Gabriel Van Helsing]] in the 2004 film ''[[Van Helsing (film)|Van Helsing]]''.<ref name="bravo"/> Jackman and the film were noted in Bruce A. McClelland's book ''Slayers and Their Vampires: A Cultural History of Killing the Dead''.
+
+Jackman was one of the choices to play [[James Bond]] in 2006's ''[[Casino Royale (2006 film)|Casino Royale]]'', but eventually lost out to [[Daniel Craig]].<ref>{{cite news |last=Walls |first=Jeannette |title=Call him Bland, James Bland |url=http://www.today.com/id/9546090 |accessdate=9 November 2013 |newspaper=[[Today (U.S. TV program)|Today]] |date=18 October 2005}}</ref> Jackman starred in the 2006 film ''[[The Prestige (film)|The Prestige]]'', directed by [[Christopher Nolan]] and co-starring [[Christian Bale]], [[Michael Caine]], and [[Scarlett Johansson]]. As Robert Angier, Jackman portrayed a magician who built up a rivalry with contemporary Alfred Borden in attempt to one-up each other in the art of deception. Jackman stated that his main reason for doing ''The Prestige'' was to work with musician [[David Bowie]], who played scientist [[Nikola Tesla]].
+
+[[File:XMenOriginsWolverineCastPremiereApr09b.jpg|thumb|upright|Hugh Jackman and [[Ryan Reynolds]] (right) at the ''X-Men Origins: Wolverine'' premiere in Tempe, Arizona (2009)]]
+Jackman portrayed three different characters in [[Darren Aronofsky]]'s science-fiction film ''[[The Fountain (film)|The Fountain]]'': Tommy Creo, a [[neuroscientist]], who is torn between his wife, Izzi ([[Rachel Weisz]]), who is dying of a [[brain tumor]], and his work at trying to cure her; Captain Tomas Creo, a Spanish [[conquistador]] in 1532 [[Seville]]; and a future astronaut, Tom, travelling to a golden nebula in an eco-spacecraft seeking to be reunited with Izzi. Jackman said ''The Fountain'' was his most difficult film thus far due to the physical and emotional demands of the part.
+
+Jackman also starred in [[Woody Allen]]'s 2006 film ''[[Scoop (2006 film)|Scoop]]'' opposite [[Scarlett Johansson]]. That year he also reprised the role of Wolverine in ''[[X-Men: The Last Stand]]''. He rounded out 2006 with two animated films: ''[[Happy Feet]]'', directed by [[George Miller (producer)|George Miller]], in which he voiced the part of Memphis, an [[emperor penguin]]; and ''[[Flushed Away]]'', where Jackman supplied the voice of a rat named Roddy who ends up being flushed down a family's toilet into the London sewer system. ''Flushed Away'' co-starred [[Kate Winslet]] and [[Ian McKellen]] (Jackman's fourth time working with him).
+
+In 2007, Jackman produced and guest-starred in the television [[Musical film|musical]]-[[comedy-drama|dramedy]] series ''[[Viva Laughlin]]'', which was cancelled by [[CBS]] after two episodes. Jackman's 2008 movies included ''[[Deception (2008 film)|Deception]]'' (which he starred in and produced), ''Uncle Jonny'', and ''[[Australia (2008 film)|Australia]]''.
+
+===''Australia''===
+In 2008, director [[Baz Luhrmann]] cast Jackman to replace [[Russell Crowe]] as the male lead in his much-publicized [[epic film]], ''[[Australia (2008 film)|Australia]]'', which co-starred [[Nicole Kidman]]. The movie was released in late November 2008 in Australia and the U.S. Jackman played a tough, independent cattle [[Drover (Australian)|drover]], who reluctantly helps an English noblewoman in her quest to save both her philandering husband's Australian [[cattle station]] and the [[mixed race]] Aboriginal child she finds there. Of the movie, Jackman said, "This is pretty much one of those roles that had me pinching myself all the way through the shoot. I got to shoot a big-budget, shamelessly old-fashioned romantic epic set against one of the most turbulent times in my native country's history, while, at the same time, celebrating that country's natural beauty, its people, its cultures.... I'll die a happy man knowing I've got this film on my [[curriculum vitae|CV]]."<ref>{{cite news|last=Byrne|first=Paul|title=Big Down Under|url=http://www.herald.ie/entertainment/big-down-under-27895383.html|accessdate=9 November 2013|newspaper=[[Evening Herald]]|date=11 December 2008}}</ref>
+
+===2009–present===
+[[File:Hugh Jackman - SDCC13.jpg|thumb|Jackman at the 2013 San Diego Comic-Con International]]
+Jackman has reprised his role as the Wolverine in ''X-Men'' spin-off films. Jackman starred in ''[[X-Men Origins: Wolverine]]'' which opened in 2009. Jackman starred again as Wolverine in 2013 in ''[[The Wolverine (film)|The Wolverine]]''. Jackman made a cameo appearance as Wolverine in ''[[X-Men: First Class]]'' in 2012. Jackman had a one-man show at the [[Curran Theatre]] in San Francisco from 3–15 May 2011.<ref name=CurranPreview>{{cite news|last=Hurwitt|first=Robert|title=Hugh Jackman exclusive at Curran Theatre in May|url=http://articles.sfgate.com/2011-03-21/entertainment/29149678_1_hugh-jackman-thrill-sets|publisher=SFGate|accessdate=16 May 2011|date=21 March 2011}}</ref> The production was a mixture of his favourite Broadway and Hollywood musical numbers, backed by a 17-piece orchestra, from shows including ''[[Oklahoma (musical)|Oklahoma]]'' and ''[[The Boy from Oz]]''. The show had a run-time of approximately 100&nbsp;minutes, and also included slide shows of Jackman's youth, family, and work, as well as some one-on-one interaction with the audience. Jackman was backed by fellow musical theatre veterans [[Merle Dandridge]] and [[Angel Reda]].<ref>{{cite news|first=Linda|last=Ayres-Fredrick|url=http://www.sfbaytimes.com/?sec=article&article_id=15133|title=Hot Hugh Jackman in Vegas Mode|newspaper=SF Bay Times|date=12 May 2011|accessdate=14 August 2011}}</ref><ref name="contracostatimes">{{cite web|url=http://www.contracostatimes.com/ci_18000355?|title=Review: Hugh Jackman in San Francisco - ContraCostaTimes.com|publisher=contracostatimes.com|accessdate=20 February 2014}}</ref>
+
+In a November 2012 release, Jackman voiced the role of E.Aster Bunnymund (the [[Easter Bunny]]) in the animated film ''[[Rise of the Guardians]]''.<ref>{{cite news|title=DreamWorks Animation Names All-Star Cast Featuring Chris Pine, Alec Baldwin, Hugh Jackman, Isla Fisher and Jude Law for Rise of the Guardians on November 21, 2012|url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=545929|accessdate=9 November 2013|newspaper=[[DreamWorks Animation]]|date=27 January 2011|agency=PRNewswire}}</ref> Jackman starred as [[Jean Valjean]] in the film ''[[Les Misérables (2012 film)|Les Misérables]]'', an adaptation of the [[Les Misérables (musical)|musical]]. The film opened on 25 December 2012.<ref>{{cite news|last=Jones|first=Kenneth|title=Hugh Jackman Is Russell Crowe's Quarry in Les Miserables Film|url=http://www.playbill.com/news/article/154412-Hugh-Jackman-Is-Russell-Crowes-Quarry-in-Les-Miserables-Film|accessdate=9 November 2013|newspaper=Playbill|date=9 September 2011}}</ref><ref>{{cite news|last=Kit|first=Borys|title=Hugh Jackman in Talks to Star in 'Les Miserables' Adapation|url=http://www.hollywoodreporter.com/news/hugh-jackman-talks-star-les-202114|accessdate=9 November 2013|newspaper=[[The Hollywood Reporter]]|date=15 June 2011}}</ref><ref>{{cite news|last=Fleming Jr|first=Mike|title=If Hugh Jackman Plays Jean Valjean, Will Paul Bettany Play Javert In 'Les Miserables'?|url=http://www.deadline.com/2011/06/if-hugh-jackman-plays-jean-valjean-will-paul-bettany-play-javert-in-les-miserables/|accessdate=9 November 2013|newspaper=[[Deadline.com]]|date=15 June 2011}}</ref> For the role, he lost 15&nbsp;pounds and later had to regain 30&nbsp;pounds to mirror his character's newfound success.<ref>{{cite news|last=Galloway|first=Stephen|title=Inside the Fight to Bring 'Les Mis' to the Screen|url=http://www.hollywoodreporter.com/news/les-miserables-anne-hathaway-russell-398099?page=2|work=The Hollywood Reporter|accessdate=13 January 2013|page=2|date=5 December 2012}}</ref> He won the [[Golden Globe Award for Best Actor – Motion Picture Musical or Comedy]] in January 2013 for this performance.<ref>{{cite news|url=http://www.usatoday.com/story/life/tv/2013/01/13/golden-globes-running-story/1830919/|title=Golden Globes: Jackman takes comedy/musical actor prize|date=13 January 2013|work=[[USA Today]]|accessdate=14 January 2013}}</ref>
+
+Jackman appeared alongside [[Kate Winslet]] in ''[[Movie 43]]'', an ensemble comedy, in January 2013.<ref>{{cite web|title=Movie 43 is Upcoming Movie of Emma Stone, Release Date, Cast, Wallpapers|url=http://www.viewsbuzz.com/movie-43-is-upcoming-movie-of-emma-stone-release-date-cast-wallpapers|accessdate=2 May 2011}}</ref> Jackman (along with actress [[Kristen Wiig]]) was featured on "You've Got The Look", a song by [[comedy hip hop]] group [[The Lonely Island]] on their third album, ''[[The Wack Album]]'', released in June 2013.
+
+<!--- All "Future Projects" must include a citation from a reliable source --->
+Jackman will portray the villain [[Blackbeard]] in the upcoming film ''[[Pan (2015 film)|Pan]]'', which revolves around the back-stories of [[J.M. Barrie]]'s characters [[Peter Pan]] and [[Captain Hook]].<ref>{{cite web|url=http://insidemovies.ew.com/2014/01/24/hugh-jackman-peter-pan-blackbeard/|publisher=ew.com|title=Hugh Jackman signs on for Joe Wright's Peter Pan movie|accessdate=24 January 2014}}</ref> He will also appear as fictional ski coach Bronson Peary in ''[[Eddie the Eagle (film)|Eddie the Eagle]]'',<ref>http://www.broadwayworld.com/article/EDDIE-THE-EAGLE-Biopic-Featuring-Hugh-Jackman-to-Hit-Theaters-Next-Spring-20150313</ref> which portrays how [[Eddie "The Eagle" Edwards]] became the first competitor to represent [[British Olympic Association|Great Britain]] in [[Olympic Games|Olympic]] [[ski jumping]] in 1988.<ref>http://deadline.com/2015/03/eddie-the-eagle-fox-taron-egerton-hugh-jackman-1201392499/</ref> He has also been cast as [[P. T. Barnum]] in the film ''The Greatest Showman on Earth'',<!--Linking this redirects to this page.--> due out in 2016.<ref>{{cite news|last=Weinstein|first=Joshua L.|title=Michael Gracey to Direct Hugh Jackman in Fox's 'Greatest Showman on Earth'|url=http://www.thewrap.com/movies/column-post/michael-gracey-direct-hugh-jackman-foxs-pt-barnum-movie-30194|accessdate=9 November 2013|newspaper=TheWrap|date=17 August 2011}}</ref><ref>http://www.imdb.com/title/tt148579</ref><!--- All "Future Projects" must include a citation from a reliable source --->
+
+==Production company==
+In 2005, Jackman joined with longtime assistant John Palermo to form a production company, [[Seed Productions]], whose first project was ''[[Viva Laughlin]]'' in 2007. Jackman's wife [[Deborra-Lee Furness]] is also involved in the company, and Palermo had three rings made with a "unity" inscription for himself, Furness, and Jackman.<ref>{{cite web|url=http://www.moviesonline.ca/movienews_10478.html |title=Movies Online |publisher=Moviesonline.ca |accessdate=6 September 2010}} {{Dead link|date=November 2010|bot=H3llBot}}</ref> Jackman said, "I'm very lucky in the partners I work with in my life, Deb and John Palermo. It really works. We all have different strengths. I love it. It's very exciting."<ref>{{cite web|url=http://www.comingsoon.net/news/movienews.php?id=17540 |title=Movie News |publisher=Comingsoon.net |accessdate=6 September 2010}}</ref>
+
+The Fox-based Seed label has grown in size to include execs Amanda Schweitzer, Kathryn Tamblyn, Allan Mandelbaum and Joe Marino, with Alana Free operating the Sydney-based production office whose goal is to mount modest-budget films to harness local talent in Jackman's home country.
+
+==Other interests==
+
+===Charity work===
+[[File:Hugh Jackman navy.jpg|thumb|upright|Jackman aboard the amphibious assault ship {{USS|Kearsarge|LHD-3|6}} in New York, May 2006]]
+As a philanthropist, Jackman is a longtime proponent of [[microcredit]] – the extension of very small loans to prospective entrepreneurs in impoverished countries. He is a vocal supporter of [[Muhammad Yunus (economist)|Muhammad Yunus]], microcredit pioneer and the 2006 [[Nobel Peace Prize]] winner.<ref>[http://www.youtube.com/watch?v=p0rMrUcM8Cc Hugh Jackman Congratulates Professor Yunus] (video)</ref><ref>[http://www.oprah.com/article/omagazine/books/obc_omag_200711_books "Books That Made a Difference to Hugh Jackman."] ''Oprah.com''</ref><ref>[http://www.oprah.com/article/omagazine/omag_books_hjack_a/1 "Hugh Jackman's Bookshelf: ''Banker to the Poor'', by Muhammad Yunus."] ''Oprah.com''</ref>
+
+Jackman is a global advisor of the [[Global Poverty Project]], for which he narrated a documentary;<ref>{{cite web|title=Global Poverty Project Narrated by Hugh Jackman|url=http://www.looktothestars.org/video/84-global-poverty-project-narrated-by-hugh-jackman|work=Look to the Stars|accessdate=9 November 2013}}</ref> and he and the project's founder [[Hugh Evans (humanitarian)|Hugh Evans]] visited the UN for the cause in 2009.<ref>{{cite news|last=Firkin|first=Katherine|title=Hugh Jackman goes to UN to join fight against poverty|url=http://www.heraldsun.com.au/news/hugh-jackman-goes-to-un-to-join-fight-against-poverty/story-e6frf7jo-1225745313813|accessdate=9 November 2013|newspaper=[[Herald Sun]]|date=2 July 2009}}</ref> Jackman hosted a preview of the [[Global Poverty Project]] Presentation in New York together with [[Donna Karan]], Lisa Fox and his wife Deborra-Lee.<ref>{{cite web|url=http://www.life.com/image/94457143 |title=Hugh Evans, LIsa Fox, Deborra-Lee Furness – The Global Poverty Project Presents "1.4&nbsp;Billion Reasons" – Photo |publisher=LIFE |date=14 December 2009 |accessdate=6 September 2010}}</ref>
+He is also a [[World Vision]] ambassador and participated in the climate week NYC ceremony on 21 September 2009.<ref>{{cite news|last=Shanahan|first=Dennis|title=Hugh Jackman steals lead role on climate|url=http://www.theaustralian.com.au/news/world/hugh-jackman-steals-lead-role-on-climate/story-e6frg6so-1225778117307|accessdate=9 November 2013|newspaper=[[The Australian]]|date=22 September 2009}}</ref><ref>{{cite web|url=http://www.worldvision.org/content.nsf/about/20090916-hugh-jackman |title=World Vision ambassador Hugh Jackman speaks on climate change |publisher=Worldvision.org |date=16 September 2009 |accessdate=6 September 2010}}</ref>
+
+Jackman supports The Art of Elysium<ref>[http://theartofelysium.org The Art of Elysium]</ref> and the MPTV Fund Foundation,<ref>{{cite web|url=http://www.mptvfund.org/cm/about-us/Home.html |title=MPTV Fund Foundation |publisher=Mptvfund.org |accessdate=6 September 2010}}</ref> and he and his wife [[Deborra-Lee Furness]] are patrons of the Bone Marrow Institute in Australia.<ref>{{cite web|url=http://www.bmdi.org.au |title=Bone Marrow Donor Institute |publisher=Bmdi.org.au |accessdate=6 September 2010}}</ref>
+Jackman also narrated the 2008 documentary about global warming, ''[[The Burning Season (2008 film)|The Burning Season]]''.<ref>{{cite web|url=http://www.theburningseasonmovie.com |title=The Burning Season |publisher=Theburningseasonmovie.com |date=15 January 2010 |accessdate=6 September 2010}}</ref>
+
+Jackman also uses his Twitter account for charity. On 14 April 2009, Jackman posted on his Twitter page that he would donate $100,000 to one individual's favourite non-profit organisation.<ref>{{cite web|url=http://twitter.com/RealHughJackman/status/1519899038 |title=Charity Tweet |work=Twitter |date=14 April 2009 |accessdate=6 September 2010}}</ref> On 21 April 2009 he revealed his decision to donate $50,000 to [[Charity: water|Charity:Water]] and $50,000 to Operation of Hope.<ref>{{cite news|title=Twitter on the Radio: Hugh Jackman Reveals $100K Charity Donation|url=http://mashable.com/2009/04/24/twitter-on-the-radio-hugh-jackman-reveals-100k-charity-donation/|accessdate=9 November 2013|newspaper=[[Mashable]]|date=24 April 2009}}</ref><ref>{{cite web|url=http://www.operationofhope.org/ |title=Operation of Hope |publisher=Operation of Hope |date=13 June 2009 |accessdate=6 September 2010}}</ref>
+
+Hugh Jackman and Daniel Craig made a unique place for themselves in the history of [[Broadway Cares/Equity Fights AIDS]] fundraising 8 December 2009, when it was announced that they had raised $1,549,953 in the 21st annual Gypsy of the Year competition, from six weeks of curtain appeals at their hit Broadway drama, ''A Steady Rain''.<ref>{{cite web|url=http://www.broadwaycares.org |title=Broadway Cares |publisher=Broadway Cares |date=9 February 2010 |accessdate=6 September 2010}}</ref> Jackman continued his support of Broadway Cares in 2011, raising nearly $1 million during his run of Hugh Jackman: back on Broadway <ref>http://www.huffingtonpost.com/2011/12/07/hugh-jackman-raises-nearl_n_1134917.html</ref>
+
+===Sports and other activities===
+[[File:Hugh Jackman with wife Deborra-Lee Furness in India.jpg|left|thumb|upright|Jackman and Furness at [[Mumbai International Airport]] to attend [[FICCI]] 2011.<ref name="toi">{{cite news|last=Vyavahare|first=Renuka|title=Hugh Jackman arrives in India|url=http://articles.timesofindia.indiatimes.com/2011-03-24/news-interviews/29182555_1_hugh-jackman-deborra-lee-furness-maiden-visit|accessdate=9 November 2013|newspaper=[[Times of India]]|date=24 March 2011}}</ref>]]
+Jackman has shown keen interest in sport. In high school, he played [[rugby union]] and [[cricket]], took part in [[high jump]]ing and was on the swimming team.<ref name="bravo"/> He enjoys basketball and [[kayaking]].<ref>{{cite news|title=Jackman in training for Boy From Oz|url=http://www.smh.com.au/news/people/jackman-in-training-for-boy-from-oz/2006/02/13/1139679526894.html|accessdate=9 November 2013|newspaper=[[The Sydney Morning Herald]]|date=13 February 2006|agency=Australian Associated Press}}</ref> He has expressed an interest in football, committing his support to [[Norwich City FC]].<ref>{{cite news|url=http://www.skysports.com/socceram/media/video/0,21631,,00.html |title=Sky Sports Interview |publisher=Skysports.com |accessdate=6 September 2010}}</ref> In the United States, Jackman supports the [[Philadelphia Union]] of [[Major League Soccer]], attending a game at [[PPL Park]] in June 2010.<ref>{{cite news|last=Klein|first=Michael|title=Inqlings: Idle time for traffic reporter|url=http://articles.philly.com/2010-06-29/news/24963149_1_traffic-reporter-john-brown-film|accessdate=9 November 2013|newspaper=[[Philly.com]]|date=29 June 2010}}</ref> On 22 June 2011, Jackman again attended a home Union match against [[Sporting KC]], sitting in front of the [[Sons of Ben (MLS supporters association)|Sons of Ben]] supporters section, nicknamed "The River End".
+
+Jackman is a longtime fan and supporter of the [[Manly-Warringah Sea Eagles]], a [[National Rugby League]] (NRL) club based in Sydney's north.<ref>{{cite web|url=http://www.manlyseaeagles.com.au/news.asp?newsid=2155&Mth=7&Yr=2007 |title=ManlySeaEagles.com.au |publisher=ManlySeaEagles.com.au |accessdate=6 September 2010}}</ref> He sang the [[Advance Australia Fair|Australian national anthem]] at the [[1999 NRL Grand Final]].<ref>{{cite web|url=http://www.monstersandcritics.com/people/archive/peoplearchive.php/Hugh_Jackman/biography/ |title=Hugh Jackman Biography |publisher=Monsters and Critics |accessdate=6 September 2010}}</ref>
+
+Jackman also [[List of WWE Raw guest stars|guest starred]] on the 19 September 2011 edition of [[WWE Raw|WWE Monday Night Raw]], assisting [[Zack Ryder]] in a win over [[WWE United States Championship|WWE United States Champion]] [[Dolph Ziggler]]. Jackman helped "Long Island Iced Z" get the 3 count in a non-title match by punching the champion in the jaw whilst the referee was not looking.<ref name="wwe">{{cite web|url=http://www.wwe.com/shows/raw/2011-09-19/results|title=WWE Raw SuperShow results: Miz & Truth fired &#124; WWE.com|publisher=wwe.com|accessdate=20 February 2014}}</ref><ref>{{cite news|title=Hugh Jackman Comes Out Swinging for 'Monday Night RAW'|url=http://www.tmz.com/2011/09/20/hugh-jackman-punches-guy-in-the-face-wwe-zack-ryder-dolph-ziggler-monday-night-raw-real-steel/|accessdate=9 November 2013|newspaper=[[TMZ]]|date=20 September 2011}}</ref>
+
+Jackman plays the piano,<ref>{{cite web|url=http://www.starswelove.com/scriptsphp/news.php?newsid=3524 |title=Hugh Jackman takes up piano lessons |publisher=Starswelove.com |accessdate=6 September 2010}}</ref> does yoga,<ref>{{cite web|title=Hugh Jackman: Actor|url=http://www.people.com/people/archive/article/0,,20134364,00.html|work=People|accessdate=9 November 2013|date=14 May 2011}}</ref> and has been a member of the [[School of Practical Philosophy]] since 1992.<ref>[http://www.jackmanslanding.com/news/news-articles/interviewmag.html ''School of Practical Philosophy'']</ref>
+
+Jackman has been an avid practitioner of [[Transcendental Meditation]] since the age of twenty. He said "Nothing has ever opened my eyes like Transcendental Meditation has. It makes me calm and happy, and, well, it gives me some peace and quiet in what's a pretty chaotic life!". He now helps the [[David Lynch Foundation]] to "bring meditation to everyone from [[PTSD]] sufferers to inner-city kids".<ref>{{cite news|title='Meditation Has Changed My Life,' Says Hugh Jackman|url=http://www.huffingtonpost.co.uk/2013/07/01/hugh-jackman-workout_n_3527552.html|accessdate=9 November 2013|newspaper=[[Huffington Post]]|date=1 July 2013}}</ref><ref>[http://www.hollywoodreporter.com/news/how-david-lynch-hugh-jackman-668785?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+thr%2Fnews+%28The+Hollywood+Reporter+-+Top+Stories%29 How David Lynch and His Hollywood Friends Are Bringing Back Transcendental Meditation - One of film's darkest directors, with help from Jerry Seinfeld and Hugh Jackman, is shining a light by bringing meditation to everyone from PTSD sufferers to inner-city kids.]</ref>
+
+Jackman is the brand ambassador of Indian mobile phone maker, [[Micromax Mobile|Micromax]].<ref>{{cite news|title='Wolverine' star Hugh Jackman to endorse Micromax|url=http://timesofindia.indiatimes.com/tech/tech-news/hardware/Wolverine-star-Hugh-Jackman-to-endorse-Micromax/articleshow/24331082.cms | work=The Times Of India}}</ref>
+
+==Personal life==
+Jackman married [[Deborra-Lee Furness]] on 11 April 1996 at St. John's in [[Toorak, Victoria]], a suburb of [[Melbourne]].<ref>{{cite web | url = http://www.trumpetevents.com/hugh-jackman-deborra-lee-furness | title = The Wedding of the Year 1996 | publisher = Trumpet Events | accessdate = 21 December 2012}}</ref> They met on the set of Australian TV show ''[[Correlli]]''.<ref name=enoughrope>{{cite web | url = http://www.abc.net.au/tv/enoughrope/transcripts/s1076056.htm | title = Deborra-Lee Furness | publisher = ''[[Enough Rope with Andrew Denton]]'' / [[Australian Broadcasting Corporation]]  |date=29 March 2004 |accessdate=6 September 2010}}</ref> Jackman personally designed an engagement ring for Furness, and their wedding rings bore the [[Sanskrit]] inscription "Om paramar mainamar", translated as "we dedicate our union to a greater source".<ref>{{cite web|url=http://www.abc.net.au/tv/enoughrope/transcripts/s1076056.htm |title=Enough Rope with Andrew Denton |publisher=Australian Broadcasting Corporation  |date=29 March 2004 |accessdate=6 September 2010}}</ref> Furness had two miscarriages,<ref>{{cite web|url=http://www.abc.net.au/tv/enoughrope/transcripts/s1076056.htm |title=Furness on enough rope-adoption |publisher=Australian Broadcasting Corporation  |date=29 March 2004 |accessdate=6 September 2010}}</ref> following which she and Jackman adopted two mixed-race children, Oscar<ref>{{cite web|url=http://www.celebritybabyscoop.com/2010/05/16/hugh-jackman-his-birthday-boy|title=Hugh Jackman & His Birthday Boy|date=16 May 2010|work=CelebrityBabyScoop.com|author=Jenny Schafer|accessdate=6 March 2011}}</ref> and Ava.<ref>{{cite web|url=http://www.people.com/people/article/0,,1087514,00.html|title=Hugh Jackman & His Wife Adopt a Daughter|date=27 July 2005|work=People |accessdate=6 March 2011}}</ref><ref>http://madamenoire.com/260258/15-white-celebrities-you-didnt-know-were-raising-black-children/13/</ref>
+
+In November 2013, Jackman announced he had [[basal-cell carcinoma]] removed from his nose.<ref>{{cite news | title = Hugh Jackman Treated for Skin Cancer | first= Melody | last= Chu | work = [[People (magazine)|People]] | date= 21 November 2013 | url  = http://www.people.com/people/article/0,,20758900,00.html}}</ref> He had a second carcinoma removed from his nose in May 2014, telling [[Associated Press]] that he expects to have future recurrences.<ref>{{cite web|url=http://www.thewrap.com/x-men-hugh-jackman-wolverine-skin-cancer|title=Hugh Jackman Backtracks on Wolverine; Expects More Skin Cancer Treatment - TheWrap|author=Gilman, Greg|publisher=[[The Wrap]] News Inc|date=13 May 2014|accessdate=16 May 2014}}</ref> This resulted in Jackman attending the various worldwide premieres of ''X-Men: Days of Future Past'' with a bandage on his nose, and urging his followers on photo-sharing platform [[Instagram]] to "wear [[sunscreen]]".<ref>{{cite web|url=http://news.sky.com/story/1258386/hugh-jackman-has-new-skin-cancer-scare|title=Hugh Jackman Has New Skin Cancer Scare|publisher=[[Sky News]]|date=10 May 2014|accessdate=16 May 2014}}</ref>
+
+On 18 March 2015, Hugh Jackman revealed that he had to cancel stage performances in [[Turkey]] because he had a left vocal chord [[Bleeding|haemorrhage]].<ref>[http://m.news24.com/channel24/Gossip/News/Hugh-Jackman-forced-to-cancel-stand-up-shows-due-to-a-vocal-haemorrhage-20150319 Hugh Jackman forced to cancel shows]</ref><ref>[http://www.divine.ca/en/entertainment/celebrity-news-gossip/c_50_i_bs2bs903549/hugh-jackman-has-vocal-hemorrhage-1.html Hugh Jackman has vocal haemorrhage]</ref> His stage performance 'An Evening with Hugh Jackman' has been rescheduled in Zorlu PSM Center in Turkey for three days from 30 May to 1 June 2015.<ref>http://www.zorlucenterpsm.com/en/hugh-jackman</ref>
+
+==Filmography==
+
+{| class="wikitable sortable"
+|+Film
+! Year
+! Film
+! Role
+! scope="col" class="unsortable" | Notes
+|-
+| 1999
+| ''[[Erskineville Kings]]''
+| Wace
+|
+|-
+| 1999
+| ''[[Paperback Hero (1999 film)|Paperback Hero]]''
+| Jack Willis
+|
+|-
+| 2000
+| ''[[X-Men (film)|X-Men]]''
+| [[Wolverine (character)|Logan / Wolverine]]
+|
+|-
+| 2001
+| ''[[Kate & Leopold]]''
+| Leopold
+|
+|-
+| 2001
+| ''[[Someone Like You (film)|Someone Like You]]''
+| Eddie
+|
+|-
+| 2001
+| ''[[Swordfish (film)|Swordfish]]''
+| Stanley Jobson
+|
+|-
+| 2003
+| ''[[X2 (film)|X2: X-Men United]]''
+| Logan / Wolverine
+|
+|-
+| 2004
+| ''[[Van Helsing (film)|Van Helsing]]''
+| [[Van helsing#Van Helsing .282004.29|Gabriel Van Helsing]]
+|
+|-
+| 2004
+| ''[[Van Helsing: The London Assignment]]''
+| Gabriel Van Helsing {{small|(voice)}}
+|
+|-
+| 2005
+| ''[[Stories of Lost Souls]]''
+| Roger
+| Segment "Standing Room Only"
+|-
+| 2006
+| ''[[Happy Feet]]''
+| Memphis {{small|(voice)}}
+|
+|-
+| 2006
+| ''[[Flushed Away]]''
+| Roddy {{small|(voice)}}
+|
+|-
+| 2006
+| ''{{sortname|The|Prestige|dab=film}}''
+| Robert Angier
+|
+|-
+| 2006
+| ''{{sortname|The|Fountain}}''
+| Tomas / Tommy / Tom Creo
+|
+|-
+| 2006
+| ''[[Scoop (2006 film)|Scoop]]''
+| Peter Lyman
+|
+|-
+| 2006
+| ''[[X-Men: The Last Stand]]''
+| Logan / Wolverine
+|
+|-
+| 2008
+| ''[[Deception (2008 film)|Deception]]''
+| Wyatt Bose
+| Also producer
+|-
+| 2008
+| ''Uncle Jonny''
+| Uncle Russell
+| Short film
+|-
+| 2008
+| ''[[Australia (2008 film)|Australia]]''
+| The Drover
+|
+|-
+| 2008
+| ''{{sortname|The|Burning Season|dab=2008 film}}''
+| Narrator
+| Documentary
+|-
+| 2009
+| ''[[X-Men Origins: Wolverine]]''
+|Logan / Wolverine
+| Also producer
+|-
+| 2011
+| ''[[X-Men: First Class]]''
+| Logan
+| Uncredited cameo
+|-
+| 2011
+| ''[[Snow Flower and the Secret Fan (film)|Snow Flower and the Secret Fan]]''
+| Arthur
+|
+|-
+| 2011
+| ''[[Real Steel]]''
+| Charlie Kenton
+|
+|-
+| 2012
+| ''[[Butter (2011 film)|Butter]]''
+| Boyd Bolton
+|
+|-
+| 2012
+| ''[[Rise of the Guardians]]''
+| Bunnymund (Easter Bunny) {{small|(voice)}}
+|
+|-
+| 2012
+| ''{{sortname|Les|Misérables|dab=2012 film}}''
+| [[Jean Valjean]]
+| 
+|-
+| 2013
+| ''[[Movie 43]]''
+| Davis
+|
+|-
+| 2013
+| ''{{sortname|The|Wolverine|dab=film}}''
+|Logan / Wolverine
+| Also producer
+|-
+| 2013
+| ''[[Prisoners (2013 film)|Prisoners]]''
+| Keller Dover
+|
+|-
+| 2014
+| ''[[X-Men: Days of Future Past]]''
+| Logan / Wolverine
+|
+|-
+| 2014
+| ''[[Night at the Museum: Secret of the Tomb]]''
+| Himself
+| Cameo
+|-
+| 2015
+| ''[[Chappie (film)|Chappie]]''
+| Vincent Moore
+|  
+|-
+| 2015
+| ''[[Pan (2015 film)|Pan]]''
+| [[Blackbeard]]
+| ''Post-production''
+|-
+| 2016
+| ''[[Eddie the Eagle (film)|Eddie the Eagle]]''
+| Bronson Peary
+| ''Filming''
+|-
+|2016
+|''[[X-Men:  Apocalypse]]''
+|Wolverine
+|''Filming''
+|-
+|2017
+|''[[Wolverine 3]]''
+|Wolverine
+|''Announced''
+|}
+
+{| class="wikitable sortable"
+|+Television
+! Year
+! Series
+! Role
+! scope="col" class="unsortable" | Notes
+|-
+| 1994
+| ''[[Law of the Land]]''
+| Charles "Chicka" McCray
+| Episode: "Win, Lose and Draw"
+|-
+| 1995
+| ''[[Correlli]]''
+| Kevin Jones
+|10 episodes
+|-
+| 1995
+| ''[[Blue Heelers]]''
+| Brady Jackson
+| Episode: "Just Desserts"
+|-
+| 1996
+| ''{{sortname|The|Man from Snowy River|dab=TV series}}''
+| Duncan Jones
+| 5 episodes
+|-
+| 1998
+| ''[[Halifax f.p.]]''
+| Eric Ringer
+| Episode: "Afraid of the Dark"
+|-
+| 2001
+| ''[[Saturday Night Live]]''
+| Himself/Host
+| Episode: "Hugh Jackman/[[Mick Jagger]]"
+|-
+| 2003
+| ''[[57th Tony Awards]]''
+| Himself/Host
+| TV Special
+|-
+| 2004
+| ''[[58th Tony Awards]]''
+| Himself/Host
+| TV Special
+|-
+| 2005
+| ''[[59th Tony Awards]]''
+| Himself/Host
+| TV Special
+|-
+| 2006
+| ''[[An Aussie Goes Barmy]]''
+| Narrator
+| 1 episode
+|-
+| 2006–07
+| ''[[Punk'd]]''
+| Himself
+| 2 episodes
+|-
+| 2007
+| ''[[Viva Laughlin]]''
+| Nicky Fontana
+| Episode: "Pilot", also executive producer
+|-
+| 2008
+| ''[[An Aussie Goes Bolly]]''
+| Narrator
+| 6 episodes
+|-
+| 2009
+| ''[[81st Academy Awards]]''<ref>{{cite news|last=Gans|first=Andrew|title=Tony Winner Jackman to Host Academy Awards|url=http://www.playbill.com/news/article/124292-Tony-Winner-Jackman-to-Host-Academy-Awards|accessdate=9 November 2013|newspaper=Playbill|date=12 December 2008}}</ref>
+| Himself/Host
+| TV Special
+|-
+| 2010
+| ''[[Sesame Street]]''
+| Himself
+| Episode: "Tribute to Number Seven"
+|-
+|2011
+|''[[WWE Raw]]''
+|Himself/Host
+|Episode: "955"
+|-
+|2011
+|''Saturday Night Live''
+|[[Daniel Radcliffe]]
+|Episode: "[[Ben Stiller]]/[[Foster the People]]"
+|-
+| 2013
+| ''[[Top Gear (2002 TV series)|Top Gear]]
+| Himself
+| Episode: "[[Top Gear (series 20)|"20.4"]]"
+|-
+| 2013
+| ''[[Christmas in Washington]]''
+| Himself/Host
+| TV Special
+|-
+| 2014
+| ''[[WWE Raw]]''
+| Himself/Host
+| Episode "1,091"
+|-
+| 2014
+| ''[[68th Tony Awards]]''
+| Himself/Host
+| TV Special
+|}
+
+{| class="wikitable sortable"
+|+Theatre
+! Year
+! Title
+! Role
+! scope="col" class="unsortable" | Notes
+|-
+| 1998
+| ''[[Oklahoma!]]''
+| Curly McLain
+| West End
+|-
+| 2002
+| ''[[The Boy from Oz]]''
+| [[Peter Allen (musician)|Peter Allen]]
+| New York
+|-
+| 2002
+| ''[[Carousel (musical)|Carousel]]''
+| Billy Bigelow
+| Off-Broadway
+|-
+| 2003
+| ''The Boy from Oz''
+| Peter Allen
+| Broadway
+|-
+| 2006
+| ''The Boy from Oz: The Arena Musical''
+| Peter Allen
+| Australia
+|-
+| 2009
+| ''[[A Steady Rain]]''
+| Denny
+| Broadway
+|-
+| 2011
+| ''Hugh Jackman: Back on Broadway''
+| Himself
+| Broadway
+|-
+| 2014
+| ''The River''
+| The Man
+| Broadway
+|}
+
+==Awards and nominations==
+{{main|List of awards and nominations received by Hugh Jackman}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Hugh Jackman}}
+*{{IMDb name|413168}}
+*{{IBDB name|101172}}
+*{{Twitter|RealHughJackman}}
+*{{people.com}}
+*[http://www.broadway.tv/broadway-features-reviews/a-steady-rain-rules-broadway 'A Steady Rain' Rules Broadway – opening night blog] at [http://www.broadway.tv broadway.tv]
+*[http://nla.gov.au/nla.party-1446737 Jackman, Hugh] National Library of Australia, ''Trove, People and Organisation'' record for Hugh Jackman
+
+{{s-start}}
+{{succession box|
+ title=''[[People (magazine)|People]]'s'' Sexiest Man Alive|
+ before=[[Matt Damon]]|
+ after= [[Johnny Depp]]|
+ years=2008|
+}}
+{{s-end}}
+{{S-start}}
+{{S-media}}
+{{Succession box|before=[[Bernadette Peters]] & [[Gregory Hines]]<br>[[Neil Patrick Harris]]| title=[[Tony Awards]] host| years=[[57th Tony Awards|2003]], [[58th Tony Awards|2004]], [[59th Tony Awards|2005]]<br>[[68th Tony Awards|2014]]| after=No host<br>ncumbent}}
+{{Succession box|before=[[Jon Stewart]]| title=[[Academy Awards]] host| years=[[81st Academy Awards|2009]]| after=[[Alec Baldwin]] & [[Steve Martin]]}}
+{{S-end}}
+{{Oscars hosts 2001–2020}}
+{{Tony hosts}}
+{{Navboxes
+|title = Awards for Hugh Jackman
+|list ={{DramaDesk MusicalOutstandingActor 2001–2025}}
+{{Distinguished Performance Award}}
+{{EmmyAward VarietyPerformance 2001–2025}}
+{{GoldenGlobeBestActorMotionPictureMusicalComedy 2001–2020}}
+{{Satellite Award for Best Cast – Motion Picture}}
+{{Saturn Award for Best Actor}}
+{{TonyAward MusicalLeadActor 2001–2025}}
+}}
+
+{{Authority control}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME = Jackman, Hugh Michael
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION = Actor
+|DATE OF BIRTH = 12 October 1968
+|PLACE OF BIRTH = Sydney, New South Wales, Australia
+|DATE OF DEATH =
+|PLACE OF DEATH =
+}}
+{{DEFAULTSORT:Jackman, Hugh}}
+[[Category:1968 births]]
+[[Category:Australian expatriate male actors in the United States]]
+[[Category:Australian male film actors]]
+[[Category:Australian male singers]]
+[[Category:Australian male musical theatre actors]]
+[[Category:Australian people of English descent]]
+[[Category:Australian people of Greek descent]]
+[[Category:Australian male stage actors]]
+[[Category:Australian male television actors]]
+[[Category:Australian television presenters]]
+[[Category:Australian male voice actors]]
+[[Category:Empire Icon Award winners]]
+[[Category:Primetime Emmy Award winners]]
+[[Category:Living people]]
+[[Category:People educated at Knox Grammar School]]
+[[Category:People from Sydney]]
+[[Category:Tony Award winners]]
+[[Category:University of Technology, Sydney alumni]]
+[[Category:Male actors from Sydney]]
+[[Category:20th-century Australian male actors]]
+[[Category:21st-century Australian male actors]]
+[[Category:Best Musical or Comedy Actor Golden Globe (film) winners]]
+[[Category:Skin cancer survivors]]
+[[Category:Drama Desk Award winners]]

@@ -1,0 +1,130 @@
+{{Infobox person
+| name = Denis Villeneuve
+| image = Denis Villeneuve 2013 TIFF.jpg
+| imagesize = 
+| caption = Villeneuve at the 2013 Toronto International Film Festival
+| birth_date = {{Birth date and age|1967|10|03}}
+| birth_place = [[Gentilly, Quebec|Gentilly]], [[Canada]]
+| death_date   = 
+| death_place  = 
+| occupation  = [[Film director]]<br>[[Screenwriter]]
+| yearsactive  = 1994–present 
+| homepage =
+| spouse = [[Macha Grenon]]
+}}
+
+'''Denis Villeneuve''' ({{IPA-fr|dəni vilnœv|lang}}; born October 3, 1967) is a [[French-Canadian]] [[film director]] and [[screenwriter|writer]].
+
+==Life and career==
+Villeneuve was born in [[Gentilly, Quebec|Gentilly]] near [[Trois-Rivières]], [[Quebec]]. In his early career he won Radio-Canada's youth film competition "La Course Europe-Asie" in 1990–91.<ref>http://www.montrealgazette.com/entertainment/movie-guide/Villeneuve+hometown+holds+carpet+bash/4357764/story.html</ref> He is a three-time winner of the [[Genie Award]] for [[Genie Award for Best Achievement in Direction|Best Director]], for ''[[Maelström (film)|Maelström]]'' in 2001, ''[[Polytechnique (film)|Polytechnique]]'' in 2010<ref>[http://www.thestar.com/entertainment/movies/article/794276--polytechnique-sweeps-genie-awards?bn=1 "Polytechnique sweeps Genie Awards"]. ''[[Toronto Star]]'', April 12, 2010.</ref> and ''[[Incendies]]'' in 2011.<ref>[http://www.theglobeandmail.com/news/arts/awards/villeneuves-incendies-wins-eight-genies-including-best-picture/article1937826/ "Villeneuve’s Incendies wins eight Genies, including best picture"]. ''[[The Globe and Mail]]'', March 10, 2011.</ref> All three films also won the [[Genie Award for Best Motion Picture|Best Picture]] award.
+
+His 2010 film ''Incendies'' represented Canada at the [[83rd Academy Awards]] in the category of [[Academy Award for Best Foreign Language Film|Best Foreign Language Film]]<ref name="hollywoodreporter Canada">{{cite news |url=http://www.hollywoodreporter.com/news/canada-picks-incendies-vie-oscar-28182 |title=Canada picks 'Incendies' to vie for Oscar |accessdate=2010-09-29|work=hollywoodreporter |first=Etan |last=Vlessing |date=September 22, 2010}}</ref> and made the list of nominees.<ref name="Nominees">{{cite web |url=http://www.oscars.org/awards/academyawards/83/nominees.html |title=Nominees for the 83rd Academy Awards |accessdate=2011-01-25|work=oscars.org}}</ref> In January 2011 he was selected as one of the top ten filmmakers to watch.<ref>{{cite news| url=http://www.cbc.ca/arts/film/story/2011/01/03/variety-canadian-directors-to-watch.html | work=CBC News | title=Variety taps Canadians among directors to watch | date=January 3, 2011}}</ref> ''Incendies'' is considered by the ''New York Times'' as one of the 10 best films of 2011.<ref>http://www.nytimes.com/2011/12/18/movies/awardsseason/2011-films-melancholia-tree-of-life-moneyball.html?emc=eta</ref>
+
+Villeneuve won Best Director for his thriller, ''[[Enemy (2013 film)|Enemy]]'' (2013), at the [[2nd Canadian Screen Awards]], and it was also nominated as Best Picture.
+
+In December 2013 Villeneuve was set to direct the crime thriller film ''[[Sicario (2015 film)|Sicario]]'' scripted by Taylor Sheridan,<ref>{{cite news|title=Denis Villeneuve In Talks To Direct Mexican Crime Drama Sicario for Black Flag|url=http://www.deadline.com/2013/12/prisoners-helmer-eyeing-tense-mexican-border-crime-drama-sicario-for-black-flag/|accessdate=2 June 2014|publisher=deadline.com|date=6 December 2013}}</ref> in which [[Benicio Del Toro]], [[Josh Brolin]] and [[Emily Blunt]] would be starring as leads.<ref>{{cite news|title=Josh Brolin to Star Opposite Emily Blunt in Denis Villeneuve’s ‘Sicario’|url=http://variety.com/2014/film/news/josh-brolin-to-star-opposite-emily-blunt-in-denis-villeneuves-sicario-exclusive-1201190345/|accessdate=2 June 2014|publisher=variety.com|date=30 May 2014}}</ref> The film has been selected to compete for the [[Palme d'Or]] at the [[2015 Cannes Film Festival]].<ref name="2015Cannes">{{cite web |url=http://www.festival-cannes.com/en/article/61306.html |title=2015 Official Selection |accessdate=16 April 2015 |work=Cannes}}</ref>
+
+In May 2014, it was revealed Villeneuve will direct the film ''Story of Your Life'', based on the short story by author [[Ted Chiang]], from an adapted script by [[Eric Heisserer]].<ref name="Cannes: Paramount Confirms ‘Story Of Your Life’ Acquisition; $20 Million Is Fest Record Deal">{{cite news|title=Cannes: Paramount Confirms ‘Story Of Your Life’ Acquisition; $20 Million Is Fest Record Deal|url=http://www.deadline.com/2014/04/amy-adams-circles-denis-villeneuve-helmed-alien-tale-story-of-your-life/|publisher=Deadline|date=14 May 2014}}</ref> The film stars [[Amy Adams]] and [[Jeremy Renner]].<ref>{{cite news|url= http://www.hollywoodreporter.com/heat-vision/jeremy-renner-joins-amy-adams-779876| title=Jeremy Renner Joins Amy Adams in Sci-Fi 'Story of Your Life'| publisher=The Hollywood Reporter | date=6 March 2015}}</ref>
+
+In February 2015, it was announced that Villeneuve would direct the sequel to ''[[Blade Runner]]''.<ref>{{cite news|title=‘Blade Runner’ Sequel Has Found Its Director!|url=http://bloody-disgusting.com/news/3333894/blade-runner-sequel-found-director/|accessdate=26 Feb 2015|publisher=variety.com|date=26 February 2015}}</ref> [[Harrison Ford]] will reprise his role, and it will take place several decades after the original. [[Ridley Scott]] is set to produce the film for [[Warner Bros]].<ref>{{cite news|title=Denis Villeneuve In Talks to Direct 'Blade Runner' Sequel|url=http://variety.com/2015/film/news/denis-villeneuve-in-talks-to-direct-blade-runner-sequel-1201442794/|accessdate=26 Feb 2015|publisher=variety.com|date=26 February 2015}}</ref>
+
+==Filmography==
+{| class="wikitable"
+|-
+! colspan="4" | Director
+|-
+! Year
+! Film
+! Type
+! Other notes
+|-
+|  [[1994 in film|1994]]
+|  ''REW-FFWD''
+| short
+| Produced by the [[National Film Board of Canada]]<ref name=nfb.ca>{{cite web|title=REW-FFWD|url=http://www.nfb.ca/film/REW_FFWD_en/|work=NFB.ca|publisher=[[National Film Board of Canada]]|accessdate=19 April 2011|format=Online film}}</ref> 
+|-
+|  [[1996 in film|1996]]
+|  ''[[Cosmos (1996 film)|Cosmos]]''
+| short
+| Presented at Directors' Fortnight, [[Cannes Film Festival]]
+|-
+|  [[1998 in film|1998]]
+|  ''[[Un 32 août sur terre]]''
+| 
+| Un Certain Regard section, [[Cannes Film Festival]]
+|-
+|  [[2000 in film|2000]]
+|  ''[[Maelström (film)|Maelström]]''
+| 
+| FIPRESCI Prize, [[Berlin International Film Festival]]
+|-
+|  [[2008 in film|2008]]
+|  ''Next Floor''
+| short
+| Prize of Best Short Film, [[Cannes Film Festival]]
+|-
+|  [[2009 in film|2009]]
+|  ''[[Polytechnique (film)|Polytechnique]]''
+| 
+| Presented at [[Cannes Film Festival]]
+|-
+|  [[2010 in film|2010]]
+|  ''[[Incendies]]''
+| 
+| Nominated for an [[Academy Award for Best Foreign Language Film]] in 2011
+|-
+| [[2013 in film|2013]]
+| ''[[Prisoners (2013 film)|Prisoners]]''
+| 
+| Premiered at the 2013 Telluride Film Festival
+|-
+| 2013
+| ''[[Enemy (2013 film)|Enemy]]''
+| 
+| Premiered at the [[2013 Toronto International Film Festival]]
+|-
+| [[2015 in film|2015]]
+| ''[[Sicario (2015 film)|Sicario]]''
+| 
+|  Premiered at the [[2015 Cannes Film Festival]]
+|-
+| TBA
+| ''Untitled [[Blade Runner]] sequel''<ref name=Variety>{{cite web|title=Harrison Ford to Return for ‘Blade Runner’ Sequel Directed by Denis Villeneuve|url=http://variety.com/2015/film/news/denis-villeneuve-in-talks-to-direct-blade-runner-sequel-1201442794/|work=Variety.com|publisher=[[Variety (magazine)|Variety]]|accessdate=27 February 2015|format=Online article}}</ref> 
+| 
+| Pre-production
+|-
+| TBA
+| ''[[Story of Your Life]]''<ref name="Cannes: Paramount Confirms ‘Story Of Your Life’ Acquisition; $20 Million Is Fest Record Deal"/>
+| 
+| Pre-production
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb name|0898288|Denis Villeneuve}}
+
+{{Denis Villeneuve}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Villeneuve, Denis
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Canadian film director
+| DATE OF BIRTH     = October 3, 1967
+| PLACE OF BIRTH    = [[Gentilly, Quebec|Gentilly]], [[Canada]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Villeneuve, Denis}}
+[[Category:1967 births]]
+[[Category:Living people]]
+[[Category:French Quebecers]]
+[[Category:Quebec film directors]]
+[[Category:Canadian film directors]]
+[[Category:Best Director Genie and Canadian Screen Award winners]]
+[[Category:People from Centre-du-Québec]]
+[[Category:Best Screenplay Genie and Canadian Screen Award winners]]
+[[Category:Canadian screenwriters]]

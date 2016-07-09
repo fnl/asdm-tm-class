@@ -1,0 +1,63 @@
+{{refimprove|date=April 2011}}
+{{Infobox person
+| name         = Bob Custer
+| image        = Arizona Days (1928) - Bob Custer 1.jpg
+| image_size   = 200px
+| alt          = 
+| caption      = Custer in ''[[Arizona Days]]'' (1928)
+| birth_name   = Raymond Glenn
+| birth_date   = {{Birth date|1898|10|18}}
+| birth_place  = [[Frankfurt, Kentucky]]
+| death_date   = {{Death date and age|1974|12|27|1898|10|18}}
+| death_place  = [[Torrance, California]], [[USA]]
+| nationality  = American
+| years_active = 1924-1937
+| other_names  = 
+| known_for    = 
+| occupation   = Actor<br>Producer
+}}
+'''Bob Custer ''' (October 18, 1898 &ndash; December 27, 1974) was an American film actor who appeared in over 50 films, mostly [[Western (genre)|Westerns]], between 1924 and 1937,<ref name="bwestern1">{{Cite web|url=http://www.b-westerns.com/custer1.htm|title=The Old Corral - Bwesterns.com - Bob Custer|accessdate=2011-04-15}}</ref> including  ''[[The Fighting Hombre]]'', ''[[Arizona Days]]'', ''[[The Last Roundup (film)|The Last Roundup]]'', ''[[The Oklahoma Kid (1929 film)|The Oklahoma Kid]]'', ''[[Law of the Rio Grande]]'', ''[[The Law of the Wild]]'' and ''[[Ambush Valley]]''. Using his original name Raymond Glenn, the actor also appeared in non-Western movies, including the 1927 film [[The Return of Boston Blackie]] as the title character.<ref>{{cite web|url=http://movies.nytimes.com/movie/41050/Return-of-Boston-Blackie/overview|title=Return of Boston Blackie (1927)|work=New York Times|author=Hans J. Wollstein|accessdate=27 April 2011}}</ref>
+
+Custer was born Raymond Glenn<ref>{{cite news|title=Ex-actor Dies|url=http://news.google.com/newspapers?id=NnZLAAAAIBAJ&sjid=FyQNAAAAIBAJ&pg=4497,8372878&dq=bob-custer+actor&hl=en|date=1974-12-30|work=[[Oxnard Press-Courier]]|accessdate=2011-04-15|page=3}}</ref>  in [[Frankfort, Kentucky]] in 1898 and attended the [[University of Kentucky]].
+
+After he retired from acting, with a degree in engineering, he become a building inspector in [[Los Angeles]] and eventually become chief building inspector in [[Newport Beach, California]].
+
+Custer died of a heart attack in 1974 in [[Torrance, California]].
+
+==Selected filmography==
+* ''[[The Return of Boston Blackie]]'' (1927)
+* ''[[Arizona Days]]'' (1928)
+* ''[[Under Texas Skies (1930 film)|Under Texas Skies]]'' (1930)
+* ''[[Law of the Rio Grande]]'' (1931)
+* ''[[The Law of the Wild]]'' (1934)
+* ''[[Ambush Valley]]'' (1936)
+* ''[[Vengeance of Rannah]]'' (1936)
+
+==References==
+{{reflist}}
+
+== External links ==
+{{commons category}}
+*{{IMDb name|0193793|Bob Custer}}
+*[http://www.b-westerns.com/custer1.htm Custer article on The Old Corral (B-westerns.com)]
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Custer, Bob
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American actor
+| DATE OF BIRTH     = 1898-10-18
+| PLACE OF BIRTH    = [[Frankfurt, Kentucky]]
+| DATE OF DEATH     = 1974-12-27
+| PLACE OF DEATH    = [[Torrance, California]], [[USA]]
+}}
+{{DEFAULTSORT:Custer, Bob}}
+[[Category:1898 births]]
+[[Category:1974 deaths]]
+[[Category:Male Western (genre) film actors]]
+[[Category:20th-century American male actors]]
+[[Category:Male actors from Kentucky]]
+[[Category:American male film actors]]
+[[Category:Deaths from myocardial infarction]]
+
+
+{{US-actor-stub}}

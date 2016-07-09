@@ -1,0 +1,74 @@
+{{distinguish|Jesse Hahn}}
+{{Infobox person
+| name                    = Jess Hahn
+| image                   = 
+| caption                 = 
+| birthname               = Jesse Beryle Hahn
+| birth_date              = October 29, 1921
+| birth_place             = [[Terre Haute, Indiana]]
+| death_date              = {{death date and age|1998|6|29|1921|10|29}}
+| death_place             = [[Saint-Malo]], [[France]]
+| restingplace            = 
+| othername               = 
+| occupation              = Actor
+| yearsactive             = 
+| spouse                  = 
+| website                 = 
+| awards                  = 
+}}
+
+'''Jess Hahn''' (born '''Jesse Beryle Hahn''' October 29, 1921, [[Terre Haute, Indiana]] – d. June 29, 1998, [[Saint-Malo]], [[France]]) was an [[United States|American]] actor who mostly starred in [[French language|French]] films.
+
+After serving with the [[U.S. Marine Corps|Marine]]s in the [[World War II|Second World War]], he moved to France in 1949 and took French citizenship.
+
+Firstly a musician, he became an actor and starred in [[film noir]]s and [[Western (genre)|western]]s. A large man, Hahn often appeared in "[[Strongman (strength athlete)|strong man]]" roles, such as in ''[[Cartouche (film)|Cartouche]]'' and ''[[Topkapi (film)|Topkapi]]''. He was employed by French movie-maker [[Jean-Marie Pallardy]], becoming one of his recurrent actors, until his retirement. He died at age 76 in [[Saint-Malo]].
+
+==Selected filmography==
+* ''[[Les Corsaires du Bois de Boulogne]]'' (1954)
+* ''[[L'impossible Monsieur Pipelet]]'' (1955)
+* ''[[Les Hussards]]'' (1955)
+* ''[[La Femme et le Pantin (film 1959)|La femme et le Pantin]]'' (1959)
+* ''[[The Big Gamble (1961 film)|The Big Gamble]]'' (1961)
+* ''[[Cartouche (film)|Cartouche]] (1962)
+* ''[[The Sign of Leo]]'' (1962)
+* ''[[The Trial (1962 film)|The Trial]]'' (1962)
+* ''[[Topkapi (film)|Topkapi]]'' (1964)
+* ''[[What's New Pussycat?]]'' (1965)
+* ''[[Le Saint prend l'affût]]'' (1966)
+* ''[[Secret Agent Super Dragon]]'' (1966)
+* ''[[Triple Cross (1966)|Triple Cross]]'' (1966)
+* ''[[The Night of the Following Day]]'' (1968)
+* ''[[Boulevard du Rhum]]'' (1971)
+* ''[[Un linceul n'a pas de poches]]'' (1974)
+* ''[[Mama Dracula]]'' (1980)
+
+==External links==
+*{{IMDb name|id=0353916|name=Jess Hahn}}
+
+{{Authority control}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Hahn, Jess
+|ALTERNATIVE NAMES= Hahn, Jesse Beryle
+|SHORT DESCRIPTION= Actor
+|DATE OF BIRTH= October 29, 1921
+|PLACE OF BIRTH= [[Terre Haute, Indiana]]
+|DATE OF DEATH= June 29, 1998
+|PLACE OF DEATH= [[Saint-Malo]], [[France]]
+}}
+{{DEFAULTSORT:Hahn, Jess}}
+[[Category:1921 births]]
+[[Category:1998 deaths]]
+[[Category:American emigrants to France]]
+[[Category:American male film actors]]
+[[Category:French male film actors]]
+[[Category:Actors from Terre Haute, Indiana]]
+[[Category:20th-century American male actors]]
+[[Category:American military personnel of World War II]]
+[[Category:20th-century French male actors]]
+[[Category:Male actors from Indiana]]
+[[Category:Male Western (genre) film actors]]
+
+
+{{France-film-actor-stub}}

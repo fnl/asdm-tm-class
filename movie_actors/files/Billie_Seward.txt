@@ -1,0 +1,89 @@
+{{Infobox person
+| name = Billie Seward
+| image = Billie Seward-Jeff York in Li'l Abner.jpg
+| imagesize = 
+| caption = Billie Seward and [[Jeff York]] in ''[[Li'l Abner (1940 film)|Li'l Abner]]'' (1940)
+| birth_date = {{birth date|1912|10|23|mf=y}}
+| birth_place = [[Philadelphia, Pennsylvania]]
+| death_date = {{death date and age|1982|3|20|1912|10|23}}
+| death_place = 
+| birth_name = Rita Ann Seward
+| years_active = [[1934 in film|1934]] - [[1944 in film|1944]]
+| spouse = [[William Wilkerson]] (1935-1938)
+}}
+
+'''Billie Seward''' (October 23, 1912 &ndash; March 20, 1982)<ref name=death>''Death Notices'', [[Los Angeles Times]], March 23, 1982, pg. SD_A2.</ref> was a 1930s motion picture actress from [[Philadelphia, Pennsylvania]].<ref name=seward>''Changeable Coat Latest Novelty'', Los Angeles Times, February 12, 1934, pg. 8.</ref>
+
+==Marriage==
+In 1934 Seward was linked romantically to actor [[Lyle Talbot]].<ref>''Hobnobbing In Hollywood'', Los Angeles Times, May 26, 1934, pg. 6.</ref> She married [[William Wilkerson]], owner of the [[Trocadero (Los Angeles)]] and [[Ciro's]], on September 30, 1935. Wilkerson was also the owner and publisher of the [[Hollywood Reporter]].<ref>''Film Player To Be Bride'', Los Angeles Times, September 29, 1935,
+pg. 1.</ref> The couple separated in February 1937 but reconciled. Seward renewed a divorce suit against Wilkerson in March 1938, using her legal name Rita Ann Wilkerson.<ref>''Billie Seward Revives Suit'', Los Angeles Times, March 2, 1938, pg. A8.</ref>
+
+==Film actress==
+Seward performed with [[Lou Holtz (actor)|Lou Holtz]] at [[The Beverly Wilshire Hotel]] Gold Room in December 1933.<ref>''Hobnobbing in Hollywood'', Los Angeles Times, December 16, 1933, pg. A7.</ref>
+
+She obtained a contract with [[Columbia Pictures]] following a three month stay in [[Hollywood]]. Seward starred with [[Richard Cromwell (actor)|Richard Cromwell]] in the 1934 Columbia production of ''Among the Missing''.<ref>''Screen Notes'', [[New York Times]], July 9, 1934, pg. 18.</ref> [[Wallace Ford]] joined Seward and Cromwell in ''Hot News'', which was eventually titled ''Men of the Hour'' (1935).
+
+She was in three western films written by [[Ford Beebe]] in 1935. The titles are ''Law Beyond the Range'', ''The Revenge Rider'', and ''Justice of the Range''. Colonel [[Tim McCoy]], [[Ward Bond]], and Ed LeSaint were among her fellow actors.<ref>''The Star: In Composite'', New York Times, May 19, 1935, pg. X4.</ref> In ''One Crowded Night'' (1940) Seward plays ''Gladys''. This [[RKO]] film is critiqued by [[Bosley Crowther]] who called it "a routine multi-plot [[melodrama]], ''[[Grand Hotel (film)|Grand Hotel]]'' reduced to a tourist camp."<ref>''The Screen'', New York Times, August 27, 1940, pg. 17.</ref>
+
+==Court litigation==
+In August 1951 an appointment for a receiver for the Hollywood Reporter was requested in a suit filed by film director Thomas Seward against Wilkerson, publisher of the trade periodical. Seward contended that in 1944 he advanced $228,000 in partnership with Wilkerson, who put up
+$372,000. The suit stipulated that profits would be divided 62 percent for Wilkerson and 38 percent for Seward. He was the brother of Billie
+Seward. Thomas Seward charged that Wilkerson took sole possession of the business and its assets in June 1951. Seward asked for the sale of the business, a division of assets, and $150,000 in damages.<ref>Receiver Asked for Movie Daily'', Los Angeles Times, August 11, 1951, pg. B5.</ref>
+
+==Death==
+Seward died in [[Sherman Oaks, California]], in 1982. She was survived by four brothers and two sisters. Her funeral mass was conducted from St. Cyrils Church in [[Encino, California]], and she was buried in the [[San Fernando Mission]] Cemetery.<ref name=death/>
+
+==Filmography==
+{{div col|cols=2}}
+*''School For Romance'' (1934)
+*''[[Once to Every Woman]]'' (1934)
+*''[[Voice in the Night (film)|Voice In The Night]]'' (1934)
+*''[[Twentieth Century (film)|Twentieth Century]]'' (1934)
+*''The Hell Cat'' (1934)
+*''Plumbing For Gold'' (1934)
+*''[[Whom the Gods Destroy]]'' (1934)
+*''Blind Date'' (1934)
+*''Among The Missing'' (1934)
+*''Law Beyond The Range'' (1935)
+*''The Revenge Rider'' (1935)
+*''Men Of The Hour'' (1935)
+*''[[Air Hawks]]'' (1935)
+*''Justice Of The Range'' (1935)
+*''Riding Wild'' (1935)
+*''[[Branded a Coward]]'' (1935)
+*''Trails of The Wild'' (1935)
+*''Man from Guntown'' (1935)
+*''[[Charlie Chan at Treasure Island]]'' (1939)
+*''[[Reno (1939 film)|Reno]]'' (1939)
+*''[[One Crowded Night]]'' (1940)
+*''[[Li'l Abner (1940 film)|Li'l Abner]]'' (1940)
+*''[[No Hands on the Clock]]'' (1941)
+*''[[Jane Eyre (1944 film)|Jane Eyre]]'' (1944)
+*''Take It or Leave It'' (1944)
+{{div col end}}
+
+==References==
+{{reflist}}
+
+{{Portal|Biography}}
+==External links==
+{{commons category}}
+* {{IMDb name|id=0786538|name=Billie Seward}}
+* {{Find a Grave|6692392}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Seward, Billie
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American actor
+| DATE OF BIRTH     =October 23, 1912
+| PLACE OF BIRTH    =[[Philadelphia, Pennsylvania]]
+| DATE OF DEATH     =March 20, 1982
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Seward, Billie}}
+[[Category:20th-century American actresses]]
+[[Category:American film actresses]]
+[[Category:Western (genre) film actresses]]
+[[Category:Actresses from Philadelphia, Pennsylvania]]
+[[Category:1982 deaths]]
+[[Category:1912 births]]

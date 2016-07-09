@@ -1,0 +1,88 @@
+{{Infobox person
+| name = Giuseppe Tornatore
+| image = Giuseppe Tornatore.jpg<!-- Please do not put a fair-use image here, it will be deleted - see [[WP:NONFREE]] -->
+| birth_date = {{Birth date and age|1956|5|27|df=yes}}
+| birth_place = [[Bagheria]], [[Sicily]], [[Italy]]
+| occupation = Film director, screenwriter
+| years_active = 1985–present
+| awards = [[Academy Award]]s
+}}
+
+'''Giuseppe Tornatore''' (born 27 May 1956) is an Italian [[film director]] and [[screenwriter]].
+
+==Life and career==
+
+Born in [[Bagheria]] near [[Palermo]], Tornatore developed an interest in acting and the theatre from at least the age of 16 and put on works by [[Luigi Pirandello]] and [[Eduardo De Filippo]].
+
+He worked initially as a freelance photographer. Then, switching to cinema, he made his debut with ''Le minoranze etniche in Sicilia'' (''The Ethnic Minorities in Sicily''), a collaborative documentary film which won a Salerno Festival prize. He then worked for [[RAI]] before releasing his first full-length film, ''[[Il Camorrista]]'', in 1985. This evoked a positive response from audience and critics alike and Tornatore was awarded the ''[[Silver Ribbon]]'' for ''[[Nastro d'Argento Best New Director|best new director]]''.
+
+Tornatore's best known screen work was released in 1988: ''[[Nuovo Cinema Paradiso]]'', a film narrating the life of a successful film director who has returned to his native town in [[Sicily]] for the funeral of his mentor. This obtained worldwide success and won an [[Academy Award for Best Foreign Language Film]]. Subsequently Tornatore released several other films. In 2007 he won the Silver George for Best Director at the [[29th Moscow International Film Festival]] for ''[[The Unknown Woman]]''.<ref name="Moscow2007">{{cite web |url=http://www.moscowfilmfestival.ru/miff34/eng/archives/?year=2007 |title=29th Moscow International Film Festival (2007) |accessdate=2013-05-30 |work=MIFF}}</ref>
+
+==Personal life==
+Tornatore describes himself as "one who does not believe and who regrets this".<ref>[http://trovacinema.repubblica.it/news/dettaglio/tornatore-sogno-lultima-cena-su-grande-schermo/189168 Interview with ''Trovacinema'']</ref> His brother, Francesco Tornatore, is a producer.
+
+==Filmography==
+[[File:Giuseppe Tornatore Cannes 1994.jpg|thumb|Tornatore at the [[1994 Cannes Film Festival]].]]
+
+===Written and directed===
+*1986: ''[[The Professor (1986 film)|The Professor (Il camorrista)]]''
+*1988: ''[[Cinema Paradiso|Cinema Paradiso (Nuovo Cinema Paradiso)]]''
+*1990: ''[[Stanno tutti bene|Everybody's Fine (Stanno tutti bene)]]''
+*1991: ''[[Especially on Sunday]]'' (segment "Il cane blu")
+*1994: ''[[A Pure Formality|A Pure Formality (Una pura formalità)]]''
+*1995: ''[[The Star Maker (1995 film)|The Star Maker (L'uomo delle stelle)]]''
+*1995: ''[[Lo schermo a tre punte]]'' (documentary)
+*1996: ''[[Ritratti d'autore: seconda serie]]'' documentary)
+*1998: ''[[The Legend of 1900|The Legend of 1900 (La leggenda del pianista sull'oceano)]]''
+*2000: ''[[Malèna]]''
+*2006: ''[[La sconosciuta|The Unknown Woman (La sconosciuta)]]''
+*2009: ''[[Baarìa (film)|Baarìa]]''
+*2013: ''[[The Best Offer]]''
+
+===Screenplay only===
+*''[[Cento giorni a Palermo]]'' ("One Hundred Days in Palermo"), directed by [[Giuseppe Ferrara]] (1984) - Tornatore is credited under the name '''Peppuccio Tornatore'''
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*''Giuseppe Tornatore. Uno sguardo dal set'' a cura di Ninni Panzera, Silvana Editoriale, Cinisello Balsamo 2007
+*''L'isola di Tornatore'' a cura di Ninni Panzera, Silvana Editoriale, Cinisello Balsamo 2010
+*''Le Madonie, cinema ad alte quote'' di Sebastiano Gesù e Elena Russo, con introduzione di Francesco Novara e presentazione di Pasquale Scimeca, Giuseppe Maimone Editore, Catania 1995 (Nuovo Cinema Paradiso and L'Uomo delle Stelle)
+
+==External links==
+{{commons}}
+*{{IMDb name|0868153}}
+
+{{Giuseppe Tornatore}}
+{{Navboxes
+|title = Awards for Giuseppe Tornatore
+|list =
+{{AcademyAwardBestForeignLanguageFilm 1981–2000}}
+{{BAFTA Award for Best Original Screenplay 1983-1999}}
+{{David di Donatello Best Director}}
+{{Nastro d'Argento Best Director}}
+{{Nastro d'Argento Best New Director}}
+{{Nastro d'Argento Best Producer}}
+}}
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Tornatore, Giuseppe
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Italian film director
+| DATE OF BIRTH     = 27 May 1956
+| PLACE OF BIRTH    = [[Bagheria]], [[Sicily]], [[Italy]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Tornatore, Giuseppe}}
+[[Category:1956 births]]
+[[Category:European Film Awards winners (people)]]
+[[Category:BAFTA winners (people)]]
+[[Category:Living people]]
+[[Category:People from the Province of Palermo]]
+[[Category:Italian atheists]]
+[[Category:Italian film directors]]
+[[Category:David di Donatello winners]]
+[[Category:Nastro d'Argento winners]]

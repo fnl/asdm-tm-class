@@ -1,0 +1,61 @@
+{{Infobox person
+| name        = Ruth Royce
+| birth_date   = {{birth date|1893|02|6}} 
+| birth_place  = [[Versailles, Missouri]] 
+| death_date   = {{death date and age|1971|05|7|1893|02|6}}
+| death_place  = [[Los Angeles, California]]
+| othername   = 
+| occupation  = [[Actor]]
+| yearsactive = [[1919 in film|1919]] - [[1927 in film|1927]]
+| imdb_id     = 0747329
+}}
+'''Ruth Royce''' (February 6, 1893 - May 7, 1971) was a [[vaudeville]] performer and [[silent film]] actress from [[Versailles, Missouri]]. 
+
+Royce appeared in the serial, ''[[The Vanishing Dagger]]'' (1920), which starred [[Eddie Polo]] and C. Norman Hammond. In 1923, Royce, along with other [[Hollywood]] actors, participated in a vaudeville show at [[Universal City, California|Universal City]]. Royce assisted [[Joe Bonomo (strongman)|Joe Bonomo]] with a ''Strong Man'' act.
+
+She performed in a number of western movies over the years like ''California in '49'' (1924), ''Warrior Gap'' (1925), ''Fort Frayne'' (1926), ''[[The Oregon Trail (1923 serial)|The Oregon Trail]]'' (1923), ''[[In the Days of Buffalo Bill]]'' (1922), ''[[Perils of the Yukon]]'' (1922), ''Rawhide'' (1926), ''Wolves of the Desert'' (1926), and ''Code of the Cow Country'' (1927). The latter was Royce's final film. 
+
+Ruth Royce died in [[Los Angeles, California]] on May 7, 1971.
+
+==Selected filmography==
+* ''[[Officer 444]]'' ([[1926 in film|1926]])
+* ''[[Riders of the Plains]]'' ([[1924 in film|1924]])
+* ''[[Beasts of Paradise]]'' ([[1923 in film|1923]])
+* ''[[In the Days of Daniel Boone]]'' (1923)
+* ''[[The Oregon Trail (1923 serial)|The Oregon Trail]]'' (1923)
+* ''[[In the Days of Buffalo Bill]]'' ([[1922 in film|1922]])
+* ''[[Perils of the Yukon]]'' (1922)
+* ''[[Blue Streak McCoy]]'' ([[1920 in film|1920]])
+* ''[[The Vanishing Dagger]]'' (1920)
+* ''[['If Only' Jim]]'' (1920)
+
+==References==
+{{Reflist}}
+*''[[Los Angeles Times]]'', ''Adds New Stars To His List'', December 7, 1919, Page III17.
+*''Los Angeles Times'', ''Universal Players In Vaudeville'', August 3, 1923, Page II9.
+
+==External links==
+{{Portal|Biography}}
+* {{IMDb name|0747329|Ruth Royce}}
+* {{Find a Grave|6079916}}
+
+{{Persondata
+|NAME = Royce, Ruth
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= [[Actor]]
+|DATE OF BIRTH = February 6, 1893
+|PLACE OF BIRTH = [[Versailles, Missouri]] 
+|DATE OF DEATH = May 7, 1971
+|PLACE OF DEATH = [[Los Angeles, California]]
+}}
+{{DEFAULTSORT:Royce, Ruth}}
+[[Category:American film actresses]]
+[[Category:American silent film actresses]]
+[[Category:People from Morgan County, Missouri]]
+[[Category:Actresses from Missouri]]
+[[Category:Western (genre) film actresses]]
+[[Category:1893 births]]
+[[Category:1971 deaths]]
+[[Category:Vaudeville performers]]
+[[Category:Burials at Forest Lawn Memorial Park (Hollywood Hills)]]
+[[Category:20th-century American actresses]]

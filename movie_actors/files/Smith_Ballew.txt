@@ -1,0 +1,65 @@
+{{Infobox musical artist
+|name = Smith Ballew
+|image = Smith Ballew.jpg
+|caption = Smith Ballew on a 1931 sheet music cover.
+|background = solo_singer
+|birth_name = Sykes Ballew
+|birth_date = {{birth date |1902|01|21}}
+|birth_place =[[Palestine, Texas]]
+|death_date = {{death date and age |1984|05|02|1902|01|21|}}
+|death_place =[[Longview, Texas]]
+|instrument = [[Vocals]]
+|genre = [[Popular music]], [[Jazz]], [[Country music]], [[Western movies]]
+|occupation = [[Vocalist]], [[musician]], [[orchestra]] leader, [[film actor]]
+|years_active = 1930s&ndash;50s
+|associated_acts = 
+|label = 
+|website = 
+}}
+'''Smith Ballew''' (real name '''Sykes Ballew''') (January 21, 1902 &ndash; May 2, 1984) was an [[United States|American]] [[actor]], sophisticated [[singing|singer]], [[orchestra]] leader, and a western singing star.
+
+He was born in [[Palestine, Texas]]. He attended high school in [[Sherman, Texas|Sherman]] and college at [[Austin College]] and the [[University of Texas]]. He began his singing career on the [[radio]], and in the 1930s became one of the earliest of the [[singing cowboy]]s on the movie screen. He did a series of musical Westerns for [[Paramount Pictures]] and one for [[20th Century Fox]], continuing in supporting roles until the 1950s.
+
+Prior to his singing cowboy career, starting in the late 1920s, he became one of the most recognizable vocalists on hundreds of dance band and jazz records. During this time, Ballew along with [[Scrappy Lambert]], Dick Robertson, and [[Chick Bullock]] were the most prolific studio vocalists. He organized his own short-lived band in 1931.
+
+Between 1929 and 1935, he made scores of records issued under his own name for [[OKeh Records|OKeh]], the dime store labels ([[Banner Records|Banner]], [[Domino Records|Domino]], [[Jewel Records (New York record label)|Jewel]], [[Regal Records (1921)|Regal]], [[Perfect Records|Perfect]], [[Oriole Records (U.S.)|Oriole]] as Buddy Blue & His Texans or Jack Blue's Texans), [[Columbia Records|Columbia]], and [[Crown Records|Crown]].  Few of these popular records gave any indication of his future Cowboy style.
+
+He died at the age of 82 in [[Longview, Texas]].
+
+==External references==
+*{{IMDb name|id=0050827|name=Smith Ballew}}
+*{{Amg name|3609}}
+*{{Find a Grave|9815}}
+*[http://www.parabrisas.com/d_ballews.php Smith Ballew bio on the "Solid!" big band music site]
+*[http://www.redhotjazz.com/ballew.html Smith Ballew bio on the "Red Hot Jazz" site]
+
+{{Authority control}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME              = Ballew, Smith
+|ALTERNATIVE NAMES = Ballew, Sykes
+|SHORT DESCRIPTION = American actor, singer andorchestra leader
+|DATE OF BIRTH     = January 21, 1902
+|PLACE OF BIRTH    = Palestine, Texas, USA
+|DATE OF DEATH     = May 2, 1984
+|PLACE OF DEATH    = Longview, Texas, USA
+}}
+{{DEFAULTSORT:Ballew, Smith}}
+[[Category:American country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Okeh Records artists]]
+[[Category:American male singers]]
+[[Category:American male film actors]]
+[[Category:Singing cowboys]]
+[[Category:Male Western (genre) film actors]]
+[[Category:1902 births]]
+[[Category:1984 deaths]]
+[[Category:Austin College alumni]]
+[[Category:University of Texas at Austin alumni]]
+[[Category:20th-century American male actors]]
+[[Category:People from Palestine, Texas]]
+[[Category:20th-century American singers]]
+
+
+{{US-singer-stub}}

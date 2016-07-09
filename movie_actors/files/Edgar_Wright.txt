@@ -1,0 +1,833 @@
+{{EngvarB|date=October 2013}}
+{{Use dmy dates|date=October 2013}}
+{{BLP sources|date=September 2011}}
+{{Infobox person
+| name         = Edgar Wright
+| image        = Edgar Wright by Gage Skidmore 2.jpg
+| imagesize    =
+| caption      = Wright at the 2013 [[San Diego Comic-Con International|San Diego Comic-Con]]
+| birth_date   = {{Birth date and age|1974|04|18|df=y}}
+| birth_place  = [[Poole]], [[Dorset]], [[England]]
+| othername    =
+| years_active = 1994–present
+| occupation   = Director, producer, screenwriter, actor
+| partner      = <!--partner parameter is for life partners, not boyfriend/girlfriend-->
+| spouse       =
+| website      =
+}}
+'''Edgar Howard Wright''' (born 18 April 1974) is an English director, screenwriter, producer, and actor. He is best known for his comedic [[Three Flavours Cornetto trilogy|Three Flavours Cornetto film trilogy]] consisting of ''[[Shaun of the Dead]]'' (2004), ''[[Hot Fuzz]]'' (2007), and ''[[The World's End (film)|The World's End]]'' (2013), made with recurrent collaborators [[Simon Pegg]], [[Nira Park]] and [[Nick Frost]]. He also collaborated with them as the director of the television series ''[[Spaced]]''.
+
+He also co-wrote, produced and directed the 2010 film ''[[Scott Pilgrim vs. the World]]''. Along with his friend [[Joe Cornish (filmmaker)|Joe Cornish]] and [[Steven Moffat]], he co-wrote [[Steven Spielberg]]'s ''[[The Adventures of Tintin: The Secret of the Unicorn]]''. Wright and Cornish co-wrote the screenplay of upcoming superhero film ''[[Ant-Man (film)|Ant-Man]]'', which Wright was intended to direct for a planned release in July 2015 before departing the project.
+
+==Early life==
+Wright was born in [[Poole]], Dorset, but grew up predominantly in [[Wells, Somerset|Wells]], Somerset. Throughout the late 1980s and early 1990s, Wright directed many short films, first on a [[Super-8]] camera which was a gift from a family member and later on a [[Video-8]] camcorder won in a competition on the television programme ''[[Going Live]]''. These films were mostly comedic pastiches of popular genres, such as the super hero-inspired ''Carbolic Soap'' and ''[[Dirty Harry]]'' tribute ''[[Dead Right (film)|Dead Right]]'' (which was eventually featured on the DVD release of ''[[Hot Fuzz]]'').
+
+From 1992 to 1994 Wright attended the Bournemouth and Poole College of Art (now [[Arts University Bournemouth]]) and received an [[National Diploma (United Kingdom)|ND]] in Audio-Visual Design.<ref>[http://www.edgarwrighthere.com/2009/09/03/video-archives-hot-fuzz-the-directors-cut-trailer-2007/#comment-21591973 Edgar Wright 2009 Q&A]</ref>
+
+==Career==
+
+===1994–2002: Early works and ''Spaced''===
+Wright made his feature film debut in 1994 with a low budget, independent [[Parody|spoof]] [[Western (genre)|western]], ''[[A Fistful of Fingers]]'', which was picked up for a limited theatrical release and broadcast on the British [[Satellite television|satellite TV]] channel [[Sky Movies]].<ref name="shaunprofile">{{cite web | title=Shaun of the Dead > The Production > Edgar Wright | url=http://www.paramountpictures.co.uk/romzom/ | accessdate=6 May 2009}}</ref> Despite Wright's dissatisfaction with the finished product, it caught the attention of comedians [[Matt Lucas]] and [[David Walliams]], who subsequently chose him as the director of their [[Paramount Comedy]] channel production ''[[Mash and Peas]]''. During this time he also worked on [[BBC]] programmes such as ''[[Is It Bill Bailey?]]'', ''[[Alexei Sayle's Merry-Go-Round]]'' and ''[[Sir Bernard's Stately Homes]]''. In an interview with journalist and author [[Robert K. Elder]] for ''[[The Film That Changed My Life]]'', Wright attributes his edgy and comedic style to his love for ''[[An American Werewolf in London]]'':
+
+<blockquote>I've always been fascinated by horror films and genre films. And horror films harboured a fascination for me and always have been something I've wanted to watch and wanted to make. Equally, I'm very fascinated by comedy. I suppose the reason that this film changed my life is that very early on in my film-watching experiences, I saw a film that was so sophisticated in its tone and what it managed to achieve.<ref>Wright, Edgar. Interview by Robert K. Elder. The Film That Changed My Life. By Robert K. Elder. Chicago: Chicago Review Press, 2011. N. p6. Print.</ref></blockquote>
+
+In 1998 writer/actors [[Simon Pegg]] and [[Jessica Hynes|Jessica Stevenson]] were in the early stages of developing their sitcom ''[[Spaced]]'' for [[Channel 4]] and thought of asking Wright to direct having fondly remembered working with him on the 1996 Paramount comedy ''[[Asylum (TV series)|Asylum]]''. Wright gave ''Spaced'' an unusual look for the sitcom genre, with dramatic camera angles and movement borrowed from the visual language of [[science fiction film|science fiction]] and [[horror film]]s. Instead of shying away from these influences Wright makes an active effort to show his referencing, adding a 'Homage-O-Meter' to all of his releases, a device that displays each directorial nod he has made during shooting. In 2002, he made appearances as a scientist and a technician named Eddie Yorque during both series of ''[[Look Around You]]'', a BBC programme created by a member of the ''Spaced'' cast, [[Peter Serafinowicz]]. He also made two brief appearances in ''Spaced'', one in which he can be seen, along with other crew members on the series, lying asleep in Daisy Steiner's squat as she prepares to leave for her new house. The other is a brief appearance during the montage in the episode "Gone" where Daisy describes to Tim what she thinks would be a fun night out for the two. Edgar is sitting on the subway (with a beard) next to Tim and Daisy.
+
+===2003–13: The Three Flavours Cornetto trilogy and ''Scott Pilgrim''===
+The critical success of ''Spaced'' paved the way for Wright and Pegg to move to the big screen with ''[[Shaun of the Dead]]'', a [[zombie comedy]] which mixed a "Brit flick" [[romantic comedy]] style with homages to the horror classics of [[George A. Romero]] and [[Sam Raimi]]. The film was a great success both critically and financially, and its rooting in American genre cinema helped to make it a transatlantic hit.
+
+The pair subsequently planned out a trilogy of British genre-comedies which were connected not by narrative but by their shared traits and motifs. The trilogy was named "[[The Three Flavours Cornetto Trilogy]]" by the pair due to a running joke about the British Ice Cream product [[Cornetto (ice cream)|Cornetto]] and its effectiveness as a hangover cure. Wright explained to Clark Collis in an interview for ''[[Entertainment Weekly]]'', "We put that joke in ''Shaun of the Dead'' where Nick asks for a Cornetto first thing in the morning. When I was at college, it was my hangover cure—probably still ''is'' my hangover cure. Then we put it into ''Hot Fuzz'' because we thought it would be a funny recurring thing. One journalist in the United Kingdom said, 'Is this going to be your theme as a trilogy?' and I said, 'Yes, it's like [[Krzysztof Kieślowski]]'s Three Colors trilogy. This is the Three Flavors Cornetto trilogy.' It was just a joke that stuck." Collis observes that the films also feature "a running gag involving garden fences."<ref>{{cite journal |url= |last= Collis |first= Clark |title= 3 Blokes. 3 Films. Many, Many Laughs |journal= [[Entertainment Weekly]] |date= 30 August 2013 |pages= 46–47}}</ref>
+
+The second installment was the comedy action thriller ''[[Hot Fuzz]]''. Production started in March 2006 and the film was released in February 2007 in the United Kingdom and April 2007 in the United States. It revolves around Pegg's character, Nicholas Angel, a police officer who is transferred from London to rural Sandford, where grisly events soon take place.
+
+In 2007, Wright also directed a fake trailer insert for [[Quentin Tarantino]] and [[Robert Rodriguez]]'s ''[[Grindhouse (film)|Grindhouse]]'', called ''Don't''.<ref>{{cite web|last1=Topel|first1=Fred|title=Edgar Wright's "Don't" Trailer Could Be "Grindhouse 2"|url=http://www.rottentomatoes.com/m/grindhouse/news/1648577/edgar_wrights_quotdontquot_trailer_could_be_quotgrindhouse_2quot/|website=[[Rotten Tomatoes]]|publisher=[[Flixster]]|accessdate=30 April 2015|date=7 April 2007}}</ref> It was a plotless trailer that mocked horror clichés, with lines such as, "If you... are thinking... of going ... into... this... house... DON'T!".
+
+In 2010 ''[[Scott Pilgrim vs. the World]]'' was released; its over-$85 million budget<ref name="thenum"/> dwarfed the £8 million budget<ref name="DarkHorizons">{{cite web| title = Interview: Edgar Wright for "Hot Fuzz" | work=Dark Horizons | last=Fischer |first=Paul | url = http://www.darkhorizons.com/news07/fuzz2.php | date=9 April 2007 | accessdate=23 March 2009}}</ref> of ''Hot Fuzz''. The film, based on the [[graphic novel]] series ''[[Scott Pilgrim]]'', was co-written, co-produced and directed by Wright. It took in roughly half its budget in box office,<ref>{{cite web|url=http://www.the-numbers.com/movies/2010/SPILG.php|title=Scott Pilgrim vs. The World – Box Office Data|work=The Numbers|accessdate=12 April 2011}}</ref> in spite of its critical reception and praise from fellow directors such as [[Kevin Smith]], [[Quentin Tarantino]] and [[Jason Reitman]].<ref name="thenum">{{cite web|date=3 March 2010|url=http://thefilmstage.com/2010/03/03/exclusive-kevin-smith-talks-scott-pilgrim-vs-the-world/|title=Kevin Smith Talks Scott Pilgrim|work=The Film Stage|accessdate=18 August 2013}}</ref>
+
+In 2010, Wright was under consideration to direct ''[[Mission: Impossible – Ghost Protocol]]''. The film was ultimately directed by [[Brad Bird]].<ref>{{cite web|url=http://www.slashfilm.com/2010/05/07/brad-bird-confirmed-for-mission-impossible-4|title=Brad Bird Confirmed for Mission: Impossible 4|date=7 May 2010|publisher=[[/Film]]|accessdate=18 August 2013}}</ref>
+
+In November 2011, ''[[The Adventures of Tintin: Secret of the Unicorn]]'', directed by [[Steven Spielberg]], produced by [[Peter Jackson]], and based on [[Hergé]]'s ''[[The Adventures of Tintin]]'' was released. Wright co-wrote the film with writing partner [[Joe Cornish (filmmaker)|Joe Cornish]] and [[Steven Moffat]]. The film also co-starred Wright's frequent collaborators [[Simon Pegg]] and [[Nick Frost]].
+
+Wright directed one single shot of the 2013 film ''[[Star Trek Into Darkness]]'', directed by [[J. J. Abrams]], and co-starring his friend Simon Pegg.<ref>{{cite web|url=http://www.slashfilm.com/potd-edgar-wright-directed-a-shot-in-star-trek-into-darkness/|title=POTD: Edgar Wright Directed a Shot in ‘Star Trek Into Darkness’|last=Lussier|first=Germain|publisher=slashfilm.com|date=9 May 2013|accessdate=9 May 2013}}</ref> According to him, it is a one-second-long shot during the scene featuring the [[Klingon]]s on [[Klingon#Homeworld|Kronos]].<ref name="vulture interview">{{cite news | url=http://www.vulture.com/2013/08/edgar-wright-the-worlds-end-interview.html| title=Edgar Wright on The World's End, Man-Child Movies, and Not Tweeting While Making Ant-Man | work=Vulture | date=8 August 2013 | accessdate=30 March 2014}}</ref>
+
+The third installment of the trilogy, ''[[The World's End (film)|The World's End]]'', premiered in London on 10 July 2013. The film is about several friends who reunite when one decides to repeat a pub crawl they did 20 years earlier. They have to get to ''The World's End'' pub without ending up in the gutter to do this, but some unusual powers are at work and what happens to them may determine what happens to humans as a species.<ref>{{cite news| url=http://www.guardian.co.uk/film/2012/may/10/simon-pegg-edgar-wright-worlds-end | location=London | work=The Guardian | first=Ben | last=Child | title=Simon Pegg and Edgar Wright brew plot for World's End | date=10 May 2012}}</ref>
+
+===2014–present: ''Ant-Man'' and upcoming projects===
+Wright was developing a [[Ant-Man (film)|live-action film]] based on the [[Marvel Comics]] superhero [[Ant-Man]] with Joe Cornish since 2006.<ref>{{cite web|last1=Masters|first1=Kim|last2=Kit|first2=Borys|title=Why 'Ant-Man' Director Edgar Wright Exited Marvel's Superhero Movie|url=http://www.hollywoodreporter.com/news/why-ant-man-director-edgar-707374|website=[[The Hollywood Reporter]]|publisher=[[Prometheus Global Media]]|accessdate=30 April 2015|date=28 May 2014}}</ref> However, on 23 May 2014, Wright and [[Marvel Studios]] issued a joint statement announcing that Wright would exit the movie due to creative differences.<ref>{{cite web|title=MARVEL STUDIOS & EDGAR WRIGHT STATEMENT|url=http://marvel.com/news/movies/2014/5/23/22577/marvel_studios_edgar_wright_statement?utm_campaign=rss_feeds&utm_source=movies_news&utm_medium=rss&utm_content=story-22577|publisher=[[Marvel Entertainment|Marvel]]|accessdate=24 May 2014|date=23 May 2014}}</ref> He was replaced by [[Peyton Reed]] as director, with [[Adam McKay]] and star [[Paul Rudd]] re-writing the screenplay. He and Cornish still received both screenplay and story credits.<ref name="AntMan/StoryCredit">{{cite web|url=http://www.huffingtonpost.com/2015/01/06/ant-man-trailer_n_6425174.html|title=Watch The First Trailer For Marvel's 'Ant-Man' (It's Too Late To Change The Name)|last=Rosen|first=Christopher|publisher=[[Huffington Post]]|date=6 January 2015|accessdate=7 January 2015|archiveurl=http://www.webcitation.org/6VOZyMoB4|archivedate=7 January 2015|deadurl=no}}</ref>
+
+In July 2014, Wright announced that his next film will be ''Baby Driver''. Wright has described the film as "kind of like a musical"; [[Deadline.com]] has described it as "a collision of crime, action, music, and sound".<ref>{{cite web|last1=Fleming Jr.|first1=Mike|title=Comic-Con: Off ‘Ant-Man’ Hill, Edgar Wright Sets Sights On ‘Baby Driver’|url=http://deadline.com/2014/07/comic-con-off-ant-man-hill-edgar-wright-sets-sights-on-baby-driver-807971/|website=[[Deadline.com]]|publisher=[[Penske Media Corporation]]|accessdate=30 April 2015|date=22 July 2014}}</ref>
+
+Wright has numerous other projects in development. In 2008, Wright was rumoured to be directing a remake of the 1961 British [[monster film]] ''[[Gorgo (film)|Gorgo]]''. It was reported the film would employ a [[suitmation|man in a suit]] to portray its monster (as had the original film). Wright has also been attached to direct films including ''[[Them: Adventures with Extremists|Them]]'' and a film version of the television series ''[[Kolchak: The Night Stalker|The Night Stalker]]'' that would star Johnny Depp, which was announced in early 2012.<ref>{{cite web|url=http://www.deadline.com/2012/02/disney-taps-edgar-wright-to-helm-johnny-depp-in-the-night-stalker-feature-redo|title=Disney Taps Edgar Wright To Helm Johnny Depp In 'The Night Stalker' Feature Redo|publisher=[[Deadline.com]]|date=22 February 2012|accessdate=28 February 2012}}</ref>
+
+===Other works===
+Wright cites [[Jon Spencer Blues Explosion]] as his favourite band: several Blues Explosion songs feature in Wright's film ''[[Hot Fuzz]]'', including one written specifically for the film. Wright has directed two videos for his ex-girlfriend [[Charlotte Hatherley]]: "Summer" and "Bastardo". He has also directed promos for [[80s Matchbox B-Line Disaster]], [[Mint Royale]] and [[The Bluetones]]. Many of these videos have been made available to view on the "Archives" section of his official website.
+
+Wright has a brother, Oscar, who is a comic book artist, contributing storyboards, conceptual art and promotional pictures for Edgar's films. For example he designed comic book interpretations of the characters of ''[[Shaun of the Dead]]'' and created the animation for the flickbook PC Danny Butterman uses in ''[[Hot Fuzz]]'', as well as the art for the "Plot Holes" features on both the ''Hot Fuzz'' and ''Shaun of the Dead'' DVD releases. Oscar also was on set for the ''Hot Fuzz'' poster shoot to help Edgar out with the design. Oscar also directed the Charlotte Hatherley video for "Behave" and also designed the 8-bit Universal Pictures logo at the beginning of the movie ''[[Scott Pilgrim vs. the World]]'' along with Edgar.
+
+==Personal life==
+Though he has stated that the film that most influenced him was [[John Landis]]' ''[[An American Werewolf in London]]'' (according to his interview in ''[[The Film That Changed My Life]]''), Wright also mentioned [[Sam Raimi]]'s ''[[Evil Dead II]]'' and the [[Coen brothers]]' ''[[Raising Arizona]]'' as films that made him want to be a director. The day he met Raimi and told him so, Raimi joked saying "Don't say that, you make me feel old."<ref name="vulture interview"/>
+
+In 2009, Wright began a relationship with actress [[Anna Kendrick]]<ref>{{cite news| url=http://www.telegraph.co.uk/culture/film/starsandstories/8896799/Anna-Kendrick-is-coming-up-for-air.html | location=London | work=The Daily Telegraph | first=Robbie | last=Collin | title=Anna Kendrick is coming up for air | date=18 November 2011}}</ref> after meeting on the set of ''[[Scott Pilgrim vs. the World]]''.<ref>{{cite web|url=http://www.scotsman.com/movies/Interview-Edgar-Wright-film-director.6501268.jp?articlepage=3|title=Interview: Edgar Wright, film director|last=Synnot|first=Siobhan|work=[[The Scotsman]]|date=31 August 2010|accessdate=2 October 2011}}</ref><ref>{{cite news|url=http://www.guardian.co.uk/film/2010/aug/15/edgar-wright-scott-pilgrim-vs-the-world-british-film|title=Edgar Wright: the ultimate fanboy film director|last=John|first=Emma|work=[[The Guardian]]|date=15 August 2010|accessdate=2 October 2011|location=London}}</ref> The couple split in early 2013.<ref>{{cite news | url=http://www.dailymail.co.uk/tvshowbiz/article-2289733/EXCLUSIVE-Pitch-Perfect-star-Anna-Kendrick-splits-longtime-love-Shaun-Dead-director-Edgar-Wright.html | title=EXCLUSIVE: Pitch Perfect star Anna Kendrick 'splits' from longtime love, Shaun of the Dead director Edgar Wright | first=Sara | last=Nathan | work=Daily Mail | date=7 March 2013 | accessdate=6 August 2013}}</ref> He was previously in a relationship with singer-songwriter and former [[Ash (band)|Ash]] guitarist [[Charlotte Hatherley]].
+
+Wright is a friend of fellow director [[Garth Jennings]], and made cameos in his films ''[[The Hitchhiker's Guide to the Galaxy (film)|The Hitchhiker's Guide to the Galaxy]]'' and ''[[Son of Rambow]]''. Jennings himself had cameos in ''Shaun of the Dead'', ''Hot Fuzz'' and ''The World's End''.<ref name="vulture interview"/>
+
+==Collaborations==
+<!--Do NOT add Scott Pilgrim. It features no actor from Edgar Wright's other films. Thank you.!-->
+
+Wright has cast certain actors in more than one of his films/television series. [[Simon Pegg]] is Wright's most frequent collaborator, appearing in six of his films. ''[[Scott Pilgrim vs. the World]]'' isn't listed because no actor on the film had previously collaborated with him.
+
+{| class="wikitable"
+|-  style="background:#b0c4de; text-align:center;"
+! 
+! ''[[Dead Right (film)|Dead Right]]''
+! ''[[A Fistful of Fingers]]''
+! ''[[Asylum (TV series)|Asylum]]''
+! ''[[Spaced]]''
+! ''[[Shaun of the Dead]]''
+! ''[[Hot Fuzz]]''
+! ''[[Grindhouse (film)#Don't|Don't]]''
+! ''[[The World's End (film)|The World's End]]''
+|-
+|[[Lucy Akhurst]]
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|
+|
+|-
+|[[Bill Bailey]]
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|<center>{{X mark}}</center>
+|
+|
+|-
+|[[Paddy Considine]]
+|
+|
+|
+|
+|
+|<center>{{X mark}}</center>
+|
+|<center>{{X mark}}</center>
+|-
+|[[Joe Cornish (filmmaker)|Joe Cornish]]
+|
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|
+|-
+|[[Adam Buxton]]
+|
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|
+|-
+|Martin Curtis
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|
+|
+|
+|
+|
+|-
+|[[Julia Deakin]]
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|<center>{{X mark}}</center>
+|-
+|[[Kevin Eldon]]
+|
+|
+|
+|<center>{{X mark}}</center>
+|
+|<center>{{X mark}}</center>
+|
+|
+|-
+|[[Patricia Franklin]]
+|
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|<center>{{X mark}}</center>
+|-
+|[[Martin Freeman]]
+|
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|<center>{{X mark}}</center>
+|-
+|[[Nick Frost]]
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|-
+|[[Mark Gatiss]]
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|<center>{{X mark}}</center>
+|
+|-
+|[[Mark Heap]]
+|
+|
+|
+|<center>{{X mark}}</center>
+|
+|
+|
+|<center>{{X mark}}</center>
+|-
+|[[Jessica Hynes]]
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|
+|
+|-
+|Graham Low
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|<center>{{X mark}}</center>
+|
+|<center>{{X mark}}</center>
+|
+|
+|-
+|[[Alice Lowe]]
+|
+|
+|
+|
+|
+|<center>{{X mark}}</center>
+|
+|<center>{{X mark}}</center>
+|-
+|[[Bill Nighy]]
+|
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|<center>{{X mark}}</center>
+|-
+|[[Simon Pegg]]
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|-
+|[[Robert Popper]]
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|
+|-
+|[[Lucy Punch]]
+|
+|
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|-
+|[[Peter Serafinowicz]]
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|-
+|[[Reece Shearsmith]]
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|
+|<center>{{X mark}}</center>
+|-
+|[[Michael Smiley]]
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|-
+|[[Rafe Spall]]
+|
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|-
+|[[Stuart Wilson (actor)|Stuart Wilson]]
+|
+|
+|
+|
+|
+|<center>{{X mark}}</center>
+|<center>{{X mark}}</center>
+|
+|-
+|}
+
+==Filmography==
+
+===Film===
+{| class="wikitable"
+! rowspan="2" width="33"|Year
+! rowspan="2"|Film
+! colspan="4"|Credited as
+! rowspan="2"|Role
+|-
+! width=65 | Director
+! width=65 | Writer
+! width=65 | (Executive)<br />Producer
+! width=65 | Actor
+|-
+| 1994
+| ''[[A Fistful of Fingers]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| Cheesy voiceover artist/Two bit farmer cameo
+|-
+| 2004
+| ''[[Shaun of the Dead]]''
+| {{yes}}
+| {{yes}}
+|
+| {{yes}}
+| Rabid Monkeys Newsreader/Prat-falling Zombie/Italian Restaurant Voice/Noel's Friend on phone
+|-
+| 2005
+| ''[[Land of the Dead]]''
+|
+|
+|
+| {{yes}}
+| Photo booth zombie
+|-
+| 2005
+| ''[[The Hitchhiker's Guide to the Galaxy (film)|The Hitchhiker's Guide to the Galaxy]]''
+|
+|
+|
+| {{yes}}
+| Deep Thought Technician
+|-
+| 2007
+| ''[[Hot Fuzz]]''
+| {{yes}}
+| {{yes}}
+|
+| {{yes}}
+| Shelf Stacker/Voice of Dave
+|-
+| 2007
+| ''[[Son of Rambow]]''
+|
+|
+|
+| {{yes}}
+| Metal Work Teacher
+|-
+| 2010
+| ''[[Scott Pilgrim vs. the World]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|
+|
+|-
+| 2011
+| ''[[Attack the Block]]''
+|
+|
+| {{yes}}
+|
+|
+|-
+| 2011
+| ''[[The Adventures of Tintin: The Secret of the Unicorn]]''
+|
+| {{yes}}
+|
+|
+|
+|-
+| 2011
+|''[[Paul (film)|Paul]]''
+|
+| {{yes}}
+|
+|
+| Script Editor (Uncredited)
+|-
+| 2012
+| ''[[Sightseers]]''
+|
+|
+| {{yes}}
+|
+|
+|-
+| 2013
+| ''[[The World's End (film)|The World's End]]''
+| {{yes}}
+| {{yes}}
+|
+|{{yes}}
+| Voice of construction worker
+|-
+| 2015
+| ''[[Ant-Man (film)|Ant-Man]]''
+| 
+| {{yes}}
+| {{yes}}
+|
+| 
+|-
+| TBA
+| ''Baby Driver''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|
+|
+|}
+
+===Short films===
+{| class="wikitable"
+! rowspan="2" width="33"|Year
+! rowspan="2"|Film
+! colspan="4"|Credited as
+! rowspan="2"|Role
+|-
+! width=65 | Director
+! width=65 | Writer
+! width=65 | Producer
+! width=65 | Actor
+|-
+| 1988
+| ''I Want to Get into the Movies''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|
+|
+|-
+| 1988
+| ''Carbolic Soap''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|
+|
+|-
+| 1988
+| ''The Unparkables''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|
+|
+|-
+| 1988
+| ''Rolf Harris Saves the World''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|
+|
+|-
+| 1993
+| ''[[Dead Right (film)|Dead Right]]''
+|  {{yes}}
+|  {{yes}}
+|  {{yes}}
+|  {{yes}}
+| The Director
+|-
+| 2001
+| ''Calcium''
+|
+|
+|
+| {{yes}}
+| Scientist
+|-
+| 2004
+| ''Forced Hilarity''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|
+|
+|-
+| 2007
+| ''[[Grindhouse (film)#Don't|Don't]]''
+| {{yes}}
+| {{yes}}
+|
+|
+| Segment from ''[[Grindhouse (film)|Grindhouse]]''
+|-
+|}
+
+===Television===
+{| class="wikitable"
+! rowspan="2" width="33"|Year
+! rowspan="2"|Film
+! colspan="4"|Credited as
+! rowspan="2"|Role
+|-
+! width=65 | Director
+! width=65 | Writer
+! width=65 | Producer
+! width=65 | Actor
+|-
+| 1996
+| ''[[Asylum (TV series)|Asylum]]''
+| {{yes}}
+| {{yes}}
+|
+|
+|
+|-
+| 1996
+| ''[[Mash and Peas]]''
+| {{yes}}
+|
+|
+|
+|
+|-
+| 1998
+| ''[[Alexei Sayle's Merry-Go-Round]]''
+| {{yes}}
+| {{yes}}
+|
+|
+|
+|-
+| 1998
+| ''[[Is It Bill Bailey?]]''
+| {{yes}}
+|
+|
+|
+|
+|-
+| 1999
+| ''[[Sir Bernard's Stately Homes]]''
+| {{yes}}
+|
+|
+|
+|
+|-
+| 1999
+| ''[[Murder Most Horrid]]''
+| {{yes}}
+| 
+|
+| 
+| Episode: "Confessions of a Murderer"
+|-
+| 1999–2001
+| ''[[Spaced]]''
+| {{yes}}
+|
+|
+| {{yes}}
+| First Sleeping Ex-flatmate / Man on Tube Next to Daisy / Sounds of Despair tape
+|-
+| 2002–2005
+| ''[[Look Around You]]''
+|
+|
+|
+| {{yes}}
+| Scientist / Eddie Yorque / Floor manager / Technician
+|}
+
+===Music videos===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Artist
+|-
+| 2000
+| "[[Keep the Home Fires Burning (The Bluetones song)|Keep the Home Fires Burning]]"
+| [[The Bluetones]]
+|-
+| 2002
+| "[[After Hours (The Bluetones song)|After Hours]]"
+| The Bluetones
+|-
+| 2003
+| "Blue Song"
+| [[Mint Royale]]
+|-
+| 2004
+| "Summer"
+| [[Charlotte Hatherley]]
+|-
+| 2005
+| "Bastardo"
+| Charlotte Hatherley
+|-
+| 2014
+| "[[Gust of Wind]]"
+| [[Pharrell Williams]] featuring [[Daft Punk]]
+|}
+
+==Awards and nominations==
+{| class="wikitable sortable"
+|-
+! Year
+! Award
+! Category
+! Title
+! Result
+|-
+| 2000
+| [[BAFTA Awards]]
+| Situation Comedy Award
+| ''[[Spaced]]''
+| {{nom}}
+|-
+| 2002
+| [[BAFTA Awards]]
+| Situation Comedy Award
+| ''[[Spaced]]''
+| {{nom}}
+|-
+| 2004
+| [[British Independent Film Awards]]
+| Best Screenplay
+| ''[[Shaun of the Dead]]''
+| {{won}}
+|-
+| 2004
+| [[Bram Stoker Awards]]
+| Screenplay
+| ''[[Shaun of the Dead]]''
+| {{won}}
+|-
+| 2005
+| [[BAFTA Awards]]
+| [[Alexander Korda Award for Best British Film]]
+| ''[[Shaun of the Dead]]''
+| {{nom}}
+|-
+| 2005
+| [[Empire Awards]]
+| [[Empire Award for Best British Director|Best British Director]]
+| ''[[Shaun of the Dead]]''
+| {{nom}}
+|-
+| 2005
+| [[ALFS Awards]]
+| Best Screenwriter of the Year
+| ''[[Shaun of the Dead]]''
+| {{nom}}
+|-
+| 2005
+| [[Online Film Critics Society Awards]]
+| [[Online Film Critics Society Award for Best Breakthrough Filmmaker|Best Breakthrough Filmmaker]]
+| ''[[Shaun of the Dead]]''
+| {{nom}}
+|-
+| 2005
+| [[Online Film Critics Society Awards]]
+| [[Online Film Critics Society Award for Best Original Screenplay|Best Original Screenplay]]
+| ''[[Shaun of the Dead]]''
+| {{nom}}
+|-
+| 2008
+| [[Empire Awards]]
+| [[Empire Award for Best Director|Best Director]]
+| ''[[Hot Fuzz]]''
+| {{nom}}
+|-
+|2010
+| [[SDFCS Award]]
+| [[San Diego Film Critics Society Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| ''[[Scott Pilgrim vs. the World]]''
+| {{nom}}
+|-
+| 2010
+| [[Satellite Awards]]
+| [[Satellite Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| ''[[Scott Pilgrim vs. the World]]''
+| {{nom}}
+|-
+| 2011
+| [[Empire Awards]]
+| [[Empire Award for Best Director|Best Director]]
+| ''[[Scott Pilgrim vs. the World]]''
+| {{won}}
+|-
+| 2011
+| [[Empire Awards]]
+| Inspiration Award
+|
+| {{won}}
+|-
+| 2011
+| [[Hugo Awards]]
+| [[Hugo Award for Best Dramatic Presentation|Best Dramatic Presentation]]
+| ''[[Scott Pilgrim vs. the World]]''
+| {{nom}}
+|-
+| 2011
+| [[Online Film Critics Society]]
+| [[Online Film Critics Society Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| ''[[Scott Pilgrim vs. the World]]''
+| {{nom}}
+|-
+| 2011
+| [[Science Fiction and Fantasy Writers of America]]
+| [[Bradbury Award]]
+| ''[[Scott Pilgrim vs. the World]]''
+| {{nom}}
+|-
+| 2011
+| [[Satellite Awards]]
+| [[Satellite Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| ''[[The Adventures of Tintin: The Secret of the Unicorn]]''
+| {{nom}}
+|-
+| 2012
+| [[Annie Awards]]
+| [[Annie Award for Writing in a Feature Production|Writing in a Feature Production]]
+| ''[[The Adventures of Tintin: The Secret of the Unicorn]]''
+| {{nom}}
+|-
+| 2014
+| [[Saturn Awards]]
+| [[Saturn Award for Best Writing|Best Writing]]
+| ''[[The World's End (film)|The World's End]]''
+| {{nom}}
+|-
+| 2014
+| [[Empire Awards]]
+| [[Empire Award for Best Director|Best Director]]
+| ''[[The World's End (film)|The World's End]]''
+| {{nom}}
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Portal|Film}}
+{{Commons category|Edgar Wright}}
+* {{IMDb name|0942367}}
+* {{Official website|http://edgarwrighthere.com/}}
+*[http://filmmakermagazine.com/directorinterviews/2007/04/edgar-wright-hot-fuzz.php The Director Interviews: Edgar Wright, ''Hot Fuzz''] at ''Filmmaker Magazine''
+* [http://www.2000adreview.co.uk/features/interviews/2004/wright/wright.shtml 2004 interview with 2000ADReview]
+* [http://www.g-wie-gorilla.de/content/view/479/18/ Edgar Wright on ''Hot Fuzz'']
+* [http://www.edgarwright.co.uk/ Edgar Wright Fansite]
+
+{{Edgar Wright}}
+{{Empire Award for Best Director}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Wright, Edgar
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = English film and television director
+| DATE OF BIRTH     = 18 April 1974
+| PLACE OF BIRTH    = [[Poole]], Dorset, England
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Wright, Edgar}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:21st-century English writers]]
+[[Category:Best Director Empire Award winners]]
+[[Category:Empire Inspiration Award winners]]
+[[Category:English film directors]]
+[[Category:English screenwriters]]
+[[Category:English male television actors]]
+[[Category:English television directors]]
+[[Category:People from Poole]]
+[[Category:People from Wells, Somerset]]
+[[Category:Horror film directors]]
+[[Category:Alumni of Arts University Bournemouth]]

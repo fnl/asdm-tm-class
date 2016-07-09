@@ -1,0 +1,96 @@
+{{for|the British magician|Tom London (magician)}}
+{{Use mdy dates|date=March 2015}}
+{{Refimprove|date=April 2015}}
+{{Infobox person
+| name        = Tom London
+| birth_date   = {{birth date|1889|08|24}}
+| birth_place  = [[Louisville, Kentucky]], U.S.
+| death_date   = {{death date and age|1963|12|05|1889|08|24}}
+| death_place  = [[Hollywood, California]], U.S.
+| birth_name   = Leonard Clapham
+| occupation  = Actor
+| yearsactive = 1915–1962
+}}
+
+'''Tom London''' (August 24, 1889 – December 5, 1963) was an American veteran actor who played frequently in B-Westerns. According to ''The Guinness Book of Movie Records'', London is credited with appearing in the most films in the history of [[Hollywood]], this according to the 2001 book ''Film Facts'', where it states that he was the performer who played in the most films was "Tom London, who made his first of over 2000 appearances in the ''[[The Great Train Robbery (1903 film)|The Great Train Robbery]]''.<ref>Patrick Robertson: Film Facts (2001), p. 97</ref>
+
+==Life and career==
+Born '''Leonard Clapham''' in [[Louisville, Kentucky]], he got his start in movies as a props man in [[Chicago, Illinois]]. His debut was in 1915 in the [[Western (genre)|Western]] ''[[Lone Larry]]'', performing under his own name. In 1925, after having appeared in many [[silent film]]s, he changed his name to Tom London, and used that name for the rest of his career. The first film in which he was billed under his new name was ''[[Winds of Chance]]'', a [[World War I]] film, in which he played "Sgt. Rock". London was a trick rider and roper, and used his trick skills in scores of Westerns. In the silent film era he often played villainous roles, while in later years he often appeared as the sidekick to Western stars like [[Sunset Carson]] in several films.
+
+One of the busiest character actors, he appeared in over 600 films. London made many guest appearances in [[television]] shows through the 1950s, such as ''[[The Range Rider]]'', with [[Jock Mahoney]] and [[Dick Jones (actor)|Dick Jones]]. He also played Sam, the attendant of Helen Ramirez ([[Katy Jurado]]) in ''[[High Noon]]''. His last movie was ''[[Underworld U.S.A.]]'' in 1961.
+
+Tom London died in [[North Hollywood, California|North Hollywood]] and was interred in the [[Forest Lawn Memorial Park (Glendale)|Forest Lawn Memorial Park Cemetery]] in [[Glendale, California]].
+
+==Selected filmography==
+
+* ''[[Liberty (serial)|Liberty]] ''(1916)
+* ''[[The Lion's Claws]]'' (1918)
+* ''[[The Lion Man (serial)|The Lion Man]]'' (1919)
+* ''[[His Nose in the Book]]'' (1920)
+* ''[[Wolf Tracks]]'' (1920)
+* ''[[Masked (film)|Masked]]'' (1920)
+* ''[['In Wrong' Wright]]'' (1920)
+* ''[[Nan of the North]]'' (1922)
+* ''[[The Social Buccaneer]]'' (1923)
+* ''[[To the Last Man (1923 film)|To the Last Man]]'' (1923)
+* ''[[Heritage of the Desert (1924 film)|Heritage of the Desert]]'' (1924)
+* ''[[The Bar-C Mystery]]'' (1926)
+* ''[[Dangerous Traffic]]'' (1926)
+* ''[[Snowed In (serial)|Snowed In]] ''(1926)
+* ''[[The Golden Stallion (1927 film)|The Golden Stallion]]'' (1927)
+* ''[[The Return of the Riddle Rider]]'' (1927)
+* ''[[The Yellow Cameo]]'' (1928)
+* ''[[The Black Watch]]'' (1929)
+* ''[[Queen of the Northwoods]] ''(1929)
+* ''[[The Woman Racket]]'' (1930)
+* ''[[Troopers Three]]'' (1930)
+* ''[[The Third Alarm]]'' (1930)
+* ''[[See America Thirst]]'' (1930)
+* ''[[The Galloping Ghost (serial)|The Galloping Ghost]]'' (1931)
+* ''[[The Lost Special (serial)|The Lost Special]] ''(1932)
+* ''[[Mystery Mountain (serial)|Mystery Mountain]]'' (1934)
+* ''[[The Miracle Rider]]'' (1935)
+* ''[[The Fighting Marines]]'' (1935)
+* ''[[Zorro Rides Again]]'' (1937)
+* ''[[Outlaws of Sonora]]'' (1938)
+* ''[[The Lone Ranger (serial)|The Lone Ranger]]'' (1938)
+* ''[[Six Shootin' Sheriff (1938 film)|Six Shootin' Sheriff]]'' (1938)
+* ''[[Santa Fe Stampede]]'' (1938)
+* ''[[The Night Riders (1939 film)|The Night Riders]]'' (1939)
+* ''[[Covered Wagon Days]]'' (1940)
+* ''[[Lone Star Raiders]]'' (1940)
+* ''[[Pals of the Pecos]]'' (1941)
+* ''[[Red River Robin Hood]]'' (1942)
+* ''[[Shadows on the Sage]]'' (1942)
+* ''[[Santa Fe Scouts]]'' (1943)
+* ''[[The Cherokee Flash]]'' (1945)
+* ''[[Don't Fence Me In (film)|Don't Fence Me In]]'' (1945)
+* ''[[The Phantom Rider (Republic serial)|The Phantom Rider]]'' (1946)
+* ''[[Jesse James Rides Again]]'' (1947)
+* ''[[High Noon]]''  (1952)
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb name|0163417}}
+*{{Find a Grave|9930845}}
+
+{{Persondata
+|NAME = London, Tom
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= Actor
+|DATE OF BIRTH = August 24, 1889
+|PLACE OF BIRTH = Louisville, Kentucky
+|DATE OF DEATH = December 5, 1963
+|PLACE OF DEATH = Hollywood, California
+}}
+{{DEFAULTSORT:London, Tom}}
+[[Category:1889 births]]
+[[Category:1963 deaths]]
+[[Category:American male film actors]]
+[[Category:American male silent film actors]]
+[[Category:Male actors from Louisville, Kentucky]]
+[[Category:20th-century American male actors]]
+[[Category:Male Western (genre) film actors]]
+[[Category:Burials at Forest Lawn Memorial Park (Glendale)]]

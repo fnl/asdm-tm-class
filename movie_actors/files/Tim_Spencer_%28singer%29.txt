@@ -1,0 +1,87 @@
+{{Other people|Tim Spencer}}
+{{Infobox musical artist
+| name                = Tim Spencer
+| image               = 
+| alt                 = 
+| caption             = 
+| image_size          = 
+| background          = solo_singer
+| birth_name          = Vernon Harold Timothy Spencer
+| alias               = 
+| birth_date          = {{Birth date|1908|07|13}}
+| birth_place         = [[Webb City, Missouri]]
+| death_date          = {{Death date and age|1974|04|26|1908|07|13}}
+| death_place         = [[Apple Valley, California]]
+| origin              = 
+| instrument          = 
+| genre               = {{Plainlist|
+* [[Western music (North America)|Western music]]
+* [[Country music]]
+}}
+| occupation          = {{Plainlist|
+* [[Singer-songwriter]]
+* [[Actor]]
+}}
+| years_active        = 1933–1949 
+| label               = 
+| associated_acts     = [[Sons of the Pioneers]]
+| website             = 
+| notable_instruments = 
+}}
+'''Vernon Harold Timothy Spencer''' (July 13, 1908 – April 26, 1974) was an American singer, songwriter, and actor. Spencer is best known for founding the popular American Cowboy singing group the [[Sons of the Pioneers]] in 1933 along with [[Bob Nolan]] and [[Roy Rogers]].
+
+==Biography==
+Vernon Harold Timothy Spencer was born to Edgar and Laura Alice Spencer on July 13, 1908 in [[Webb City, Missouri]]. The family moved to New Mexico when Tim was five years old, one of eight boys and two girls. The family later moved to [[Picher, Oklahoma]] two years later. In 1931, Tim left Oklahoma for Los Angeles and began working at [[Safeway Inc.|Safeway]].<ref>{{cite web|url=http://www.bobnolan-sop.net/Biographies/The%20Story%20of%20SOP/Tim%20Spencer/Tim%20Spencer.htm |title=Tim Spencer |publisher=Bobnolan-sop.net |date= |accessdate=2011-06-07}}</ref>
+
+==Career==
+Spencer appeared with the [[Sons of the Pioneers]] in multiple films, and wrote many of the songs they performed. He retired from the Sons of the Pioneers in 1949, but continued managing them until 1952, and recorded with them until 1957 for [[RCA Victor]]. After leaving the group, Spencer organized a [[gospel music]] publishing company called ''Manna [Gaviota] Music'' . The company secured the rights to ''[[How Great Thou Art (hymn)|How Great Thou Art]]'', which provided a solid business footing.
+
+Tim Spencer was inducted into the [[Western Music Association Hall of Fame|Western Music Hall of Fame]] as an individual western music songwriter, and as a member of the Sons of the Pioneers. He was inducted into the [[Hall of Great Western Performers]] in 1995.
+
+==Notable Songs==
+His most popular commercial song was "[[Room Full of Roses]]", which was the No.&nbsp;1 song in pop music in 1949 and again the No.&nbsp;1 song in country music in 1974.<ref>{{cite web|url=http://www.westernmusic.com/performers/hof-spencer.html |title=Tim Spencer - WMA Hall of Fame |publisher=Westernmusic.com |date= |accessdate=2011-06-07}}</ref>
+* "[[The Everlasting Hills of Oklahoma]]"
+* "[[Room Full of Roses]]"&nbsp;– recorded by [[Sammy Kaye]], [[Eddy Howard]], [[Dick Haymes]], [[George Morgan (singer)|George Morgan]] and later [[Mickey Gilley]]
+* "Ride, Ranger, Ride" recorded by [[Gene Autry]]
+* "A Two Seated Saddle and a One Gaited Horse" recorded by [[Dale Evans]]
+* "[[Cowboy Camp Meetin']]"
+* "[[Blue Prairie]]" with [[Bob Nolan]]
+* "[[Ridin' the Range with You]]"
+* "[[Too High, Too Wide, Too Low (You Must Come in at the Door)]]"
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* ''Hear My Song'' by Ken Griffis
+* ''Song of the West: the Tim Spencer Issue'', Fall 1990
+
+==External links==
+* [http://www.bobnolan-sop.net/Biographies/The%20Story%20of%20SOP/Tim%20Spencer/Tim%20Spencer.htm Tim Spencer webpage, including songs]
+* [http://www.johnfullerton.org/SOP2.htm Sons of the Pioneers Memorabilia]
+* [http://www.westernmusic.com/performers/hof-spencer.html Tim Spencer at Westernmusic.com]
+* {{IMDb name|0818131}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Spencer, Tim
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Singer and actor
+| DATE OF BIRTH     = July 13, 1908
+| PLACE OF BIRTH    = Webb City, Missouri
+| DATE OF DEATH     = April 26, 1974
+| PLACE OF DEATH    = [[Apple Valley, California]]
+}}
+{{DEFAULTSORT:Spencer, Tim}}
+[[Category:1908 births]]
+[[Category:1974 deaths]]
+[[Category:People from Webb City, Missouri]]
+[[Category:American country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Male Western (genre) film actors]]
+[[Category:RCA Victor artists]]
+[[Category:Musicians from Missouri]]
+[[Category:Burials at Forest Lawn Memorial Park (Hollywood Hills)]]
+[[Category:20th-century American male actors]]
+[[Category:20th-century American singers]]

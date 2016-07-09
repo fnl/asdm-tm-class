@@ -1,0 +1,66 @@
+{{distinguish|Harold Goodwin (English actor)}}
+{{Use mdy dates|date=June 2014}}
+{{Infobox person
+| name = Harold Goodwin
+| image =Suds Mary Pickford Jack Dillon 03 Harold Goodwin.png
+| imagesize =220px
+| caption =Goodwin in ''[[Suds (film)|Suds]]'' (1920)
+| birth_date = {{birth date|1902|12|1}}
+| birth_place = [[Peoria, Illinois|Peoria]], USA
+| death_date = {{death date and age|1987|7|12|1902|12|1}}
+| death_place = [[Woodland Hills, Los Angeles|Woodland Hills]], [[California]], USA
+| yearsactive = 1915–1960
+| birth_name =
+| othername =
+| website =
+}}
+
+'''Harold Goodwin''' (December 1, 1902 – July 12, 1987) was an American film actor who performed in over 225 films.
+
+Born in [[Peoria, Illinois]], Goodwin began his film career while still in his teens in the 1915 film short ''Mike's Elopement''. He also appeared as Jeff Brown in the 1927 [[Buster Keaton]] comedy ''[[College (1927 film)|College]]''. Goodwin followed up with a role in another Keaton film ''[[The Cameraman (1928 film)|The Cameraman]]'' in 1928 opposite Keaton and actress [[Marceline Day]]. He worked steadily through the silent film era and transitioned into the talkie era as a character actor, often as a "tough guy" because of his athletic stature.<ref>http://www.nytimes.com/movies/person/405498/Harold-Goodwin</ref> He was seen in the role of Detering in the 1930 [[Lewis Milestone]] directed [[World War I]] drama ''[[All Quiet on the Western Front (1930 film)|All Quiet on the Western Front]]'', afterwards his film roles were mostly small and uncredited.
+
+In his later years, Goodwin mainly acted in the [[Western film]] genre and often worked as a stuntmen for film studios. In the 1960s, Goodwin made many guest appearances of the [[NBC]] television series ''[[Daniel Boone (TV series)|Daniel Boone]]'' starring [[Fess Parker]] and [[Ed Ames]]. Goodwin made his last film appearance in the low-budget horror film ''[[The Boy Who Cried Werewolf (1973 film)|The Boy Who Cried Werewolf]]'' (1973) before retiring from the film industry. He died in [[Woodland Hills, Los Angeles|Woodland Hills, California]], USA in 1987.
+
+==Selected filmography==
+* ''[[Old Heidelberg (1915 film)|Old Heidelberg]]'' (1915)
+* ''[[The Sawdust Ring]]'' (1917)
+* ''[[Heart o' the Hills]] (1919)
+* ''[[Suds (film)|Suds]]'' (1920)
+* ''[[Gentle Julia]]'' (1923)
+* ''[[The Wanters]]'' (1923)
+* ''[[Arizona Express]]'' (1924)
+* ''[[The Honeymoon Express]]'' (1926)
+* ''[[Snowbound (1927 film)|Snowbound]]'' (1927)
+* ''[[College (1927 film)|College]]'' (1927)
+* ''[[The Cameraman (1928 film)|The Cameraman]]'' (1928)
+* ''[[The Comedy Man]]'' (1964)
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb name|0329467}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Goodwin, Harold
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION=[[Actor]]
+|DATE OF BIRTH= December 1, 1902
+|PLACE OF BIRTH= Peoria, Illinois, USA
+|DATE OF DEATH= July 7, 1987
+|PLACE OF DEATH= Los Angeles, California, USA
+}}
+{{DEFAULTSORT:Goodwin, Harold}}
+[[Category:Male Western (genre) film actors]]
+[[Category:American male film actors]]
+[[Category:American male silent film actors]]
+[[Category:American male television actors]]
+[[Category:Actors from Peoria, Illinois]]
+[[Category:1902 births]]
+[[Category:1987 deaths]]
+[[Category:20th-century American male actors]]
+[[Category:American stunt performers]]
+
+
+{{US-screen-actor-1900s-stub}}

@@ -1,0 +1,183 @@
+{{Infobox person
+| name          = House Peters, Jr.
+| image         = House Peters, Jr.jpg
+| imagesize     = 180px
+| birth_name    = Robert House Peters, Jr.
+| birth_date    = {{Birth date|1916|1|12|mf=y}}
+| birth_place   = [[New Rochelle, New York]], U.S.
+| death_date    = {{Death date and age|2008|10|1|1916|1|12|mf=y}}
+| death_place   = [[Los Angeles, California]], U.S. 
+| occupation    = Actor
+| years_active  = 1935–1966
+| spouse        = Lucy Peters (1946–2008; his death); 3 children}}
+
+'''Robert House Peters, Jr.''' (12 January 1916 – 1 October 2008) was an [[United States|American]] character actor most noted for his roles in 1950s [[B movie]]s and [[westerns]]. He is perhaps best remembered as the face and body of [[Mr. Clean]] in the [[Procter and Gamble]] cleaning product commercials of the era.
+
+== Biography ==
+Peters was born in [[New Rochelle, New York]] to actors [[House Peters, Sr.]], a major leading man in the silent era, and Mae King. In a career that spanned 1935–1967, he appeared in many films, primarily as the "heavy," or villain. He appeared in television series including ''[[Perry Mason (TV series)|Perry Mason]]'', ''[[Gunsmoke]]'', ''[[The Twilight Zone (1959 TV series)|The Twilight Zone]]'' and ''[[Lassie (1954 TV series)|Lassie]]''.
+
+From the late 1950s into the 1960s, Peters Jr. played [[Mr. Clean]] in television commercials for the product.<ref name="ap-dillon">{{cite news | url=http://ap.google.com/article/ALeqM5gjJByrFKgrYqZ-hscJEBr359frjgD93I5EO80 |last=Dillon | first=Raquel Maria | title=Mr. Clean actor House Peters Jr. dead at 92 | work=The Associated Press | date=2008-10-01 |accessdate=2008-10-02}}{{dead link|date=November 2012|bot=Legobot}}</ref>
+
+Peters was married to Lucy Peters from 1946 until his death; they had three children. He died of pneumonia at the [[Motion Picture & Television Country House and Hospital|Motion Picture and Television Fund Hospital]] in [[Los Angeles, California]].<ref name="ap-dillon"/><ref>{{cite news | author=Variety Staff | title=Actor House Peters Jr. dies at 92 | url=http://www.variety.com/article/VR1117993230.html?categoryid=14&cs=1 | work=Variety | date=2008-10-01 | accessdate=2008-10-01}}</ref>
+
+== Filmography ==
+{| border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;"
+|- bgcolor="#CCCCCC" align="center"
+! colspan="4" style="background: LightSteelBlue;" | Film
+|- bgcolor="#CCCCCC" align="center"
+! Year
+! Film
+! Role
+! Other notes
+|-
+| 1936
+| ''[[Flash Gordon (serial)|Flash Gordon]]''
+| Shark Man
+| Chapters 3-4
+|-
+| 1949
+| ''[[Batman and Robin (serial)|Batman and Robin]]''
+| Henchman Earl
+| Chapter 7-15
+|-
+| 1951
+| ''[[The Day the Earth Stood Still (1951 film)|The Day the Earth Stood Still]]''
+| MP captain
+| Uncredited
+|-
+| 1952
+| ''[[Red Planet Mars]]''
+| Dr. Boulting
+| Uncredited
+|-
+| 1953
+| ''[[Port Sinister]]''
+| Jim Garry
+| Alternative title: ''Beast of Paradise Isle''
+|-
+| 1954
+| ''[[Target Earth (film)|Target Earth]]''
+| Technician
+|
+|-
+| 1957
+| ''[[Black Patch (film)|Black Patch]]''
+| Holman
+|
+|-
+| 1964
+| ''[[Rio Conchos (1964 film)|Rio Conchos]]''
+| Major Johnson
+|
+|-
+| 1965
+| ''[[The Great Sioux Massacre]]''
+| Reporter
+|
+|-
+|- bgcolor="#CCCCCC" align="center"
+! colspan="4" style="background: LightSteelBlue;" | Television
+|- bgcolor="#CCCCCC" align="center"
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1950
+| ''[[The Gene Autry Show]]''
+| Various roles
+| 3 episodes
+|-
+| 1950–1957
+| ''[[The Lone Ranger#Television series|The Lone Ranger]]''
+| Various roles
+| 12 episodes
+|-
+| 1951–1953
+| ''[[The Range Rider]]''
+| Various roles
+| 6 episodes
+|-
+| 1954–1956
+| ''[[Annie Oakley (TV series)|Annie Oakley]]''
+| Various roles
+| 4 episodes
+|-
+| rowspan=3|1955
+| ''[[The Adventures of Champion (TV series)|The Adventures of Champion]]''
+| Ote Bledsoe
+| 1 episode
+|-
+| ''[[The Life and Legend of Wyatt Earp]]''
+| Dave Bennett
+| 4 episodes
+|-
+| ''[[You Are There (series)|You are There]]''
+| Bruce Greeves
+| 1 episodes
+|-
+| 1957
+| ''[[The Gray Ghost (TV series)|The Gray Ghost]]''
+| Hollingshead
+| 1 episode
+|-
+| 1958
+| ''[[Broken Arrow (TV series)|Broken Arrow]]''
+| Captain Rowan
+| 1 episode
+|-
+| 1959
+| ''[[Buckskin (TV series)|Buckskin]]''
+| Pat Devlin
+| 1 episode
+|-
+| 1960
+| ''[[The Twilight Zone (1959 TV series)|The Twilight Zone]]''
+|  Policeman
+|  1 episode
+|-
+| 1961
+| ''[[Lawman (TV series)|Lawman]]''
+| Joe Poole
+| 1 episode
+|-
+| 1962
+| ''[[77 Sunset Strip]]''
+| Sheriff Goodson
+| 1 episode
+|-
+| 1956–1966
+| ''[[Lassie (1954 TV series)|Lassie]]''
+| Sheriff Jim Billings
+| 12 episodes
+|}
+
+== References ==
+<references/>
+
+== External links ==
+*{{IMDb name|0676310}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Authority control}}
+{{Persondata
+|NAME= Peters, House, Jr.
+|ALTERNATIVE NAMES= Peters, Robert House, Jr.; Peters, House
+|SHORT DESCRIPTION= Actor
+|DATE OF BIRTH= January 12, 1916
+|PLACE OF BIRTH= [[New Rochelle, New York]], U.S.
+|DATE OF DEATH=  October 1, 2008
+|PLACE OF DEATH= [[Los Angeles, California]], U.S.}}
+
+{{DEFAULTSORT:Peters, House, Jr.}}
+[[Category:1916 births]]
+[[Category:2008 deaths]]
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:Cancer survivors]]
+[[Category:Deaths from pneumonia]]
+[[Category:Infectious disease deaths in California]]
+[[Category:Male actors from New York]]
+[[Category:People from New Rochelle, New York]]
+[[Category:Male Western (genre) film actors]]
+[[Category:20th-century American male actors]]

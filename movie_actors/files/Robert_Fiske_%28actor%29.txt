@@ -1,0 +1,34 @@
+{{Unreferenced|date=August 2014}}
+'''Robert Fiske''' (20 October 1889 – 12 September 1944) was an [[Americans|American]] film actor during the 1930s and 1940s.
+
+Born in [[Griggsville, Missouri|Griggsville]], [[Missouri]] he appeared in 66 films, primarily B-movies and westerns. He died in [[Sunland, California|Sunland]], [[California]] of [[congestive heart failure]] at the age of 54 and was buried at [[Forest Lawn Memorial Park (Glendale)|Forest Lawn Glendale]], [[Glendale, California|Glendale]], California.
+
+==Selected filmography==
+* ''[[Adventure in Sahara]]'' (1938)
+
+==External links==
+*{{IMDb name|name=Robert Fiske|id=00279963}}
+*{{Amg name|23670|Robert Fiske}}
+*{{Find a Grave|11467|Robert Fiske}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Fiske, Robert
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American actor
+| DATE OF BIRTH     = 20 October 1889
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 12 September 1944
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Fiske, Robert}}
+[[Category:American male film actors]]
+[[Category:Male Western (genre) film actors]]
+[[Category:Male actors from Missouri]]
+[[Category:1889 births]]
+[[Category:1944 deaths]]
+[[Category:20th-century American male actors]]
+
+
+{{US-film-actor-1880s-stub}}

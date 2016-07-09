@@ -1,0 +1,79 @@
+{{use mdy dates|date=January 2015}}
+{{Infobox person
+| name = Robert Livingston
+| image =
+| caption =
+| birth_date    = {{birth date|1904|12|9}}
+| birth_name    = Robert Edward Randall
+| birth_place   = [[Quincy, Illinois]], U.S.
+| death_date    = {{death date and age|1988|3|7|1904|12|9}}
+| death_place   = [[Tarzana, California]], U.S.
+| death_cause   = [[Emphysema]]
+| resting_place = [[Forest Lawn Memorial Park, Glendale|Forest Lawn Memorial Park Cemetery]]
+| yearsactive   = 1921-1975
+| occupation    = Actor
+| spouse = [[Margaret M. Roach]] <br><small>(m. 1947–1951)</small>
+| children = Addison Randall, born on {{birth date and age|1949|8|13}}
+}}
+
+'''Robert Edward Randall''' (December 9, 1904 – March 7, 1988) was an American film actor known under his stage name as Bob Livingston. He appeared in 135 films between 1921 and 1975.
+
+On December 18, 1947, he married [[Margaret Roach|Margaret M. Roach]], daughter of famous director/producer [[Hal Roach]]. They had one son, actor/writer Addison Randall born on August 13, 1949. He was named after Livingston's younger brother, [[Addison Randall]], who had died at the relatively young age of 39 while shooting the film ''[[The Royal Mounted Rides Again]]'' in 1945. Livingston and Margaret Roach later divorced in 1951.
+
+Often billed as "Bob Livingston," he was the original "Stony Brooke" in the "[[The Three Mesquiteers|Three Mesquiteers]]" [[Western (genre)|Western]] [[B-movie]] series, a role later played by [[John Wayne]] for eight films. He also portrayed the [[Lone Ranger]] in a mysterious 1939 [[serial (film)|serial]] directed by [[William Witney]] and co-starring [[Chief Thundercloud]] as [[Tonto]], most of which is currently believed to be lost.
+
+Livingston was born in [[Quincy, Illinois]], and died in [[Tarzana, California]], from [[emphysema]]. He was buried in Glendale's [[Forest Lawn Memorial Park, Glendale|Forest Lawn Memorial Park Cemetery]].<ref>{{Find a Grave|6351549|Robert Livingston}}</ref>
+
+==Selected filmography==
+* ''[[Brown of Harvard (1926 film)|Brown of Harvard]]'' (1926)
+* ''[[Special Delivery (1927 film)|Special Delivery]]'' (1927)
+* ''[[Man, Woman and Sin]]'' (1927)
+* ''[[Sunny Skies (film)|Sunny Skies]]'' (1930)
+* ''[[Hot Curves]]'' (1930)
+* ''[[Strangers May Kiss]]'' (1931)
+* ''[[The Vigilantes Are Coming]]'' (1936)
+* ''[[The Three Mesquiteers (film)|The Three Mesquiteers]]'' (1936)
+* ''[[The Bold Caballero (1936 film)|The Bold Caballero]]'' (1936) – Don Diego Vega/[[Zorro]]
+* ''[[Riders of the Whistling Skull]]'' (1937)
+* ''[[Larceny on the Air]]'' (1937)
+* ''[[Hit the Saddle]]'' (1937)
+* ''[[The Lone Ranger Rides Again]]'' (1939) – title role
+* ''[[Heart of the Rockies (1937 film)|Heart of the Rockies]]'' (1937)
+* ''[[Under Texas Skies (1940 film)|Under Texas Skies]]'' (1940)
+* ''[[Storm Over Lisbon]]'' (1944)
+* ''[[Don't Fence Me In (film)|Don't Fence Me In]]'' (1945)
+* ''[[Dakota (film)|Dakota]]'' (1945)
+* ''[[The Feathered Serpent (1948 film)|The Feathered Serpent]]'' (1948)
+* ''[[I Spit on Your Corpse|Girls for Rent]]'' (1974)
+* ''[[The Naughty Stewardesses]]'' (1975)
+* ''[[Blazing Stewardesses]]'' (1975)
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb name|0515292|Robert Livingston}}
+
+{{Authority control}}
+{{Persondata
+|NAME = Livingston, Robert
+|ALTERNATIVE NAMES= Robert Edgar Randall; Bob Livingston
+|SHORT DESCRIPTION=Actor
+|DATE OF BIRTH = 9 December 1904
+|PLACE OF BIRTH = [[Quincy, Illinois]], USA
+|DATE OF DEATH = 7 March 1988
+|PLACE OF DEATH = [[Tarzana, California]], USA
+}}
+{{DEFAULTSORT:Livingston, Robert}}
+[[Category:1904 births]]
+[[Category:1988 deaths]]
+[[Category:Deaths from emphysema]]
+[[Category:American male film actors]]
+[[Category:American male silent film actors]]
+[[Category:Actors from Quincy, Illinois]]
+[[Category:Male actors from Illinois]]
+[[Category:Burials at Forest Lawn Memorial Park (Glendale)]]
+[[Category:Male Western (genre) film actors]]
+[[Category:20th-century American male actors]]
+
+{{US-film-actor-1900s-stub}}

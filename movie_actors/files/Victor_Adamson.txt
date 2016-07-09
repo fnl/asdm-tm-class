@@ -1,0 +1,57 @@
+{{Infobox person
+| name = Victor Adamson
+| image = 
+| caption = 
+| birth_date = {{Birth date|mf=yes|1890|01|04}}
+| birth_place = [[Kansas City, Missouri]], U.S.
+| birth_name =  Albert Victor Adamson
+| death_date = {{Death date and age|1972|11|09|1890|01|04|mf=y}}
+| death_place = [[Los Angeles, California]], U.S.
+| spouse = {{marriage|[[Dolores Booth]] |?|1959|show=Dolores Booth {{nowrap|({{abbr|m.|married}} ? – 1959)}}}}
+| occupation = [[Screenwriter]], [[film director]], [[film producer]], and [[actor]]
+| other_names = Denver Dixon, A. V. Anderson, Robert Charles, Al James, Van Johnson, Art Mix
+| years_active = 1910 &ndash; 1970
+}}
+
+'''Victor Adamson''' (January 4, 1890 &ndash; November 9, 1972) was an American director, producer, screenwriter, and actor most famous for directing and starring in [[B movie|B]] and [[Z movie|Z]] grade [[westerns]] in the early days of motion pictures. Adamson often used [[pseudonyms]] to credit himself, most often using the name Denver Dixon. His son, [[Al Adamson]], would later follow his father in producing B movies during the 1960s and 1970s.<ref name="B Westerns">{{cite web |url=http://www.b-westerns.com/barrel3.htm|title= Victor Adamson/Denver Dixon|work= B-Westernsaccessdate=2010-07-01}}</ref>
+
+==Early life==
+Victor Adamson was born in [[Kansas City, Missouri|Kansas City]], [[Missouri]]. His family moved early in his life to [[Auckland]], [[New Zealand]], where he spent most of his youth. In the late 1910s Adamson returned to the United States with a home-produced movie and managed to find a distributor. He decided to continue making his own movies despite a lack of early success with his films.<ref name="All Movie Guide">{{cite web |url=http://www.allmovie.com/artist/denver-dixon-87886|first= Hans J.|last= Wollstein|title=Denver Dixon |work= All Movie Guide|accessdate=2010-07-01}}</ref>
+
+== Career ==
+[[File:Ace cactus range 1924.jpg|thumb|The 1924 film ''Ace of Cactus Range'' with Adamson directing as Denver Dixon and George Kasterson as Art Mix]]
+Adamson began producing films around 1920. He called his production company Art Mix Productions and named himself the star. Adamson, however, found himself increasingly drawn to work behind the camera. He hired actor George Kesterson to act in his films using the Art Mix moniker, a name that Kesterson used for the rest of his career.<ref name="B Westerns" /><ref name="All Movie Guide" />
+
+With the advent of talking pictures, Adamson produced a series of Z-grade westerns featuring actors from the silent age in the decline of their careers, including [[Buffalo Bill, Jr.]], [[Wally Wales]] and [[Buddy Roosevelt]]. Many of these films were released by a small independent distributor called Superior Talking Pictures. Adamson's productions were of such low quality that the opening credits were often not proofread, leading to typographical errors such as in the case of the Buffalo Bill, Jr. film ''Lightning Bill'', which was spelled ''Lighting Bill'' on the title card.<ref name="B Westerns" /><ref name="All Movie Guide" />
+
+In 1936 Adamson attempted to turn a young [[Stunt performer|stuntman]], [[Wally West]], into a star using the name Tom Wynn. Adamson himself co-starred in the resulting film, ''Desert Mesa'', using the pseudonym Art James. He was not able to find many companies willing to buy the film due to its poor quality. Adamson would star in one additional film after ''Desert Mesa'', 1938's ''Mormon Conquest''.<ref name="All Movie Guide" />
+
+Following ''Mormon Conquest'' Adamson would show up in many films, mostly westerns and mostly in bit parts, through the late '30s and '40s. Often credited as "Denver Dixon", he appeared in approximately 130 films during this period.<ref name="B Westerns" /> After a career hiatus, he briefly returned to filmmaking when he produced two horror films with son [[Al Adamson]], ''Half Way to Hell'' in 1961 and ''Two Tickets to Terror'' in 1963. These films would inspire the younger Adamson to produce [[B movie]]s of his own, which he did from the '60s through the early '80s.<ref name="B Westerns" /><ref name="All Movie Guide" />
+
+== Death ==
+Adamson died of a heart attack on November 9, 1972 in Los Angeles.<ref name="All Movie Guide" />
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb name|id=0011535|title=Victor Adamson}}
+
+{{Persondata
+| NAME              = Adamson, Victor
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American director, actor and writer
+| DATE OF BIRTH     = January 4, 1890
+| PLACE OF BIRTH    = [[Kansas City, Missouri]], U.S.
+| DATE OF DEATH     = November 9, 1972
+| PLACE OF DEATH    = [[Los Angeles, California]], U.S.
+}}
+{{DEFAULTSORT:Adamson, Victor}}
+[[Category:American film directors]]
+[[Category:1890 births]]
+[[Category:1970 deaths]]
+[[Category:Western (genre) film directors]]
+[[Category:Male Western (genre) film actors]]
+[[Category:American male film actors]]
+[[Category:Deaths from myocardial infarction]]
+[[Category:20th-century American male actors]]

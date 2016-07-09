@@ -1,0 +1,54 @@
+{{Infobox person
+| name          = Addison Randall
+| image         =
+| imagesize     =
+| caption       =
+| birthname     =
+| birth_date    = {{Birth date|1906|5|12|mf=y}}
+| birth_place   = [[San Fernando, California]], [[U.S.]]
+| death_date    = {{death date and age|1945|7|16|1906|5|12}}
+| death_place   = [[Canoga Park, California]], U.S.
+| othername     = 
+| yearsactive   = 1933-1943
+| spouse        = [[Louise Stanley]] (divorced)<br>[[Barbara Bennett]] (1941-1945) (his death)
+| notable role  = 
+}}
+
+'''Addison Byron Owen Randall''' (May 12, 1906 in [[San Fernando, California]] – July 16, 1945 in [[Canoga Park, California]]) was an [[United States of America|American]] film actor, chiefly in [[Western (genre)|Westerns]]. He often used a [[pseudonym]] for his film work, chiefly "Jack Randall", though he also played roles as "Allen Byron" and "Byron Vance".
+
+==Film career==
+Randall began his career as a supporting actor and foil at [[RKO]], but he left when [[Monogram Pictures]] promised him the chance to star in films. They were true to their word, and he appeared in a series of Western films through the 1930s and 1940s. (In 1935, he actually played a star of Westerns in RKO's ''[[Another Face]]'', released in 1935.) Many of Randall's early B-movies with Monogram feature him as a [[singing cowboy]], but his later roles were generally straight Western stories, and all were hampered by the low budgets typical of that studio.
+
+Randall adopted his new "Allen Byron" identity in the 1940s in an effort to boost his fading professional fortunes, but the roles he received with new studio [[Producers Releasing Corporation]] were not up to the task.
+
+He died unexpectedly in 1945 while filming a [[Serial (film)|serial]] called ''[[The Royal Mounted Rides Again]]'' for [[Universal Studios]], after a fall from a horse. Some sources attribute his death to injuries sustained during the fall, which in those versions resulted from an attempt to recover a hat he had dropped, while others state that he suffered a fatal [[myocardial infarction|heart attack]] before falling.<ref name="AMG">"[http://movies2.nytimes.com/gst/movies/filmography.html?p_id=107526 Addison Randall]", [[Allmovie]] reprinted in the [[New York Times]] online, accessed June 27, 2006.</ref>
+
+==Personal life==
+Addison Randall was born May 12, 1906 in San Fernando, California, and attended [[Kemper Military School]] in [[Boonville, Missouri]].  Randall's older brother [[Robert Livingston (actor)|Robert Livingston]] (born Robert Edward Randall) was also an actor in Western films of the time. Addison Randall twice married and divorced actress [[Louise Stanley]], and he carried on a notorious affair with silent film actress [[Louise Brooks]]. At the time of his death he was married to a second wife, actress [[Barbara Bennett]]. Bennett was the lesser-known sister of actresses [[Constance Bennett]] and [[Joan Bennett]], as well as the daughter of actor [[Richard Bennett (actor)|Richard Bennett]] and actress [[Adrienne Morrison]].<ref name="AMG" />
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Biography}}
+*{{IMDb name|0709526|Addison Randall (I)}} at the [[Internet Movie Database]].
+
+{{Authority control}}
+
+{{Persondata
+| NAME              =Randall, Addison
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American actor
+| DATE OF BIRTH     =May 12, 1906
+| PLACE OF BIRTH    =[[San Fernando, California]]
+| DATE OF DEATH     =July 16, 1945
+| PLACE OF DEATH    =[[Canoga Park, California]]
+}}
+{{DEFAULTSORT:Randall, Addison}}
+[[Category:1906 births]]
+[[Category:1945 deaths]]
+[[Category:Male Western (genre) film actors]]
+[[Category:American male film actors]]
+[[Category:People from the San Fernando Valley]]
+[[Category:Male actors from California]]
+[[Category:20th-century American male actors]]

@@ -1,0 +1,271 @@
+{{multiple issues|
+{{refimprove|date=April 2009}}
+{{no footnotes|date=April 2009}}
+}}
+
+{{Infobox person
+| name                  = George Dunn
+| image                 = George dunn.jpg
+| imagesize             = 
+| caption               = 
+| birth_name             = Ollen George Dunn
+| birth_date             = {{Birth date|1914|11|23|mf=y}}
+| birth_place            = [[Brownwood, Texas]]
+| death_date             = {{Death date and age|1982|4|27|1914|11|23|mf=y}}
+| death_place            = [[Los Angeles, California]]
+| othername             = George E. Dunn 
+| occupation            = Actor, humorist
+| years_active           = 
+| spouse                = 
+| domesticpartner       = 
+| website               = 
+}}
+
+'''George Dunn''' (November 23, 1914 – April 27, 1982) was an [[United States|American]] [[actor]], [[humorist]], [[vaudeville]] performer, and [[satirist]]. He often portrayed [[Western (genre)|Western]] characters in [[film]] and [[television]]. His homespun wit, rope tricks, and satirizing of American life, [[politics]], and [[sports]] reflected the strong influence [[Will Rogers]] had on him as an entertainer.
+
+==Career==
+Born '''Ollen George Dunn''' in [[Brownwood, Texas]], Dunn made his way from [[Texas]] to [[New York City]] to perform in vaudeville. From there, he went on to [[Hollywood]], where he appeared in twenty five [[motion pictures]] and more than one hundred [[television shows]]. Some of his appearances were uncredited bit parts.
+
+One of his major roles was "The Prophet" in ''[[Operation Petticoat]]'', alongside [[Tony Curtis]] and [[Gavin MacLeod]]. Dunn also appeared in several other well-known films, including ''[[Giant (1956 film)|Giant]]'', ''[[Inherit the Wind (1960 film)|Inherit the Wind]]'', ''[[The Long, Hot Summer]]'', ''[[The Kettles on Old MacDonald's Farm]]'', and ''[[Shenandoah (film)|Shenandoah]]''. In another phase of his career, he appeared in a number of [[John Cassavetes]] films, including ''[[Faces (film)|Faces]]'' and ''[[A Woman Under the Influence]]''. Like [[John Wayne]], Dunn's final roles were in the same film, ''[[The Shootist]].'' In addition to his film work, Dunn appeared in many popular television shows throughout the mid '50s, '60s, and '70s, such as ''[[The Andy Griffith Show]]'', ''[[Bonanza]],'' ''[[The Beverly Hillbillies]]'', ''[[My Favorite Martian]]'', and ''[[Starsky and Hutch]]''. He also appeared in the Off-Broadway production of ''[[The Rainmaker (play)|The Rainmaker]]'' in 1954.
+
+While George Dunn never attained celebrity status, his long and steady acting career allowed him to travel around the world three times, visiting 95 countries. His world travels provided him with much fodder for humorous [[storytelling]] and entertaining after-dinner speaking engagements.
+
+==Death==
+Dunn died on April 27, 1982 in [[Los Angeles]], [[California]].
+
+==Filmography==
+{| border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;" 
+|- bgcolor="#CCCCCC" align="center"
+! colspan="4" style="background: LightSteelBlue;" | Film
+|- bgcolor="#CCCCCC" align="center"
+! Year
+! Film
+! Role
+! Notes
+|-
+| rowspan=3|1955
+| ''[[Prince of Players]]''
+| Doorman 
+| Uncredited
+|-
+| ''[[Daddy Long Legs (1955 film)|Daddy Long Legs]]'' 
+| Chauffeur 
+| Uncredited
+|-
+| ''[[Good Morning, Miss Dove]]''
+| Bert, the Janitor 
+| Uncredited
+|-
+| rowspan=4|1956
+| ''The Lieutenant Wore Skirts'' 
+| Base mail clerk 
+| Uncredited
+|-
+| ''[[Ransom!]]''
+| Bank clerk
+| Uncredited<br>Alternative title: ''Fearful Decision''
+|-
+| ''[[Away All Boats]]''
+| Hubert
+|-
+| ''[[Giant (1956 film)|Giant]]'' 
+| Vern Decker
+| Uncredited
+|-
+| rowspan=2|1957
+| ''[[The Kettles on Old MacDonald's Farm]]''
+| George 
+|-
+| ''Joe Dakota'' 
+| Jim Baldwin
+|-
+| 1959
+| ''[[Operation Petticoat]]'' 
+| The Prophet
+|-
+| 1960
+| ''[[Inherit the Wind (1960 film)|Inherit the Wind]]''
+| Banker - Critic at City Meeting 
+| Uncredited
+|-
+| 1962
+|  ''The Silent Witness''
+|
+|-
+| 1965
+| ''[[Baby the Rain Must Fall]]'' 
+| Counterman at Restaurant 
+|-
+| 1971
+| ''[[The Beguiled]]'' 
+| Sam Jefferson
+|-
+| 1973
+| ''[[The Severed Arm]]''
+|
+|-
+|- bgcolor="#CCCCCC" align="center"
+! colspan="4" style="background: LightSteelBlue;" | Television
+|- bgcolor="#CCCCCC" align="center"
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1958
+| ''[[The Adventures of Jim Bowie]]''
+| Davey Crockett
+| 1 episode
+|-
+| 1958-1958
+| ''[[Cimarron City (TV series)|Cimarron City]]''
+| Jesse Williams
+| 5 episodes
+|-
+| rowspan=2|1959
+| ''[[The Detectives Starring Robert Taylor]]''
+| Sooky
+| 1 episode
+|-
+| ''[[The Alaskans]]''
+| Stampede Pete
+| 1 episode
+|-
+| 1960
+| ''Harrigan and Son''
+| Detective
+| 1 episode
+|-
+| 1960–1961
+| ''[[The Andy Griffith Show]]''
+| Pete
+| 3 episodes
+|-
+| rowspan=3|1961
+| ''[[My Three Sons]]''
+| Listener 
+| 1 episode
+|-
+| ''[[The Aquanauts (TV series)|The Aquanauts]]''
+| Chuck
+| 1 episode
+|-
+| ''[[Ben Casey]]''
+|
+| 1 episode
+|-
+| 1961–1971
+| ''[[Bonanza]]''
+| Drunk #2<br>Andy
+| 2 episodes
+|-
+| rowspan=3|1962
+| ''[[Ripcord (TV series)|Ripcord]]''
+| John Chapman
+| 1 episode
+|-
+| ''[[Lawman (TV series)|Lawman]]''
+|
+| 1 episode
+|-
+| ''[[The Virginian (TV series)|The Virginian]]''
+| Biggs
+| 1 episode
+|-
+| 1962–1963
+| ''[[The Lloyd Bridges Show]]''
+| Leo
+| 2 episodes
+|-
+| rowspan=2|1963
+| ''[[The Great Adventure (TV series)|The Great Adventure]]''
+| Farmer
+| 1 episode
+|-
+| ''[[Wagon Train]]''
+| Jones
+| 1 episode
+|-
+| 1964
+| ''[[My Favorite Martian]]''
+| Mr. Edgar Graham
+| 1 episode
+|-
+| 1965
+| ''[[Camp Runamuck]]''
+| The Sheriff
+| Unknown episodes
+|-
+| 1967
+| ''Stranger on the Run''
+| Pilney 
+| Television movie<br>Alternative title: ''Lonesome Gun''
+|-
+| 1968
+| ''[[Felony Squad]]''
+| Watchman
+| 1 episode
+|-
+| rowspan=2|1963
+| ''[[The Beverly Hillbillies]]''
+| Bailiff 
+| 1 episode
+|-
+| ''[[Adam-12]]''
+| Danny Bryant 
+| 1 episode
+|-
+| 1972
+| ''[[Mannix]]''
+| Customer 
+| 1 episode
+|-
+| 1976
+| ''[[Starsky and Hutch]]''
+| Officer O' Keefe 
+| 1 episode
+|-
+| rowspan=2|1978
+| ''[[The Hardy Boys/Nancy Drew Mysteries]]''
+| Bellman
+| 1 episode
+|-
+| ''Kate Bliss and the Ticker Tape Kid''
+| Jim Haggerty 
+| Television movie
+|-
+| 1980
+| ''[[The Misadventures of Sheriff Lobo]]''
+| Fire chief
+| 1 episode
+|}
+
+==References==
+* [http://haldunn.com/george-dunn/george-dunn.htm George Dunn Filmography]
+
+==External links==
+* {{IMDb name|id=0242574|name=George Dunn}}
+* {{tcmdb name|id=54335|name=George Dunn}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Dunn, George
+|ALTERNATIVE NAMES= Dunn, Ollen George; Dunn, George E. 
+|SHORT DESCRIPTION= Actor, humorist
+|DATE OF BIRTH= November 23, 1914 
+|PLACE OF BIRTH= Brownwood, Texas
+|DATE OF DEATH= April 27, 1982
+|PLACE OF DEATH= Los Angeles, California
+}}
+{{DEFAULTSORT:Dunn, George}}
+[[Category:1914 births]]
+[[Category:1982 deaths]]
+[[Category:Male actors from Texas]]
+[[Category:American male film actors]]
+[[Category:American humorists]]
+[[Category:American male stage actors]]
+[[Category:American male television actors]]
+[[Category:People from Brown County, Texas]]
+[[Category:Vaudeville performers]]
+[[Category:Male Western (genre) film actors]]
+[[Category:20th-century American male actors]]

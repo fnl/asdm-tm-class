@@ -1,0 +1,90 @@
+{{Infobox person
+| name = Oliver Hirschbiegel
+| image = Oliver Hirschbiegel, Women's World Awards 2009.jpg <!-- Image with unknown copyright status removed: [[File:Ohirsch.jpg|150px|thumb|Oliver Hirschbiegel]] -->
+| caption = Hirschbiegel at the [[Women's World Award]]s 2009.
+| birth_date = {{Birth date and age|1957|12|29|df=yes}}
+| birth_place = [[Hamburg]], [[West Germany|Germany]]
+| years_active = 1986–present
+| occupation = [[Film director]]
+
+}}
+
+'''Oliver Hirschbiegel''' (born 29 December 1957)<ref>[http://www.filmportal.de/df/84/Uebersicht,,,,,,,,EF764D2DC6CD2394E03053D50B371C7C,,,,,,,,,,,,,,,,,,,,,,,,,,,.html Oliver Hirschbiegel]</ref> is a German [[film director]]. His works include ''[[Das Experiment]]'' and the [[Academy Award|Oscar]]-nominated ''[[Downfall (2004 film)|Downfall]]''.<ref>{{cite news |first=Andrea |last=Gronvall |title=Downfall |url=http://www.chicagoreader.com/chicago/downfall/Film?oid=1052571 |work=Chicago Reader |accessdate=18 October 2013}}</ref>
+
+==Life and career==
+Hirschbiegel was born in [[Hamburg]], [[West Germany|Germany]]. A [[Waldorf School|Waldorf graduate]], Hirschbiegel studied painting and graphic arts, later film, at the [[Hochschule für bildende Künste Hamburg|Hamburg University of Fine Arts]]. In 1986, he directed his first film, the made-for-TV movie ''Das Go! Projekt'', the script for which he had written himself. He became a successful TV director, directing numerous episodes of the ''[[Tatort]]'' and ''Kommissar Rex'' series. His first theatrical release was the well-received movie ''[[Das Experiment]]''.
+
+In 2004, he attracted world-wide attention with the film ''Der Untergang'' (released in English-speaking countries as ''[[Downfall (2004 film)|Downfall]]''), produced by [[Bernd Eichinger]]. It recounts [[Adolf Hitler]]'s last days, and sparked an extensive debate in Germany over the portrayal of Nazi leaders. The film was a critical and commercial success, winning numerous awards and a nomination for the [[Academy Awards|Academy Award]] for the best foreign film. One scene from the film has become the basis for a widespread [[Downfall (2004 film)#Parodies|viral video phenomenon]].
+
+He directed his first Hollywood feature ''[[The Invasion (film)|The Invasion]]'', which was partly re-shot by [[Australia]]n director [[James McTeigue]], at the request of the studio.
+
+Hirschbiegel directed the biographical film ''[[Diana (film)|Diana]]'', about [[Diana, Princess of Wales]], which was released in September 2013. Actress [[Naomi Watts]] plays the title role.<ref name="BBC News">{{Cite news|url=http://www.bbc.co.uk/news/entertainment-arts-16968014 |title=Naomi Watts lands Princess Diana role  |accessdate=2012-02-10|work=BBC News|date=2012-02-09}}</ref>
+
+His upcoming film ''[[13 Minutes]]'' has been selected to be screened out of competition at the [[65th Berlin International Film Festival]].<ref name="Berlin">{{cite web |url=http://www.berlinale.de/en/presse/pressemitteilungen/wettbewerb/wettbewerb-presse-detail_26644.html |title=Berlinale 2015: Competition Complete |accessdate=28 January 2015 |work=berlinale.de}}</ref>
+
+==Filmography==
+*''[[Das Experiment]]'' (2001)
+*''[[Downfall (2004 film)|Downfall]]'' (2004)
+*''{{ill|de|Ein ganz gewöhnlicher Jude (film)|Ein ganz gewöhnlicher Jude (Film)|Ein ganz gewöhnlicher Jude}}'' (2005)
+*''[[The Invasion (film)|The Invasion]]'' (2007)
+*''[[Five Minutes of Heaven]]'' (2009)
+*''[[Diana (film)|Diana]]'' (2013)
+*''[[13 Minutes]]'' (2015)
+
+==Awards==
+'''Wins''' 
+* 1998 RTL [[Golden Lion Awards]], Best Direction of a TV Film or Series for "Das Urteil" and "Trickser 
+* 1998 Adolf Grimme Awards, Audience Award of the 'Marl Group' for Das Urteil  
+* 1999 [[Bavarian Film Awards]] for Directing Todfeinde - Die falsche Entscheidung 
+* 2001 [[Bergen International Film Festival]] Audience Award for "Das Experiment"  
+*2001 [[Bavarian Film Awards]], Best Direction for ''Das Experiment''  
+* 2001 [[Montréal World Film Festival]] Best Director, "Das Experiment" 
+* 2002 [[Istanbul International Film Festival]], People's Choice Award, "Das Experiment" 
+* 2004 [[Bambi Awards]] Film - National, "Der Untergang" 
+* 2005 [[Bavarian Film Awards]] Audience Award for "Der Untergang" 
+* 2005 [[Amanda Awards]] Best Foreign Feature Film (Årets utenlandske kinofilm), "Der Untergang" 
+* 2006 [[Bodil Awards]] Best Non-American Film (Bedste ikke-amerikanske film), "Der Untergang" 
+* 2006 [[Fajr International Film Festival]] International Competition - Best Technical or Artistic Achievement, "Der Untergang" 
+* 2006 [[Robert Award]] Best Non-American Film (Årets ikke-amerikanske film),  "Der Untergang" 
+* 2009 [[Prix Europa]] Special Commendation - TV Fiction "Five Minutes of Heaven" 
+* 2009 [[Sundance Film Festival]] Directing Award, World Cinema, Dramatic - "Five Minutes of Heaven"
+
+'''Nominations'''
+
+* 1998 [[Adolf Grimme Awards]] Adolf Grimme Award, Fiction/Entertainment - "Das Urteil" 
+* 2001 [[European Film Awards]] Audience Award, Best Director, "Das Experiment" 
+* 2002 [[Fantasporto]] International Fantasy Film Award, Best Film, "Das Experiment" 
+* 2003 [[Paris Film Festival]] Grand Prix,  "Das Experiment" 
+* 2005 [[Mar del Plata Film Festival]] Best Film,  "Der Untergang" 
+* 2005 [[Academy Awards]] Best Foreign Language Film of the Year 
+* 2006 [[Goya Awards]] Best European Film (Mejor Película Europea), "Der Untergang" 
+* 2006 [[Argentinean Film Critics Association Awards]] Best Foreign Film, Not in the Spanish Language (Mejor Película Extranjera), "Der Untergang" 
+* 2009 [[Sundance Film Festival]] Grand Jury Prize, World Cinema - Dramatic, "Five Minutes of Heaven" 
+* 2010 [[Broadcasting Press Guild Awards]] Broadcasting Press Guild Award, Best Single Drama - "Five Minutes of Heaven"
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb name|386570|Oliver Hirschbiegel}}
+
+{{Oliver Hirschbiegel}}
+
+{{Persondata 
+| NAME              = Hirschbiegel, Oliver
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Film director
+| DATE OF BIRTH     = 29 December 1957
+| PLACE OF BIRTH    = [[Hamburg]], [[West Germany|Germany]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Hirschbiegel, Oliver}}
+[[Category:1957 births]]
+[[Category:Crystal Simorgh recipients]]
+[[Category:German film directors]]
+[[Category:German-language film directors]]
+[[Category:Living people]]
+[[Category:People from Hamburg]]
+[[Category:Waldorf school alumni]]
+[[Category:Christopher Ewart-Biggs Memorial Prize recipients]]

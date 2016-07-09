@@ -1,0 +1,60 @@
+{{Refimprove|date=July 2014}}
+{{Use mdy dates|date=July 2014}}
+{{Infobox person
+|name=Fred Burns
+|birth_date={{birth date|1878|4|24}}
+|death_date={{death date and age|1955|7|18|1878|4|24}}
+|occupation=Film actor
+|yearsactive=1912-1948}}
+
+'''Fred Burns''' (April 24, 1878 -  July 18, 1955) was an American actor who mainly appeared in Westerns. He appeared in over 265 films before his death in 1955.
+
+==Partial filmography==
+*''[[During the Round-Up]]'' (1913) - the foreman
+*''[[An Indian's Loyalty]]'' (1913) - the Ranch Hand
+*''[[Sold for Marriage]]'' (1916)
+*''[[The Good Bad Man]]'' (1916)
+*''[[The Hero of the Hour]]'' (1917)
+*''[[The Fighting Trail]]'' (1917)
+*''[[Bound in Morocco]]'' (1918)
+*''[[Ruth of the Rockies]]'' (1920)
+*''[[Wild West (serial)|Wild West]]'' (1925)
+*''[[Queen of the Northwoods]]'' (1929)
+*''[[Branded (1931 film)|Branded]]'' (1931)
+*''[[Freighters of Destiny]]'' (1931)
+*''[[The Dude Bandit]]'' (1933)
+*''[[The Law of 45's]]'' (1935)
+*''[[Oh, Susanna! (1936 film)|Oh, Susanna!]]'' (1936)
+*''[[Springtime in the Rockies (1937 film)|Springtime in the Rockies]]'' (1937)
+*''[[Days of Jesse James]]
+*''[[Thundering Frontier]]'' (1940)
+*''[[Colorado (film)|Colorado]]'' (1940)
+*''[[Carolina Moon (1940 film)|Carolina Moon]]'' (1940)
+*''[[Sons of the Pioneers (film)|Sons of the Pioneers]]'' (1942)
+*''[[Silver River (film)|Silver River]]'' (1948)
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb name|0122668}}
+
+{{Persondata
+| NAME              = Burns, Fred
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American actor
+| DATE OF BIRTH     = April 24, 1878
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = July 18, 1955
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Burns, Fred}}
+[[Category:1878 births]]
+[[Category:1955 deaths]]
+[[Category:Male Western (genre) film actors]]
+[[Category:20th-century American male actors]]
+[[Category:American male silent film actors]]
+[[Category:Male actors from Montana]]
+[[Category:American male film actors]]
+
+{{US-film-actor-1870s-stub}}

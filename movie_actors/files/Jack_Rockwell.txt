@@ -1,0 +1,137 @@
+{{Infobox person
+| name        = Jack Rockwell
+| image       = <!-- just the filename, without the File: or Image: prefix or enclosing [[brackets]] -->
+| alt         = 
+| caption     = 
+| birth_name  = John Rockwell Trowbridge 
+| birth_date  = {{Birth date|1890|10|6}}
+| birth_place = [[Veracruz]], [[Mexico]]
+| death_date  = {{Death date and age|1947|11|10|1890|10|06}}
+| death_place = [[Los Angeles, California]], USA
+| nationality = Mexican
+| other_names = 
+| occupation  = Actor
+|yearsactive  =1930-1947
+| known_for   = 
+| relatives = [[Charles Trowbridge]]
+}}
+'''Jack Rockwell Trowbridge''' (October 6, 1890 - November 10, 1947) was a Mexican-born American film actor. He appeared in over 250 between 1930 and 1947. His brother was [[Charles Trowbridge]].
+
+==Selected Filmography==
+{| class="wikitable sortable plainrowheaders"
+|+ List of acting performances in film and television
+|-
+! scope="col" | Year
+! scope="col" | Title
+! scope="col" | Role
+|-
+| rowspan=3|1934
+| ''[[Honor of the Range]]''
+| Henchman Rocky
+|-
+| ''[[The Lawless Frontier]]''
+| Sheriff Luke Williams
+|-
+| ''[[The Law of the Wild]]''
+| Sheriff
+|-
+| rowspan=6|1935
+| ''[[Alias John Law]]''
+| Marshall Lamar Blyth
+|-
+| ''[[Bulldog Courage (1935 film)|Bulldog Courage]]''
+| Pete Brennan
+|-
+| ''[[No Man's Range]]''
+| Sheriff
+|-
+| ''[[Sundown Saunders]]''
+| Preston
+|-
+| ''[[The Tonto Kid]]''
+| Sheriff Hack Baker
+|-
+| ''[[Valley of Wanted Men]]''
+| U.S. Marshall
+|-
+| rowspan=7|1936
+| ''[[Brand of the Outlaws]]''
+| Deputy Ben Holt
+|-
+| ''[[The Lawless Nineties]]''
+| Smith
+|-
+| ''[[The Law Rides]]''
+| Sheriff Anderson
+|-
+| ''[[Lucky Terror]]''
+| Bat Boulton
+|-
+| ''[[Roarin' Guns]]''
+| Bob Morgan
+|-
+| ''[[Rogue of the Range]]''
+| Henchman Sloan
+|-
+| ''[[Winds of the Wasteland]]''
+| Buchanan City Marshal 
+|-
+| 1937
+| ''[[Bar-Z Bad Men]]
+| Ed Parks
+|-
+| 1938
+| ''[[Prairie Justice]]''
+| John Benson
+|-
+| 1939
+| ''[[Days of Jesse James]]''
+| Thompson McDaniels
+|-
+| rowspan=2|1941
+| ''[[Law of the Range]]''
+| Sheriff Henderson
+|-
+| ''[[Riders of Death Valley]]''
+| Trigger
+|-
+| rowspan=2|1942
+| ''[[Overland Mail (film)|Overland Mail]]''
+| Slade
+|-
+| ''[[Undercover Man]]''
+| Captain John Hawkins
+|-
+| 1944
+| ''[[Lumberjack (film)|Lumberjack]]''
+| Sheriff Miles
+|}
+
+==External links==
+*{{IMDb name|0734340}}
+*{{Find a Grave
+ |10024390
+ |Jack Rockwell
+ |work=Actor
+ |author=MC
+ |date=December 1, 2004
+ |accessdate=April 1, 2015}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Rockwell, Jack
+|ALTERNATIVE NAMES= Trowbridge, John Rockwell
+|SHORT DESCRIPTION= Actor
+|DATE OF BIRTH= 1890-10-6
+|PLACE OF BIRTH= [[Veracruz]], [[Mexico]]
+|DATE OF DEATH= 1947-11-10
+|PLACE OF DEATH= [[Los Angeles, California]], USA
+}}
+{{DEFAULTSORT:Rockwell, Jack}}
+[[Category:1890 births]]
+[[Category:1947 deaths]]
+[[Category:American male film actors]]
+[[Category:People from Veracruz]]
+[[Category:Burials at Forest Lawn Memorial Park (Hollywood Hills)]]
+[[Category:20th-century American male actors]]
+[[Category:Male Western (genre) film actors]]

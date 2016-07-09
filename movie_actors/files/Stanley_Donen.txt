@@ -1,0 +1,710 @@
+{{Use mdy dates|date=October 2013}}
+{{Infobox person
+ | name             = Stanley Donen
+ | image            = Stanley Donen.jpg
+ | caption          = Donen in 2010
+ | birth_date       = {{Birth date and age|1924|4|13}}
+ | birth_place      = [[Columbia, South Carolina]], US
+ | occupation       = Film director, film producer, choreographer, dancer, stage director
+ | years_active     = 1940–2003
+ | spouse           = [[Jeanne Coyne]] (1948–1951; divorced)<br />[[Marion Marshall (actress)|Marion Marshall]] (1952–1959; divorced; 2 children)<br />Adelle O'Connor Beatty (1960–1971; divorced; 1 child)<br />[[Yvette Mimieux]] (1972–1985; divorced)<br />Pamela Braden (1990–1994; divorced)
+ | partner          = [[Elaine May]] (1999–present)
+ | children         = Peter Donen <small>(deceased)</small><br /> [[Joshua Donen]]
+ | known_for        = ''[[On the Town (film)|On the Town]]'', ''[[Singin' in the Rain]]''
+}}
+
+'''Stanley Donen''' ({{IPAc-en|ˈ|d|ɔː|n|ən}} {{respell|DAWN|ən}}<!-- Are we sure it's not  {{IPAc-en|ˈ|d|ɒ|n|ən}} {{respell|DON|ən}}? -->; born April 13, 1924) is an American film director and choreographer whose most celebrated works are ''[[Singin' in the Rain]]'' and ''[[On the Town (film)|On the Town]]'', both of which he co-directed with actor and dancer [[Gene Kelly]]. His other noteworthy films include ''[[Royal Wedding]]'', ''[[Seven Brides for Seven Brothers]]'', ''[[Funny Face]]'', ''[[Indiscreet (1958 film)|Indiscreet]]'', ''[[Damn Yankees (film)|Damn Yankees!]]'', ''[[Charade (1963 film)|Charade]]'', and ''[[Two for the Road (film)|Two for the Road]]''. He received an [[Honorary Academy Award]] in 1998 for his body of work and a [[Golden Lion#Golden Lion – Honorary Award|Career Golden Lion]] from the [[Venice Film Festival]] in 2004. He was hailed by film critic [[David Quinlan (film critic)|David Quinlan]] as "the King of the [[musical films|Hollywood musicals]]".<ref>Quinlan, David. ''The Illustrated Guide to Film Directors''. Rowman & Littlefield. 1983. ISBN 0-389-20408-0. pp. 78.</ref> Donen married five times and had three children. His current long term partner is film director and comedian [[Elaine May]].
+
+He began his career in the chorus line on Broadway for director [[George Abbott]], where he befriended Kelly. In 1943 he went to Hollywood and worked as a choreographer before he and Kelly made ''On the Town'' in 1949. He then worked as a contract director for MGM under producer [[Arthur Freed]] producing hit films amid critical acclaim, both as a solo director and with Kelly. In 1952 Donen and Kelly co-directed the musical ''Singin' in the Rain'', regarded as one of the [[List of films considered the best|greatest films ever made]]. Donen's relationship with Kelly deteriorated in 1955 during their final collaboration on ''[[It's Always Fair Weather]]''. He then broke his contract with MGM to become an independent producer in 1957. As musicals began to lose public appeal, Donen switched to comedies. He continued to make hit films until the late 1960s, after which his career slowed down. He briefly returned to the stage as a director in the 1990s and again in 2002.
+
+Donen is credited with transitioning Hollywood musical films from realistic [[Backstage musical|backstage dramas]] to a more integrated art form in which the songs were a natural continuation of the story. Before Donen and Kelly made their films, musicals (such as the extravagant and stylized work of [[Busby Berkeley]]) were often set in a Broadway stage environment where the musical numbers were part of a stage show. Donen and Kelly's films created a more cinematic form and included dances that could only be achieved in the film medium. Donen stated that what he was doing was a "direct continuation from the [[Fred Astaire|Astaire]] – [[Ginger Rogers|Rogers]] musicals&nbsp;... which in turn came from [[René Clair]] and from [[Ernst Lubitsch|Lubitsch]]&nbsp;... What ''we'' did was not geared towards realism but towards the unreal."<ref name=Wakeman273282>{{Cite book|first=John|last=Wakeman|title=World Film Directors, Volume 2|publisher=The H. W. Wilson Company|year=1988|isbn=0-8242-0763-7|pages=273–282}}</ref> Film critic Jean-Pierre Coursodon has said that Donen's contribution to the evolution of the Hollywood musical "outshines anybody else's, including [[Vincent Minnelli]]'s."<ref name=Wakeman273282/> He is the last surviving notable director of Hollywood's [[Classical Hollywood cinema|Golden Age]].
+{{toclimit|3}}
+
+==Early life and stage career==
+Stanley Donen was born in [[Columbia, South Carolina]] to Mordecai Moses Donen, a dress-shop manager, and Helen (Cohen), the daughter of a jewelry salesman.<ref name=Silverman />{{rp|4–6}} His younger sister Carla Donen Davis was born in August 1937.<ref name=Silverman>{{Cite book |first=Stephen M. |last=Silverman |title=Dancing on the Ceiling: Stanley Donen and His Movies |publisher=Knopf |location=New York |year=1996 |isbn=0-679-41412-6}}</ref>{{rp|14}} Although born to [[Jew]]ish parents, he became an [[atheist]] in his youth.<ref name=Silverman />{{rp|312}} Donen described his childhood as lonely and unhappy as one of the few Jews in Columbia,<ref name=Wakeman273282 /> and he was occasionally bullied by [[anti-semitic]] classmates at school.<ref name=Silverman />{{rp|8}} To help cope with his isolation, he spent much of his youth in local movie theaters and was especially fond of Westerns, comedies and thrillers. The film that had the strongest impact on him was the 1933 [[Fred Astaire]] and [[Ginger Rogers]] musical ''[[Flying Down to Rio]]''. Donen said that he "must have seen the picture thirty or forty times. I was transported into some sort of fantasy world where everything seemed to be happy, comfortable, easy and supported. A sense of well-being filled me."<ref name=Casper>{{Cite book|first=Joseph A.|last=Casper|title=Stanley Donen|publisher=Scarecrow Press|year=1983|isbn=0-8108-1615-6}}</ref>{{rp|4}} He shot and screened home movies with an [[Standard 8 mm film|8 mm]] camera and projector that his father bought for him.<ref name=Wakeman273282/>
+
+Inspired by Astaire, Donen took dance lessons in Columbia<ref name=Wakeman273282/> and performed at the local Town Theater.<ref name=Casper />{{rp|4}} His family often traveled to [[New York City]] during summer vacations where he saw [[Broadway musical]]s and took further dance lessons.<ref name=Wakeman273282/> One of his early instructors in New York was [[Ned Wayburn]], who had taught eleven-year-old Astaire in 1910.<ref name=Silverman/>{{rp|14}} After graduating from high school at sixteen, Donen attended the [[University of South Carolina]] for one summer semester, studying psychology.<ref name=Silverman/>{{rp|333}} Encouraged by his mother, he moved to New York City to pursue dancing on stage in the fall of 1940. After two auditions he was cast as a chorus dancer in the original Broadway production of [[Richard Rodgers|Rodgers]] and [[Lorenz Hart|Hart's]] ''[[Pal Joey (musical)|Pal Joey]]'', directed by the legendary [[George Abbott]]. The title role of Pal Joey was played by the young up-and-comer Gene Kelly, who became a Broadway star in the role.<ref name=Wakeman273282/>
+
+Abbott asked Donen to appear in the chorus of his next Broadway show ''[[Best Foot Forward (musical)|Best Foot Forward]]''. He quickly became the show's assistant stage manager, and Kelly asked him to be his assistant choreographer.<ref name=Silverman/>{{rp|30–31}} Eventually Donen was fired from ''Best Foot Forward'',<ref name=Silverman/>{{rp|33}} but in 1942 was the stage manager and assistant choreographer for Abbott's next show ''Beat the Band''.<ref name=Wakeman273282/><ref>{{cite news|url=http://www.dga.org/Craft/VisualHistory/Interviews/Stanley-Donen.aspx|title=Visual History with Stanley Donen|accessdate=December 28, 2011}}</ref> In 1946, Donen briefly returned to Broadway to help choreograph dance numbers for ''[[Call Me Mister]]''.<ref name=Casper/>{{rp|7}}
+
+==Film career==
+
+===1943–1949: Hollywood choreographer===
+In 1943 Arthur Freed, the successful producer of musical films at [[Metro Goldwyn Mayer]], bought the [[film rights]] to ''Best Foot Forward'' and made a [[Best Foot Forward (film)|film version]] starring [[Lucille Ball]] and [[William Gaxton]]. Donen moved to Hollywood to audition for the film and signed a one-year contract with MGM.<ref name=Silverman />{{rp|39–40}} In ''Best Foot Forward'', Donen appeared as a chorus dancer and was made assistant choreographer by [[Charles Walters]].<ref name=Silverman/>{{rp|46}} At MGM Donen renewed his friendship with Kelly, who was quickly becoming a popular supporting actor in musicals. When Kelly was loaned to [[Columbia Pictures]] for a film with [[Rita Hayworth]], he was offered the chance to choreograph his own dance numbers and asked Donen to assist.<ref name=Silverman/>{{rp|48–49}} Kelly stated, "Stanley needed a job. I needed someone to count for the cameraman, someone who knew the steps and could explain what I was going to do so the shot was set up correctly."<ref>Morley, Sheridan & Leon, Ruth. ''Gene Kelly: A Celebration'', p. 88, Pavilion Books Ltd. 1996. ISBN 978-1-85793-848-7.</ref> Donen accepted and choreographed three dance sequences with Kelly in 1944's ''[[Cover Girl (1944 film)|Cover Girl]]''.<ref name=Silverman/>{{rp|58}} Donen came up with the idea for the "Alter Ego" dance sequence where Kelly's reflection jumps out of a shop window and dances with him. Director [[Charles Vidor]] insisted that the idea would never work, so Donen and Kelly directed the scene themselves<ref name=Silverman/>{{rp|58–66}} and Donen spent over a year editing it.<ref name=Silverman/>{{rp|63–64}}<ref name=Casper/>{{rp|10}} The film made Kelly a movie star and is considered by many film critics to be an important and innovative musical.<ref name=Wakeman273282/> Donen signed a one-year contract with Columbia<ref name=Silverman/>{{rp|65}} and choreographed several films there,<ref name=Hirschhorn>{{cite book|last=Hirschhorn|first=Clive|title=Gene Kelly: a Biography |publisher=W.H. Allen |year=1984 |isbn=0-491-03182-3}}</ref>{{rp|242}}{{rp|247}} but returned to MGM the following year when Kelly wanted assistance on his next film.<ref name=Silverman />{{rp|67}}
+
+[[File:Anchors-aweigh.jpg|thumb|left|250px|Gene Kelly and Jerry the Mouse in ''Anchors Aweigh'', a scene that took Donen a year to finish in post-production]]
+
+In 1944 Donen and Kelly choreographed the musical ''[[Anchors Aweigh (film)|Anchors Aweigh]]'', released by MGM in 1945 and starring Kelly and [[Frank Sinatra]]. The most famous scene in this film is when Kelly dances with the cartoon mouse [[Jerry Mouse|Jerry]]. The animation was supervised by [[William Hanna]] and [[Joseph Barbera]] and is credited to cartoonist [[Fred Quimby]], but the idea for the scene was Donen's.<ref name=Wakeman273282 /><ref name=Silverman />{{rp|70}} Originally Donen and Kelly wanted to use either [[Mickey Mouse]] or [[Donald Duck]] for the sequence and met with [[Walt Disney]] to discuss the project. At the time Disney was working on a similar idea in ''[[The Three Caballeros]]'' and was unwilling to allow one of his characters to appear in an MGM film.<ref name=Silverman />{{rp|70–71}} They spent two months shooting Kelly's dancing and Donen spent a year perfecting the scene frame by frame. According to Barbera "the net result at the preview of ''Anchors Away'' that I went to, blew the audience away."<ref name=Silverman />{{rp|172}}
+
+While Kelly completed his service in the [[United States Navy|U.S. Naval Air Service]] as a photographer from 1944 to 1946,<ref name=Wakeman273282 /> Donen worked uncredited as a choreographer on musical films. Of this period Donen said, "I practiced my craft, working with music, track and photography. I often directed the sequences. I always tried to have an original idea about how to do musical sequences."<ref name=Casper />{{rp|17}} Donen has stated that he was excused from military service as [[Selective Service System#Classifications|4-F]] because of high blood pressure.<ref name=Silverman />{{rp|76}} When Kelly returned to civilian life, he and Donen directed and choreographed Kelly's dance scenes in ''[[Living in a Big Way]]''.<ref name=Casper />{{rp|18}} They then began work on an original story about two baseball players in the early 20th century who spend their off-season as [[vaudeville|vaudevillian]] song and dance men. This film would eventually become ''[[Take Me Out to the Ball Game (film)|Take Me Out to the Ball Game]]'' in 1949. Kelly and Donen had hoped to co-direct the film, but Freed hired Busby Berkeley instead and they only directed Kelly's dance numbers. The film starred Kelly, Frank Sinatra and [[Jules Munshin]].<ref name=Wakeman273282 />
+
+===1949: ''On the Town''===
+[[File:Stanley Donen - On the Town-1.jpg|thumb|right|250px|Donen (center) directing [[Frank Sinatra]] and [[Gene Kelly]] in the opening number ''[[New York, New York (On the Town)|New York, New York]]'' from ''On the Town'']]
+
+After the success of ''Take Me Out to the Ball Game'', Freed gave Donen and Kelly the chance to direct ''[[On the Town (film)|On the Town]]'', released in 1949. The film was an adaptation of the [[Betty Comden]] and [[Adolph Green]] [[On the Town (musical)|Broadway musical]] about sailors on leave in New York City and was the first musical to be filmed on location. Donen and Kelly had wanted to shoot the entire film in New York, but Freed would only allow them to spend one week away from the studio.
+
+That week produced the film's famous opening number ''[[New York, New York (On the Town)|New York, New York]]''.<ref name=Wakeman273282 /> Away from both studio interference and sound stage constrictions, Donen and cinematographer [[Harold Rosson]] shot a scene on the streets of New York City that pioneered many cinematic techniques that would not be used again until they were popularized by the [[French New Wave]] ten years later. These techniques included spacial [[jump cuts]], 360-degree pans, hidden cameras, abrupt changes of screen direction and non-professional actors. Donen's biographer Joseph A. Casper stated that the scene avoids being gratuitous or amateurish, while still "developing plot, describing the setting while conveying its galvanizing atmosphere and manic mood, introducing and delineating character."<ref name=Wakeman273282 /> Casper also said that "Today the film is regarded as a turning point: the first bona fide musical that moved dance, as well as the musical genre, out of the theater and captured it ''with'' and ''for'' film rather than ''on'' film; the first to make the city an important character; and the first to abandon the chorus."<ref name=Casper />{{rp|34}}
+
+''On the Town'' starred Kelly, Sinatra, Munshin, [[Ann Miller]], [[Betty Garrett]] and [[Vera-Ellen]]. Kelly, Sinatra and Munshin play three sailors on a 24-hour shore leave in New York whose romantic ambitions get them more than they bargained for. The film was a success both financially and critically.<ref name=Casper />{{rp|34}} It won the [[22nd Academy Awards|Academy Award]] for [[Academy Award for Best Original Score|Best Music, Scoring of a Musical Picture]] and screenwriters Comden and Green won the [[Writers Guild of America Award]] for [[Writers Guild of America Awards 1949|Best Written American Musical]]. Like [[Orson Welles]], Donen made his [[List of directorial debuts|directorial debut]] at 25.<ref name="Out to Lunch with Stanley Donen">{{cite news |url=http://www.vanityfair.com/hollywood/2013/03/stanley-donan-singin-in-the-rain |title=Out to Lunch with Stanley Donen |accessdate=March 3, 2013 |work=Vanity Fair |date=February 22, 2013}}</ref> Donen stated that Kelly was "responsible for most of the dance movements. I was behind the camera in the dramatic and musical sequences."<ref name=Casper />{{rp|26}} Kelly believed that he and Donen "were a good team. I thought we complemented each other very well."<ref>Kelly, Gene. ''Dialogue on Film. American Film 4, #4'' (February 1979) pp. 37.</ref>
+
+===1949–1952: MGM contract director===
+[[File:Astaire - You're All the World to Me.jpg|left|thumb|250px|Fred Astaire dancing on the walls and ceiling in ''Royal Wedding'', a special effect using a rotating reinforced-steel cylindrical chamber to film in]]
+After the success of ''On the Town'' Donen signed a seven-year contract with MGM as a director. His next two films were for producer Freed, but without Kelly.<ref name=Wakeman273282 /> After being replaced as director on ''Pagan Love Song'' over personal differences with star [[Esther Williams]], Donen was given the chance to direct his boyhood idol Fred Astaire.<ref name=Silverman />{{rp|121–122}}
+
+''[[Royal Wedding]]'' starred Astaire and [[Jane Powell]] as a brother-sister American dancing team performing in England during the occasion of the [[Wedding of Princess Elizabeth and Philip, Duke of Edinburgh|royal wedding of Elizabeth and Philip]] in 1947. [[Judy Garland]] was originally cast in the lead role, but was fired for absenteeism due to illness and was replaced by Powell.<ref name=Wakeman273282 /><ref name=Silverman />{{rp|122–126}} In the film, Powell's love affair with a wealthy Englishman ([[Peter Lawford]]) threatens to ruin the brother-sister act, while Astaire finds his own romance with ([[Sarah Churchill (actress)|Sarah Churchill]]). The film is loosely based on Astaire's real-life career with his sister and early dancing partner [[Adele Astaire]], who retired after marrying an English lord in 1932. The film contains one of Astaire's most famous dance sequences: the "[[You're All the World to Me]]" number in which Astaire defies gravity by dancing first on the walls and then on the ceiling. The shot was achieved by building the set inside a rotating reinforced-steel cylindrical chamber with the camera attached to the cylinder. Both Astaire and the film's lyricist [[Alan Jay Lerner]] claimed that they thought of the idea.<ref name=Silverman/>{{rp|131–132}} The film included music by Lerner and [[Burton Lane]] and was released in 1951.
+
+Later in 1951 Donen made ''[[Love Is Better Than Ever]]''. The film stars [[Larry Parks]], whose [[Academy Awards|Oscar]]–nominated performance in ''[[The Jolson Story]]'' had made him a star five years earlier. Parks plays a streetwise show business agent who finds himself compelled to marry an innocent young dance teacher played by [[Elizabeth Taylor]]. Donen and Kelly appear in cameo roles.<ref name=HessandDabholkar>{{Cite book|first1=Earl J.|last1=Hess|first2=Pratibha|last2=Dabholkar|title=Singin' in the Rain: The Making of an American Masterpiece|publisher=University Press of Kansas|year=2009|isbn=0-7006-1656-X |ref=harv}}</ref>{{rp|201}} The film remained unreleased for over a year after Parks admitted to the [[House Un-American Activities Committee]] that he had been a member of the [[Communist Party USA|Communist Party]] and named other members.<ref name=Wakeman273282 /><ref name=Silverman />{{rp|140}} The film was unsuccessful at the box office.<ref name=Wakeman273282 />
+
+===1952: ''Singin' in the Rain''===
+[[File:Singin Rain.jpg|thumb|Gene Kelly dancing while singing the title song "Singin' in the Rain", which took several months to choreograph]]
+In 1952 Kelly was at the height of his fame after the release of ''[[An American in Paris (film)|An American in Paris]]''. He then re-teamed with Donen to make ''[[Singin' in the Rain]]'', which would become one of the most highly praised films of all time. The film was produced by Freed, written by Comden and Green, photographed by Harold Rosson and starred Kelly, [[Debbie Reynolds]], [[Donald O'Connor]] and [[Jean Hagen]].<ref name=HessandDabholkar/>{{rp|2}}
+
+Freed wanted to make a musical using old songs that he and composer [[Nacio Herb Brown]] had written in the late 1920s and early 1930s.<ref name=HessandDabholkar/>{{rp|2}} He hired Comden and Green to write a script, with Donen and Kelly involved from the early development stages.<ref name=HessandDabholkar />{{rp|28}} Comden and Green struggled to find a suitable story for the film, but realized that since the songs reminded them of the time period in which they were written, the film could be a satire of Hollywood's transition from [[silent film]]s to "[[Sound film|talkie]]s" in the late 1920s. Comden, Green and Donen interviewed everyone at MGM who was in Hollywood during that period<ref name=HessandDabholkar/>{{rp|19}} and incorporated many of their anecdotes into the film, poking fun at both the first movie musicals and the technical difficulties with early sound films.<ref name=Silverman />{{rp|148–150}} The characters of producer R. F. Simpson and director Roscoe Dexter were loosely based on Freed and Berkeley.<ref name=Silverman />{{rp|162}} The scene where the audience at a movie theater laugh when Kelly's character utters the trite dialogue "I love you, I love you" was a reference to the notorious incident where silent film star [[John Gilbert (actor)|John Gilbert]] was similarly laughed at when uttering similar dialogue in the 1929 film ''[[His Glorious Night]]''.<ref name=HessandDabholkar />{{rp|65}} Donen and Kelly also made use of MGM's large collection of sets, props, costumes and outdated equipment from the 1920s.<ref name=HessandDabholkar />{{rp|80}}
+
+In the film, Don Lockwood (Kelly) and Lina Lamont (Hagen) are two silent film stars in Hollywood whose careers are threatened by the invention of "talkies" and must train their voices to better suit the new medium. With help from his best friend Cosmo Brown (O'Connor) and love interest Kathy Selden (Reynolds), Lockwood saves his career by turning his latest film into a musical and helps Selden become a movie star.<ref name=Wakeman273282 /> Kelly and Donen got along during the project. Donen found Kelly's "Broadway Melody" ballet sequence overlong, but Kelly overruled him.<ref name=Silverman />{{rp|164}} The ''Singin' in the Rain'' musical number took several months to choreograph, and Donen and Kelly found it necessary to dig holes in the cement to create puddles in the street.<ref>{{cite news |url=http://abcnews.go.com/blogs/entertainment/2012/08/stanley-donen-master-of-the-movie-musical/ |title=Stanley Donen: Master of the Movie Musical |accessdate=November 3, 2012 |publisher=ABC News |date=August 17, 2012}}</ref>
+
+The film was a hit when it was released in April 1952, earning over $7.6 million.<ref name=HessandDabholkar />{{rp|188}} Kelly's ''An American in Paris'' had been a surprise Best Picture winner at the [[24th Academy Awards|Oscars]] in March 1952, and MGM decided to re-release it. ''Singin' in the Rain'' got pulled from many theaters to showcase the older film, preventing it from making further profits.<ref name=Silverman />{{rp|169}} ''Singin' in the Rain'' was nominated for two [[25th Academy Awards|Academy Awards]]: [[Academy Award for Best Supporting Actress|Best Supporting Actress]] for Hagen and Best Original Score. Donald O'Connor won the [[Golden Globe Award for Best Actor – Motion Picture Musical or Comedy|Golden Globe Award for Best Actor in a Musical or Comedy]] and Comden and Green once again won the Writers Guild of America Award for [[Writers Guild of America Awards 1952|Best Written American Musical]].<ref name=HessandDabholkar />{{rp|187}} Initially the film received only moderate reviews from critics such as [[Bosley Crowther]]<ref name=Silverman />{{rp|141}}<ref name=HessandDabholkar />{{rp|183}} and did not begin to receive widespread acclaim until the late 1960s.<ref name=Silverman />{{rp|169}} One of its earliest supporters was critic [[Pauline Kael]], who said that it "is perhaps the most enjoyable of all movie musicals – just about the best Hollywood musical of all time."<ref name=Wakeman273282 /> It was re-released in 1975 to critical and popular success.<ref name=Silverman />{{rp|141}}<ref name=Casper />{{rp|55}} Among its many honors, ''Singin' in the Rain'' was included in the first group of films to be inducted into the [[National Film Registry]] at the [[Library of Congress]] in 1989 and has been included on [[Sight and Sound]]'s prestigious list of "Top Ten Films" twice, in 1982 and in 2002. [[Charlie Chaplin]] and [[François Truffaut]] were among its earliest fans,<ref name=Silverman />{{rp|169}} and [[Billy Wilder]] called the film "one of the five greatest pictures ever made."<ref name=Silverman />{{rp|146}}
+
+===1952–1955: ''Seven Brides for Seven Brothers'' and break with MGM===
+Now established as a successful film director, Donen continued his solo career at MGM with ''[[Fearless Fagan]]'' in 1952. Based on a true story, the film stars [[Carleton Carpenter]] as a GI who brings his tame lion with him when he joins the army. In 1953 Donen made the musical ''[[Give a Girl a Break]]''. The film stars Debbie Reynolds, [[Marge Champion]] and Helen Wood as three aspiring dancers competing for the lead in a new Broadway musical. [[Bob Fosse]], [[Gower Champion]] and [[Kurt Kasznar]] also appear, with music by Lane and [[Ira Gershwin]]. The most famous sequence is the "Give a Girl a Break" dance between Reynolds and Fosse. The scene was choreographed backwards and then played in reverse to create the illusion that the two are surrounded by hundreds of balloons that instantly appear at the touch of their fingers.<ref name=Silverman />{{rp|184}} Shooting the film became a bitter experience for Donen due to a major on-set fight over the film's choreography between Fosse and Gower Champion. The fight split the cast and crew with Reynolds and Marge taking Gower's side and Donen taking Fosse's side.<ref name=Silverman />{{rp|182}} The film was not well reviewed upon release, but its reputation has grown over the years.<ref name=Wakeman273282 />
+
+[[File:Seven brides seven brothers.jpg|thumb|left|160px|Theatrical poster for ''Seven Brides for Seven Brothers'', Donen's first major success as a solo director]]
+
+Donen solidified his solo career and scored another hit with the musical ''[[Seven Brides for Seven Brothers (film)|Seven Brides for Seven Brothers]]''.<ref name=Wakeman273282 /> Based on a short story by [[Stephen Vincent Benét]], the film had music by [[Saul Chaplin]] and [[Gene de Paul]], with lyrics by [[Johnny Mercer]] and choreography by [[Michael Kidd]]. Jane Powell plays Milly, an 1850s frontierswoman who marries Adam ([[Howard Keel]]) only hours after meeting him. When she returns with Adam to his log cabin in the Oregon backwoods, Milly discovers that her husband's six brothers are uncivilized and oafish. She makes it her mission to domesticate them and, upon Milly's sarcastic suggestion, the brothers kidnap six women from a neighboring town to marry them. The film was shot in the new [[CinemaScope]] format and is remembered for its dance sequences, particularly the "
+[[barn raising]] scene" in which architecture and construction become acrobatic ballet steps.<ref name=Wakeman273282 /> ''Seven Brides for Seven Brothers'' was one of the highest grossing films of 1954<ref name=Silverman />{{rp|197}} and appeared on many critics' 10 Best Films lists. It was nominated for five [[27th Academy Awards|Academy Awards]], including Best Picture and Best Music (Scoring of a Musical Picture), which it won.<ref name=Casper />{{rp|76}} Its success was a surprise to MGM, which had invested more money in two of its other 1954 musicals: ''[[Rose Marie (1954 film)|Rose Marie]]'' and ''[[Brigadoon (film)|Brigadoon]]'', starring Kelly.<ref name=Silverman />{{rp|197}} ''Seven Brides for Seven Brothers'' was more profitable than either of its rivals, as well as ''On the Town'' and ''Singin' in the Rain'', and its success was a major turning point for Donen's career.<ref name=Casper />{{rp|76}} The film was later criticized by novelist [[Francine Prose]], who described it as anti-woman, calling it "one of the most repulsive movies about men and women that has ever been made" and a musical about rape.<ref name=Silverman />{{rp|188}}
+
+Later in 1954 Donen made ''[[Deep in My Heart (1954 film)|Deep in My Heart]]'', a biography of the Hungarian-born American [[operetta]] composer [[Sigmund Romberg]] starring [[José Ferrer]]. The film included cameos by many MGM contract actors, including the only screen pairing of Gene Kelly and his brother Fred. Although it received mediocre reviews, Romberg's cult status and popularity helped make the film a hit financially.<ref name=Silverman />{{rp|202}}
+
+In 1955 Donen teamed up with Kelly for their third and final directorial collaboration. The musical ''[[It's Always Fair Weather]]'' was produced by Freed, written by Comden and Green and had music by [[André Previn]]. It starred Kelly, [[Dan Dailey]], [[Cyd Charisse]], Michael Kidd, and [[Dolores Gray]] and was shot in CinemaScope. Originally envisioned as a sequel to ''On the Town'', Kelly, Dailey and Kidd play three ex-GIs who reunite 10 years after World War II and discover that none of their lives have turned out quite how they had expected.<ref name=Wakeman273282 /> Kelly had approached Donen with this project as their next collaboration and at first Donen was reluctant to accept the offer now that he was an established director on his own. Their friendship deteriorated during production of the film<ref name=Wakeman273282 /> and Donen noted, "the atmosphere from day one was very tense and nobody was speaking to anybody."<ref name=Silverman />{{rp|211}} He has been quoted as saying it was a "one hundred percent nightmare" which was a "struggle from beginning to end."<ref name="Hess">{{cite book | title=Singin' in the Rain: The Making of an American Masterpiece | publisher=University Press of Kansas | author=Hess, Earl J; Dabholkar, Pratibha A. | year=2009 | pages=203–205 | isbn=0700617574}}</ref> Unlike their experience on ''On the Town'', MGM did not allow Donen and Kelly to shoot on location in New York.<ref name=Casper />{{rp|86}} ''It's Always Fair Weather'' was a moderately profitable film, but didn't approach ''On the Town'' or ''Singin' in the Rain'''s success. It was Donen's last film with Kelly or Freed.<ref name=Wakeman273282 /> After the film's completion he fulfilled his MGM contract agreement by working with other studios. His last project for MGM was completing the final four days of shooting on ''[[Kismet (1955 film)|Kismet]]'' in July 1955 for director [[Vincent Minnelli]], who had other commitments.<ref name=Casper />{{rp|94}}<ref>{{cite web |url=http://www.tcm.com/this-month/article/411149%7C97644/Kismet.html |title=Kismet (1955) |publisher=tcm.com |accessdate=December 28, 2011}}</ref>
+
+===1956–1959: director and independent producer===
+[[File:Funny Face 1957.jpg|thumb|right|165px|Theatrical poster for ''Funny Face'', Donen's first film after leaving MGM]]
+Donen's next film was at [[Paramount Pictures]] for producer [[Roger Edens]]. ''[[Funny Face]]'' contains four of the original [[George Gershwin|George]] and Ira Gershwin songs from the [[Funny Face (musical)|1927 Broadway musical of the same name]] that had starred Fred Astaire, although it is not an adaptation of that show. The film was loosely based on the life of fashion photographer [[Richard Avedon]], who was also the visual consultant and designed the opening title sequence for the film. It was written by [[Leonard Gershe]] and included additional music by Gershe and Edens.<ref name=Wakeman273282 /> Donen and Edens began pre-production at MGM, but had difficulty juggling Astaire and [[Audrey Hepburn]]'s Paramount contracts, the [[Warner Brothers]] – owned rights to the Gershwin music that they wanted and their own MGM contracts. Eventually a deal was reached that both released Donen from his MGM contract and allowed him to make his next two films at Paramount and Warner Brothers respectively.<ref name=Silverman />{{rp|229}}  Astaire plays an aging fashion photographer who discovers the intellectual bohemian Hepburn at a used bookstore in [[Greenwich Village]] and turns her into his new model while falling in love with her in Paris.<ref name=Wakeman273282 /> Donen, Avedon and cinematographer [[Ray June]] collaborated to give the film an abstract, smokey look that resembled the fashion photography of the period despite protests by Paramount, which had recently spent a fortune developing the crisp [[VistaVision]].<ref name=Silverman />{{rp|231–233}} ''Funny Face'' was screened in competition at the [[1957 Cannes Film Festival]] and received good reviews from critics like Crowther.<ref name=Silverman />{{rp|241}} ''Sight and Sound'', in contrast, accused it of being anti-intellectual.<ref name=Casper />{{rp|104}}
+
+While in pre-production on ''Funny Face'', Donen received a letter from his old boss George Abbott inviting him to make a film version of his stage hit ''[[The Pajama Game]]'' at Warner Brothers. As part of the deal to secure the Gershwin music he wanted for ''Funny Face'', Donen was able to accept,<ref name=Silverman />{{rp|229}} and he and Abbott co-directed the film version in 1957.<ref name=Wakeman273282 /> ''[[The Pajama Game (film)|The Pajama Game]]'' stars [[Doris Day]] and [[John Raitt]], with music by [[Richard Adler]] and [[Jerry Ross (composer)|Jerry Ross]] and choreography by Bob Fosse. Raitt plays a plant supervisor at a nightwear factory who is in constant disputes with the plant's union organizer (Day), until they end up falling in love. The film was shot in six weeks.<ref name=Silverman />{{rp|248}} Donen described his working relationship with Abbott as relaxed, stating that "[Abbott would] play tennis, come watch on the set for an hour, then watch the rushes, then go home."<ref name=Silverman />{{rp|247}} It was only a modest financial success,<ref name=Wakeman273282 /> but [[Jean-Luc Godard]] praised it in a review and declared "Donen is surely the master of the movie musical. ''The Pajama Game'' exists to prove it."<ref name=Silverman />{{rp|259}}
+
+Donen's next film was ''[[Kiss Them for Me (film)|Kiss Them for Me]]''. He was personally asked by [[Cary Grant]] to direct and began developing it while still under contract at MGM.<ref name=Silverman />{{rp|261}} With a plot that strongly resembles ''On the Town'', the film features Grant, [[Ray Walston]] and [[Larry Blyden]] as three navy officers on leave in San Francisco in 1944. Unlike ''On the Town'', ''Kiss Them for Me'' is a dark comedy that contrasts the officers' selfless heroism with their self-absorbed hedonism while on leave. The film was released in 1957 to mostly poor reviews.<ref name=Wakeman273282 /><ref name=Casper />{{rp|122}} It is also notable for being the fourth and final mainstream Hollywood film in which [[Jayne Mansfield]] would receive top billing, despite her role being a supporting part.<ref name=Wakeman273282 />
+
+After three films in 1957 Donen became an independent producer and director. He had reluctantly agreed to direct ''Kiss Them for Me'' on condition that [[20th Century Fox]] buy out his remaining contract with MGM.<ref name=Wakeman273282 /><ref name=Silverman />{{rp|263}} Now free from contractual obligations, he formed Grandon Productions with Grant and signed a distribution deal through Warner Brothers.<ref name=Silverman />{{rp|269}} Donen would self-produce nearly all of his films for the rest of his career, sometimes under the name "Stanley Donen Productions". Donen and Grant inaugurated their company in 1958 with ''[[Indiscreet (1958 film)|Indiscreet]]'', based on a play by [[Norman Krasna]] and starring Grant and [[Ingrid Bergman]]. Because of Bergman's schedule, the film was shot on location in [[London]] where, much like he had in his directorial debut, Donen utilized such landmarks as the [[Leicester Galleries]], the [[Royal Opera House]] and the [[Garrick Club]]. Bergman plays a famous and reclusive actress who falls in love with the playboy-diplomat Grant, who tells her that he is already married and that his wife refuses to divorce him. When Bergman discovers that he has been lying about having a wife, she concocts a charade with another man in order to win Grant's full affection. The film's most famous scene involves Donen's clever circumvention of the strict [[Production Code]]. In the scene, Grant is in Paris while Bergman is still in London and the two exchange pillow talk over the phone. Donen used a [[Split screen (filmmaking)|split screen]] of the two stars with synchronized movements to make it appear as though they were in the same bed together. The film was a financial and critical success,<ref name=Casper />{{rp|131}} and Donen was compared to such directors as [[Ernst Lubitsch]] and [[George Cukor]].<ref name=Wakeman273282 />
+
+Donen briefly returned to the musical genre in 1958 with ''[[Damn Yankees (film)|Damn Yankees!]]'', based on George Abbott's [[Damn Yankees|Broadway hit]]. He again co-directed with Abbott in the same hands-off collaboration as their first film.<ref name=Silverman />{{rp|252}} Like ''The Pajama Game'' the film includes music by Adler and Ross and choreography by Fosse. It starred [[Tab Hunter]], [[Gwen Verdon]], and Ray Walston. ''Damn Yankees!'' is an adaptation of the [[Faust]] legend about a fan of the baseball team the [[Minnesota Twins|Washington Senators]] who mentions that he would sell his soul to give the losing team a good hitter. Walston plays the Brooks Brothers-attired Devil who grants the fan his wish and transforms him into the muscular young hitter Joe Hardy (Hunter).<ref name=Wakeman273282 /> Donen was able to shoot three real Senator-[[New York Yankees|Yankee]] games on location with as many as seven hidden cameras.<ref name=Casper />{{rp|134}} The low-budget film was a moderate financial success and received good reviews.<ref name=Casper />{{rp|140}} It was also Donen's last musical film for many years.
+
+===1960–1969: England===
+After ''Indiscreet'' Donen made England his home until the early 1970s.<ref name=Silverman />{{rp|274}} Musicals' waning popularity caused Donen to focus on comedy films. He observed that his "London base afforded me the advantage of being away from the Hollywood rat race. Just going your own way in spite of whatever anyone else is doing or in spite of what you've done already was satisfying. I also had the advantage of the European influence: their way of looking at life, of making movies."<ref name=Wakeman273282 /> While in England in the early 1960s Donen was praised as an early influence on the then-emerging [[British New Wave]] film movement.<ref name=Casper />{{rp|180}}
+
+In the late 1950s Donen signed a non-exclusive, three film deal with Columbia Pictures.<ref name=Silverman />{{rp|277}} His first film under this contract was ''[[Once More, with Feeling!]]'' in 1960. Adapted by [[Harry Kurnitz]] from his own stage play, the film was shot in Paris and starred [[Yul Brynner]] and [[Kay Kendall]]. Brynner plays a tyrannical orchestra conductor whose mistress (Kendall) grows tired of his tantrums and plots to marry him in order to quickly divorce him for his money. Kendall was terminally ill with [[leukemia]] during the shoot and died before its release. The film was not successful financially or critically.<ref name=Wakeman273282 />
+
+Donen quickly re-teamed with Brynner and Kurnitz for the film ''[[Surprise Package (film)|Surprise Package]]'', also released in 1960. In this film Brynner plays an American gangster who is deported to the Greek island of [[Rhodes]]. [[Mitzi Gaynor]] plays the "surprise package" who is sent to the island to appease Brynner, and [[Noël Coward]] plays the King of Rhodes whom Brynner plots to dethrone. The film was not a financial success, and Donen stated that it was made because he "desperately needed money for personal reasons&nbsp;... it was one of the few times I've made a movie for money."<ref name=Casper />{{rp|155}} These were the only two films that Donen completed for his Columbia contract. The studio cancelled the deal after their poor box office results, and Donen was unable to produce the projects that he was pursuing at that time: playwright [[Robert Bolt]]'s ''[[A Man for All Seasons]]'' and ''[[Elizabeth Kata|A Patch of Blue]]'', both of which became successful films by other directors.<ref name=Silverman />{{rp|277–278}}
+
+Grandon Productions produced Donen's next film: ''[[The Grass Is Greener]]'', released through [[Universal Pictures]] in 1960. Cary Grant and [[Deborah Kerr]] play the earl and countess of a large estate in England who are forced to permit guided tours of their mansion in order to help their financial problems. [[Robert Mitchum]] plays an American oil tycoon who falls in love with Kerr and [[Jean Simmons]] plays an eccentric American heiress who is Grant's former girlfriend. The film was a financial disappointment in the US, but successful in England where the original stage version had been a [[West End theatre|West End]] hit.<ref name=Wakeman273282 />
+
+[[File:Cary Grant and Audrey Hepburn in Charade.jpg|thumb|left|275px|Cary Grant and Audrey Hepburn in ''Charade'', Donen's most financially successful film]]
+
+In 1963 Donen made one of his most praised films: ''[[Charade (1963 film)|Charade]]'', starring Cary Grant, Audrey Hepburn, [[Walter Matthau]], [[James Coburn]], [[George Kennedy]] and [[Ned Glass]]. Donen has said that he had "always wanted to make a movie like one of my favorites, [[Alfred Hitchcock|Hitchcock]]'s ''[[North by Northwest]]''"<ref name=Casper />{{rp|166}} and the film has been referred to as "the best Hitchcock movie that Hitchcock never made."<ref>{{cite web |url=http://decentfilms.com/sections/reviews/charade.html | title=Charade (1963) |accessdate=December 28, 2011}}</ref> ''Charade'' was produced by Stanley Donen Productions,<ref name=Silverman />{{rp|288}} released through Universal and adapted by [[Peter Stone]] from his own novel. Reggie Lampert (Hepburn) discovers that her husband has been murdered and (at least) three sinister men are all searching for the $250,000 in gold that he had hidden somewhere. Peter Joshua (Grant) befriends Reggie and helps her fight off the three thugs while the two begin to fall in love, and in the end no one is quite who they seem to be. The film was released in December 1963, only two weeks after the [[Assassination of John F. Kennedy|assassination of US President John F. Kennedy]], and the word "assassinate" had to be [[Dubbing (filmmaking)|redubbed]] twice.<ref name=Silverman />{{rp|292–293}} It was Donen's most financially successful film<ref name=Silverman />{{rp|284}} and influenced a number of romantic comedy-thrillers released in the years following it.<ref name=Wakeman273282 /> Film critic [[Judith Crist]] called it a "stylish and amusing melodrama", and Pauline Kael said it had "a freshness and spirit that makes [it] unlike the films of any other country" and was "probably the best American film of [1963]".<ref name=Silverman />{{rp|294}} In 2002 it was remade as ''[[The Truth About Charlie]]'', directed by [[Jonathan Demme]].
+
+In 1966 Donen made another Hitchcock-inspired film: ''[[Arabesque (1966 film)|Arabesque]]'', starring [[Gregory Peck]] and [[Sophia Loren]]. The film was written by Julian Mitchell and Stanley Price, with an uncredited rewrite by Peter Stone.<ref name=Silverman />{{rp|294}} Peck plays an American professor at [[Oxford University]] who is an expert in ancient hieroglyphics. He is approached by a Middle Eastern prime minister to investigate an organization that is attempting to assassinate him and uses hieroglyphic codes to communicate. The investigation leads Peck to one mystery after another, often involving the prime minister's mysterious mistress (Loren). The film was Donen's second consecutive hit.<ref name=Silverman />{{rp|294}}
+
+In 1967 Donen made ''[[Two for the Road (1967 film)|Two for the Road]]'', starring Audrey Hepburn and [[Albert Finney]] with supporting roles by [[Eleanor Bron]], [[William Daniels]], and [[Jacqueline Bisset]] early in her career. The film was conceived by Donen and written by novelist [[Frederic Raphael]], who was nominated for an Academy Award.<ref name=Wakeman273282 /> It has been called one of Donen's most personal films, "with glints of passion never disclosed before", and "a veritable textbook on film editing."<ref name=Wakeman273282 /> The film's complicated and non-linear story is about the 12-year relationship between Hepburn and Finney over the course of four separate (but interwoven) road trips that they take together throughout the years in the south of France. It was moderately successful at the box office while the critical reception was extremely mixed.<ref name=Casper />{{rp|185}} Crowther called the film "just another version of commercial American trash."<ref name=Silverman />{{rp|308}} The film attained a cult following<ref name=Wakeman273282 /> and was cited as an early example of non-linear storytelling in film. It is also the film that Donen is most frequently asked about by film students.<ref name=Silverman />{{rp|299}}
+
+While living in England Donen became a fan of the British variety show ''[[Beyond the Fringe]]'' and wanted to work with the show's comedy duo [[Peter Cook]] and [[Dudley Moore]].<ref name=Wakeman273282 /> The resulting film was ''[[Bedazzled (1967 film)|Bedazzled]]'', an updated version of the Faust legend in 1967. It was written by Cook with music by Moore, and also starred Eleanor Bron and [[Raquel Welch]]. Moore plays a lonely young man whose unrequited love of his co-worker (Bron) drives him to attempt suicide. Just then the devil (Cook) appears and offers him seven wishes in exchange for his soul. The film's fun-loving association with the [[Swinging London]] of the 1960s divided critics, but [[Roger Ebert]] called its satire "barbed and contemporary&nbsp;... dry and understated," and overall, a "magnificently photographed, intelligent, very funny film."<ref>{{cite news |url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19680130/REVIEWS/801300301/1023 |title=Bedazzled |date=January 30, 1968 |publisher=The Chicago Sun-Times |accessdate=December 28, 2011 | work=Chicago Sun-Times}}</ref> On the other hand, [[Time Magazine|''Time'' magazine]] called it the feeblest of all known variations on the Faust theme.<ref name=Wakeman273282 /> The film was a hit<ref name=Silverman />{{rp|310}} and was especially popular among American college students.<ref name=Silverman />{{rp|317}} Donen considered it a favorite among his own films<ref name=Wakeman273282 /> and called it "a very personal film in that I said a great deal about what I think is important in life."<ref name=Casper />{{rp|191}} It was remade as ''[[Bedazzled (2000 film)|Bedazzled]]'' by director [[Harold Ramis]] in 2000.
+
+In 1969 Donen directed ''[[Staircase (film)|Staircase]]'', an adaptation of the autobiographical stage play by Charles Dyer with music by Moore. [[Rex Harrison]] and [[Richard Burton]] star as a middle-aged gay couple who run a London barber shop and live together in a "bad marriage".<ref name=Wakeman273282 /> The film was shot in Paris for tax purposes and was not a financial success. It received poor reviews upon release, but was reevaluated by film critic [[Armond White]] in 2007. He called the film "a rare Hollywood movie to depict gay experience with wisdom, humor and warmth", and "a lost treasure".<ref>{{cite news |url=http://www.nypress.com/article-16861-bosom-buddies.html | title=Bosom Buddies |date=July 25, 2007 |publisher=New York Press |accessdate=December 28, 2011}}</ref>
+
+===1970–2003: Later works===
+After Donen's marriage to Adelle Beatty ended, he moved back to Hollywood in 1970.<ref name=Casper />{{rp|203}} Producer [[Robert Evans (producer)|Robert Evans]] asked Donen to direct an adaptation of the beloved children's book ''[[The Little Prince]]''. Lyricist Alan Jay Lerner and composer [[Frederick Loewe]] wrote the music and screenplay and filming was done on location in Tunisia.<ref name=Wakeman273282 /> ''[[The Little Prince (1974 film)|The Little Prince]]'' stars Steven Warner in the title role, with [[Richard Kiley]], Bob Fosse, [[Gene Wilder]] and [[Donna McKechnie]]. It was Donen's first musical film since ''Damn Yankees!'' Although it contained very little dancing, Fosse choreographed his own dance scenes as the snake. Lerner stated that Donen "took it upon himself to change every tempo, delete musical phrases at will and distort the intention of every song until the entire score was unrecognizable".<ref>Lerner, Alan J.. ''The Street Where I Live'', Coronet Books, London, 1978, ISBN 978-0-340-25453-0, pp. 242</ref> It was released in 1974 and was a financial disaster.<ref name=Wakeman273282 />
+
+Donen's next film was ''[[Lucky Lady]]'', starring [[Liza Minnelli]], [[Gene Hackman]] and [[Burt Reynolds]]. Minnelli plays a Prohibition era bootlegger who smuggles alcohol from Mexico to California with the help of Hackman and Reynolds, who both compete for her affection. Donen has stated that he "really cared about [the film] and gave three years of my life to it&nbsp;... I think its a very good movie."<ref name=Casper />{{rp|220}} It went over budget and was unsuccessful at the box office. Most critics were unenthusiastic; however, [[Jay Cocks]] praised the film for having "the glistening surface and full-throttle frivolity that characterized Hollywood films in the 1930s."<ref name=Wakeman273282 />
+
+Nostalgia for old Hollywood movies would be a theme of Donen's next film: ''[[Movie Movie]]'', produced by [[Lew Grade]]'s [[ITC Entertainment]] and scripted by [[Larry Gelbart]]. The film is actually two shorter films presented as an old fashioned [[double feature]], complete with a fake movie trailer and an introduction by comedian [[George Burns]]. It starred [[George C. Scott]], [[Trish Van Devere]], [[Red Buttons]], Michael Kidd and [[Eli Wallach]] and premiered in competition at the [[29th Berlin International Film Festival]] in 1978. The first of the two films is ''Dynamite Hands'', a black and white tribute to boxing – morality films. The second film is ''Baxter's Beauties of 1933'', a tribute to the extravagant musicals of Busby Berkely.<ref name=Wakeman273282 /> Like Donen's previous two films, it was unsuccessful both financially and critically.<ref name=Casper />{{rp|228}}
+
+In 1980 Donen made the [[science fiction]] film ''[[Saturn 3]]'', starring [[Kirk Douglas]], [[Farrah Fawcett]] and [[Harvey Keitel]]. Donen first read the script when its writer (and ''Movie Movie'''s set designer) [[John Barry (set designer)|John Barry]] showed it to him, prompting Donen to pass it along to Lew Grade. Donen was initially hired to produce, but Grade asked him to complete the film when first-time director Barry was unable to direct.<ref name=Casper />{{rp|228}} According to Donen "only a tiny bit of what Barry shot ended up in the finished film."<ref name=Casper />{{rp|228}} It was a critical and financial disaster<ref name=Wakeman273282 /> and initially Donen did not want to be credited as director.<ref name=Casper />{{rp|233}} In the early 1980s Donen was attached to direct an adaptation of [[Stephen King]]'s ''[[The Dead Zone (novel)|The Dead Zone]]'' and worked with writer [[Jeffrey Boam]] on the script. Donen eventually dropped out of the project and [[David Cronenberg]] directed the [[The Dead Zone (film)|film]] a few years later. Boam stated that Donen was initially attracted to making the film because he wanted to "connect with contemporary youthful audiences" and that the script that they worked on together was "very close to the script that David wound up making."<ref>{{cite news | url =http://www.assignmentx.com/2013/exclusive-interview-the-last-crusade-of-screenwriter-jeffrey-boam/ |title=Exclusive Interview: The Last Crusade of Screenwriter Jeffrey Boam |accessdate=March 5, 2013 |publisher=assignmentx.com |date=November 2, 2000}}</ref>
+
+Donen's last theatrical film was the [[Age disparity in sexual relationships|May – December romance]] ''[[Blame It on Rio]]'' in 1984. The film is a remake of the 1977 [[Claude Berri]] film ''Un moment d'égarement''<ref name=Silverman />{{rp|363}} and was written by Gelbart and Charlie Peters. It stars [[Michael Caine]], [[Joseph Bologna]], [[Michelle Johnson (actress)|Michelle Johnson]], [[Valerie Harper]] and [[Demi Moore]] and was shot on location in [[Rio de Janeiro]]. Caine and Bologna play wealthy executives on vacation with their families in Rio, where Caine has an affair with Bologna's teenage daughter (Johnson). It received poor reviews, but was a modest success financially.<ref name=Wakeman273282 />
+
+In 1986 Donen produced the televised ceremony of the [[58th Academy Awards]], which included a musical performance of the song "Once a Star, Always a Star" with [[June Allyson]], [[Leslie Caron]], Marge Champion, Cyd Charisse, [[Kathryn Grayson]], Howard Keel, Ann Miller, Jane Powell, Debbie Reynolds, and Esther Williams. Also in 1986 Donen directed a musical sequence for an [[Big Man on Mulberry Street|episode]] of the popular TV series ''[[Moonlighting (TV series)|Moonlighting]]'' and directed the music video for [[Lionel Richie]]'s song "[[Dancing on the Ceiling (Lionel Richie song)#Music video|Dancing on the Ceiling]]".<ref name=Silverman />{{rp|336–337}} In 1989 Donen was awarded an Honorary Doctorate in Fine Arts from the University of South Carolina. In his commencement address Donen stated that he thought he was unique in being the first tap dancer to be a doctor and then tap danced for the graduates.<ref name=Silverman />{{rp|333–334}} At around the same time Donen taught a seminar on film musicals at the [[Sundance Institute]] at the request of [[Robert Redford]].<ref name=Silverman />{{rp|338}}
+
+In 1993 Donen was preparing to produce and direct a movie musical adaptation of [[Robert Louis Stevenson]]'s ''[[Dr. Jekyll and Mr. Hyde]]'' starring [[Michael Jackson]]. After allegations that Jackson had molested young boys at his Neverland ranch became a tabloid scandal, the project was abandoned.<ref name=Silverman />{{rp|337}} Later that year Donen directed a stage version of ''[[The Red Shoes (musical)|The Red Shoes]]'' at the George Gershwin Theater. He replaced the original director Susan Schulman just six weeks before the show opened. It closed after four days.<ref name=Silverman />{{rp|337–338}} In 1998 Donen was awarded an Honorary Academy Award "in appreciation of a body of work marked by grace, elegance, wit and visual innovation." In his acceptance speech he danced with his Oscar statue while singing [[Irving Berlin]]'s "[[Cheek to Cheek]]", a song first popularized by his boyhood idol Fred Astaire. [[Martin Scorsese]] presented the award and created a montage of Donen's films for the show.<ref name="Out to Lunch with Stanley Donen"/>
+
+Donen's final television film was the [[television film|made-for-TV movie]] ''[[Love Letters (1999 film)|Love Letters]]'', which aired on [[American Broadcasting Company|ABC]] in April 1999. The film starred [[Steven Weber (actor)|Steven Weber]] and [[Laura Linney]] and was based on the [[Love Letters (play)|play]] by [[A.R. Gurney]]. Weber plays a successful US Senator who finds out that his long lost love (Linney) has recently died. The two had only corresponded through mail over the years, and Weber remembers Linney through his collection of old love letters. Donen had wanted to make a theatrical film version of the play, but was unable to secure financing from any major studio and instead took the project to ABC.<ref>{{cite news |url=http://www.nydailynews.com/archives/nydn-features/love-letters-life-article-1.830120 |title='LOVE LETTERS' COMES TO LIFE |accessdate=December 29, 2011 |publisher=New York Daily News |date=November 4, 1999}}</ref> In 2002 Donen directed [[Elaine May]]'s musical play ''Adult Entertainment'' starring [[Danny Aiello]] and [[Jeannie Berlin]] in [[Stamford, Connecticut]].<ref>{{cite news | url = http://www.nytimes.com/2002/12/12/theater/theater-review-is-she-a-serious-actress-xxxtremely.html?n=Top%2fReference%2fTimes%20Topics%2fSubjects%2fT%2fTheater |title=THEATER REVIEW; Is She a Serious Actress? XXXtremely |accessdate=December 28, 2011 |publisher=The New York Times |date=December 12, 2002}}</ref>
+
+==Legacy==
+[[File:Singin' in the Rain trailer.jpg|thumb|right|Kelly, Reynolds and O'Connor in the opening titles of ''Singin' in the Rain'']]
+During his career Donen's biggest rival was Vincent Minnelli, director of such films as ''[[Meet Me in St. Louis]]'', ''[[The Band Wagon]]'', ''An American in Paris'', and ''[[Gigi (1958 film)|Gigi]]''. Like Donen, Minnelli was a contract director at MGM who was most famous for the musicals he made in the Freed Unit. Film scholars have often compared the work of the two directors. According to Donen biographer Stephen Silverman, critics tend to "express a distinct preference for Donen's bold, no-nonsense style of direction over Minnelli's Impressionist visual palette and Expressionist character motivations", while most film directors are said to prefer Minnelli's work.<ref name=Silverman />{{rp|191–192}} Michael Kidd, who worked with both directors early in his career, describes Minnelli as being much less open to collaborative suggestions than Donen. Film critics point out that the two directors' camera work differs in that Minnelli often used forward and backwards tracking shots while Donen preferred horizontal tracking shots and crane shots, with critics considering Donen's approach to be better suited for dance sequences.<ref name=Silverman />{{rp|191–192}}
+
+Not all film critics praise Donen. [[David Thomson (film critic)|David Thomson]] dismisses most of his later comedy films, but praises him for leading "the musical in a triumphant and personal direction: out of doors&nbsp;... Not even Minnelli can rival the fresh-air excitement of such sequences. And few can equal his integration of song, dance and story."<ref name=Thomson274>{{cite book |last=Thomson |first=David |title=The New Biographical Dictionary of Film |edition=5 |publisher=Alfred A. Knopf |year=2010 |isbn=0-307-27174-9 |page=274}}</ref> [[Andrew Sarris]] dismisses Donen as being without a personal style of his own and as being dependent upon his collaborators on his better films.<ref name=Silverman />{{rp|311–312}} Debbie Reynolds downplayed his contributions to ''Singin' in the Rain'', stating that "Stanley just operated the camera, because Stanley didn't dance."<ref name=Silverman />{{rp|182–183}}
+
+Among Donen's admirers are film directors [[Pedro Almodóvar]],<ref>{{cite news |last=Abraham |first=Raphael |title=Tea with the FT: Pedro Almodóvar |url=http://www.ft.com/cms/s/2/568f623a-8f4e-11e4-b080-00144feabdc0.html#axzz3PC6I7l6X |publisher=''The Financial Times'' |date=January 2, 2015 |accessdate=January 18, 2015}}</ref> [[Lindsay Anderson]],<ref name=Silverman />{{rp|317}} Charlie Chaplin,<ref name=Silverman />{{rp|169}} [[Damien Chazelle]],<ref>{{cite news |last=Nuc |first=Olivier |title=Damien Chazelle, réalisateur sur mesure |url=http://www.lefigaro.fr/cinema/2014/12/23/03002-20141223ARTFIG00279-damien-chazelle-realisateur-sur-mesure.php |publisher=''Le Figaro'' |date=December 23, 2014 |accessdate=January 18, 2015}}</ref> [[Jules Dassin]],<ref name=Silverman />{{rp|165}} [[William Friedkin]],<ref>{{cite news |url=http://www.vulture.com/2013/05/william-friedkin-interview.html |title=Director William Friedkin on Rising and Falling and Rising in the Film Industry |date=March 5, 2013 |publisher=vulture.com |accessdate=March 5, 2013}}</ref> Jean-Luc Godard,<ref name=Silverman />{{rp|259}} [[Stanley Kubrick]],<ref name=Silverman />{{rp|316}} [[Karel Reisz]],<ref name=Silverman />{{rp|55}} Martin Scorsese, François Truffaut,<ref name=Silverman />{{rp|317}} and [[Edgar Wright]].<ref>{{cite news |url=http://www.smh.com.au/entertainment/movies/a-middleaged-boys-own-tale-20130802-2r3ww.html |title=A middle-aged boys' own tale |date=March 8, 2013 |publisher=The Sydney Morning Herald |accessdate=October 8, 2013}}</ref> Donen's skill as a director has been praised by such actors as Cyd Charisse<ref name=Silverman />{{rp|209}} and Audrey Hepburn.<ref name=Silverman />{{rp|xi – xv}} Donen's work influenced later directors of film musicals [[Bill Condon]], [[Rob Marshall]]<ref>{{cite news |url=http://www.nydailynews.com/blogs/showandtell/2011/04/stanley-donen-to-be-honored-at-new-york-israel-film-fest |title=Stanley Donen to be honored at New York Israel Film Fest |date=April 22, 2011 |publisher=New York Daily News |accessdate=December 28, 2011}}</ref> and [[Baz Luhrmann]]<ref>''Singin' In The Rain: 60th Anniversary Collector's Edition'' DVD. Special Features. Baz Luhrmann Commentary. 2012. Warner Home Video.</ref> The 2011 film ''[[The Artist (film)|The Artist]]'' pays tribute to ''Singin' in the Rain'' (among other films),<ref>{{cite news |url=http://bostonherald.com/entertainment/movies/reviews/view.bg?articleid=1390590&srvc=next_article |title='Artist' paints a glorious portrait of old Hollywood |date=December 23, 2011 |publisher=The Boston Herald |accessdate=December 28, 2011}}</ref> and Donen praised the film after attending its Los Angeles premiere.<ref>{{cite news |url=http://www.showbiz411.com/2011/11/18/the-artist-gets-thumbs-up-from-hollywood-vets |title="The Artist" Gets Thumbs Up from Hollywood Vets |date=November 18, 2011 |publisher=showbiz411.com |accessdate=December 28, 2011}}</ref>
+
+==Cine-dance==
+Donen made a host of critically acclaimed and popular films. His most important contribution to the art of film was helping to transition movie musicals from the realistic backstage settings of filmed theater to a more cinematic form that integrates film with dance. Eventually film scholars named this concept "cine-dance" (a dance that can only be created in the medium of film), and its origins are in the Donen/Kelly films.<ref name=HessandDabholkar />{{rp|34}}  Film scholar Casey Charness described "cine-dance" as "a melding of the distinctive strengths of dancing and filmmaking that had never been done before" and adds that Donen and Kelly "seem to have elevated Hollywood dance from simplistic display of either dancing or photographic ability into a perception that incorporates both what the dancer can do and what the camera can see&nbsp;... [They] developed a balance between camera and dancer that&nbsp;... encouraged both photographer and choreographer to contribute significantly to the creation and final effectiveness of dance."<ref name=Charness>{{Cite book |first=Casey |last=Charness |title=Hollywood cine-dance: a description of the interrelationship of camerawork and choreography in films by Stanley Donen and Gene Kelly |publisher=New York University |year=1977 |isbn=0632043792}}</ref>{{rp|6}}
+
+When "talkies" began to gain momentum in the film industry, the Hollywood studios recruited the best talent from Broadway to make musical films. These films included ''[[Broadway Melody]]'', which was promoted as the first "all singing, all talking, all dancing" film and had music by Arthur Freed and Nacio Herb Brown, and Berkley's ''[[42nd Street (film)|42nd Street]]'', his first major success. These films established the [[backstage musical]], a subgenre in which the plot revolves around a stage show and the people involved in putting on the show. These first musicals set the standard for the genre, placing their musical numbers either within the context of a stage performance or tacked on and gratuitous, without furthering the story or developing the characters.<ref name=HessandDabholkar />{{rp|4–12}} Donen stated that he disliked them and that his own films were "a reaction against those backstage musicals."<ref name=Casper />{{rp|221}} Donen credits producer Freed as the driving force behind the transition, adding that Freed "had some sort of instinct to change the musical from a backstage world into something else. He didn't quite know what to change it into, just that it had to change."<ref name=Casper />{{rp|8}} Kelly stated that Donen was the only person he knew that understood how musicals could progress and better suit the film medium.<ref name=Hirschhorn />{{rp|156}}
+
+===Techniques===
+Donen and Kelly's films set new standards for special effects, animation, editing and cinematography. Their first collaboration ''Cover Girl'' firmly established their intentions, particularly in the "Alter Ego" dance sequence. It employed a special effect that could not be achieved with a live take, while advancing the story and revealing the character's inner conflict. Donen and Kelly tested the limits of film's potential with the Jerry the Mouse dance in ''Anchors Aweigh'', one of the time's most sophisticated combinations of live action and animation.
+
+By the time they made ''Take Me Out to the Ball Game'' they had perfected what Martin Rubin called an "indication of changing trends in musical films" which differed from the Berkeley spectacles towards "relatively small-scale affairs that place the major emphasis on comedy, transitions to the narrative, the cleverness of the lyrics and the personalities and performance skills of the stars, rather than on spectacle and group dynamics."<ref name=Silverman />{{rp|92}} Rubin credits Donen and Kelly with making musicals more realistic, compared to Berkeley's style of a "separation of narrative space from performance space"<ref name=Silverman />{{rp|94}} ''Take Me Out to the Ball Game'' was Berkeley's last film as a director and today can be viewed as a passing of the torch. Both Donen and Kelly found working with Berkeley difficult,<ref name=Silverman />{{rp|92}}<ref name=HessandDabholkar />{{rp|37}} and the director left before the film's completion. When Donen and Kelly directed their own work, they were able to realize their ambitions.
+
+When Donen and Kelly released ''On the Town'', they boldly opened the film with an extravagant musical number shot on location in New York with fast-paced editing and experimental camera work, thus breaking from the conventions of that time. Their most celebrated film ''Singin' in the Rain'' is appropriately a musical about the birth of the movie musical. The film includes a musical montage that Donen says was "doing Busby Berkeley here, only we're making fun of him."<ref name=Silverman />{{rp|161}} Charness stated that ''Singin' in the Rain'''s references to Berkeley "marks the first time the Hollywood musical had ever been reflexive, and amused at its own extravagant non-dancing inadequacy, at that" and that Berekeley's "overhead kaleidoscope floral pattern is predominantly featured, as is the line of tap-dancing chorines, who are seen only from the knees down."<ref name=Charness />{{rp|100}} Charness also stated that the film's cinematography "moves the audience perspective along with the dance."<ref name=Charness />{{rp|98–99}}
+
+Charness singled out the film's famous title number and states, "it's a very kinetic moment, for though there is no technically accomplished dance present, the feeling of swinging around in a circle with an open umbrella is a brilliantly apt choice of movement, one that will be readily identifiable by an audience which might know nothing kinesthetically of actual dance&nbsp;... Accompanying this movement is a breathless pullback into a high crane shot that takes place at the same time Kelly is swinging into his widest arcs with the umbrella. The effect is dizzying. Perhaps the finest single example of the application of camera knowhow to a dance moment in Donen-Kelly canon."<ref name=Charness />{{rp|107}} He also complimented Donen's direction in the "Moses Supposes" number, including "certain camera techniques which Donen had by now formularized&nbsp;... the dolly shot into medium shot to signify the ending of one shot and the beginning of another."<ref name=Charness />{{rp|103}} Although Donen credits earlier musicals by [[René Clair]], Lubitsch and Astaire as "integrated",<ref name=Silverman />{{rp|119}} he also states that "in the early musicals of Lubitsch and Clair, they made it clear from the beginning that their characters were going to sing operatically. Gene and I didn't go that far. In 'Moses Supposes', he and Donald sort of talk themselves into a song."<ref name=Silverman />{{rp|161}} Donen's ''Royal Wedding'' and ''Give A Girl A Break'' continued to use special effect shots to create elaborate dance sequences, and Kelly used even more sophisticated animation in his film ''Invitation to Dance''.
+
+==Relationship with Gene Kelly==
+Donen's relationship with Gene Kelly was complicated and he often spoke bitterly about his former friend and mentor decades after they worked together. Kelly was never explicitly negative about Donen in later years.<ref name=HessandDabholkar />{{rp|204}} However, Donen's biographer Stephen Silverman has asserted that Kelly's comments were often condescending and demonstrated "a long-standing attempt to diminish Donen's contributions to their collective work."<ref name=Silverman />{{rp|48}} The reasons for their conflict were both personal (both men married dancer [[Jeanne Coyne]]) and professional (Donen always felt that Kelly did not treat him as an equal). They disagreed over which of them deserved more credit for their joint projects. Between 1944 and 1955 Donen and Kelly co-directed three films and choreographed (and unofficially co-directed) the dance sequences in four other films.
+
+===Jeanne Coyne===
+[[File:Kelly in rehearsal.jpg|thumb|left|150px|Jeanne Coyne (far left) in 1958, two years before she married Kelly.]]
+Coyne was a professional dancer, choreographer and actress born in 1923. At age 7 Coyne enrolled in the Gene Kelly Studio of Dance in [[Johnstown, Pennsylvania]] and developed a schoolgirl crush on him<ref name=Yudkoff>{{Cite book |last=Yudkoff |first=Alvin |title=Gene Kelly: A Life of Dance and Dreams |publisher=Back Stage Books |year=1999 |isbn=0-8230-8813-8}}</ref>{{rp|29}} that lasted her entire life.<ref name=Silverman />{{rp|97}}<ref name=HessandDabholkar />{{rp|40}} In her twenties she pursued a dancing career in New York City and was cast in ''Best Foot Forward'', where she reconnected with Kelly and first met Donen.<ref name=Yudkoff />{{rp|89}} Like both men, she moved to Hollywood in the early 1940s<ref name=Yudkoff />{{rp|91}} and worked as a dancer and choreographer at MGM.<ref name=Silverman />{{rp|97}} She and Donen eloped in 1948,<ref name=Yudkoff />{{rp|188}} but their marriage became strained.<ref name=Yudkoff />{{rp|137}} They separated in 1950 and divorced in 1951.<ref name=Silverman />{{rp|97}} During their marriage Donen confided to Coyne his frustration with Kelly while making ''On the Town'', only to find that she immediately took Kelly's side.<ref name=Yudkoff />{{rp|202}} Coyne worked as Kelly's personal assistant on such films as ''On the Town'', ''[[Summer Stock]]'' and ''An American in Paris'' while married to Donen and continued assisting Kelly until her death. Rumors held that Kelly and Coyne were having an affair both during and after Coyne's marriage to Donen,<ref name=Yudkoff />{{rp|137}} as well as that Donen was in love with Kelly's first wife [[Betsy Blair]].<ref name=Yudkoff />{{rp|91}}{{rp|194}} Blair's autobiography makes no mention of an affair between Kelly and Coyne nor of any romantic relationship with Donen. However, she does state that Donen's marriage to Coyne was unhappy<ref name=Blair>{{Cite book |last=Blair |first=Betsy |title=The Memory of All That |publisher=Alfred A. Knopf |year=2003 |isbn=0-375-41299-9}}</ref>{{rp|165}} and that Donen was very close to both her and Kelly.<ref name=Blair />{{rp|114–115}}
+
+Kelly always thought that Donen's impulsive marriage to Coyne showed an emotional immaturity and lack of good judgment,<ref name=Yudkoff />{{rp|194}} and in an interview Kelly stated that "Jeannie's marriage to Stanley was doomed from the start. Because every time Stanley looked at Jeannie, he saw Betsy, whom he loved; and every time Jeannie looked at Stanley, I guess she saw me. One way or another it was all pretty incestuous."<ref name=Hirschhorn />{{rp|235}} Kelly's marriage to Blair ended in 1957, after which he moved in with Coyne. They married in 1960 and had two children together.<ref name=Yudkoff />{{rp|235–236}} Coyne was diagnosed with leukemia and died in 1973.<ref name=Yudkoff />{{rp|253}} In November 2012 the musical ''What A Glorious Feeling'' depicted both the making of ''Singin' in the Rain'' and the love triangle between Donen, Kelly and Coyne.<ref>{{cite news |url=http://centralpa.broadwayworld.com/article/Riverside-Theatres-WHAT-A-GLORIOUS-FEELING-Opens-1030-20121012 |title=Riverside Theatre's WHAT A GLORIOUS FEELING Opens 10/30 |accessdate=March 11, 2012 |publisher=broadwayworld.com |date=December 10, 2012}}</ref><ref>{{cite news |url=http://brtstage.org/productions/what-glorious-feeling| title=What A Glorious Feeling |accessdate=March 11, 2012 |date=October 30, 2012}}</ref>
+
+===Professional conflict===
+Donen and Kelly first met during the Broadway production of ''Pal Joey'',<ref name=Silverman />{{rp|28}} and became collaborators and friends during the production of ''Best Foot Forward'' in 1941.<ref name=Silverman />{{rp|31}} Their relationship has been described as similar to that of the characters Don Lockwood and Cosmo Brown in ''Singin' in the Rain'', with Kelly as the star performer and Donen as his trusted sidekick.<ref name=Casper />{{rp|45}} Kelly described Donen as being like a son to him<ref name=Silverman />{{rp|48}} and Donen initially idolized Kelly, while still finding him to be "cold, egotistical and very rough."<ref name=Hirschhorn />{{rp|74}} Although Donen credited Kelly for "jump-starting his career as a filmmaker",<ref>{{cite news |url=http://www.boston.com/ae/movies/articles/2009/10/04/stanley_donen_visits_town_this_week_during_a_retrospective_at_harvard_film_archive/?page=1 |title=Like his films, Donen exudes style and wit |date=April 10, 2009 |publisher=Boston Globe |accessdate=December 28, 2011}}</ref> he also stated that MGM producer Roger Edens was his biggest promoter.<ref name=Silverman />{{rp|90}}
+
+Many people believe that Donen owed everything to Kelly, and Kelly biographer Clive Hirschhorn described Donen as having "no particular identity or evident talent&nbsp;... and was just a kid from the south who wanted to make it in show business."<ref name=HessandDabholkar />{{rp|40}} Donen stated that he moved to Hollywood of his own accord;<ref name=Silverman />{{rp|39}} other sources state that he followed Kelly, who then helped him get his first job.<ref name=HessandDabholkar />{{rp|40}} Kelly would sometimes embarrass and patronize Donen in public,<ref name=Yudkoff />{{rp|194}} such as berating him for not being able to keep up with his dance steps during the rehearsals for ''Cover Girl''.<ref name=Silverman />{{rp|62}}<ref name=Yudkoff />{{rp|134}} Donen has admitted that he did not consider himself to be a great performer.<ref name=Casper />{{rp|5}} Despite Donen's growing resentment of Kelly,<ref name=Yudkoff />{{rp|193–194}} he was able to contain his feelings and professional attitude during their collaborations.<ref name=Yudkoff />{{rp|202}} Tensions between the two exploded on the set of ''It's Always Fair Weather''. Donen had recently had hits with ''Deep in My Heart'' and ''Seven Brides for Seven Brothers'' and did not want to make another film with Kelly.<ref name=Silverman />{{rp|206}} They fought on the set for the first time, with the now more confident Donen asserting himself.<ref name=Yudkoff />{{rp|233–234}} Donen almost quit the film,<ref name=Silverman />{{rp|212}} and his friendship with Kelly ended.<ref name=Casper />{{rp|84}}
+
+Donen's success<ref name=Casper />{{rp|84}}<ref name=Yudkoff />{{rp|232}} contrasted with Vincent Minnelli's ''Brigadoon'' (which Kelly was closely involved in and had wanted to direct<ref name=Yudkoff />{{rp|231–232}}) flop, while Kelly's own ambitious film ''[[Invitation to the Dance (film)|Invitation to Dance]]'' was completed in 1954 but was not released by MGM until 1956, and was then financially unsuccessful<ref name=Silverman />{{rp|170–171}}<ref name=HessandDabholkar />{{rp|209}} despite having won the prestigious [[Golden Bear]] at the [[6th Berlin International Film Festival]].<ref name="Berlinale 1956">{{cite web |url=http://www.berlinale.de/en/archiv/jahresarchive/1956/03_preistr_ger_1956/03_Preistraeger_1956.html |title=Prizes & Honours 1956 |accessdate=January 5, 2012 |publisher=Berlin International Film Festival}}</ref> Kelly's problems at that time included an unsuccessful attempt to branch out into dramatic acting with ''[[The Devil Makes Three (film)|The Devil Makes Three]]'' and ''[[Seagulls Over Sorrento]]'', both of which flopped, as well as his collapsing marriage to Betsy Blair.<ref name=Casper />{{rp|84}} During the shooting of ''Seven Brides for Seven Brothers'', Donen often complained about his budgetary constraints preventing him from having better sets or the luxury of shooting on location, while ''Brigadoon'' had a much larger budget.<ref name=Silverman />{{rp|197}}
+
+In later years Donen would state that he had nothing nice to say about Kelly.<ref>{{cite news | url =http://www.pbs.org/wnet/americanmasters/episodes/gene-kelly/filmmaker-interview-robert-trachtenberg/518/ |title=Gene Kelly: Filmmaker Interview – Robert Trachtenberg |date=August 6, 2006 |publisher=PBS.org |accessdate=December 28, 2011}}</ref> At a 1991 tribute to Comden and Green, Kelly said in a public speech that Donen "needed [him] to grow up with" but added "I needed Stanley at the back of the camera."<ref name=Silverman />{{rp|214}} He also described Donen as being thought of as his whipping-boy at MGM.<ref name=Hirschhorn />{{rp|156}} Although Donen often complained that Kelly never gave him enough credit for their work, Kelly did credit him for the Jerry the Mouse<ref name=Yudkoff />{{rp|146}} and "Alter Ego" dance sequences.<ref name=Yudkoff />{{rp|134}} In 1992 Donen said "I'm grateful to him, but I paid back the debt, ten times over. And he got his money's worth out of me."<ref name=Silverman />{{rp|213}} Betsy Blair claimed to be "surprised and bemused" about Donen's bitterness towards Kelly in later interviews.<ref name=Blair />{{rp|116}}
+
+===Directorial careers===
+The relative importance of the two men's contributions has been debated by critics. David Thomson wrote about "the problem in assessing [Donen's] career: who did what in their collaboration? And what is Donen's real standing as a director?" Thomson remarked that "nothing in his career suggests that Gene Kelly could have filmed himself singing in the rain with the exhilaration of Donen's retreating crane shot."<ref name=Thomson274 /> However set reports state that Kelly rode the camera boom between shots and during camera set-ups.<ref name=HessandDabholkar />{{rp|207}} Donen stated that "by the time you hash it through from beginning to end ten million times, you can't remember who did what except in a few instances where you remember getting an idea."<ref name=Casper />{{rp|26}} Composer Saul Chaplin said that "Gene was the prime mover and Stanley an eager and talented pupil."<ref>Chaplin, Saul. ''The Golden Age of Movie Musicals and Me''. University of Oklahoma Press. 1994. ISBN 0-8061-2652-3. pp. 59.</ref> During the shooting of ''On the Town'', all memos and correspondence from MGM to the production were addressed exclusively to Donen and not to Kelly.<ref name=Silverman />{{rp|106}}
+
+However, actress [[Kathleen Freeman]] stated that when people visited set of ''Singin' in the Rain'' to relate their experiences during the silent era, they would ask to speak Kelly.<ref name=HessandDabholkar />{{rp|207}} ''Singin' in the Rain'' art director [[Randall Duell]] stated, "Gene ran the show. Stan had some good ideas and worked with Gene, but he was still the 'office boy' to Gene, in a sense, although Gene had great respect for him. But they made a good team, because they were very compatible."<ref name=HessandDabholkar />{{rp|42}} Kelly became heavily involved with the ''Singin' in the Rain'' script during its third draft, which was when its structure began to resemble the final version.<ref name=HessandDabholkar />{{rp|58–59}} Comparing Donen and Kelly's films as solo directors, Donen's were usually more critically acclaimed and financially successful than Kelly's films. Kelly's 1969 film ''[[Hello Dolly! (film)|Hello Dolly!]]'' was the most expensive musical ever made upon its release, and is credited with effectively killing the Hollywood musical.<ref name=Silverman/>{{rp|345}}
+
+==Personal life==
+[[File:Stanley Donen (left) interviewed by Mike Nichols.jpg|left|thumb|250px|Donen with [[Mike Nichols]] at a 2010 Lincoln Center retrospective]]
+Donen married and divorced five times and had three children. His first wife was dancer, choreographer and actress Jeanne Coyne. They married on April 14, 1948 and divorced in May 1951.<ref name=Silverman />{{rp|97}} Donen's second wife was actress [[Marion Marshall (actress)|Marion Marshall]], who had been the girlfriend and protégé of [[Howard Hawks]] and later married actor [[Robert Wagner]]. Donen and Marshall had two sons together: Peter Donen, born in 1953, and Joshua Donen, born in 1955. They provided the name of Cary Grant's character in ''Charade''. Donen and Marshall were married from 1952 until 1959. They had a lengthy custody battle over their two sons after Marshall married Wagner and Donen moved to England.<ref>Wagner, Robert. ''Pieces of My Heart – A Life''. New York: Harper Collins. 2008. ISBN 0-06-137332-X. pp. 174.</ref> Donen's third wife was Adelle, Countess Beatty. She had previously been the second wife of the 2nd Earl Beatty. They married in 1960, had one son (Mark Donen, born 1962), and lived together in London.<ref name=Silverman />{{rp|275–276}} They separated in 1969 before divorcing in 1971.<ref name=Silverman />{{rp|276}} Donen's fourth wife was American actress [[Yvette Mimieux]]. They were married from 1972 until 1985, but remained close friends after their divorce.<ref name=Silverman />{{rp|334}} Donen's fifth wife was Pamela Braden, thirty-six years his junior. Donen proposed to her four days after having met her. They were married from 1990 until 1994.<ref name=Silverman />{{rp|335}}
+
+In the early 1940s Donen dated actress [[Judy Holliday]] while working on Broadway.<ref name=Silverman />{{rp|262}} He also dated Elizabeth Taylor for a year between his first and second marriages.<ref name=Silverman />{{rp|137–139}} Donen's current longtime companion is writer and director [[Elaine May]],<ref>{{cite news |url=http://www.boston.com/ae/movies/articles/2009/10/04/stanley_donen_visits_town_this_week_during_a_retrospective_at_harvard_film_archive/?page=3| title=Like his films, Donen exudes style and wit |date=April 10, 2009 |work=Boston Globe |accessdate =December 28, 2011}}</ref> who he has dated since 1999 and claimed to have proposed marriage to "about 172 times."<ref name="Out to Lunch with Stanley Donen"/>
+
+Donen's eldest son Peter Donen was a visual effects artist who worked on such films as ''[[Superman III]]'', ''[[Spaceballs]]'', ''[[The Bourne Identity (2002 film)|The Bourne Identity]]'', and ''The Truth About Charlie''. He also designed the title credits for ''Blame It on Rio''. He died of a heart attack in 2003 at age 50.<ref>{{cite news|url=http://www.varietyultimate.com/archive/issue/WV-02-02-2004-100|title=Peter Donen|date=January 12, 2004|publisher=Variety|accessdate=March 3, 2013}}</ref> Donen's second son [[Joshua Donen]] is a film producer who worked on such films as ''[[The Quick and the Dead (1995 film)|The Quick and the Dead]]'' and ''[[Gone Girl (film)|Gone Girl]]'', and the television series ''[[Spartacus: Blood and Sand]]''.<ref>{{cite news|url=http://movies.nytimes.com/person/532602/Josh-Donen|title=Joshua Donen|publisher=The New York Times|accessdate=December 28, 2011}}</ref> Mark Donen, Stanley's third son, worked as a production assistant on ''Blame It on Rio''.<ref>{{cite news|url=http://movies.nytimes.com/person/741971/Mark-Donen/filmography|title=Mark Donen|publisher=The New York Times|accessdate=December 28, 2011}}</ref>
+
+In 1959, Donen's father, Mordecai, died at 59 in [[Beaufort, South Carolina]].<ref name=Silverman/>{{rp|323–324}} His mother, Helen, died in 1989 at 84 in South Carolina, and Donen delivered the eulogy at her funeral.<ref name=Silverman />{{rp|333}}
+
+With the deaths in the 2000s of Billy Wilder, [[George Sidney]], [[Elia Kazan]], [[Robert Wise]], and [[Jules Dassin]], Donen became the last surviving notable film director of Hollywood's [[Classical Hollywood cinema|Golden Age]].<ref>{{cite news|url=http://www.vanityfair.com/hollywood/2013/03/stanley-donan-singin-in-the-rain|title=Out to Lunch with Stanley Donen|accessdate=March 3, 2013|work=Vanity Fair|date=February 22, 2013}}</ref> He occasionally appears at film festivals and retrospectives<ref>{{cite web|url=http://filmlinccom.siteprotect.net/wrt/onsale10/donen.html|title=The One, the Only Stanley Donen|publisher=Lincoln Center for the Performing Arts|accessdate=December 28, 2011}}</ref><ref>{{cite news|url=http://www.theatermania.com/new-york-city/news/06-2009/2009-astaire-awards-are-presented_18859.html|title=2009 Astaire Awards Are Presented|date=June 1, 2009|publisher=theatermania.com|accessdate=April 2, 2012}}</ref> and has continued to develop ideas for film projects.<ref>{{cite news|url=http://www.hollywoodreporter.com/news/legendary-musicals-director-stanley-donen-340738|title=Legendary Musicals Director Stanley Donen on Audrey Hepburn and 'Dancing with the Stars' (Q&A)|date=June 22, 2012|publisher=The Hollywood Reporter|accessdate=March 9, 2013}}</ref> He was the subject of the 2010 documentary ''Stanley Donen: You Just Do It''.<ref>{{cite news|url=http://www.wichitafilms.com/en/documentary-01.php|title=Stanley Donen, You Just Do It|publisher=Wichita Films|accessdate=December 28, 2011}}</ref>
+
+In December 2013 it was announced that Donen was in pre-production for a new film co-written with Elaine May, to be produced by Mike Nichols. A [[Read-through|table reading]] of the script for potential investors included such actors as [[Christopher Walken]], [[Charles Grodin]], [[Ron Rifkin]] and Jeannie Berlin.<ref>{{cite news|url=http://moviepilot.com/posts/2013/12/10/stanley-donen-gearing-up-to-direct-his-first-feature-in-30-years-1196501|title=Stanley Donen gearing up to direct his first feature in 30 years|accessdate=December 14, 2013|publisher=moviepilot.com|date=December 3, 2013}}</ref> In celebration of Donen's 90th birthday in 2014, a retrospective of his work titled "A Lotta Talent and a Little Luck: A Celebration of Stanley Donen" was held from July to August in [[Columbia, South Carolina]]. This retrospective included a tour of Donen's childhood neighborhood, a lecture by Steven Silverman and film screenings at the [[Columbia Film Society|Nickelodeon movie theater]], which Donen frequented as a child.<ref>{{cite news|url=http://www.free-times.com/arts/columbia-celebrates-stanley-donen-pioneer-of-hollywood-musicals-072314|title=Columbia (Finally) Celebrates Stanley Donen, Pioneer of Hollywood Musicals|url=http://www.free-times.com/arts/columbia-celebrates-stanley-donen-pioneer-of-hollywood-musicals-072314#sthash.zocR9AAA.dpuf|accessdate=August 16, 2014|publisher=free-times.com|date=July 23, 2014}}</ref>
+
+==Works==
+
+===Filmography===
+{| class="wikitable"
+|-
+! colspan=4 style="background:#B0C4DE;"| As director
+|-
+! width="5"|Year
+! width="200"|Title
+! width="300"|Cast
+! Notes
+|-
+| 1949
+| ''[[On the Town (film)|On the Town]]''
+| [[Gene Kelly]], [[Frank Sinatra]], [[Jules Munshin]], [[Ann Miller]], [[Betty Garrett]], [[Vera-Ellen]]
+| Co-directed with Gene Kelly
+|-
+| 1951
+| ''[[Royal Wedding]]''
+| [[Fred Astaire]], [[Jane Powell]], [[Peter Lawford]], [[Sarah Churchill (actress)|Sarah Churchill]]
+|
+|-
+| rowspan="3"|1952
+| ''[[Love Is Better Than Ever]]''
+| [[Larry Parks]], [[Elizabeth Taylor]]
+|
+|-
+| ''[[Singin' in the Rain]]''
+| [[Gene Kelly]], [[Donald O'Connor]], [[Debbie Reynolds]], [[Jean Hagen]]
+| Co-directed with Gene Kelly, also choreographer
+|-
+| ''[[Fearless Fagan]]''
+| [[Janet Leigh]], [[Carleton Carpenter]]
+|
+|-
+| 1953
+| ''[[Give a Girl a Break]]''
+| [[Debbie Reynolds]], [[Marge Champion]], Helen Wood, [[Gower Champion]], [[Bob Fosse]], [[Kurt Kasznar]]
+| Also choreographer
+|-
+| rowspan="2"|1954
+| ''[[Seven Brides for Seven Brothers (film)|Seven Brides for Seven Brothers]]''
+| [[Howard Keel]], [[Jane Powell]]
+|
+|-
+| ''[[Deep in My Heart (1954 film)|Deep in My Heart]]''
+| [[José Ferrer]], [[Helen Traubel]], [[Merle Oberon]]
+|
+|-
+| 1955
+| ''[[It's Always Fair Weather]]''
+| [[Gene Kelly]], [[Dan Dailey]], [[Michael Kidd]], [[Cyd Charisse]], [[Dolores Gray]]
+| Co-directed with Gene Kelly, also choreographer
+|-
+| rowspan="3"|1957
+| ''[[Funny Face]]''
+| [[Audrey Hepburn]], [[Fred Astaire]], [[Kay Thompson]]
+|
+|-
+| ''[[The Pajama Game (film)|The Pajama Game]]''
+| [[Doris Day]], [[John Raitt]], [[Carol Haney]]
+| Co-directed with [[George Abbott]], also producer
+|-
+| ''[[Kiss Them for Me (film)|Kiss Them for Me]]''
+| [[Cary Grant]], [[Suzy Parker]], [[Jayne Mansfield]], [[Ray Walston]], [[Larry Blyden]]
+|
+|-
+| rowspan="2"|1958
+| ''[[Indiscreet (1958 film)|Indiscreet]]''
+| [[Cary Grant]], [[Ingrid Bergman]]
+| Also producer
+|-
+| ''[[Damn Yankees (film)|Damn Yankees!]]''
+| [[Tab Hunter]], [[Gwen Verdon]], [[Ray Walston]]
+| Co-directed with [[George Abbott]], also producer
+|-
+| rowspan="3"|1960
+| ''[[Once More, with Feeling!]]''
+| [[Yul Brynner]], [[Kay Kendall]]
+| Also producer
+|-
+| ''[[Surprise Package (film)|Surprise Package]]''
+| [[Yul Bryner]], [[Mitzi Gaynor]], [[Noël Coward]]
+| Also producer
+|-
+| ''[[The Grass Is Greener]]''
+| [[Cary Grant]], [[Deborah Kerr]], [[Robert Mitchum]], [[Jean Simmons]]
+| Also producer
+|-
+| 1963
+| ''[[Charade (1963 film)|Charade]]''
+| [[Cary Grant]], [[Audrey Hepburn]], [[Walter Matthau]], [[James Coburn]], [[George Kennedy]]
+| Also producer
+|-
+| 1966
+| ''[[Arabesque (1966 film)|Arabesque]]''
+| [[Gregory Peck]], [[Sophia Loren]]
+| Also producer
+|-
+| rowspan="2"|1967
+| ''[[Two for the Road (1967 film)|Two for the Road]]''
+| [[Audrey Hepburn]], [[Albert Finney]]
+| Also producer
+|-
+| ''[[Bedazzled (1967 film)|Bedazzled]]''
+| [[Peter Cook]], [[Dudley Moore]], [[Eleanor Bron]], [[Raquel Welch]]
+| Also producer
+|-
+| 1969
+| ''[[Staircase (film)|Staircase]]''
+| [[Rex Harrison]], [[Richard Burton]]
+| Also producer
+|-
+| 1974
+| ''[[The Little Prince (1974 film)|The Little Prince]]''
+| Steven Warner, [[Richard Kiley]], [[Bob Fosse]], [[Gene Wilder]]
+| Also producer
+|-
+| 1975
+| ''[[Lucky Lady]]''
+| [[Liza Minnelli]], [[Gene Hackman]], [[Burt Reynolds]]
+|
+|-
+| 1978
+| ''[[Movie Movie]]''
+| [[George C. Scott]], [[Trish Van Devere]], [[Red Buttons]], [[Eli Wallach]], [[Barry Bostwick]], [[George Burns]], [[Michael Kidd]], [[Art Carney]]
+| Also producer
+|-
+| 1980
+| ''[[Saturn 3]]''
+| [[Kirk Douglas]], [[Farrah Fawcett]], [[Harvey Keitel]]
+| Also producer
+|-
+| 1984
+| ''[[Blame It on Rio]]''
+| [[Michael Caine]], [[Joseph Bologna]], [[Michelle Johnson (actress)|Michelle Johnson]], [[Demi Moore]], [[Valerie Harper]]
+| Also producer
+|-
+| 1999
+| ''[[Love Letters (1999 film)|Love Letters]]''
+| [[Steven Weber (actor)|Steven Weber]], [[Laura Linney]]
+| Television movie
+|-
+!colspan=4 style="background:#B0C4DE;"| As choreographer
+|-
+! width="5"|Year
+! width="200"|Title
+! width="300"|Cast
+! Director
+|-
+| 1943
+| ''[[Best Foot Forward (film)|Best Foot Forward]]''
+| [[Lucille Ball]], [[William Gaxton]]
+| [[Edward Buzzell]]
+|-
+| rowspan="4"|1944
+| ''[[Cover Girl (1944 film)|Cover Girl]]''
+| [[Rita Hayworth]], [[Gene Kelly]]
+| [[Charles Vidor]]
+|-
+| ''Hey, Rookie''
+| [[Ann Miller]], [[Joe Besser]], [[Larry Parks]]
+| [[Charles Barton (director)|Charles Barton]]
+|-
+| ''Jam Session''
+| [[Ann Miller]], [[Jess Barker]], [[Louis Armstrong]]
+| [[Charles Barton (director)|Charles Barton]]
+|-
+| ''[[Kansas City Kitty]]''
+| [[Joan Davis]], [[Bob Crosby]], [[Jane Frazee]]
+| [[Del Lord]]
+|-
+| rowspan="2"|1945
+| ''[[Anchors Aweigh (film)|Anchors Aweigh]]''
+| [[Gene Kelly]], [[Frank Sinatra]], [[Kathryn Grayson]]
+| [[George Sidney]]
+|-
+| ''[[Holiday in Mexico]]''
+| [[Walter Pidgeon]], [[Ilona Massey]], [[Roddy McDowall]]
+| [[George Sidney]]
+|-
+| 1946
+| ''[[No Leave, No Love]]''
+| [[Van Johnson]], [[Keenan Wynn]], [[Patricia Kirkwood]]
+| Charles Martin
+|-
+| rowspan="3"|1947
+| ''[[Living in a Big Way]]''
+| [[Gene Kelly]], [[Marie McDonald]], [[Charles Winninger]]
+| [[Gregory La Cava]]
+|-
+| ''[[This Time for Keeps]]''
+| [[Esther Williams]], [[Jimmy Durante]]
+| [[Richard Thorpe]]
+|-
+| ''Killer McCoy''
+| [[Mickey Rooney]], [[Brian Donlevy]], [[Ann Blyth]]
+| [[Roy Rowland (film director)|Roy Rowland]]
+|-
+| rowspan="3"|1948
+| ''Big City''
+| [[Margaret O'Brien]], [[Robert Preston (actor)|Robert Preston]], [[Danny Thomas]]
+| [[Norman Taurog]]
+|-
+| ''[[A Date with Judy (film)|A Date with Judy]]''
+| [[Wallace Beery]], [[Jane Powell]], [[Elizabeth Taylor]], [[Carmen Miranda]], [[Robert Stack]]
+| [[Richard Thorpe]]
+|-
+| ''[[The Kissing Bandit (film)|The Kissing Bandit]]''
+| [[Frank Sinatra]], [[Kathryn Grayson]], [[J. Carrol Naish]], [[Ricardo Montalban]], [[Ann Miller]], [[Cyd Charisse]]
+| [[Laslo Benedek]]
+|-
+| 1949
+| ''[[Take Me Out to the Ball Game (film)|Take Me Out to the Ball Game]]''
+| [[Gene Kelly]], [[Frank Sinatra]], [[Esther Williams]], [[Betty Garrett]], [[Jules Munshin]], [[Edward Arnold (actor)|Edward Arnold]]
+| [[Busby Berkeley]]
+|-
+| 1951
+| ''[[Double Dynamite]]''
+| [[Jane Russell]], [[Groucho Marx]], [[Frank Sinatra]]
+| [[Irving Cummings]]
+|-
+| 1953
+| ''[[Sombrero (film)|Sombrero]]''
+| [[Vittorio Gassman]], [[Nina Foch]], [[Pier Angeli]], [[José Greco]]
+| [[Norman Foster (director)|Norman Foster]]
+|-
+! colspan=4 style="background:#B0C4DE;"| Other work
+|-
+! width="5"|Year
+! width="200"|Title
+! width="550"|Notes
+! Director
+|-
+| 1943
+| ''[[Best Foot Forward (film)|Best Foot Forward]]''
+| Chorus dancer
+| [[Edward Buzzell]]
+|-
+| 1949
+| ''[[Take Me Out to the Ball Game (film)|Take Me Out to the Ball Game]]''
+| Co-wrote the original story with Gene Kelly
+| [[Busby Berkeley]]
+|-
+| 1955
+| ''[[Kismet (1955 film)|Kismet]]''
+| Uncredited director of the last three days of shooting and one day of re-shoots when director [[Vincent Minnelli]] left the production
+| [[Vincent Minnelli]]
+|-
+| rowspan="3"|1986
+| ''[[Moonlighting (TV series)|Moonlighting]]''
+| Television episode: "[[Big Man on Mulberry Street]]", directed dance sequences
+| [[Christian I. Nyby II]], Stanley Donen
+|-
+| ''[[Dancing on the Ceiling (Lionel Richie song)#Music video|Dancing on the Ceiling]]''
+| Directed the music video for the [[Lionel Richie]] song
+| Stanley Donen
+|-
+| [[58th Academy Awards]]
+| Producer of the Academy Awards ceremony
+| [[Marty Pasetta]]
+|-
+| 2000
+| ''[[Love's Labour's Lost (2000 film)|Love's Labour's Lost]]''
+| Presenter (U.S. release)
+| [[Kenneth Branagh]]
+|-
+| 2010
+| ''Stanley Donen: You Just Do It''
+| Interviewee, documentary feature on Donen's life and career
+| Clara Kuperberg, Julia Kuperberg
+|}
+
+===Stage work===
+{| class="wikitable"
+|-
+! colspan=4 style="background:#B0C4DE;"| Stage
+|- align="center"
+! Dates
+! Title
+! Role/Position
+! Notes
+|-
+| December 25, 1940 – November 29, 1941
+| ''[[Pal Joey (musical)|Pal Joey]]''
+| Albert Doane, dancer
+|
+|-
+| October 1, 1941 – July 4, 1942
+| ''[[Best Foot Forward (musical)|Best Foot Forward]]''
+| Ensemble, dancing boy, assistant choreography
+|
+|-
+| October 14, 1942 – December 12, 1942
+| ''Beat the Band''
+| Stage manager, assistant choreographer
+|
+|-
+| April 18, 1946 – January 10, 1948
+| ''[[Call Me Mister]]''
+| Additional choreography
+| Uncredited
+|-
+| July 2, 1985 – May 18, 1986
+| ''[[Singin' in the Rain (musical)|Singin' in the Rain]]''
+| Original film choreography
+|
+|-
+| December 16, 1993 – December 19, 1993
+| ''[[The Red Shoes (musical)|The Red Shoes]]''
+| Director
+|
+|-
+| December 11, 2002 – April 13, 2003
+| ''Adult Entertainment''
+| Director, choreographer
+| Written by Elaine May
+|}
+
+===Awards and honors===
+{| class="wikitable"
+|-
+! colspan=4 style="background:#B0C4DE;"| Awards
+|-
+! width="5"|Year
+! width="275"|Organization
+! width="325"|Award
+! Result
+|-
+| 1952
+| [[Directors Guild of America Awards]]
+| Best Director, ''Singin' in the Rain'' (with [[Gene Kelly]])
+| {{Nom}}
+|-
+| 1954
+| [[Directors Guild of America Awards]]
+| Best Director, ''Seven Brides for Seven Brothers''
+| {{Nom}}
+|-
+| 1957
+| [[Directors Guild of America Awards]]
+| Best Director, ''Funny Face''
+| {{Nom}}
+|-
+| 1958
+| [[Directors Guild of America Awards]]
+| Best Director, ''Damn Yankees!'' (with [[George Abbott]])
+| {{Nom}}
+|-
+| 1967
+| [[Directors Guild of America Awards]]
+| Best Director, ''Two for the Road''
+| {{Nom}}
+|-
+| 1967
+| [[San Sebastián International Film Festival]]
+| Golden Seashell Award, ''Two for the Road''
+| {{Won}}
+|-
+| 1986
+| [[Drama Desk Award]]
+| Best Choreography (original version), ''Singin' in the Rain''
+| {{Nom}}
+|-
+| 1989
+| [[Los Angeles Film Critics Association Awards]]
+| Career Achievement Award
+| {{Won}}
+|-
+| 1989
+| [[University of South Carolina]]
+| Honorary Doctorate in Fine Arts
+| {{Won}}
+|-
+| 1995
+| [[National Board of Review]]
+| Billy Wilder Award
+| {{Won}}
+|-
+| 1995
+| [[San Francisco International Film Festival]]
+| Akira Kurosawa Award
+| {{Won}}
+|-
+| 1995
+| [[Edinburgh International Festival]]
+| Retrospective
+| <center>Event</center>
+|-
+| 1996
+| [[Palm Springs International Film Festival]]
+| Director's Achievement Award
+| {{Won}}
+|-
+| 1998
+| [[Academy Awards]]
+| [[Academy Honorary Award]]
+| {{Won}}
+|-
+| 1999
+| [[Palm Beach International Film Festival]]
+| Lifetime Achievement Award
+| {{Won}}
+|-
+| 1999
+| [[Joseph Plateau Awards]]
+| Life Achievement Award
+| {{Won}}
+|-
+| 1999
+| [[Eddie Awards|American Cinema Editors Awards]]
+| Golden Eddie Filmmaker of the Year Award
+| {{Won}}
+|-
+| 2000
+| ASCAP Film and Television Music Awards
+| Opus Award
+| {{Won}}
+|-
+| 2001
+| Savannah Film Festival
+| Johnny Mercer Award
+| {{Won}}
+|-
+| 2002
+| [[American Society of Cinematographers Awards]]
+| Board of the Governors Award
+| {{Won}}
+|-
+| 2004
+| [[Venice Film Festival]]
+| Career Golden Lion
+| {{Won}}
+|-
+| 2007
+| [[Boston Pops Orchestra]]
+| Tribute Performance
+| <center>Event</center>
+|-
+| 2009
+| The Astaire Awards
+| Douglas Watt 2009 Lifetime Achievement Award
+| {{Won}}
+|-
+| 2010
+| [[Film Society of Lincoln Center]]
+| Week-long tribute and retrospective
+| <center>Event</center>
+|-
+| 2011
+| [[Israel Film Festival]]
+| Lifetime Achievement Award
+| {{Won}}
+|-
+| 2014
+| Nickelodeon Theatre
+| Month-long tribute and retrospective
+| <center>Event</center>
+|}
+
+== See also ==
+{{Portal bar|Dance}}
+
+==References==
+'''Notes'''
+{{Reflist|3}}
+
+'''Bibliography'''
+{{refbegin}}
+* {{Cite book |last=Blair |first=Betsy |title=The Memory of All That |publisher=Alfred A. Knopf |year=2003 |isbn=0-375-41299-9 |ref=harv}}
+* {{Cite book |first=Joseph A. |last=Casper |title=Stanley Donen |publisher=Scarecrow Press |year=1983 |isbn=0-8108-1615-6 |ref=harv}}
+* {{Cite book |first=Casey |last=Charness |title=Hollywood cine-dance: a description of the interrelationship of camerawork and choreography in films by Stanley Donen and Gene Kelly |publisher=New York University |year=1977 |isbn=0632043792 |ref=harv}}
+* {{Cite book |first1=Earl J. |last1=Hess |first2=Pratibha |last2=Dabholkar |title=Singin' in the Rain: The Making of an American Masterpiece |publisher=University Press of Kansas |year=2009 |isbn=0-7006-1656-X |ref=harv}}
+* {{cite book|last=Hirschhorn|first=Clive |title=Gene Kelly: a Biography |publisher=W.H. Allen |year=1984 |isbn=0-491-03182-3|ref=harv}}
+* {{Cite book |first=Stephen M. |last=Silverman |title=Dancing on the Ceiling: Stanley Donen and His Movies |publisher=Knopf |location=New York |year=1996 |isbn=0-679-41412-6 |ref=harv}}
+* {{cite book |last=Thomson |first=David |title=The New Biographical Dictionary of Film |edition=5 |publisher=Alfred A. Knopf |year=2010 |isbn=0-307-27174-9 |ref=harv}}
+* {{Cite book |first=John |last=Wakeman |title=World Film Directors, Volume 2 |publisher=The H. W. Wilson Company |year=1988 |isbn=0-8242-0763-7 |pages=273–282 |ref=harv}}
+* {{Cite book |last=Yudkoff |first=Alvin |title=Gene Kelly: A Life of Dance and Dreams |publisher=Back Stage Books |year=1999 |isbn=0-8230-8813-8 |ref=harv}}
+{{refend}}
+
+==External links==
+{{commons}}
+* {{IMDb name|2045|Stanley Donen}}
+* {{IBDB name|75387}}
+* {{iobdb|Stanley|Donen}}
+* {{tcmdb name|51745}}
+* [http://www.adherents.com/people/pd/Stanley_Donen.html Extracts from Silverman's biography of Donen]
+
+{{Stanley Donen}}
+{{Authority control}}
+
+{{good article}}
+
+{{Persondata
+ | NAME              = Donen, Stanley
+ | ALTERNATIVE NAMES = 
+ | SHORT DESCRIPTION = Film director and choreographer
+ | DATE OF BIRTH     = April 13, 1924
+ | PLACE OF BIRTH    = [[Columbia, South Carolina]], U.S.
+ | DATE OF DEATH     = 
+ | PLACE OF DEATH    = 
+}}
+{{DEFAULTSORT:Donen, Stanley}}
+[[Category:1924 births]]
+[[Category:Academy Honorary Award recipients]]
+[[Category:American atheists]]
+[[Category:American choreographers]]
+[[Category:American Cinema Editors]]
+[[Category:American dancers]]
+[[Category:American expatriates in England]]
+[[Category:American film directors]]
+[[Category:American film producers]]
+[[Category:American people of German-Jewish descent]]
+[[Category:American people of Russian-Jewish descent]]
+[[Category:American tap dancers]]
+[[Category:English-language film directors]]
+[[Category:Film choreographers]]
+[[Category:Jewish atheists]]
+[[Category:Jewish comedy and humor]]
+[[Category:Living people]]
+[[Category:People from Columbia, South Carolina]]
+[[Category:University of South Carolina alumni]]

@@ -1,0 +1,280 @@
+{{Use dmy dates|date=November 2014}}
+{{good article}}
+{{Infobox person
+| name            = Henri-Georges Clouzot
+|image=Henri-Georges and Vera Clouzot 1953.jpg
+|image_size = 260px
+|caption=Henri-Georges and Véra Clouzot in 1953
+| alt             = 
+| birth_name       = 
+| birth_date       = {{Birth date|df=yes|1907|11|20}}<ref name="TET" />
+| birth_place      = [[Niort]], [[France]]
+| death_date       = {{Death date and age|df=yes|1977|01|12|1907|08|18}}<ref name="Lloyd8">Lloyd 2007, p. 8</ref>
+| death_place      = [[Paris]], France
+| other_names       = 
+| occupation      = [[Film director]]<br />[[screenwriter]]<br />[[film producer]]
+| years_active     = 1931–1968
+| spouse          = {{Nowrap|[[Véra Clouzot|Véra Gibson-Amado]] (1950–1960)}}<br />Inès de Gonzalez (1963–1977)
+| partner = 
+| website         = 
+}}
+
+'''Henri-Georges Clouzot''' ({{IPA-fr|ɑ̃ʁi ʒɔʁʒ kluzo}}; {{Birth date|df=yes|1907|08|18}} – {{Death date|df=yes|1977|01|12}}) was a French film director, screenwriter and producer. He is best remembered for his work in the [[Thriller (genre)|thriller film]] genre, having directed ''[[The Wages of Fear]]'' and ''[[Les Diaboliques (film)|Les Diaboliques]]'', which are critically recognized to be among the greatest films from the 1950s. Clouzot also directed documentary films, including ''[[The Mystery of Picasso]]'', which was declared a national treasure by the government of France.
+
+Clouzot was an early fan of the cinema and, desiring a career as a writer, moved to [[Paris]]. He was later hired by producer [[Adolphe Osso]] to work in [[Berlin]], writing French-language versions of German films. After being fired from German studios due to his friendship with Jewish producers, Clouzot returned to France, where he spent years bedridden after contracting [[tuberculosis]]. Upon recovering, Clouzot found work in [[German occupation of France during World War II|Nazi occupied France]] as a screenwriter for the German-owned company [[Continental Films]]. At Continental, Clouzot wrote and directed films that were very popular in France. His second film ''[[Le Corbeau]]'' drew controversy over its harsh look at provincial France and Clouzot was fired from Continental before its release. As a result of his association with Continental, Clouzot was barred by the French government from filmmaking until 1947.
+
+After the ban was lifted, Clouzot reestablished his reputation and popularity in France during the late 1940s with successful films including ''[[Quai des Orfèvres]]''. After the release of his comedy film ''[[Miquette et sa mère]]'', Clouzot married [[Véra Clouzot|Véra Gibson-Amado]], who would star in his next three feature films. In the early and mid-1950s, Clouzot drew acclaim from international critics and audiences for ''[[The Wages of Fear]]'' and ''[[Les Diaboliques (film)|Les Diaboliques]]''. Both films would serve as source material for remakes decades later. After the release of ''[[La Vérité (film)|La Vérité]]'', Clouzot's wife Véra died of a heart attack and Clouzot's career suffered due to depression, illness and new critical views of films from the [[French New Wave]]. Clouzot's career became less active in later years, limited to a few [[television movie|television]] [[documentary film|documentaries]] and two feature films in the 1960s. Clouzot wrote several unused scripts in the 1970s and died in Paris in 1977.
+
+==Biography==
+
+===Early years===
+Henri-Georges Clouzot was born in Niort, France, to mother Suzanne Clouzot and father Georges Clouzout, a book store owner. He was the first of three children in a middle-class family.<ref name="TET">{{cite AV media
+ |people     = 
+ |date      = 2004
+ |title      = Henri-Georges Clouzot: The Enlightened Tyrant
+ |url        = http://www.criterion.com/films/370
+ |medium     = DVD
+ |language   = French
+ |publisher  = The Criterion Collection
+ |location   = New York City, United States
+ |accessdate = 16 August 2009
+ |isbn       = 0-7800-2965-8
+}}</ref> Clouzot showed talent by writing plays and playing piano recitals.<ref name="soc">{{cite web
+| first       = Fiona
+| last        = Watson
+| title       = Henri-Georges Clouzot 
+| url         = http://archive.sensesofcinema.com/contents/directors/05/clouzot.html
+| work        = [[Senses of Cinema]]
+| location    = [[Melbourne]], Australia
+|date=May 2005
+| accessdate  = 16 August 2009 
+}}</ref><ref name=cinéaste>Bocquet 1993, p.8</ref> In 1922, Clouzot's father's bookstore went bankrupt and his family moved to [[Brest, France]], where his father became an auctioneer.<ref name="TET" /><ref name="Lloyd5">Lloyd 2007, p. 5.</ref> In Brest, Henri-Georges Clouzot went to Naval School, but was unable to become a Naval Cadet due to his [[myopia]].<ref name="Hayward1">Hayward 2005, p. 1.</ref> At the age of 18, Clouzot left for [[Paris]] to study political science.<ref name="TET" /><ref name="Hayward1" /><ref name="Mayne21">Mayne 2007, p.21</ref> While living in Paris, he became friends with several magazine editors.<ref name="TET" /> His writing talents led him to theater and cinema as a playwright, lyricist and adaptor-screenwriter.<ref name="Hayward1" /> The quality of his work led producer [[Adolphe Osso]] to hire him and send him to [[Germany]] to work in [[Studio Babelsberg]] in [[Berlin]], translating scripts for foreign language films shot there.<ref name="TET" /><ref name="Hayward2">Hayward 2005, p. 2.</ref>
+
+===Career===
+
+====Screenwriting career (1931–1942)====
+Throughout the 1930s, Clouzot worked by writing and translating scripts, dialogue and occasionally lyrics for over twenty films.<ref name="Lloyd1">Lloyd 2007, p. 1.</ref> While living in Germany, Clouzot saw the films of [[F. W. Murnau]] and [[Fritz Lang]] and was deeply influenced by their [[German Expressionism|expressionist]] style.<ref name="soc" /><ref name="Godin">{{cite AV media
+ |people     = Godin, Marc (interviewee)
+ |date      = 2005
+ |title      = Interview with Clouzot biographer Marc Godin
+ |url        = http://www.criterion.com/films/370
+ |medium     = DVD
+ |language   = French
+ |publisher  = The Criterion Collection
+ |location   = New York City, United States
+ |accessdate = 16 August 2009
+ |isbn       = 0-7800-2965-8
+}}</ref> In 1931, he made his first [[short film]], ''La Terreur des Batignolles'', from a script by [[Jacques de Baroncelli]]. The film is a 15-minute comedy with three actors.<ref name="Lloyd5" /> Film historian and critic [[Claude Beylie]] reported this short was "surprisingly well made with expressive use of shadows and lighting contrasts that Clouzot would exploit on the full-length features he would make years later".<ref name="Lloyd5" /> Clouzot's later wife, Inès de Gonzalez, said in 2004 that ''La Terreur des Batignolles'' added nothing to Clouzot's reputation.<ref name="Lloyd5" /> In Berlin, Clouzot saw several parades for [[Adolf Hitler]] and was shocked at how oblivious he felt France was to what was happening in Germany.<ref name="TET" /> In 1934, Clouzot was fired from [[Universum Film AG|UFA Studios]] for his friendship with [[Jew]]ish film producers such as Adolphe Osso and [[Pierre Lazareffe]].<ref name="TET" />
+
+In 1935, Clouzot was diagnosed with [[tuberculosis]] and was sent first to [[Haute-Savoie]] and then to [[Switzerland]], where he was bedridden for nearly five years in all.<ref name="Godin" /> Clouzot's time in the [[sanatorium]] would be very influential on his career. While bedridden, Clouzot read constantly and learned the mechanics of storytelling to help improve his scripts.<ref name="Godin" /> Clouzot also studied the fragile nature of the other people in the sanatorium.<ref name="TET" /> Clouzot had little money during this period, and was provided with financial and moral support by his family and friends.<ref name="TET" /> By the time Clouzot left the sanatorium and returned to Paris, [[World War II]] had broken out.<ref name="TET" /><ref name="Mayne22">Mayne 2007, p.22</ref> [[Cinema of France|French cinema]] had changed because many of the producers he had known had fled France to escape [[Nazism]].<ref name="TET" />
+
+Clouzot's health problems kept him from military service.<ref name="Mayne22" /> In 1939, he met actor [[Pierre Fresnay]], who was already an established film star in France. Clouzot wrote the script for Fresnay's only directorial feature ''Le Duel'', as well as two plays for him: ''On prend les mêmes'', which was performed in December 1940, and ''Comédie en trois actes'', which was performed in 1942.<ref name="Lloyd6" /> Despite writing scripts for films and plays, Clouzot was so poor that he resorted to trying to sell lyrics to French singer [[Édith Piaf]], who declined to purchase them.<ref name="Lloyd2">Lloyd 2007, p. 2.</ref> After France was invaded by Germany and subsequently during the [[German occupation of France during World War II]], the German-operated film production company [[Continental Films]] was established in France in October 1940.<ref name="Lloyd30">Lloyd 2007, p. 30</ref> [[Alfred Grevin]], the director of Continental, knew Clouzot from Berlin and offered him work to adapt stories of writer [[Stanislas-André Steeman]].<ref name="Mayne22" /><ref name="Lloyd30" /> Clouzot felt uncomfortable working for the Germans, but was in desperate need of money and could not refuse Grevin's offer.<ref name="TET" /> Clouzot's first film for Continental was the adaptation of Steeman's [[Mystery (fiction)|mystery]] novel ''Six hommes mort'' (''Six Dead Men'').<ref name="Mayne22" /> Clouzot retitled the film ''Le Dernier de six'', having been influenced by actress [[Suzy Delair]] while writing the script, allowing her to choose the name of the character she would play.<ref name="TET" />
+
+====Early directorial work (1942–1947)====
+After the success of ''Le Dernier de six'', Clouzot was hired as the head of Continental's screenwriting division.<ref name="Mayne1">Mayne 2007, p.1</ref> Clouzot began work on his second Steeman adaptation, which he would also direct, titled ''[[The Murderer Lives at Number 21]]''. It starred Fresnay and Delair playing the same roles they had performed in ''Le Dernier de six''.<ref name="Lloyd35">Lloyd 2007, p. 35</ref> Released in 1942, the film was popular with audiences and critics.<ref name="Mayne28">Mayne 2007, 28</ref> Clouzot's next film was ''[[Le Corbeau]]'' based on a true story about a woman who sent [[poison pen letter]]s in France in 1922.<ref name="BTI">{{cite AV media
+ |people     = [[Bertrand Tavernier|Tavernier, Bertrand]] (interviewee)
+ |date      = 2002
+ |title      = Bertrand Tavernier interview
+ |url        = http://www.criterion.com/films/684
+ |medium     = DVD
+ |publisher  = The Criterion Collection
+ |location   = New York City, United States
+ |accessdate = 16 August 2009
+ |isbn       = 0-7800-2786-8
+}}</ref> Grevin was against Clouzot making this film, stating that topic was "dangerous".<ref name="BTI" /> ''Le Corbeau'' would be the last film that Fresnay and Clouzot would work together on. Clouzot had used all possible means to try to anger the actor during the filming,<ref name="TET" /> and after he quarreled with Fresnay's wife, [[Yvonne Printemps]], Fresnay and Clouzot broke off their friendship.<ref name="Lloyd6" />''Le Corbeau'' was a great success in France, with nearly 250,000 people having seen it in the first months of its initial release.<ref name="Lloyd3">Lloyd 2007, p. 3.</ref> ''Le Corbeau'' was released in 1943 and generated controversy from the right-wing [[Vichy France|Vichy]] regime, the left-wing Resistance press and the [[Catholic Church]].<ref name="cobreaudvd">{{cite DVD notes |title=Le Corbeau |titlelink=Le Corbeau |origyear=1942 |others=Henri-Georges Clouzot |type=Back cover |publisher=[[The Criterion Collection]] |location=New York City, United States |id=227 |year=2004}}</ref> The Catholic Church considered the film "painful and hard, constantly morbid in its complexity".<ref name="Mayne73">Mayne 2007, p.73</ref> The Vichy press dubbed it the antithesis of the [[Révolution nationale]] and demanded it be banned due to its immoral values.<ref name="Lanzoni123">Lanzoni 2004, p.123</ref> The anti-Nazi resistance press considered it Nazi propaganda because of its negative portrayal of the French populace.<ref name="Lanzoni122">Lanzoni 2004, p.122</ref> Two days before the release of ''Le Corbeau'', Continental films fired Clouzot.<ref name="TET" />
+
+After the [[Liberation of France#Liberation of France|liberation of France]], Clouzot and several other directors were tried in court for collaborating with the Germans.<ref name="BTI" /> For his sentence, Clouzot was forbidden from going on set of any film or from using a film camera for the rest of his life.<ref name="TET" /><ref name="BTI" /> Clouzot received letters of support from filmmakers and artists [[Jean Cocteau]], [[René Clair]], [[Marcel Carné]] and [[Jean-Paul Sartre]], who were against the ruling.<ref name="cobreaudvd" /> Clouzot's sentence was later shortened from life to two years. There is no official document making note of any apology or appeal.<ref name="BTI" /> During his two-year banishment from filming, Clouzot worked with one of his supporters, Jean-Paul Sartre, who had been one of the first people to defend ''Le Corbeau''.<ref name="BTI" />
+
+====Return to filmmaking and acclaim (1947–1960)====
+After Clouzot's ban was lifted, he reestablished his reputation and popularity in France during the late 1940s with films such as ''[[Quai des Orfèvres]]'' and ''[[Manon (film)|Manon]]''.<ref name="amgBio">{{cite web
+| first       = Bruce
+| last        = Eder
+| title       = Henri-Georges Clouzot: Overview
+| url         = http://allmovie.com/artist/henri-georges-clouzot-85313/bio
+| work        = [[Allmovie]]
+| accessdate  = 16 August 2009 
+}}</ref> For ''Quai des Orfèvres'', Clouzot asked the author Stanislas-André Steeman for a copy of his novel, ''Légitime défense'', to adapt into a film. Clouzot started writing the script before the novel arrived for him to read.<ref name="TET" /><ref name="Hayward115">Hayward 2005, p. 115</ref> ''Quai des Orfèvres'' was released in 1947 and was the fourth most popular film in France, drawing 5.5&nbsp;million spectators in that year.<ref name="Lloyd3" /> Clouzot directed and wrote two films that were released in 1949.<ref name="Hayward116" /> For ''Manon'', he wanted to cast unknown actors. He scoured schools to find an actress for the lead role, and chose 17-year-old [[Cécile Aubry]] after viewing over 700 girls.<ref name="TET" /> ''Manon'' was released in 1948 and was watched by 3.4&nbsp;million filmgoers in France as well as winning the [[Golden Lion]] at the [[Venice Film Festival]].<ref name="Lloyd3" /> Clouzot directed and wrote the short film ''Le Retour de Jean'', which was part of [[anthology film]] ''[[Return to Life]]''.<ref name="Hayward116">Hayward 2005, p. 116</ref> ''Le Retour de Jean'' was influenced by the short period when Clouzot lived in Germany in the early 1930s and stars [[Louis Jouvet]] as a survivor of a concentration camp who finds a wounded Nazi war criminal whom he interrogates and tortures.<ref name="TET" /><ref name="soc" /> Clouzot's next film was the [[comedy film|comedy]] ''[[Miquette et Sa Mère]]'', which was a financial failure. During the film's production, Clouzot met [[Véra Clouzot|Véra Gibson-Amado]], whom he married on 15 January 1950.<ref name="TET" /><ref name="Lloyd3" /> Clouzot and Véra took a film crew with them to Véra's homeland in Brazil for their honeymoon, where Clouzot made his first attempt at directing a [[documentary film]]. The Brazilian government took issue with Clouzot filming the poverty of people in the [[favela]]s rather than the more picturesque parts of Brazil.<ref name="TET" /> The film was never finished because the costs became too high. Clouzot became fascinated with the region and wrote a book, ''Le cheval des dieux'', recounting his trip.<ref name="TET" /><ref name="soc" />
+[[File:Alfred Hitchcock NYWTS.jpg|thumb|left|Clouzot bought the rights to ''Les diaboliques'' which halted [[Alfred Hitchcock]]'s attempt to purchase them.<ref name="Hayward13">Hayward 2005, p. 13</ref>]]
+Upon returning to France, he was offered a script written by [[Georges-Jean Arnaud]], an expatriate living in [[South America]] who had written about his own experiences there. Clouzot found it easy to imagine the setting of the script and was very anxious to film Arnaud's story. He started writing the film, ''The Wages of Fear'', with his brother, Jean Clouzot, who would collaborate with him on all his subsequent films under the name of Jérôme Geronimi.<ref name="TET" /> Production on ''The Wages of Fear'' lasted from 1951 to 1952.<ref name="Lloyd7">Lloyd 2007, p. 7.</ref> In order to gain as much independence as possible, Clouzot created his own production company called Véra Films, which he named after his wife.<ref name="Lloyd7" /> The sole female role in ''The Wages of Fear'' is played by Véra. Clouzot wrote the role specifically for his wife, as the character does not exist in the original novel.<ref name="TET" /> ''The Wages of Fear'' is about a South American town where a group of desperate men are offered money to drive trucks carrying [[nitroglycerin]] through rough terrain to put out an oil well fire.<ref>{{cite web|url=http://www.criterion.com/films/370|work=[[The Criterion Collection]]|accessdate=2 December 2009|title=The Wages of Fear (1953)}}</ref> ''The Wages of Fear'' was the second most popular film in France in 1953 and was seen by nearly 7&nbsp;million spectators. It won awards for Best Film and Best Actor (for [[Charles Vanel]]) at the [[Cannes Film Festival]].<ref name="Lloyd3" /> Clouzot's next big hit was ''Diabolique'', whose screenplay he took away from director [[Alfred Hitchcock]].<ref name="TET" /> ''Diabolique'' involves the story of a cruel headmaster who brutalizes his wife and his mistress. The two women murder him and dump his body in a swimming pool, but when the pool is drained, no corpse is found.<ref>{{cite web|url=http://www.criterion.com/films/575|work=The Criterion Collection|accessdate=2 December 2009|title=Diabolique (1953)}}</ref> In 1954, ''Diabolique'' won the [[Louis Delluc Prize]] and the [[New York Film Critics Circle Award]] for best foreign film.<ref name="Lloyd4">Lloyd 2007, p. 4.</ref> In this early and mid-1950s period, with the films ''The Wages of Fear'' and ''[[Les Diaboliques (film)|Diabolique]]'', Clouzot came to be fully embraced by international critics and audiences. Both films were screened and reviewed in America as well as in France, and were rated among the best thrillers of the decade.<ref name="amgBio" /> In 1955, Clouzot directed the documentary ''[[The Mystery of Picasso]]'', about the Spanish painter [[Pablo Picasso]]. The film follows Picasso drawing or painting 15 different works, all of which were intentionally destroyed following the film's production.<ref name="amgPic" /> Clouzot and Picasso were old acquaintances, having met when Clouzot was 14.<ref name="TET" /> ''The Mystery of Picasso'' won the [[Jury Prize (Cannes Film Festival)|Jury Prize]] at the [[Cannes Film Festival]], but was a financial failure in France, being seen by only 37,000 filmgoers during its initial run in 1956.<ref name="Lloyd3" /><ref name="amgPic">{{cite web
+| first       = Hal
+| last        = Erickson
+| title       = The Mystery of Picasso: Overview
+| url         = http://allmovie.com/work/the-mystery-of-picasso-34221
+| work        = [[Allmovie]]
+| accessdate  = 17 August 2009 
+}}</ref> In 1984, the film was declared a national treasure by the government of France.<ref name="amgBio" />
+
+Clouzot's next feature film was ''Les Espions'', which was released in 1957. ''Les Espions'' featured actors from around the world including Véra Clouzot, [[Curd Jürgens]], [[Sam Jaffe (actor)|Sam Jaffe]] and [[Peter Ustinov]]. ''Les Espions'' would be the last acting role for Clouzot's wife Véra, who had been suffering from severe heart problems since filming ''Diabolique''.<ref name="TET" /> ''Les Espions'' is set in a rundown sanitarium that is taken over by international spies. One of the spies claims to have invented a nuclear explosive device which attracts the attention of the Russian and American counterspies.<ref>{{cite web|url=http://allmovie.com/work/les-espions-99322|work=Allmovie|accessdate=2 December 2009|author=Erickson, Hal|title=Overview: Les Espions}}</ref> ''Les Espions'' was not released in the United States and was a financial failure in France.<ref name="Lloyd3" /> Clouzot later admitted that he only liked the first two-thirds of ''Les Espions''.<ref name="TET" /> Producer [[Raoul Levy]] suggested Clouzot's next film should feature [[Brigitte Bardot]] as the lead actress. In response, Clouzot wrote the script for ''[[The Truth (1960 film)|La Vérité]]''.<ref name="TET" /><ref>Singer 2006, p. 54</ref> Bardot plays Dominique Marceau, who is on trial for the murder of her former boyfriend Gilbert Tellier. As her trial progresses, the relationship between Dominique and Gilbert becomes more finely shaped.<ref>{{cite web|url=http://www.tcm.com/tcmdb/title.jsp?stid=94030&atid=18382|work=[[Turner Classic Movies]]|title=The Truth (1961)|accessdate=2 December 2009}}</ref> Bardot later described ''La Vérité'' as her favorite of all the films she worked on.<ref name="Lloyd6" /> Released in 1960, ''La Vérité'' was the second most popular film in France with 5.7&nbsp;million spectators and was Bardot's highest grossing film.<ref name="Lloyd4" /> The film  was nominated for the [[Academy Award for Best Foreign Language Film]].<ref name="Oscars1961">{{Cite web|url=http://www.oscars.org/awards/academyawards/legacy/ceremony/33rd-winners.html |title=The 33rd Academy Awards (1961) Nominees and Winners |accessdate=29 October 2011|work=oscars.org}}</ref>
+
+====Later career and failing health (1960–1977)====
+[[File:H.G. et Ines CLOUZOT, tombe.jpg|thumbnail|right|Henri-Georges Clouzot's tomb at the [[Montmartre Cemetery]].]]
+Although Clouzot's reputation had grown internationally, he lost notability in French cinema due to rise of the [[French New Wave]]. The New Wave directors refused to take Clouzot's thriller films seriously,<ref name="amgBio" /><ref name="Hayward8">Hayward 2005, p. 8.</ref> and expressed their displeasure publicly through articles and reviews in the film criticism publication, ''[[Cahiers du cinéma]]''. Clouzot took their criticism to heart, saying in the magazine ''[[Lui]]'' that he didn't find his films ''Diabolique'' and ''Miquette et Sa Mère '' important or interesting anymore.<ref name="Lloyd4" /> The next film he worked on was ''[[Henri-Georges Clouzot's Inferno|L'Enfer]]'', which was never completed.<ref name="TET" /> The film examines the sexual jealousy of a man towards his flirtatious wife, whose psychological state deforms everything with desire.<ref>{{cite web|url=http://www.brightlightsfilm.com/66/66festsmelbourne.html|work=[[Bright Lights Film Journal]]|author=Chow, Lesley|date=November 2009|accessdate=4 December 2009|title=After the Surge}}</ref> Lead actor [[Serge Reggiani]] fell ill one week after shooting began and had to be replaced.<ref name="Lloyd2" /> Clouzot himself also became ill during production, which led doctors and insurance agents to order the production be stopped.<ref name="TET" /> Between 1965 and 1967, Clouzot filmed for French television five [[documentary films|documentaries]] of [[Herbert von Karajan]] conducting [[Requiem (Verdi)|Verdi's ''Requiem'']], [[Symphony No. 9 (Dvořák)|Dvořák's ''New World'' Symphony]], [[Symphony No. 4 (Schumann)|Schumann's 4th Symphony]], [[Symphony No. 5 (Beethoven)|Beethoven's 5th Symphony]] and [[Violin Concerto No. 5 (Mozart)|Mozart's 5th Violin Concerto]].<ref name="Lloyd8" /><ref name="Cinetom">(in French) [http://cinetom.canalblog.com/archives/2008/07/01/9777873.html "Henri-Georges Clouzot (1907–1977)"], ''Cinetom'', 1 July 2008. Retrieved 14 April 2010.</ref><ref name="Hayward117">Hayward 2005, p. 117.</ref> After production finished on the documentaries, Clouzot was able to finance his final picture.<ref name="Lloyd8" />
+
+Clouzot's return to work reassured the doctors and insurers and he returned to the film studio to make his final film ''La Prisonnière''.<ref name="TET" /> The film began production in September 1967 and was halted when Clouzot fell ill and was hospitalized until April 1968. He began filming ''La Prisonnière'' again in August 1968.<ref name="Lloyd8" /> Clouzot incorporated stylistic elements of his aborted film ''L'enfer'' into ''La Prisonnière''.<ref name="TET" /> ''La Prisonnière'' is about a woman who is introduced to a photographer who takes masochistic submissive pictures of young women. The woman volunteers herself as a model for these pictures and is surprised at her own pleasure in the activity.<ref>{{cite journal
+| last        = Schickel
+| first       = Richard
+| date        = 9 May 1969
+| title       = Clouzot's Fatal Refusal to Risk All
+| journal     = [[Life (magazine)|Life]]
+| volume      = 66
+| issue       = 18
+| pages       = 15
+| publisher   = Time Inc.
+| issn        = 0024-3019
+| url         = http://books.google.ca/books?id=h08EAAAAMBAJ
+| accessdate  = 4 December 2009
+}}</ref> After finishing ''La Prisonnière'', Clouzot's health grew worse.<ref name="TET" /> In the 1970s, he wrote a few more scripts without ever filming them,<ref name="TET" /> including a feature about [[Indochina]]. He also planned to direct a [[pornographic film]] in 1974 for Francis Micheline, but the film was abandoned.<ref name="Lloyd8" /><ref name="Godin" /> Clouzot's health grew worse and he required open-heart surgery in November 1976.<ref name="Lloyd8" /> On 12 January 1977 Clouzot died in his apartment while listening to ''[[La damnation de Faust|The Damnation of Faust]]''. Clouzot is buried beside Véra in the [[Montmartre Cemetery]].<ref name="TET" />
+
+===Personal life===
+In the late-1930s, Clouzot went to a cabaret show featuring entertainers [[Mistinguett]] and [[Suzy Delair]] at the Deus Anes Cabaret. Clouzot waited for Delair at the stage door and after meeting her, the two became a romantic couple for the next 12 years.<ref name="TET" /><ref name="Mayne22" /><ref name="Lloyd6">Lloyd 2007, p. 6.</ref> Clouzot had Delair star in two of his films, ''The Murderer Lives at Number 21'' and ''Quai des Orfèvres''.<ref name="amgQuaicast">{{cite web
+| title       = Quai des Orfèvres: Cast
+| url         = http://www.allmovie.com/work/quai-des-orfvres-26033/cast
+| work        = [[Allmovie]]
+| accessdate  = 17 August 2009 
+}}</ref><ref name="amg21cast">{{cite web
+| title       = L'Assassin Habite au 21: Cast
+| url         = http://www.allmovie.com/work/lassassin-habite-au-21-103239/cast
+| work        = [[Allmovie]]
+| accessdate  = 17 August 2009 
+}}</ref> Delair eventually left Clouzot after working with him on ''Quai des Orfèvres''.<ref name="Hayward2" />
+
+Clouzot met his first wife [[Véra Gibson-Amado|Vera Clouzot]] through actor [[Léo Lapara]], who had minor parts in ''Le Retour de Jean'' and ''Quai des Orfèvres''. Véra met Clouzot after divorcing Lapara and while working as a continuity assistant on Clouzot's ''Miquette et Sa Mère''.<ref name="Lloyd7" /> Clouzot named his production company after Véra and had her star in all three films made by the company: ''The Wages of Fear'', ''Diabolique'' and ''Les Espions''.<ref name="Hayward116">Hayward 2006, p. 116</ref> Véra also contributed to the script of ''La Vérité''.<ref name="amgVeriteCrew">{{cite web
+| title       = La Verité: Production credits
+| url         = http://www.allmovie.com/work/la-verit-130294/credits
+| work        = [[Allmovie]]
+| accessdate  = 17 August 2009 
+}}</ref> Véra Clouzot died of a heart attack shortly after the filming of ''La Vérité''. Clouzot fell into a depression over her death.<ref name="TET" /><ref name="Lloyd8" /> After her funeral, he moved to [[Tahiti]], but returned to France in December 1960.<ref name="Lloyd8" />
+
+Clouzot met his second wife, Inès de Gonzalez, for the first time at a casting call for a film based on [[Vladimir Nabokov]]'s ''[[Laughter in the Dark (novel)|Laughter in the Dark]]''. In 1962, Clouzot met de Gonzalez again after she had returned from South America.<ref name="TET" /> In December 1963, Clouzot and Inès de Gonzalez married.<ref name="Lloyd8" /> In the 1960s, Clouzot converted to [[Roman Catholicism]].<ref name="Cinetom"/>
+
+==Style==
+With the exception of the comedy film ''Miquette et sa mère'', every directorial feature of Clouzot involves deception, betrayal and violent deaths.<ref name="Lloyd11">Lloyd 2007, p. 11</ref>
+When basing screenplays on written work, Clouzot often changed the stories dramatically, using only key points of the original story. The author Stanislas-André Steeman, whom Clouzot worked with twice, said Clouzot would only "build something after having contemptuously demolished any resemblance to the original, purely for the ambition of effect".<ref name="Hayward3">Hayward 2005, p. 3.</ref> When writing for his own features, Clouzot created characters that were usually corrupt and spineless, with the capacity for both good and evil within them.<ref name="TET" />
+
+Clouzot was very demanding with his actors and would often quarrel with them to get them in the mood he desired.<ref name="Hayward3" /> Suzy Delair recalled that Clouzot slapped her, but said of it, "So what? He slapped others as well...He was tough but I'm not about to complain".<ref name="Mayne28">Mayne 2007, p.28</ref><ref name="Mayne29">Mayne 2007, p.29</ref> Pierre Fresnay recalled that Clouzot "worked relentlessly, which made for a juicy spectacle...That's to say nothing for his taste of violence, which he never tried with me".<ref name="Mayne29" /> When working with Bardot, one scene required Bardot's character to drool and sleep. Clouzot offered her powerful sleeping pills, saying they were aspirin, and this led to Bardot's stomach being [[gastric lavage|pumped]].<ref name="TET" /> Although Clouzot was harsh on his actors, he did not treat them fiercely off set. Delair recalled that off set there was an "innocence about him" that was not seen.<ref name="TET" />
+
+Clouzot biographer Marc Godin suggested Clouzot's life provides clues to understanding his style as a filmmaker.<ref name="Godin" /> Clouzot was viewed by many of his collaborators as a pessimist, short-tempered, and almost always angry.<ref name="Godin" /> Actress [[Brigitte Bardot]] described Clouzot as "a negative being, forever at odds with himself and the world around him".<ref name="Lloyd6" /> Clouzot's outlook on life is reflected in his own films that reveal the darker side of humanity.<ref name="Godin" />
+
+==Legacy==
+Despite criticism following the arrival of the French New Wave, career retrospectives of Clouzot's work have been positive. Twenty years after his death, film critic Noël Herpe wrote in the French film journal ''[[Positif (magazine)|Positif]]'' that "''Les Diaboliques'' (just like ''Les Espions'' and ''La Verite'') reveals a sterile and increasingly exaggerated urge to experiment with the powers of fiction".<ref name="Lloyd9">Lloyd 2007, p. 9</ref> Film historian Philipe Pilard wrote, "There is no doubt that if Clouzot had worked for Hollywood and applied the formulas of U.S. studios, today he would be lauded by the very critics who choose to ignore him".<ref name="Lloyd9" /> Clouzot today is generally known for his thriller films ''The Wages of Fear'' and ''Diabolique''.<ref name="Godin" /> Clouzot's ability in the genre led to comparisons with [[Alfred Hitchcock]].<ref name="amgBio" /><ref>{{cite web|author=Schneider, Dan|title=Film Reviews: The Wages of Fear|url=http://www.noripcord.com/reviews/film/the-wages-of-fear|accessdate=19 August 2009|date=18 December 2008}}</ref><ref name="Lloyd10">Lloyd 2007, p. 10</ref> Clouzot respected Hitchcock's work, stating, "I admire him very much and am flattered when anyone compares a film of mine to his".<ref name="Chandler">Chandler 2006, p. 239</ref>
+
+Several of Clouzot's films have been remade since their original releases. Director [[Otto Preminger]] adapted ''[[Le Corbeau]]'' into his 1951 film, ''[[The 13th Letter]]''.<ref name="Lloyd176">Lloyd 2007, p. 176</ref> In 1977, the year of Clouzot's death, [[William Friedkin]] directed a remake of ''The Wages of Fear'' called ''[[Sorcerer (film)|Sorcerer]]''.<ref name="amgBio" /> French director [[Claude Chabrol]] adapted Clouzot's script for ''[[Henri-Georges Clouzot's Inferno|L'Enfer]]'' in 1994 also titled ''[[L'Enfer (1994 film)|L'Enfer]]''.<ref>{{cite web
+| first       = Sandra
+| last        = Brennan
+| title       = L'Enfer: Overview
+| url         = http://allmovie.com/work/lenfer-133637
+| work        = [[Allmovie]]
+| accessdate  = 20 August 2009 
+}}</ref> In 1996, an American remake of ''Les Diaboliques'' was released under the title ''[[Diabolique (1996 film)|Diabolique]]'', starring [[Sharon Stone]].<ref>{{cite web
+| first       = Mark
+| last        = Deming
+| title       = Diabolique: Overview
+| url         = http://allmovie.com/work/diabolique-136041
+| work        = [[Allmovie]]
+| accessdate  = 20 August 2009 
+}}</ref>
+
+== Filmography ==
+{{Main|Henri-Georges Clouzot filmography}}
+<!-- please note the dates here are listed as the copyright dates, not the year of release -->
+* ''[[The Murderer Lives at Number 21]]'' (1942)
+* ''[[Le Corbeau]]'' (1943)
+* ''[[Quai des Orfèvres]]'' (1947)
+* ''[[Manon (film)|Manon]]'' (1949)
+* ''[[Return to Life|Retour à la Vie]]'' (1949)
+* ''[[Miquette (1950 film)|Miquette et Sa Mère]]'' (1950)
+* ''[[The Wages of Fear]]'' (1953)
+* ''[[Les Diaboliques (film)|Les Diaboliques]]'' (1954)
+* ''[[The Mystery of Picasso]]'' (1956)
+* ''[[Les Espions]]'' (1957)
+* ''[[The Truth (1960 film)|La Vérité]]'' (1960)
+* ''La Prisonnière'' (1968)
+
+==Notes==
+{{reflist|30em}}
+
+===References===
+*{{cite book
+ | last= Bocquet
+ | first= José-Louis
+ |author2=Godin, Marc
+ | title= Henri-Georges Clouzot Cinéaste
+ |publisher= La Sirène
+ |year= 1993
+ |url=http://books.google.ca/books?id=rHRZAAAAMAAJ
+ |accessdate=13 September 2009
+}}
+*{{cite book
+ | last= Chandler
+ | first= Charlotte
+ | title= It's Only a Movie: Alfred Hitchcock : A Personal Biography
+ |publisher= [[Hal Leonard Corporation]]
+ |year= 2006
+ |url=http://books.google.ca/books?id=glp97Y_eVSIC
+ |isbn= 1-55783-692-2
+ |accessdate=19 August 2009
+}}
+*{{cite book
+ | last= Hayward
+ | first= Susan
+ | title= Les diaboliques
+ |publisher= University of Illinois Press
+ |year= 2005
+ |url=http://books.google.ca/books?id=quqjE8WGLh4C
+ |accessdate=19 June 2010
+}}
+*{{cite book
+ | last= Lanzoni
+ | first= Rémi Fournier
+ | title= French Cinema: From its Beginnings to the Present
+ |publisher= [[Continuum International Publishing Group]]
+ |year= 2004
+ |isbn= 0-8264-1600-4
+ |url=http://books.google.ca/books?id=Nkyr7ARHY6sC
+ |accessdate=4 December 2009
+}}
+*{{cite book
+ | last= Lloyd
+ | first= Christopher
+ | title= Henri-Georges Clouzot
+ |publisher= [[Manchester University Press]]
+ |year= 2007
+ |isbn= 978-0-7190-7014-3
+}}
+*{{cite book
+ | last= Mayne
+ | first= Judith
+ | title= Le corbeau: French film guides series
+ |publisher= [[I.B. Tauris]]
+ |year= 2007
+ |isbn= 1-84511-370-5
+}}
+*{{cite book
+ | last= Singer
+ | first= Barnett
+ | title= Brigitte Bardot: A Biography
+ |publisher= [[McFarland & Company|McFarland]]
+ |year= 2006
+ |isbn= 0-7864-2515-6
+}}
+
+==External links==
+{{Commons category}}
+* {{Amg name |85313}}
+* {{IMDb name|0167241}}
+* [http://www.rottentomatoes.com/celebrity/henrigeorges_clouzot/ Henri-Georges Clouzot] at [[Rotten Tomatoes]]
+
+{{Henri-Georges Clouzot}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Clouzot, Henri-Georges}}
+[[Category:1907 births]]
+[[Category:1977 deaths]]
+[[Category:Burials at Montmartre Cemetery]]
+[[Category:Edgar Award winners]]
+[[Category:French Roman Catholics]]
+[[Category:French film directors]]
+[[Category:French screenwriters]]
+[[Category:People from Niort]]
+[[Category:French male writers]]

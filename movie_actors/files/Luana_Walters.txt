@@ -1,0 +1,83 @@
+{{Infobox person
+| name                      = Luana Walters
+| image                     = Luana Walters (1940), Misbehaving Husbands.jpg|thumb|Luana Walters (1940), in [[Misbehaving Husbands]]
+| image_size                = 
+| alt                       = 
+| caption                   = 
+| birth_name                = 
+| birth_date                = {{Birth date|1912|7|22}}
+| birth_place               = [[Los Angeles, California]], [[U.S.]]
+| death_date                = {{Death date and age|1963|5|19|1912|7|22}}
+| death_place               = [[Los Angeles, California]], U.S.
+| death_cause               = liver failure due to alcoholism
+| resting_place             = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline}} -->
+| nationality               = 
+| other_names               = 
+| ethnicity                 = <!-- Ethnicity should be supported with a citation from a reliable source -->
+| citizenship               = 
+| education                 = 
+| alma_mater                = 
+| occupation                = actress
+| years_active              = 1930-1956
+| known_for                 = western movies
+| notable_works             = 
+| spouse                    = Max Hoffman Jr. (1936-1945) (his death)
+| partner                   = 
+| children                  = 
+| parents                   = 
+| relatives                 = 
+}}
+
+'''Luana Walters''' (July 22, 1912 - May 19, 1963) was a motion picture actress from [[Los Angeles, California]].<ref>{{cite web | title= Luana Walters - Overview  | work=[[Allmovie]] | url=http://www.allmovie.com/artist/luana-walters-74517 | accessdate=8 September 2009}}</ref>
+
+Walters was an expert horsewoman which led to her discovery as an actress at a [[rodeo]] in [[Palm Springs, California]]. She won a woman's bucking contest which was being watched by a movie scout, who noticed her.
+
+Her film career began when she visited a friend on a [[United Artists]] lot. [[Douglas Fairbanks, Sr.]] was excited about her screen possibilities and arranged for a film test. However, only three days later Fairbanks went to Europe, and the test was never completed.
+
+Not long afterwards [[Joseph Schenck|Joe Schenck]] saw Walters on the dance floor at the Cocoanut Grove in [[Los Angeles, California]]. After viewing the abbreviated test made by Fairbanks, Schenck offered her a contract with United Artists. The studio did not make a movie in the next six months so Walters' option was not taken up.
+
+Walters' screen credits start with an uncredited role in ''[[Reaching for the Moon (1930 film)|Reaching for the Moon]]'' (1930). Her skill as an [[Equestrianism|equestrian]] helped her in parts in westerns like ''[[Ride 'Em Cowboy]]'' (1936), ''[[Where the West Begins (1938 film)|Where the West Begins]]'' (1938), ''[[Mexicali Rose]]'' (1939), and ''[[Law of the Wolf]]'' (1939).
+
+On several occasions Walters made films in which her work was left in the cutting room, from the final edit. This began when she made ''[[Reaching for the Moon (1930 film)|Reaching for the Moon]]'' with Fairbanks. Her parts were also deleted from ''[[Spawn of the North]]'' (1938) and ''[[Souls at Sea]]'' (1937). The former was a [[Henry Fonda]] feature and the latter paired Walters with [[Robert Cummings]].
+
+Walters was the first actress to portray [[Superman]]'s biological mother [[Lara (comics)|Lara]] in a live-action format.  She appeared in "Superman Comes to Earth", the first chapter of the 1948 ''[[Superman (serial)|Superman]]'' movie serial starring [[Kirk Alyn]] as [[Superman]].  Portions of this depiction appear in flashback in "At the Mercy of Atom Man!", the seventh chapter of the 1950 serial ''[[Atom Man vs. Superman]]''.
+
+As a fiery and sensual brunette, she worked in a number of [[movie serials]] and [[B-Movie]]s, especially in Westerns, featuring her riding skills, and [[sci-fi]] or horror genres.<ref>http://www.rottentomatoes.com/mobile/celebrity/luana_walters/</ref>
+
+She plays a female reporter on the trail of a fiend's story in ''[[The Corpse Vanishes]]'' (1942), with [[Bela Lugosi]]. She appears as a cellblock guard in ''[[Girls in Prison]]'' (1956). Her final role came in ''[[The She Creature]]'' (1956).<ref>http://www.tcm.com/tcmdb/person/201518%7C101766/Luana-Walters/filmography.html</ref>
+
+Luana Walters died of liver failure due to alcoholism in Los Angeles in 1963.<ref>{{cite web | title= Luana Walters (1912 - 1963)  | work=[[Find a Grave]] | url=http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=9118544 | accessdate=8 September 2009}}</ref>
+
+==References==
+{{reflist}}
+* The Helena Independent, ''Harrison In Hollywood'', December 23, 1938, Page 11.
+*[[Ironwood, Michigan]] Daily Globe, ''In Hollywood'', December 8, 1936, Page 6.
+*[[Mansfield, Ohio]] News Journal, ''Theaters'', June 29, 1942, Page 13.
+*Wisconsin Rapids Daily Tribune, ''At The Theaters'', March 3, 1938, Page 13.
+
+==External links==
+*{{IMDb name|0910294}}
+*[http://www.rottentomatoes.com/mobile/celebrity/luana_walters/ Luana Walters], at [[Rotten Tomatoes]]
+*[http://www.imdb.com/name/nm0910294/videogallery Some videos available for Luana Walters], on-line, via [[IMBD]]
+
+{{Authority control}}
+
+{{Persondata
+| NAME              = Walters Luana
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American actor
+| DATE OF BIRTH     = July 22, 1912
+| PLACE OF BIRTH    = [[Los Angeles, California]], [[U.S.]]
+| DATE OF DEATH     = May 19, 1963
+| PLACE OF DEATH    = [[Los Angeles, California]], U.S.
+}}
+{{DEFAULTSORT:Walters Luana}}
+[[Category:American film actresses]]
+[[Category:Western (genre) film actresses]]
+[[Category:Actresses from Los Angeles, California]]
+[[Category:1912 births]]
+[[Category:1963 deaths]]
+[[Category:Alcohol-related deaths in California]]
+[[Category:Deaths from liver disease]]
+[[Category:20th-century American actresses]]

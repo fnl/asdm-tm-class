@@ -1,0 +1,107 @@
+{{Infobox person
+| name                  = Jo Morrow
+| image                 = [[File:Jo-morrow-trailer.jpg|thumb|Jo Morrow in trailer to "The Three Worlds of Gulliver" (1960)]]
+| birth_date             = {{birth date and age|mf=yes|1939|11|1}}
+| birth_place            = [[Cuero, Texas]], USA
+| occupation            = Actress
+| yearsactive           = 1958–1976
+| spouse                = {{marriage|Jack Barnett|1963|1984}}
+}}
+'''Jo Morrow''' (born November 1, 1939 in [[Cuero, Texas]] as Beverly Jo Morrow<ref name="Glamour">[http://www.glamourgirlsofthesilverscreen.com/show/202/Jo+Morrow/index.html Glamour Girls of the silver screen: Jo Morrow biography] Retrieved 2011-09-22</ref>), is an American film actress.  Through a "Be a Star" contest she won a film contract with [[20th Century Fox]] (with [[Gary Cooper]] in ''[[Ten North Frederick]]'') in 1958.<ref name="IMDb bio">[http://www.imdb.com/name/nm0607507/bio IMDb Jo Marrow bio] Retrieved 2011-09-22</ref> After only one film with 20th Century-Fox she moved to [[Columbia Pictures]], allegedly because a producer at 20th Century Fox tried to make a pass at her.<ref name="Glamour"/>
+
+At Columbia she made some ten films and a dozen TV series episodes between 1958 and 1963, the most notable being ''[[Our Man in Havana]]'', in which she played [[Alec Guinness]]' daughter Milly.<ref name="IMDb Filmography">[http://www.imdb.com/name/nm0607507/filmoyear IMDb: Jo Morrow filmography] Retrieved 2011-09-22</ref>
+
+In 1963 she married Jack Barnett, songwriter for [[Jimmy Durante]].<ref name="Glamour"/> The 1964 birth of a deaf daughter<ref name="Glamour"/> forced her to give up movies for motherhood. She had a brief comeback in a few exploitation films and TV series episodes in the 1970s.<ref name="IMDb bio"/><ref name="IMDb Filmography"/>
+
+==Filmography<ref name="IMDb Filmography"/>==
+{|class="wikitable sortable"
+! Year
+! Film
+! Role
+|-
+| 1958
+| ''[[Ten North Frederick]]''
+|  Waitress
+|-
+| 1959
+| ''[[Juke Box Rhythm]]''
+|  Princess Ann
+|-
+| 1959
+| ''[[Gidget]]''
+|  Mary Lou
+|-
+| 1959
+| ''[[The Legend of Tom Dooley]]''
+| Laura Foster
+|-
+| 1959
+| ''[[Our Man in Havana (film)|Our Man in Havana]]''
+|  Milly Wormold
+|-
+| 1960
+| ''[[13 Ghosts]]''
+|  Medea Zorba
+|-
+| 1960
+| ''[[The Three Worlds of Gulliver]]''
+|  Gwendolyn
+|-
+| 1960
+| ''[[My Sister Eileen (TV series)|My Sister Eileen]]''
+| Unnamed role in "The Lease-Breakers"
+|-
+| 1962
+| ''[[Brushfire (film)|Brushfire!]]''
+|  Mary Carter
+|-
+| 1962
+| ''[[Lawman (TV series)|Lawman]]''
+|  Melanie
+|-
+|  1963
+| ''[[Sunday in New York]]''
+|  Mona Harris
+|-
+| 1964
+| ''[[He Rides Tall]]''
+|  Kate McCloud
+|-
+| 1973
+| ''[[Blume in Love]]''
+|  Bar Hostess
+|-
+| 1973
+| ''[[Terminal Island (film)|Terminal Island]]''
+|  Newswoman
+|-
+| 1973
+| ''[[Doctor Death: Seeker of Souls]]''
+|  Laura Sanders
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb name|607507}}
+*{{Tcmdb name|136137}}
+*[http://www.glamourgirlsofthesilverscreen.com/show/202/Jo+Morrow/index.html Glamour Girls of the silver screen: Jo Morrow biography] Retrieved 2011-09-22
+
+{{Authority control}}
+
+{{Persondata
+|NAME = Morrow, Jo
+|SHORT DESCRIPTION = Actor
+|DATE OF BIRTH = November 1, 1939
+|PLACE OF BIRTH = [[Cuero]], [[Texas]], USA
+|DATE OF DEATH =
+|PLACE OF DEATH =
+}}
+{{DEFAULTSORT:Morrow, Jo}}
+[[Category:1939 births]]
+[[Category:Living people]]
+[[Category:American film actresses]]
+[[Category:People from DeWitt County, Texas]]
+[[Category:Western (genre) film actresses]]
+[[Category:20th-century American actresses]]

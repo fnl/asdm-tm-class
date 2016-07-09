@@ -1,0 +1,53 @@
+{{use mdy dates|date=June 2014}}
+{{Infobox person
+| name        = Slim Whitaker
+| birth_date   = {{birth date|1893|7|29}}
+| birth_place  = [[Kansas City, Missouri]]
+| death_date   = {{death date and age|1960|6|27|1893|7|29}}
+| death_place  = [[Los Angeles, California]]
+| othername    = Charles Whitaker
+| occupation   = Actor
+| yearsactive  = 1914-1949
+}}
+
+'''Slim Whitaker''' (born '''Charles Whitaker''' July 29, 1893 &ndash; June 27, 1960) was an American film actor. He appeared in 345 films between 1914 and 1949. He was born in [[Kansas City, Missouri]] and died in [[Los Angeles, California]] from a [[myocardial infarction|heart attack]].
+
+==Partial filmography==
+* ''[[Eyes of Youth]]'' (1919)
+* ''[[The Radio King]]'' (1922)
+* ''[[Full Speed (1925 film)|Full Speed]]'' (1925)
+* ''[[The Phantom Buster]]'' (1927)
+* ''[[Oklahoma Cyclone]]'' (1930)
+* ''[[The Man from Monterey]]'' (1933)
+* ''[[The Law of the Wild]]'' (1934)
+* ''[[Border Vengeance]]'' (1935)
+* ''[[Lightning Carson Rides Again]]'' (1938)
+* ''[[The Fighting Gringo (1939 film)|The Fighting Gringo]]'' (1939)
+* ''[[Billy the Kid in Texas]]'' (1940)
+* ''[[Bullet Code]]'' (1940)
+
+==External links==
+*{{IMDb name|0924307|Slim Whitaker}}
+*{{Find a Grave|5823509}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Whitaker, Slim
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= [[Actor]]
+|DATE OF BIRTH= 29 July 1893
+|PLACE OF BIRTH= [[Kansas City, Missouri]]
+|DATE OF DEATH= 27 June 1960
+|PLACE OF DEATH= [[Los Angeles, California]]
+}}
+{{DEFAULTSORT:Whitaker, Slim}}
+[[Category:1893 births]]
+[[Category:1960 deaths]]
+[[Category:Deaths from myocardial infarction]]
+[[Category:American male film actors]]
+[[Category:American male silent film actors]]
+[[Category:Male Western (genre) film actors]]
+[[Category:20th-century American male actors]]
+[[Category:People from Kansas City, Missouri]]
+[[Category:Male actors from Missouri]]
+{{US-film-actor-1890s-stub}}

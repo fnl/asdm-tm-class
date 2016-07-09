@@ -1,0 +1,175 @@
+{{Use dmy dates|date=July 2012}}
+{{Infobox person
+| name        = Lindsay Anderson
+| image       = Lindsay_anderson.jpg
+| imagesize   = 215px
+| birth_date   = {{Birth date|1923|04|17|df=y}}
+| birth_place  = [[Bangalore]], [[British India]]
+| death_date   = {{Death date and age|1994|08|30|1923|05|17|df=y}}
+| death_place  = [[Angoulême]], [[France]]
+| other_names   =
+| occupation  = [[Film director]]
+| years_active = 1948–1993
+}}
+'''Lindsay Gordon Anderson''' (17 April 1923 – 30 August 1994)<ref name="Who Was Who">{{cite book|title=Who Was Who in America, 1993-1996, vol. 11|year=1996|publisher=Marquis Who's Who|location=New Providence, N.J.|isbn=0-8379-0225-8|page=6|chapter=Anderson, Lindsay Gordon}}</ref> was a British [[feature film]], [[theatre]] and [[Documentary film|documentary]] [[film director|director]], [[film critic]], and leading light of the [[Free Cinema]] movement and the [[British New Wave]].<ref>''25 Years of the English Stage Company at the Royal Court'', Richard Findlater (ed) Amber Lane Press 1981. ISBN 0-906399-22-X</ref><ref>''Curtain Times: The New York Theater 1965-67'', Otis L. Guernsey Jr, Applause 1987 ISBN 0-936839-23-6</ref> He is most widely remembered for his 1968 film ''[[if....]]'', which won the ''[[Palme d'Or]]'' at [[Cannes Film Festival]] and was [[Malcolm McDowell]]'s cinematic debut.<ref>{{cite web|url=http://www.festival-cannes.com/en/archives/1969/awardCompetition.html|year=1969|title=Cannes Film Festival archives}}</ref> He is also notable, though not a professional actor, for playing a minor role in the [[Academy Award]] winning film ''[[Chariots of Fire]]''. Malcolm McDowell produced a 2007 documentary about his experiences with Lindsay Anderson, ''[[Never Apologize]]''.<ref name=NYT/>
+
+==Early life==
+Of [[Scotland|Scottish]] parentage, Anderson was the son of a British Army officer. He was born in [[Bangalore]], [[South India]], and educated at [[St. Ronan's School|Saint Ronan's School]] in [[Worthing]], [[West Sussex]], and at [[Cheltenham College]], where he met his lifelong friend and biographer, the screenwriter and novelist [[Gavin Lambert]]; and at [[Wadham College, Oxford]], where he studied [[English language|English]].
+
+After graduating, Anderson worked for the final year of [[World War II]] as a [[cryptography|cryptographer]] for the [[Intelligence Corps (United Kingdom)|Intelligence Corps]], at the [[Wireless Experimental Centre]] in [[Delhi]]. Anderson assisted in nailing the [[Red flag (politics)|Red flag]] to the roof of the Junior Officers' mess in Annan Parbat, in August 1945, after the victory of the [[Labour Party (UK)|Labour Party]] in the [[United Kingdom general election, 1945|general election]] was confirmed.<ref name="StandUp">''Sight and Sound'', Autumn 1956, reprinted in Paul Ryan (ed) ''Never Apologise: The Collected Writings'', 2004, London: Plexus, p218-32, 228, 226. This article was reprinted in a shortened form in ''Universities and Left Review'' 1:1, Spring 1957, p44-48, 46, 46, and is online [http://www.amielandmelburn.org.uk/collections/ulr/1_cinema.pdf here], though only part of the second reference is reproduced.</ref> The colonel did not approve, he recalled a decade later, but no disciplinary action was taken against them.
+
+==Career==
+
+===Film criticism===
+Before going into film-making, Anderson was a prominent film critic writing for the influential ''[[Sequence (journal)|Sequence]]'' magazine (1947–52), which he co-founded with [[Gavin Lambert]] and [[Karel Reisz]]; later writing for the [[British Film Institute]]'s journal ''[[Sight and Sound]]'' and the [[left-wing]] political weekly the ''[[New Statesman]]''. In a 1956 [[polemics|polemical]] article, "Stand Up, Stand Up" for ''Sight and Sound'', he attacked contemporary critical practices, in particular the pursuit of [[objectivity (science)|objectivity]]. Taking as an example some comments made by [[Alistair Cooke]] in 1935, where Cooke claimed to be without politics as a critic, Anderson responded:
+{{quote|The problems of commitment are directly stated, but only apparently faced. …The denial of the critics moral responsibility is specific; but only at the cost of sacrificing his dignity. … [These assumptions:] the holding of liberal, or humane, values; the proviso that these must not be taken too far; the adoption of a tone which enables the writer to evade through humour [mean] the fundamental issues are balked."<ref name="StandUp"/>}}
+
+Following a series of screenings which he and the [[National Film Theatre]] programmer [[Karel Reisz]] organized for the venue of independently-produced short films by himself and others, he developed a philosophy of cinema which found expression in what became known, by the late-1950s, as the [[Free Cinema]] movement.<ref>{{cite encyclopedia | year = 2002 | encyclopedia = Encyclopedia of Contemporary British Culture | publisher = Routledge | location = London | editor1-first = Peter | editor1-last = Childs | editor2-first = Mike | editor2-last = Storry | title = Anderson, Lindsay | page = 23 }}</ref> This was the belief that the British cinema must break away from its class-bound attitudes and that non-metropolitan Britain ought to be shown on the nation's screens.
+
+===Filmmaking===
+Along with [[Karel Reisz]], [[Tony Richardson]], and others, he secured funding from a variety of sources (including [[Ford of Britain]]) and they each made a series of short documentaries on a variety of subjects. One of Anderson's early short films, ''[[Thursday's Children]]'' (1954), concerning the education of [[deaf]] children, made in collaboration with Guy Brenton, a friend from his Oxford days, won an [[Academy Awards|Oscar]] for Best Documentary Short in 1954.
+
+These films, influenced by one of Anderson' heroes, the [[French people|French]] filmmaker [[Jean Vigo]], and made in the tradition of the British documentaries of [[Humphrey Jennings]], foreshadowed much of the social realism of British cinema that emerged in the next decade, with Reisz's ''[[Saturday Night and Sunday Morning (film)|Saturday Night and Sunday Morning]]'' (1960), Richardson's ''[[The Loneliness of the Long Distance Runner]]'' (1962) and Anderson's own ''[[This Sporting Life]]'' (1963), produced by Reisz. Anderson's film met with mixed reviews at the time, and was not a commercial success.
+
+Anderson is perhaps best remembered as a filmmaker for his "[[Mick Travis trilogy]]", all of which star [[Malcolm McDowell]] as the title character: ''[[If....]]'' (1968), a satire on public schools; ''[[O Lucky Man!]]'' (1973) a ''[[Pilgrim's Progress]]'' inspired road movie; and ''[[Britannia Hospital]]'' (1982), a fantasia taking stylistic influence from the populist wing of British cinema represented by [[Hammer Film Productions|Hammer]] horror films and Carry On comedies.<ref name=NYT>{{cite web|date=14 August 2008|author=Catsoulis, Jeannette|title=An Actor's Playful Tribute to a Dissident Director|work=[[The New York Times]]|url=http://movies.nytimes.com/2008/08/15/movies/15ande.html?gwh=ECE27E9A00BD814CBE1C6C8784888E14}}</ref>
+
+In 1981, Anderson played the role of the Master of [[Gonville and Caius College, Cambridge|Caius College]] at [[University of Cambridge|Cambridge University]] in the film ''[[Chariots of Fire]]''.
+
+Anderson developed an acquaintance from 1950 with [[John Ford]], which led to what has come to be regarded as one of the standard books on that director, Anderson's ''About John Ford'' (1983). Based on half a dozen meetings over more than two decades, and a lifetime's study of the man's work, the book has been described as "One of the best books published by a film-maker on a film-maker".<ref>David Castell, ''[[Daily Telegraph]]'', cited on back cover of UK paperback edition</ref>
+
+In 1985, producer [[Martin Lewis (humorist)|Martin Lewis]] invited Anderson to chronicle [[Wham!]]'s visit to [[People's Republic of China|China]], the first-ever visit by Western pop artists, which resulted in Anderson's film ''Foreign Skies: Wham! In China''. He admitted in his diary on 31 March 1985, to having "no interest in Wham!", or China, and he was simply "'doing this for the money'".<ref>Paul Sutton (ed) ''Lindsay Anderson: The Diaries'', 2004, London: Methuen, p434</ref> In 1986, he was a member of the jury at the [[36th Berlin International Film Festival]].<ref name="Berlinale">{{cite web |url=http://www.berlinale.de/en/archiv/jahresarchive/1986/04_jury_1986/04_Jury_1986.html |title=Berlinale: 1986 Juries |accessdate=14 January 2011 |work=berlinale.de}}</ref>
+
+Anderson was also a significant British theatre director. He was long associated with London's [[Royal Court Theatre]], where he was Co-Artistic Director 1969–70, and Associate Artistic Director 1971–75, directing premiere productions of plays by [[David Storey]], among others.
+
+In 1992, as a close friend of actresses [[Jill Bennett (British actress)|Jill Bennett]] and [[Rachel Roberts (British actress)|Rachel Roberts]], Anderson included a touching episode in his autobiographical [[BBC]] film ''Is That All There Is?'', with a boat trip down the [[River Thames]] (several of their professional colleagues and friends aboard) to scatter their ashes on the waters while musician [[Alan Price]] sang the song "[[Is That All There Is?]]".
+
+Every year, the International Documentary Festival in Amsterdam ([[IDFA]]) gives an acclaimed filmmaker the chance to screen his or her personal Top 10 favorite films. In 2007, [[Iranian people|Iranian]] filmmaker [[Maziar Bahari]] selected ''[[O Dreamland]]'' and ''[[Every Day Except Christmas]]'' (1957), a record of a day in the old [[Covent Garden]] market, for his top 10 classics from the history of documentary.[3]
+
+==Personal life==
+[[Gavin Lambert]]'s memoir, ''Mainly About Lindsay Anderson'', in which he claimed that Anderson repressed his [[homosexuality]], was seen as a betrayal by his other friends. {{Citation needed|date=May 2011}} [[Malcolm McDowell]] was quoted in 2006 as saying:
+{{quote|I know that he was in love with [[Richard Harris]] the star of Anderson's first feature, ''This Sporting Life''. I am sure that it was the same with me and [[Albert Finney]] and the rest. It wasn't a physical thing. But I suppose he always fell in love with his leading men. He would always pick someone who was unattainable because he was [[heterosexual]].<ref>Geoffrey Macnab [http://www.independent.co.uk/arts-entertainment/films/features/malcolm-mcdowell-lindsay-anderson-and-me-424385.html "Malcolm McDowell: Lindsay Anderson and me",] ''The Independent'', 15 November 2006. Retrieved on 11 May 2009. For Anderson's feelings about Richard Harris at the time ''This Sporting Life'' was in production during 1962, see Paul Sutton (ed) ''The Diaries: Lindsay Anderson'', 2004, London: Methuen, Chapter 3, especially p77-80.</ref>}}
+
+==Theatre productions==
+All Royal Court, London, unless otherwise indicated:
+
+* ''[[The Waiting of Lester Abbs]]'' ([[Kathleen Sully]], 1957)
+* ''[[The Long and the Short and the Tall (play)|The Long and the Short and the Tall]]'' ([[Willis Hal]],1959)
+* ''[[Progress to the Park]]'' ([[Alun Owen]], 1959)
+* ''[[The Trial of Cob and Leach/Jazzetry]]'' ([[Christopher Logue]], 1959)
+* ''[[Serjeant Musgrave's Dance]]'' ([[John Arden]], 1959)
+* ''[[The Lily White Boys]]'' (Harry Cookson and Christopher Logue, 1960)
+* ''[[Trials by Logue: Antigone/Cob and Leach]]'' (Christopher Logue, 1960)
+* ''[[Diary of a Madman (film)|Diary of a Madman]]'' ([[Gogol]] adaptation, 1963)
+* ''[[Box and Cox]]'' ([[John Maddison Morton]], 1961)
+* ''[[The Fire Raisers (play)|The Fire Raisers]]'' ([[Max Frisch]], 1961)
+* ''[[Julius Caesar (play)|Julius Caesar]]''  ([[William Shakespeare]], 1964)
+* ''[[Andorra (play)|Andorra]]'' (Max Frisch, [[Royal National Theatre|National Theatre]] at the [[Old Vic]], 1964)
+* ''[[The Cherry Orchard]]'' ([[Anton Chekhov]], [[Chichester Festival Theatre]], 1966)
+* ''[[Inadmissible Evidence]]'' ([[John Osborne]], [[Teatr Współczesny, Warsaw]], 1966)
+* ''The Contractor'' ([[David Storey]], 1969)
+* ''[[Home (play)|Home]]'' (David Storey, also [[Morosco Theatre]] NY, 1970)
+* ''[[The Changing Room]]'' (David Storey, 1971)
+* ''[[The Farm (play)|The Farm]]''  (David Storey, 1973)
+* ''[[Life Class]]''  (David Storey, 1974)
+* ''[[In Celebration]]''  (David Storey 1974)
+* ''[[What the Butler Saw (play)|What the Butler Saw]]'' ([[Joe Orton]], 1975)
+* ''[[The Seagull]]'' (Anton Chekhov, [[Lyric Theatre (London)|Lyric Theatre]], 1975); in repertory with
+* ''[[The Bed Before Yesterday]]'' ([[Ben Travers]], Lyric Theatre, 1975)
+* ''[[The Kingfisher]]'' ([[William Douglas-Home|William Douglas Home]], Lyric Theatre 1977, [[Samuel J. Friedman Theatre|Biltmore]] NY, 1978)
+* ''[[Alice's Boys]]'' ([[Felicity Brown]] and Jonathan Hayes, [[Savoy Theatre]], 1978)
+* ''[[Early Days (theatre production)|Early Days]]'' (David Storey, National [[Cottesloe Theatre]], 1980)
+* ''[[The Holly and the Ivy (play)|The Holly and the Ivy]]'' ([[Wynyard Browne]], [[Roundabout]] New York, 1982)
+* ''[[The Cherry Orchard]]'' (Anton Chekhov, [[Theatre Royal Haymarket]], 1983)
+* ''[[The Playboy of the Western World]]'' ([[John Millington Synge]], 1984)
+* ''[[In Celebration]]'' revival (David Storey, [[Manhattan Theatre Club]], NY, 1984)
+* ''[[Holiday]]'' ([[Philip Barry]], Old Vic, 1987)
+* ''[[The March on Russia]]'' (David Storey, National [[Lyttelton Theatre]], 1989)
+* ''[[The Fishing Trip]]'' ([[Frank Grimes (actor)|Frank Grimes]], [[Warehouse Theatre]], 1991)
+* ''[[Stages (play)|Stages]]'' (David Storey, National [[Cottesloe Theatre]], 1992)
+
+==Filmography==
+* ''[[This Sporting Life]]'' (1963)
+* ''[[The White Bus]]'' (1967)
+* ''[[if....]]'' (1968)
+* ''[[O Lucky Man!]]'' (1973)
+* ''[[In Celebration]]'' (1975)
+* ''[[Look Back in Anger (1980 film)|Look Back in Anger]]'' (1980)
+* ''[[Britannia Hospital]]'' (1982)
+* ''[[The Whales of August]]'' (1987)
+* ''[[Glory! Glory!]]'' (1989)
+
+==Documentary and TV==
+* ''[[Meet the Pioneers]]'' (1948)
+* ''[[Idlers that Work]]'' (1949)
+* ''[[Three Installations]]'' (1951)
+* ''[[Wakefield Express (film)|Wakefield Express]]'' (1952)
+* ''[[Thursday's Children]]'' (1953)
+* ''[[O Dreamland]]'' (1953)
+* ''[[Trunk Conveyor]]'' (1954)
+* ''[[Foot and Mouth (film)|Foot and Mouth]]'' (1955)
+* ''[[A Hundred Thousand Children]]'' (1955)
+* ''[[The Children Upstairs]]'' (1955)
+* ''[[Green and Pleasant Land (film)|Green and Pleasant Land]]'' (1955)
+* ''[[Henry (1955 film)|Henry]]'' (1955)
+* ''[[£20 a Ton]]'' (1955)
+* ''[[Energy First]]'' (1955)
+* ''[[Every Day Except Christmas]]'' (1957)
+* ''[[March to Aldermaston]]'' (1959)
+* ''[[The Singing Lesson]]'' (1967)
+* ''[[Home (1971 film)|Home]]'' (1971)
+* ''[[The Old Crowd]]'', screenplay by [[Alan Bennett]] ([[LWT]], 1979)
+* ''[[Foreign Skies: Wham! In China]]'' (also known as "If You Were There") (1985)
+* ''[[Glory! Glory!]]'' (1989)
+* ''[[Is That All There Is? (film)|Is That All There Is?]]'' (Autobiographical film for BBC, 1993)
+
+==See also==
+* [[Kitchen sink realism]]
+* [[Jill Bennett (British actress)|Jill Bennett]]
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* ''About John Ford'' (1983) ISBN 0-85965-014-6
+* ''The Diaries of Lindsay Anderson'' ed. Paul Sutton (2004) ISBN 0-413-77397-3
+* [http://books.google.com/books?id=3rEcAQAAIAAJ&q=never+apologise&dq=never+apologise&num=20&client=firefox-a ''Never Apologise: The Collected Writings of Lindsay Anderson''] (2004) ISBN 0-85965-317-X
+* ''Six English Filmmakers'' (2014) ISBN 978-0957246256 - Anderson and his colleagues in conversation with Sutton.
+
+==External links==
+*[http://www.brightcove.tv/title.jsp?title=1482435230 Lindsay Anderson - A Celebration]
+*{{IMDb name|id=0000755|name=Lindsay Anderson}}
+*[http://www.lindsayanderson.com The Lindsay Anderson Memorial Foundation]
+*[http://www.channel4.com/fourdocs/archive/o_dreamland.html Watch O Dreamland on FourDocs]
+*[http://www.screenonline.org.uk/film/id/444789/index.html The BFI's "screenonline" on Free Cinema]
+*[http://www.screenonline.org.uk/people/id/446941/ The BFI's "screenonline" for Lindsay Anderson]
+*[http://www.is.stir.ac.uk/libraries/collections/anderson/index.php The Lindsay Anderson Archive at Stirling University, Scotland]
+*[http://www.lib.berkeley.edu/MRC/ukbib.html#anderson Lindsay Anderson Bibliography] (via UC Berkeley)
+
+{{Lindsay Anderson}}
+{{Mick Travis}}
+
+{{Authority control}}
+
+{{Persondata
+|NAME= Anderson, Lindsay
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= British film director
+|DATE OF BIRTH= 17 April 1923
+|PLACE OF BIRTH= [[Bangalore]], India
+|DATE OF DEATH= 30 August 1994
+|PLACE OF DEATH= [[Angoulême]], France
+}}
+{{DEFAULTSORT:Anderson, Lindsay}}
+[[Category:British film directors]]
+[[Category:British experimental filmmakers]]
+[[Category:Deaths from myocardial infarction]]
+[[Category:English-language film directors]]
+[[Category:English film critics]]
+[[Category:Gay writers]]
+[[Category:LGBT directors]]
+[[Category:LGBT writers from England]]
+[[Category:People educated at Cheltenham College]]
+[[Category:Alumni of Wadham College, Oxford]]
+[[Category:People from Bangalore]]
+[[Category:1923 births]]
+[[Category:1994 deaths]]

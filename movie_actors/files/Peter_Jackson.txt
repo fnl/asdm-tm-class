@@ -1,0 +1,850 @@
+{{Other people|Peter Jackson}}
+{{Use New Zealand English|date=February 2014}}
+{{Use dmy dates|date=February 2014}}
+{{Infobox person
+| name             = Sir Peter Jackson
+| birth_name       = {{nowrap|Peter Robert Jackson}}
+| honorific_suffix = {{post-nominals|country=NZL-cats|ONZ|KNZM}}
+| image            = Peter Jackson SDCC 2014.jpg
+| imagesize        = 180px
+| caption          = Jackson at the 2014 [[San Diego Comic Con International]]
+| birth_name       = Peter Robert Jackson
+| birth_date       = {{birth date and age|1961|10|31|df=y}}
+| birth_place      = [[Wellington]], [[New Zealand]]
+| occupation       = [[Filmmaking|Filmmaker]]
+| years active     = 1976{{ndash}}present
+| net_worth        = NZ $600 million
+| spouse           = [[Fran Walsh]] (1987{{ndash}}present)
+| children         = 2
+}}
+'''Sir Peter Robert Jackson''' {{post-nominals|country=NZL-cats|ONZ|KNZM}} (born 31 October 1961) is a New Zealand filmmaker. He is best known as the director and producer of [[The Lord of the Rings (film series)|''The Lord of the Rings'' trilogy]] (2001–2003) and [[The Hobbit (film series)|''The Hobbit'' trilogy]] (2012–2014), both of which are adapted from the novels of the same name by [[J. R. R. Tolkien]]. Other notable films include the drama ''[[Heavenly Creatures]]'' (1994), the mockumentary ''[[Forgotten Silver]]'' (1995), the horror comedy ''[[The Frighteners]]'' (1996), the epic monster film ''[[King Kong (2005 film)|King Kong]]'' (2005) and the supernatural drama film ''[[The Lovely Bones (film)|The Lovely Bones]]'' (2009). He also produced ''[[District 9]]'' (2009), ''[[The Adventures of Tintin: The Secret of the Unicorn]]'' (2011) and the documentary ''[[West of Memphis]]'' (2012).
+
+Jackson began his career with the "[[splatter film|splatstick]]" horror comedy ''[[Bad Taste]]'' (1987) and the [[black comedy]] ''[[Meet the Feebles]]'' (1989) before filming the zombie comedy ''[[Braindead (film)|Braindead]]'' (1992). He shared an [[Academy Award for Best Original Screenplay]] nomination with his partner [[Fran Walsh]]<ref name="barnes">{{cite news | url=http://www.nytimes.com/2012/12/02/movies/middle-earth-wizards-not-so-silent-partner.html?pagewanted=all | title= Middle-Earth Wizard’s Not-So-Silent Partner | work=New York Times | date=November 30, 2012 | author=Brooks Barnes}}</ref> for ''Heavenly Creatures'', which brought him to mainstream prominence in the film industry. Jackson has been awarded three [[Academy Awards]] in his career, including the award for [[Academy Award for Best Director|Best Director]] in 2003, and has been nominated for nine Academy Awards overall. He has also received a [[Golden Globe Award for Best Director|Golden Globe]], four [[Saturn Award for Best Direction|Saturn Award]]s and three [[BAFTA Award for Best Direction|BAFTAs]] amongst others.
+
+His production company is [[Wingnut Films]], and his most regular collaborators are co-writers and producers Walsh and [[Philippa Boyens]]. Jackson was made a Companion of the [[New Zealand Order of Merit]] in 2002. He was later knighted (as a Knight Companion of the New Zealand Order of Merit) by [[Anand Satyanand]], the [[Governor-General of New Zealand]], at a ceremony in Wellington in April 2010. In December 2014, Jackson was awarded a star on the [[Hollywood Walk of Fame]].<ref>{{cite news|title=Peter Jackson gets star on Hollywood Walk of Fame|url=http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&objectid=11364213|accessdate=25 November 2014|publisher=''[[The New Zealand Herald]]''|date=25 November 2014}}</ref>
+
+==Early life==
+Jackson was born on 31 October 1961 in Wellington<ref>{{cite book|last=Pryor|first=Ian|title=Peter Jackson: From Prince of Splatter to Lord of the Rings|edition=Paperback|publisher=[[Random House]]|year=2003|page=25|isbn=978-0-7528-6970-4|quote=Shortly before sunset on October 31, Joan Jackson gave birth to her first child at Wellington Hospital}}</ref><!-- Do not remove without first discussing in the talk page. Some online sources have his place of birth wrongly at Pukerua Bay. --> and was raised at the nearby coastal town of [[Pukerua Bay]].<ref name=NZonScreen>{{cite web|url=http://www.nzonscreen.com/person/peter-jackson/biography|title=Peter Jackson – Biography|publisher=NZ On Screen|accessdate=16 January 2014}}</ref> His parents&nbsp;- Joan (née Ruck),<ref name="Peter Jackson: From Prince of Splatter to Lord of the Rings pp20">{{cite book |last=Pryor |first=Ian |title=Peter Jackson: From Prince of Splatter to Lord of the Rings |edition=Paperback |publisher=[[Random House]] |year=2003 |page=20 |isbn=978-0-7528-6970-4 }}</ref><ref name="Richard Hill: The Autobiography pp22">{{cite book |last=Hill |first=Richard |title=Richard Hill: The Autobiography |edition=Hardcover |publisher=[[Orion Books]] |year=2006 |page=22 |isbn=1-86941-555-8 }}</ref> a factory worker and housewife, and William (Bill) Jackson, a wages clerk&nbsp;- were both immigrants from [[England]].<ref>{{cite web|url=http://www.filmreference.com/film/87/Peter-Jackson.html |title=FilmReference.com |publisher=FilmReference.com |accessdate=24 March 2010}}</ref><ref>{{Cite news|author=David Smith |url=http://www.guardian.co.uk/film/2003/nov/30/lordoftherings.features |title=Guardian.co.uk |work=Guardian |date= 30 November 2003|accessdate=24 March 2010 | location=London}}</ref> His father was a veteran of the [[Siege of Malta (World War II)|Siege of Malta]] in [[World War II]]. As a child, Jackson was a keen film fan, growing up on [[Ray Harryhausen]] films, as well as finding inspiration in the television series ''[[Thunderbirds (TV series)|Thunderbirds]]'' and ''[[Monty Python's Flying Circus]]''. After a family friend gave the Jacksons a [[Super 8 mm film|Super 8]] cine-camera with Peter in mind, he began making short films with his friends. Jackson has long cited ''[[King Kong (1933 film)|King Kong]]'' as his favourite film, and around the age of nine he attempted to remake it using his own stop-motion models.<ref>{{cite web| url=http://www.darkhorizons.com/interviews/623/peter-jackson-for-king-kong- | title=Interview: Peter Jackson "King Kong" | work=Gorilla Nation | date=5 December 2005 | accessdate=27 May 2009 | author=Paul Fischer}}</ref> Also, as a child Jackson made a WWII epic called "The Dwarf Patrol" seen on the Bad Taste bonus disc which featured his first special effect of poking pinholes in the film for gun shots, and a [[James Bond]] spoof named ''Coldfinger''.<ref>{{cite web|url=http://www.pastemagazine.com/articles/2009/12/salute-your-shorts-peter-jacksons-forgotten-silver.html |title=Salute Your Shorts: Peter Jackson's "Forgotten Silver"|publisher=Paste Magazine |date=11 December 2009|first=Sean|last=Gandert |accessdate=26 May 2010 }}</ref> Most notable though was a 20-minute [[short film|short]] called ''[[The Valley (1976 film)|The Valley]]'', which won him a special prize because of the shots he used.
+
+In school, Jackson expressed no interest in sports. His classmates also remember him wearing a [[duffle coat]] with "an obsession verging on religious". Jackson had no formal training in film-making, but learned about editing, special effects and make-up largely through his own trial and error. As a young adult, Jackson discovered the work of author [[J. R. R. Tolkien]] after watching ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]'' (1978), an animated film by [[Ralph Bakshi]] that was a part-adaptation of Tolkien's fantasy trilogy.<ref name="NZ_Herald_10408133">{{cite news |url=http://www.nzherald.co.nz/movies/news/article.cfm?c_id=200&objectid=10408133&pnum=0 |title=Peter Jackson's trip from splatstick to RAF |author=Baillie, Russell |date=29 October 2006 |work=[[The New Zealand Herald]] |accessdate=2 November 2011}}</ref> When he was 16 years old, Jackson left school and began working full-time as a [[photoengraving|photo-engraver]] for a Wellington newspaper, The Evening Post. For the seven years he worked there, Jackson lived at home with his parents so he could save as much money as possible to spend on film equipment. After two years of work Jackson bought a [[16 mm film|16 mm]] [[camera]], and began shooting a film that later became ''[[Bad Taste]]''.<ref>{{cite web|url=http://www.achievement.org/autodoc/page/jac0int-5 |title=interview, 3 June 2006 |publisher=Achievement.org |date=2009-05-26 |accessdate=2012-12-25}}</ref>
+
+==Influences and inspirations==
+Jackson has long cited several films as influences. It is well known that Jackson has a passion for ''King Kong'', often citing it as his favourite film and as the film that inspired him early in his life. Jackson recalls attempting to remake ''King Kong'' when he was 12. At the 2009 [[San Diego Comic-Con International]], while being interviewed alongside ''Avatar'' and ''Titanic'' director [[James Cameron]], Jackson said certain films gave him a "kick". He mentioned [[Martin Scorsese]]'s crime films ''[[Goodfellas]]'' and ''[[Casino (film)|Casino]]'', remarking on "something about those particular movies and the way Martin Scorsese just fearlessly rockets his camera around and has shot those films that I can watch those movies and feel inspired."<ref name="PJI">{{cite web|url=http://www.youtube.com/watch?v=6ospb1YaFMg|title=Peter Jackson Inspiration|publisher=Youtube |accessdate=2 February 2013}}</ref> Jackson has also said the 1970 film [[Waterloo (1970 film)|''Waterloo'']] inspired him in his youth.<ref name="PJI2">{{cite web|url=http://www.youtube.com/watch?v=IsDHxbLR6fE|title=Peter Jackson Inspiration 2|publisher=Youtube |accessdate=2 February 2013}}</ref>
+
+==Career==
+
+===Splatter phase===
+Jackson's first feature was ''[[Bad Taste]]'', a haphazard fashion  [[splatter film|splatter]] comedy, which included many of Jackson's friends acting and working on it for free. Shooting was normally done in the weekends since Jackson was then working full-time. ''Bad Taste'' is about aliens that come to earth with the intention of turning humans into food. Jackson had two acting roles including a famous scene in which he fights himself on top of a cliff. The film was finally completed thanks to a late injection of finance from the [[New Zealand Film Commission]], after Jim Booth, the body's executive director, became convinced of Jackson's talent (Booth later left the Commission to become Jackson's producer). In May 1987, ''Bad Taste'' was unveiled at the [[Cannes Film Festival]], where rights to the film quickly sold to twelve countries.
+
+Around this time, Jackson began working on writing a number of film scripts, in varied collaborative groupings with playwright Stephen Sinclair, writer [[Fran Walsh]] and writer/actor [[Danny Mulheron]]. Walsh would later become his life partner.<ref name="barnes" /> Some of the scripts from this period, including a sequel to ''[[A Nightmare on Elm Street]]'', have never been made into movies; the proposed [[zombie]] film ''[[Braindead (film)|Braindead]]'' underwent extensive rewrites.
+
+Jackson's next film to see release was ''[[Meet the Feebles]]'' (1989), co-written by the four writers mentioned above. An ensemble musical comedy starring [[The Muppets|Muppet]]-style puppets, ''Meet the Feebles'' originally began as a short film intended for television, but was rapidly expanded into a full-length film after unexpected enthusiasm from Japanese investors, and the collapse of ''Braindead'', six weeks before filming. Begun on a very low budget, ''Meet the Feebles'' went weeks over schedule. Jackson stated of his second feature-length film, "It's got a quality of humour that alienates a lot of people.. It's very black, very satirical, very savage."<ref>Ian Pryor, 'Meet the Feebles', ''Evening Post'', 24 August 1989, p.25.</ref> ''Feebles'' marked Jackson's first collaboration with special effects team [[Richard Taylor (filmmaker)|Richard Taylor]] and Tania Rodger, who would later work on all Jackson's movies.
+
+Jackson's next release was the horror comedy ''[[Braindead (film)|Braindead]]'' (1992) (released in North America as ''Dead Alive''), now seen as a landmark in splatter movies.{{Citation needed|date=January 2013}} Originally planned as a Spanish co-production, the film reversed the usual zombie plot. Rather than keeping the zombies out of his place of refuge, the hero attempts to keep them inside, while maintaining a façade of normality. The film features extensive special effects including miniature trams, stop motion and a plethora of gory make-up effects.
+
+===''Heavenly Creatures'' and ''Forgotten Silver''===
+Released in 1994 after Jackson won a race to bring the story to the screen, ''[[Heavenly Creatures]]'' marked a major change for Jackson in terms of both style and tone. The film is based on the real [[Parker–Hulme murder case]] in which two teenage girls in 1950s [[Christchurch]] became close friends and later murdered the mother of one of the girls. Jackson's partner Fran Walsh helped persuade him that the events had the makings of a movie; Jackson has been quoted saying that the film "only got made" because of her enthusiasm for the subject matter.<ref>Andy Webster, 'The Frightener', ''Premiere'', August 1996, p.26.</ref> Many New Zealanders were apprehensive about how Jackson would treat the material, an apprehension that would later turn in many cases to relief. The film's fame coincided with the New Zealand media tracking down the real-life Juliet Hulme, who now writes books under the name [[Anne Perry]]. Jackson would cast the actors [[Melanie Lynskey]] and [[Kate Winslet]] in the roles of Parker and Hulme. ''Heavenly Creatures'' received considerable critical acclaim, including an [[Academy Award]] nomination for [[Best Original Screenplay]] and making top ten of the year lists in ''Time'', ''[[The Guardian]]'', ''[[The Sydney Morning Herald]]'', and ''[[The New Zealand Herald]]''. The success of ''Heavenly Creatures'' won Jackson attention from US company [[Miramax]], who promoted the film vigorously in America and signed the director to a [[First look deal|first-look deal]].
+
+The following year, in collaboration with Wellington film-maker [[Costa Botes]], Jackson co-directed the [[mockumentary]] ''[[Forgotten Silver]]'' (1995). This ambitious made-for-television piece told the story of New Zealand film pioneer [[Forgotten Silver|Colin McKenzie]], who had supposedly invented colour film and 'talkies', and attempted an epic film of ''[[Salome]]'' before being forgotten by the world. Though the programme played in a slot normally reserved for drama, no other warning was given that it was fictionalised and many viewers were outraged at discovering Colin McKenzie had never existed.<ref>{{cite web | url = http://www.davidbordwell.net/blog/?p=596 | title = Observations on film art and ''Film Art'' | publisher = David Bordwell | accessdate = 27 March 2007}}</ref><ref>{{cite web | first=Craig |last=Hight | url = http://www.waikato.ac.nz/film/mock-doc/fs.shtml | title = Forgotten Silver | work = Mock-documentary: the subversion of factuality | publisher = Screen and Media Studies Department, University of Waikato, New Zealand | accessdate = 27 March 2007}} Derived from {{cite book |last=Roscoe |first=Jane |authorlink= |author2=Craig Hight |title=Faking It: Mock-documentary and the subversion of factuality |url=http://www.waikato.ac.nz/film/mock-doc/book.shtml |year=2001 |publisher=Manchester University Press |location=Manchester, UK |isbn=0-7190-5641-1}}</ref> The number of people who believed the increasingly improbable story provides testimony to Jackson and Botes' skill at playing on New Zealand's [[national myth]] of a nation of innovators and forgotten trail-blazers.<ref>Geoff Chapple, 'Gone, not forgotten', ''New Zealand Listener'', 25 November 1995, p.26.</ref>
+
+===Hollywood, Weta, and the Film Commission===
+The success of ''[[Heavenly Creatures]]'' helped pave the way for Jackson's first big budget Hollywood film, ''[[The Frighteners]]'' starring [[Michael J. Fox]], in 1996. Thanks partly to support from American producer [[Robert Zemeckis]], Jackson was given permission to make this comedy/horror film entirely in New Zealand despite being set in a North American town. This period was a key one of change for both Jackson and [[Weta Workshop]], the special effects company—born from the one-man contributions of George Port to ''Heavenly Creatures''—with which Jackson is often associated. Weta, initiated by Jackson and key collaborators, grew rapidly during this period to incorporate both digital and physical effects, make-up and costumes, the first two areas normally commanded by Jackson collaborator Richard Taylor.
+
+''The Frighteners'' was regarded as a commercial failure. Some critics{{Who|date=November 2009}} expressed disappointment that it displayed little of the anarchistic humor of Jackson's early movies and that the script felt underdeveloped.{{Citation needed|date=November 2009}} In February 1997, Jackson launched legal proceedings against the ''[[New Zealand Listener]]'' magazine for [[defamation]], over a review of ''The Frighteners'' which claimed that the film was "built from the rubble of other people's movies".<ref>Philip Matthews, 'Spectral Steel', ''New Zealand Listener'', 14 December 1996</ref> In the end, the case was not pursued further. Around this time Jackson's remake of ''King Kong'' was shelved by [[Universal Studios]], partly because of ''[[Mighty Joe Young (1998 film)|Mighty Joe Young]]'' and ''[[Godzilla (1998 film)|Godzilla]]'', both giant monster movies, that had already gone into production. Universal feared it would be thrown aside by the two higher budget movies.
+
+This period of transition seems not to have been entirely a happy one; it also marked one of the high points of tension between Jackson and the [[New Zealand Film Commission]] since ''Meet the Feebles'' had gone over-budget earlier in his career. Jackson has claimed the Commission considered firing him from ''Feebles'', though the NZFC went on to help fund his next three films. In 1997, the director submitted a lengthy criticism of the Commission for a magazine supplement meant to celebrate the body's 20th anniversary, criticising what he called inconsistent decision-making by inexperienced board members. The magazine felt that the material was too long and potentially defamatory to publish in that form; a shortened version of the material went on to appear in ''[[Metro (magazine)|Metro]]'' magazine.<ref>Andrew Heal, 'Horror story', ''Metro'', December 1997</ref> In the ''Metro'' article Jackson criticized the Commission over funding decisions concerning a film he was hoping to executive produce, but refused to drop a client-confidentiality clause that allowed them to publicly reply to his criticisms.
+
+===''The Lord of the Rings''===
+
+{{Main|The Lord of the Rings (film series)}}
+[[File:Peter Jackson01.jpg|thumb|left|upright|Jackson in 2003, at the premiere of ''[[The Lord of the Rings: The Return of the King]]'' in [[Wellington]]]]
+Peter Jackson won the rights to film J. R. R. Tolkien's epic in 1997 after meeting with producer [[Saul Zaentz]]. Originally working with [[Miramax]] towards a two-film production, Jackson was later pressured to render the story as a single film, and finally overcame a tight deadline by making a last-minute deal with [[New Line]], who were keen on a trilogy.
+
+[[Principal photography]] stretched from 11 October 1999 to 22 December 2000 with extensive location filming across New Zealand. With the benefit of extended post-production and extra periods of shooting before each film's release, the series met huge success and sent Jackson's popularity soaring. ''[[The Lord of the Rings: The Return of the King|The Return of the King]]'' itself met with huge critical acclaim, winning eleven Oscars, including [[Academy Award for Best Picture|Best Picture]] and [[Academy Award for Best Director|Best Director]]. The film was the first of the fantasy film genre to win the award for Best Picture and was the second sequel to win Best Picture (the first being ''[[The Godfather Part II]]'').
+
+Jackson's mother, Joan, died three days before the release of the first movie in the trilogy, ''[[The Lord of the Rings: The Fellowship of the Ring|The Fellowship of the Ring]]''. There was a special showing of the film after her funeral.<ref>[http://video.google.com/videoplay?docid=7355590305075440586 "Charlie Rose – Peter Jackson"], February 2004</ref>
+
+Following ''The Return of the King'', Jackson lost a large amount of weight –over {{convert|50|lb|kg}} to the point of being unrecognisable to some fans. In ''[[The Daily Telegraph]]'', he attributed his weight loss to his diet. He said, "I just got tired of being overweight and unfit, so I changed my diet from [[hamburger]]s to [[yogurt]] and [[muesli]] and it seems to work."<ref>[http://www.kongisking.net/perl/newsview/15/1113355189 "Peter Jackson's muesli diet secret"], kongisking.net, 12 April</ref>
+
+===''King Kong''===
+{{Main|King Kong (2005 film)}}
+Universal Studios signed Peter Jackson for a second time to remake the 1933 classic ''[[King Kong (1933 film)|King Kong]]''—the film that inspired him to become a film director as a child.<ref>
+[http://msnbc.msn.com/id/10299834 "Peter Jackson's Labor of Love"] by Stone Phillips, ''MSNBC'', 2 December 2005</ref> He was reportedly paid a fee of US$20&nbsp;million upfront, the highest salary ever paid to date to a film director in advance of production, against a 20 percent take of the box-office rentals (the portion of the price of the ticket that goes to the film distributor, in this case Universal). The film was released on 14 December 2005, and grossed around US$550&nbsp;million worldwide.<ref>[http://www.boxofficemojo.com/movies/?id=kingkong05.htm ''King Kong''] figures from [[Box Office Mojo]]</ref>
+
+===''The Lovely Bones''===
+
+{{Main|The Lovely Bones (film)}}
+Jackson completed an [[The Lovely Bones (film)|adaptation]] of [[Alice Sebold]]'s bestseller, ''[[The Lovely Bones]]'', which was released in the United States on 11 December 2009.<ref>{{cite web|author=Submitted by ambear913 on Thu, 15 October 2009 – 9:07pm. |url=http://www.dreadcentral.com/news/34035/the-lovely-bones-is-fit-a-queen |title=The Lovely Bones Is Fit for a Queen |publisher=Dreadcentral.com |date=15 October 2009 |accessdate=24 March 2010}}</ref> Jackson has said the film was a welcome relief from his larger-scale epics. The storyline's combination of fantasy aspects and themes of murder bears some similarities to ''Heavenly Creatures''.
+
+The film ended up receiving generally mixed reviews and middling box office returns. It currently holds 32% rotten on Rotten Tomatoes.
+
+=== ''The Hobbit'' ===
+{{Main|The Hobbit (film series)}}
+
+<!-- Deleted image removed: [[File:SOP still.jpg|thumb|left|upright|Peter Jackson on the set of The Hobbit {{pufc|File:SOP still.jpg|date=4 June 2011}}]] -->
+Jackson's involvement in the making of a film version of ''[[The Hobbit]]'' has a long and chequered history. In November 2006, a letter from Peter Jackson and Fran Walsh stated that due to an ongoing legal dispute between Wingnut Films (Jackson's production company) and [[New Line Cinema]], Jackson would not be directing the film.<ref>{{Cite news|author=xoanon |title=Peter Jackson and Fran Walsh talk The Hobbit|publisher=[[TheOneRing.net]] |date=19 November 2006 |url=http://www.theonering.net/torwp/2006/11/19/24053-peter-jackson-and-fran-walsh-talk-the-hobbit-2/ |accessdate=2 January 2010 }}</ref> New Line Cinema's head [[Robert Shaye]] commented that Jackson "...will never make any movie with New Line Cinema again while I'm still working at the company...".<ref name="NZ_Herald_10418732">{{cite news |url=http://www.nzherald.co.nz/movies/news/article.cfm?c_id=200&objectid=10418732 |title=New Line boss hits out at Peter Jackson |date=12 January 2007 |agency=[[Agence France-Presse|AFP]], [[NZPA]] |work=[[The New Zealand Herald]] |accessdate=2 November 2011}}</ref> This prompted an online call for a boycott of New Line Cinema,<ref name="NZ_Herald_10412112">{{cite news |url=http://www.nzherald.co.nz/lord-of-the-rings/news/article.cfm?c_id=594&objectid=10412112 |title=McKellen 'sad' that Jackson may not make Hobbit |date=23 November 2006 |agency=[[Reuters]] |work=[[The New Zealand Herald]] |accessdate=2 November 2011}}</ref> and by August 2007 Shaye was trying to repair his working relationship.<ref name="Stuff.co.nz_1382">{{cite news |url=http://www.stuff.co.nz/entertainment/1382 |title=Hobbit studio sweet-talks Jackson |date=11 August 2007 |work=[[The Dominion Post (Wellington)|The Dominion Post]] |accessdate=2 November 2011}}</ref> On 18 December 2007, it was announced that Peter Jackson and New Line Cinema had reached agreement to make two prequels, both based on ''The Hobbit'', and to be released in 2012 and 2013 with Jackson as a writer and [[executive producer]] and [[Guillermo del Toro]] directing.<ref>{{cite web|url=http://www.newline.com/press/pr_2007-12-18_announcingthehobbit.html |title=Press Release: Announcing ''The Hobbit'' |accessdate=29 December 2007 |work=Press Release}}</ref><ref>{{Cite news|url=http://www.guardian.co.uk/film/2008/jan/31/news3 |title=Del Toro to take charge of The Hobbit |date=3 January 2008 |newspaper=guardian.co.uk |accessdate=2 January 2010 | location=London}}</ref>
+
+However, in early 2010, del Toro dropped out of directing the film because of production delays<ref>{{Cite news|title=Why Guillermo del Toro left 'The Hobbit' – and Peter Jackson will not replace him as director|url=http://popwatch.ew.com/2010/05/31/guillermo-del-toro-leaves-the-hobbit/|accessdate=31 May 2010|newspaper=Entertainment Weekly|date=31 May 2010|author=Adam Vary}}</ref> and a month later Jackson was back in negotiations to direct ''The Hobbit'';<ref>{{cite web|url=http://hollywoodinsider.ew.com/2010/06/25/peter-jackson-in-negotiations-for-the-hobbit|title=Peter Jackson in negotiations for 'The Hobbit'|author=Nicole Sperling}}</ref> and on 15 October he was finalised as the director<ref>{{cite news|last=Cieply|first=Michael|title=Peter Jackson’s Deal for ‘The Hobbit’ Is Finalized|url=http://artsbeat.blogs.nytimes.com/2010/10/15/peter-jacksons-deal-for-the-hobbit-is-finalized/|newspaper=New York Times|date=15 October 2010}}</ref><ref>{{cite news |url=http://www.stuff.co.nz/4241119/Jackson-to-direct-The-Hobbit-in-3-D |title=Peter Jackson to direct The Hobbit in 3-D |newspaper=The Dominion Post |author=Tom Cardy |date=16 October 2010 |accessdate=27 October 2010 }}</ref>—with New Zealand confirmed as the location a couple of weeks later.<ref name="NZ_Herald_10683486">{{cite news |url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10683486 |title=Hobbit to stay in NZ |author=Cheng, Derek |date=27 October 2010 |work=[[The New Zealand Herald]] |accessdate=2 November 2011}}</ref> The film started production on 20 March 2011. On 30 July 2012, Peter Jackson announced via his Facebook page that the two planned 'Hobbit' movies would be expanded into a trilogy. The third film will not act as a bridge between ''The Hobbit'' and ''[[The Lord of the Rings]]'' films, but would continue to expand ''The Hobbit'' story by using material found in the ''Lord of the Rings Appendices''.<ref>{{cite web|title=Peter Jackson Confirms Third 'Hobbit' Film|url=http://www.theonering.net/torwp/2012/07/30/59780-peter-jackson-confirms-third-film/#more-59780|accessdate=2 August 2012}}</ref>
+
+==Current and future projects==
+Jackson had talked of producing films for others as early as 1995, but a number of factors slowed developments in this regard, including the failure of ''[[Jack Brown Genius]]'' (1995). After he became a force in Hollywood, he was set to produce a $128&nbsp;million movie version of the science fiction video game series ''[[Halo (series)|Halo]]'', but the project went on hold when financial backers withdrew their support.<ref>{{Cite news|url=http://www.comcast.net/movies/news/index.jsp?cat=MOVIES&fn=/2006/11/21/525628.html&cvqh=itn_hobbit| title = Jackson Says He Won't Be Making `Hobbit' | work=Comcast.net |agency=Associated Press|date=21 November 2006}}</ref><ref>{{cite web|url=http://www.n4g.com/ClickOut.aspx?ObjID=60342 |title=Xbox Family&nbsp;— Home |publisher=N4g.com |accessdate=24 March 2010}}</ref> Instead Jackson worked with ''Halo'' director [[Neill Blomkamp]] on science fiction project ''[[District 9]]'', which proved a box office hit and was nominated for an Oscar for Best Picture.<ref>{{Cite news|url=http://www.variety.com/article/VR1117975244.html?categoryid=13&cs=1|title=Peter Jackson gears up for 'District'|date=1 November 2007|author=Michael Fleming|work=[[Variety (magazine)|Variety]]|accessdate=17 November 2007}}</ref> Jackson was set to produce a [[Dambusters (film remake)|remake]] of ''[[The Dam Busters (film)|The Dam Busters]]'', to be directed by longtime Weta designer [[Christian Rivers]]. [[Stephen Fry]] has written a screenplay.<ref>{{Cite news| url = http://news.bbc.co.uk/1/hi/entertainment/5301998.stm | title = Peter Jackson to film Dam Busters |work=BBC News | date = 31 August 2006}}</ref><ref>{{cite web|last=Aviles |first=Omar |url=http://www.joblo.com/index.php?id=16153 |title=Fry writes Dambusters |publisher=Joblo.com |date=28 May 2007 |accessdate=24 March 2010}}</ref> Originally scheduled for 2009–10, the project has been postponed.
+
+Jackson has also won the rights to a film adaptation of the fantasy novel series ''[[Temeraire (series)|Temeraire]]'', a novel about dragons being used in combat in the Napoleonic Wars and a dragon named Temeraire and his captain, Will Laurence, written by [[Naomi Novik]]. It remains to be seen if he will direct it.<ref>{{Cite news| url = http://movies.ign.com/articles/732/732229p1.html | title = Temeraire on Warpath | date = 12 September 2006 |work=IGN.com }}</ref> In recent years, Jackson has also directed a short film titled ''[[Crossing the Line (2008 film)|Crossing the Line]]'' to test a new model of digital cinema camera, the [[RED ONE]]. The film takes place during World War I, and was shot in two days. "Crossing the Line" was shown at NAB 2007 (the USA National Association of Broadcasters). Clips of the film can be found at Reduser.net.<ref>{{cite web|url=http://www.Reduser.net/ |title=RedUser.net |publisher=RedUser.net |accessdate=24 March 2010}}</ref>
+
+Jackson and his newly formed studio Wingnut Interactive were working on an unrevealed project being developed by [[Microsoft Game Studios]] in collaboration with [[Bungie Studios]]. The project has been officially titled ''[[Halo: Chronicles]]'' but beyond speculation little else was known about its nature. He was to be the executive producer on a [[Halo (2012 film)|''Halo'' film]], developed and released by [[Universal Studios]] and [[20th Century Fox]] but in October 2006 the film was postponed indefinitely. The film was never officially cancelled. In June 2008 Peter Jackson commented that, "With upcoming developments (Halo: Chronicles), I wouldn't know when to expect a movie, and I'm the producer." Jackson spent $5&nbsp;million to purchase 20 hectares of land in [[Wairarapa]], a property containing a mansion, private lake, tunnel and the interior of [[Bag End]] from ''The Lord of the Rings''. In 2009, he purchased a [[Gulfstream G550]] jet; his total [[net worth]] is estimated by ''[[National Business Review]]'' at [[New Zealand dollar|NZ$]]450&nbsp;million.<ref>{{Cite news|author=Rebecca Lewis|title=Peter Jackson's jet set upgrade|work=[[The New Zealand Herald]]|date=12 April 2009|url=http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&objectid=10566283|accessdate=11 April 2009}}</ref> Jackson owns an aircraft restoration and manufacturing company, The Vintage Aviator, which is dedicated to World War I and World War II fighter planes among other planes from the 1920s and 1930s. He is chairman of the Omaka Aviation Heritage Trust, which hosts a biennial air show.<ref>{{Cite news|author=Tammy Buckley|title=Peter Jackson causes stir|publisher=[[Fairfax New Zealand]] |work=Stuff|date=13 April 2009|url=http://www.stuff.co.nz/entertainment/2330267/Peter-Jackson-causes-stir|accessdate=14 April 2009}}</ref>
+
+In late December 2009, Jackson announced his interest on the movie adaption of the novel ''[[Mortal Engines]]''.<ref>[http://www.dreadcentral.com/news/35085/peter-jackson-revving-his-mortal-engines DreadCentral.com], Peter Jackson Revving His Mortal Engines</ref> In April 2010 it was confirmed that he would be both director and producer of the project.
+
+=== ''Tintin'' franchise ===
+
+[[File:PeterJacksonCCJuly09.jpg|thumb|right|upright|Jackson at the 2009 [[San Diego Comic-Con International]]]]
+
+{{Main|The Adventures of Tintin (film)}}
+Jackson was one of three producers on ''[[The Adventures of Tintin: The Secret of the Unicorn]]'', directed by [[Steven Spielberg]] and released in 2011. He is officially labeled as producer but helped Spielberg, before he began working on ''[[The Hobbit: An Unexpected Journey|The Hobbit]]'', directing the film. [[Jamie Bell]] and [[Andy Serkis]] were cast due to their collaboration with Peter Jackson on ''[[King Kong (2005 film)|King Kong]]'' and ''[[The Lord of the Rings (film series)|The Lord of the Rings]]''. Spielberg also chose to work with Peter Jackson due to the impressive digital work on the ''Lord of the Rings'' films, and knew Peter Jackson's company [[Weta Workshop]] would make his vision a reality. It received positive reviews and grossed $373 million at the box office.
+
+In December 2011, Spielberg said that a sequel would be made. It is rumoured to be based on ''[[The Seven Crystal Balls]]'' and ''[[Prisoners of the Sun]]''.<ref name="spielberg sequel">{{cite web|title=Spielberg announces new Tintin movie|url=http://www.google.com/hostednews/afp/article/ALeqM5gJE9Z-SXPv0AItjGdknjmOqfLNGw?docId=CNG.908b271c4ec03309357a9d96165f22d0.961|publisher=Google News|accessdate=13 December 2011|author=AFP|date=13 December 2011}}</ref> Spielberg said that the Thompson detectives would "have a much bigger role". The sequel would be produced by Spielberg and directed by Jackson.<ref name="spielberg sequel" /> [[Kathleen Kennedy (film producer)|Kathleen Kennedy]] said the script might be done by February or March 2012 and motion-captured in summer 2012, so that the movie would be on track to be released by Christmas 2014 or mid-2015.<ref>
+{{cite web|title=Producer Kathleen Kennedy Talks JURASSIC PARK 4, a 3D Re-Release for JURASSIC PARK, and the TINTIN Sequel|url=http://collider.com/kathleen-kennedy-jurassic-park-4-tintin-sequel-jurassic-park-3d/130315/|publisher=collider.com|author=Adam Chitwood|accessdate=7 January 2012|date=4 December 2011}}</ref> In February 2012, Spielberg said that a story outline for the sequel had been completed.
+
+In December 2012, Jackson said that the Tintin schedule was to shoot performance-capture in 2013, aiming for a release in 2015.<ref>{{cite web|last=Connelly|first=Brendon|title=Peter Jackson Won’t Finish Hobbit Before Shooting Next Tintin|url=http://www.bleedingcool.com/2012/12/12/peter-jackson-wont-finish-hobbit-before-shooting-next-tintin/?utm_source=dlvr.it&utm_medium=twitter|publisher=Bleeding Cool|accessdate=12 December 2012|date=12 December 2012}}</ref> On March 12, 2013, Spielberg said, "Don't hold me to it, but we're hoping the film will come out around Christmas-time in 2015. We know which books we're making, we can't share that now but we're combining two books which were always intended to be combined by Herge."
+
+In December 2014, Peter Jackson said that the ''Tintin'' sequel would be made "at some point soon", although he intended to focus on directing two [[Cinema of New Zealand|New Zealand films]] before that.<ref>http://www.thedailybeast.com/articles/2014/12/04/no-regrets-peter-jackson-says-goodbye-to-middle-earth.html</ref> He had previously stated that he was held up by ''The Hobbit'' trilogy, but that he has every intention on making another ''Tintin'' film.
+
+==Games==
+Jackson was set to make games with [[Microsoft Game Studios]], a partnership announced on 27 September 2006, at [[X06 (Xbox show)|X06]].<ref>{{cite web|url=http://uk.gamespot.com/news/6158809.html?sid=6158809 |title=X06: Halo Wars revealed at Microsoft briefing |publisher=Uk.gamespot.com |date=27 September 2006 |accessdate=24 March 2010}}</ref> Specifically, Jackson and Microsoft were teaming together to form a new studio called Wingnut Interactive.<ref>{{Cite news| url = http://www.1up.com/do/newsStory?cId=3154047 | title = X06: Peter Jackson Forms a Game Studio | publisher=1UP.com | date = 27 September 2006 }}</ref> In collaboration with [[Bungie Studios]], Jackson was to co-write, co-design and co-produce a new game taking place in the [[Halo universe]] – tentatively called ''[[Halo: Chronicles]]''. However on 27 July 2009, in an interview about his new movie (as producer) ''District 9'', he said that ''[[Halo: Chronicles]]'' had been cancelled, while Microsoft confirmed that the game is "on hold". Jackson's game studio Wingnut Interactive is now at work on original intellectual property.<ref>{{cite web|url=http://comic-con.gamespot.com/story/6214359/peter-jackson-studio-developing-original-game |title=Peter Jackson´s game studio to work on original IP |publisher=Comic-con.gamespot.com |date=28 July 2009 |accessdate=24 March 2010}}</ref>
+
+==Charitable activities==
+Jackson has given [[New Zealand dollar|NZ]]$500,000 to [[stem cell research]].<ref>{{Cite news|url=http://www.nzherald.co.nz/section/6/story.cfm?c_id=6&objectid=10391442 |title=Peter Jackson gives $500,000 for stem cell research |work=New Zealand Herald |date=15 July 2006 |accessdate=24 March 2010 |first=Kent |last=Atkinson}}</ref> He purchased a church in the Wellington suburb of Seatoun for about $10&nbsp;million, saving it from demolition.<ref>{{Cite news|url=http://www.scoop.co.nz/stories/AK0709/S00138.htm|title=Stella Maris Retreat Centre and Chapel saved|publisher=[[Scoop (website)|Scoop]]|date=12 September 2007|accessdate=18 October 2007}}</ref> He also contributes his expertise to [[48HOURS]], a New Zealand film-making competition, through annually selecting 3 "Wildcards" for the National Final.
+
+Jackson, a World War I aviation enthusiast, is chair of the 14–18 Aviation Heritage Trust.<ref>{{cite web|url=http://www.nzs.com/new-zealand-articles/motoring/new-zealand-aircraft-history.html|title=New Zealand Aircraft History}}</ref> He donated his services and provided replica aircraft to create a 10-minute multimedia display called ''Over the Front'' for the [[Australian War Memorial]] in 2008.<ref>{{Cite news|url=http://www.abc.net.au/news/stories/2008/09/16/2365976.htm|title=Jackson behind War Memorial display|publisher=ABC News|date=16 September 2008}}</ref> He contributed to the defense fund for the [[West Memphis Three]].<ref>{{cite news| url=http://www.hollywoodreporter.com/news/peter-jackson-west-memphis-three-225823 | work=The Hollywood Reporter | first=Pip | last=Bulbeck | title=Peter Jackson Helped West Memphis Three Defense | date=22 August 2011}}</ref> In 2011, Jackson and Walsh purchased 1 Kent Terrace, the home of [[BATS Theatre]] in Wellington, effectively securing the theatre's future.<ref>{{cite web|url=http://www.stuff.co.nz/dominion-post/culture/performance/6030928/Peter-Jackson-buys-Bats-theatre|title=Stuff.co.nz|year=2011}}</ref>
+
+==Style==
+Jackson is known for his attention to detail, a habit of shooting scenes from many angles, a [[macabre]] sense of humour, and a general playfulness – the latter to the point where ''The Lord of the Rings'' conceptual designer [[Alan Lee (illustrator)|Alan Lee]] jokingly remarked "the film is almost incidental really".<ref>"Big-atures" Rotk see DVD Documentary</ref>
+
+Jackson was a noted perfectionist on the ''Lord of the Rings'' shoot, where he demanded numerous takes of scenes, requesting additional takes by repeatedly saying, "one more for luck".<ref>''Cameras in Middle-earth: The Fellowship of the Ring'', Special Extended Edition DVD Documentary. Actor [[Christopher Lee]] remarks about having twelve takes for one scene, before being told by [[Ian McKellen]] he did 24 takes for two lines the previous day</ref> Jackson is also renowned within the New Zealand film industry for his insistence on "coverage"—shooting a scene from as many angles as possible, giving him more options during editing.{{Citation needed|date=November 2007}} Jackson has been known to spend days shooting a single scene. This is evident in his work where even scenes featuring simple conversations often feature a wide array of multiple camera angles and shot-sizes as well as zooming closeups on characters' faces. One of his most common visual trademarks is shooting close-ups of actors with wide-angle lenses.
+
+Unlike some other film directors, Jackson has remained in his native country to make films. This has been the genesis of several production and support companies. Most of Jackson's assets are found on the [[Miramar Peninsula]] in his home town of [[Wellington]] where much of his filming occurs; and he was instrumental in having the world premiere of ''The Return of the King'' in the city's iconic [[Embassy Theatre, Wellington|Embassy Theatre]] which he helped restore.
+
+He was an early user of computer enhancement technology and provided [[Visual effects|digital special effects]] to a number of Hollywood films by use of telecommunications and satellite links to transmit raw images and the final results across the Pacific Ocean.{{Citation needed|date=November 2007}}
+
+During filming of ''The Lord of the Rings'', Jackson was famous for wearing shorts and going barefoot, though most instances on set he was required to wear shoes for safety purposes.<ref>{{cite interview with Peter Jackson on @askPeter live event from Weta Workshops for the Hobbit}}</ref>
+
+===Cameo roles===
+<!-- Deleted image removed: [[File:pjcameo.jpg|thumb|right|Peter Jackson in ''[[The Lord of the Rings: The Fellowship of the Ring|The Fellowship of the Ring]]'' (top), ''[[The Lord of the Rings: The Two Towers|The Two Towers]]'' (middle) and ''[[The Lord of the Rings: The Return of the King|The Return of the King]]'' (bottom).]] -->
+
+Jackson is one of the lead actors in two of his films: in ''Bad Taste'', he plays [[Dual role|two characters]] named Derek and Robert, even engaging them both in a fight. In the mockumentary ''Forgotten Silver'', he plays his own role.
+
+However he appears in every film he directed, mostly in cameos:
+* In the puppet movie ''Meet the Feebles'', Jackson appears as an audience member disguised as one of the aliens from ''Bad Taste''.{{Citation needed|date=May 2008}}
+* In ''Braindead'', he is the mortician's assistant.
+* In ''Heavenly Creatures'', he is the tramp who gets kissed by [[Parker–Hulme murder case|Juliet Hulme]].
+* In ''The Frighteners'', Jackson is a biker bumped into by Frank Bannister.
+* In ''The Lord of the Rings: The Fellowship of the Ring'', Jackson plays a drunken, carrot-chomping citizen of [[Bree (Middle-earth)|Bree]] when the four hobbits are entering in town.
+* In ''The Lord of the Rings: The Two Towers'', he plays a spear-throwing defender of [[Helm's Deep]].
+* In his significant cameo in ''The Lord of the Rings: The Return of the King'' he is seen as the boatswain of a murderous [[Privateer|corsair]] ship. This character is seen very briefly in the theatrical version. In the extended version he is onscreen for a longer period and is accidentally killed by [[Legolas]]'s "warning shot". A detailed [[action figure]] of Jackson was made of this character in the same line as the rest of the Lord of the Rings toys. Jackson actually makes two cameos in ''Return of the King'': during the scene of [[Shelob]]'s Lair, where [[Samwise Gamgee|Sam's]] hands (i.e. Jackson's) are seen entering the shot as [[Shelob]] is wrapping [[Frodo Baggins|Frodo]] in webbing. This was due to [[Sean Astin]]'s temporary absence, and Jackson wanted to progress the production of the scene as much as possible, even without the actor.<ref>As stated in the bonus material delivered with the special extended edition of ''Return of the King''.</ref>
+* Jackson appears in his version of ''[[King Kong (2005 film)|King Kong]]'' as a [[biplane]] gunner attacking [[King Kong|Kong]] in New York, reprising the cameo which original ''King Kong'' filmmaker [[Merian C. Cooper]] made in the [[King Kong (1933 film)|original 1933 film]].
+* In ''[[The Lovely Bones (film)|The Lovely Bones]]'', he appears as a customer in a camera store playing with a camera.
+* In ''[[The Hobbit: An Unexpected Journey]]'', Jackson plays one of the dwarves escaping from [[Lonely Mountain|Erebor]] after [[Smaug]] has attacked.<ref>{{cite web|url=http://www.empireonline.com/news/story.asp?NID=36033|title=Peter Jackson Talks The Dambusters|accessdate=15 December 2012}}</ref>
+* In ''[[The Hobbit: The Desolation of Smaug]]'', he appears as a drunken, carrot-chomping citizen of [[Bree (Middle-earth)|Bree]], much like his appearance in ''The Lord of the Rings: The Fellowship of the Ring.''
+
+He has also made cameos in several films not directed by him. In the opening sequence of ''[[Hot Fuzz]]'' (2007), he played a demented man dressed as [[Father Christmas]], who stabs Nicholas Angel (played by [[Simon Pegg]]) in the hand.<ref>{{cite web|url=http://www.bullz-eye.com/mguide/reviews_2007/hot_fuzz.htm|title=Hot Fuzz review|first=Jason|last=Zingale|accessdate=30 April 2008}}</ref> Pegg, in the commentary, joked that when Jackson saw that his cameo was extremely short, he walked out of the cinema and walked in circles in the hallway for the rest of the duration of the film.
+
+Jackson's eldest son, Billy (born 1995), has made cameo appearances in almost every one of his father's films since his birth, namely ''The Frighteners'' (1996), ''The Lord of the Rings'' film trilogy, ''King Kong'' and ''The Lovely Bones''. His daughter, Katie (born 1996), appears in all the above films except ''The Frighteners''. His life-partner and co-writer [[Fran Walsh]] makes a short cameo in ''The Frighteners'' as a woman walking next to Cyrus and Stuar just prior the scene featuring their son Billy.<ref>As stated in the audio commentary of the 4-disc special edition of ''The Frighteners''.</ref>
+
+Jackson had a cameo on the HBO show ''[[Entourage (TV series)|Entourage]]'' in 5 August 2007 episode, "[[Gary's Desk]]", in which he offers a business proposal to [[Eric Murphy]], manager to the lead character, [[Vincent Chase]].
+
+Jackson also appears as himself in the 2013 ''[[Doctor Who]]'' 50th anniversary spoof ''[[The Five(ish) Doctors Reboot]]'',<ref>"[http://www.bbc.co.uk/programmes/b03lv3mj The Five(ish) Doctors Reboot]", BBC programmes, retrieved 26 November 2013</ref> alongside [[Ian McKellen]].
+
+Jackson appeared briefly in an airline passenger safety video for Air New Zealand, made in the style of a Hobbit movie, called "An Unexpected Briefing".<ref>[http://www.youtube.com/watch?v=cBlRbrB_Gnc An Unexpected Briefing]</ref>
+
+==Personal life==
+Since 1987, he has been married to [[Fran Walsh]] {{small|[[New Zealand Order of Merit|MNZM]]}} (born 10 January 1959),  a New Zealand [[screenwriter]], [[film producer]] and [[lyricist]]. They have two children: Billy (born 1995) and Katie (born 1996). Fran Walsh has contributed to all of Jackson's films since 1989: as co-writer since ''[[Meet the Feebles]]'', and as producer since ''[[The Lord of the Rings: The Fellowship of the Ring]]''. She won three [[Academy Award]]s in 2003, for [[Academy Award for Best Picture|Best Picture]], [[Academy Award for Best Writing (Adapted Screenplay)|Best Adapted Screenplay]] and [[Academy Award for Best Original Song|Best Original Song]], all for ''[[The Lord of the Rings: The Return of the King]]''. She has received seven Oscar nominations.
+
+Jackson is an avid [[aviation]] enthusiast and owns a collection of over 40 flyable [[World War I]]-era [[warbird]]s housed at [[Hood Aerodrome]] near [[Masterton]].<ref>{{cite news|first=jeremy|last=Kahn|url=http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11329981|title=Peter Jackson dogfighting over vintage warbirds|publisher=New Zealand Herald|date=23 September 2014}}</ref>
+
+==Filmography==
+{| class="wikitable"
+|-
+! rowspan="2" | Year
+! rowspan="2" | Title
+! colspan="5" | Functioned as
+|-
+! [[Film director|Director]]
+! [[Screenwriter|Writer]]
+! [[Film producer|Producer]]
+
+! Role
+|-
+| 1976
+| ''[[The Valley (1976 film)|The Valley]]'' (short)<br />
+| {{yes}}
+| {{yes}}
+| {{yes}}
+
+| Prospector #4<br />{{small|(also cinematographer, editor, makeup designer, costume designer, special effects supervisor)}}
+|-
+| 1987
+| ''[[Bad Taste]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+
+| Derek and Robert ([[dual role]])<br />{{small|(also editor, makeup effects supervisor, special effects supervisor)}}
+|-
+| 1989
+| ''[[Meet the Feebles]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+
+| Audience Member in the Theater wearing "Bad Taste" Mask<br />{{small|(also camera operator, puppet maker)}}
+|-
+| rowspan=2|1992
+| ''[[Valley of the Stereos]]'' (short)
+| {{n/a|No}}
+| {{n/a|No}}
+| {{yes}}
+|
+|-
+| ''[[Braindead (film)|Braindead]]'' (aka ''Dead Alive'')
+| {{yes}}
+| {{yes}}
+| {{n/a|No}}
+
+| Undertaker's assistant (cameo)<br>{{small|(also stop motion animator)}}
+|-
+| 1994
+| ''[[Heavenly Creatures]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+
+| Bum outside theater (uncredited cameo)
+|-
+| 1995
+| ''[[Forgotten Silver]]''
+| {{yes}}
+| {{yes}}
+| {{n/a|No}}
+
+| Himself
+|-
+|rowspan=2|1996
+| ''[[Jack Brown Genius]]''
+| {{n/a|No}}
+| {{yes}}
+| {{yes}}
+
+|
+|-
+| ''[[The Frighteners]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+
+| Man with piercings (uncredited cameo)
+|-
+| 2001
+| ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+
+| Man eating carrot in Bree/painting of Bungo Baggins (uncredited cameos)
+|-
+| 2002
+| ''[[The Lord of the Rings: The Two Towers]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+
+| Rohan warrior throwing spear at the gate of Helms Deep (uncredited cameo)
+|-
+|rowspan=2|2003
+| ''[[The Lord of the Rings: The Return of the King]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+
+| Mercenary on boat (uncredited cameo)
+|-
+| ''[[The Long and Short of It]]'' (short)
+| {{n/a|No}}
+| {{n/a|No}}
+| {{yes}}<br />{{small|(executive)}}
+
+| Bus driver
+|-
+|rowspan=2|2005
+| ''Lord of the Brush''
+| {{n/a|No}}
+| {{n/a|No}}
+| {{n/a|No}}
+
+|
+|-
+| ''[[King Kong (2005 film)|King Kong]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+
+| Biplane gunner (cameo)
+|-
+|rowspan=2|2007
+| ''[[Hot Fuzz]]''
+| {{n/a|No}}
+| {{n/a|No}}
+| {{n/a|No}}
+
+| Thief dressed as Father Christmas (uncredited cameo)
+|-
+| ''[[Entourage (TV series)|Entourage]]'' (TV series)<br />(episode: "[[Entourage (season 4)|Gary's Desk]]")
+| {{n/a|No}}
+| {{n/a|No}}
+| {{n/a|No}}
+
+| Himself
+|-
+| 2008
+|''[[Crossing the Line (2008 film)|Crossing the Line]]'' (short)
+| {{yes}}
+| {{yes}}
+| {{n/a|No}}
+
+|
+|-
+|rowspan=2|2009
+| ''[[District 9]]''
+| {{n/a|No}}
+| {{n/a|No}}
+| {{yes}}
+
+|
+|-
+| ''[[The Lovely Bones (film)|The Lovely Bones]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+
+| Man at pharmacy (uncredited cameo)
+|-
+| 2011
+| ''[[The Adventures of Tintin: The Secret of the Unicorn]]''
+| {{n/a|No}}
+| {{n/a|No}}
+| {{yes}}
+
+|
+|-
+|rowspan=2|2012
+| ''[[West of Memphis]]''
+| {{n/a|No}}
+| {{n/a|No}}
+| {{yes}}
+
+|
+|-
+| ''[[The Hobbit: An Unexpected Journey]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+
+| Dwarf fleeing from Smaug (uncredited cameo)
+|-
+|rowspan=2| 2013
+| ''[[The Five(ish) Doctors Reboot]]''
+| {{n/a|No}}
+| {{n/a|No}}
+| {{n/a|No}}
+| Himself (cameo)
+|-
+| ''[[The Hobbit: The Desolation of Smaug]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+
+| Man eating carrot in Bree (uncredited cameo)
+|-
+| 2014
+| ''[[The Hobbit: The Battle of the Five Armies]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| Painting of Bungo Baggins (uncredited cameo)
+|-
+|}
+
+===As Director===
+Since 1994's ''Heavenly Creatures'' Peter Jackson's films have enjoyed success in the annual awards season, earning many nominations and winning several awards; ''The Frighteners'' being his only directed effort since 1994 not to be nominated for either an [[Academy Award|Oscar]] a [[BAFTA]] or a [[Golden Globe]]. ''The Lord of the Ring's trilogy'' is one of the most successful trilogies of all time in terms of awards, winning more [[Academy Awards]] than the [[Francis Ford Coppola]] directed ''[[Godfather Trilogy]]'', with 2003's ''The Return of the King'' winning in all 11 categories for which it was nominated including; Best Picture, Director and Adapted Screenplay. Jackson's films have fared extremely well in the technical categories as well as the major categories, all three ''Lord of the Rings'' pictures won the [[Academy Award for Best Visual Effects]] in their respective years. ''King Kong'' also won the Award for visual effects. In total Jackson's directed efforts have been the most awarded films at 3 separate, the 74th, 76th and 78th, annual [[Academy Award]] ceremonies.
+
+{| class="wikitable sortable"
+|-
+! Year
+! Film
+! [[Academy Award]] Nominations
+! [[Academy Award]] Wins
+! [[Golden Globe]] Nominations
+! [[Golden Globe]] Wins
+! [[BAFTA]] Nominations
+! [[BAFTA]] Wins
+|-
+| 1987
+|''[[Bad Taste]]''
+|
+|
+|
+|
+|
+|
+|-
+| 1989
+| ''[[Meet the Feebles]]''
+|
+|
+|
+|
+|
+|
+|-
+| 1992
+| ''[[Braindead (film)|Braindead]]''
+| align=center|
+| align=center|
+| align=center|
+| align=center|
+| align=center|
+| align=center|
+|-
+| 1994
+| ''[[Heavenly Creatures]]''
+|align=center|1
+|
+|align=center|
+|
+|align=center|
+|
+|-
+| 1996
+| ''[[The Frighteners]]''
+| align=center|
+| align=center|
+| align=center|
+| align=center|
+| align=center|
+| align=center|
+|-
+| 2001
+| ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+|align=center|13
+|align=center|4
+|align=center|4
+|align=center|
+|align=center|13
+|align=center|5
+|-
+| 2002
+| ''[[The Lord of the Rings: The Two Towers]]''
+|align=center|6
+|align=center|2
+|align=center|2
+|align=center|
+|align=center|10
+|align=center|3
+|-
+| 2003
+| ''[[The Lord of the Rings: The Return of the King]]''
+|align=center|11
+|align=center|11
+|align=center|4
+|align=center|4
+|align=center|12
+|align=center|5
+|-
+| 2005
+| ''[[King Kong (2005 film)|King Kong]]''
+|align=center|4
+|align=center|3
+|align=center|2
+|align=center|
+|align=center|3
+|align=center|1
+|-
+| 2009
+| ''[[The Lovely Bones (film)|The Lovely Bones]]''
+|align=center|1
+|align=center|
+|align=center|1
+|align=center|
+|align=center|2
+|align=center|
+|-
+| 2012
+| ''[[The Hobbit: An Unexpected Journey]]''
+|align=center|3
+|align=center|
+|align=center|
+|align=center|
+|align=center|3
+|align=center|
+|-
+| 2013
+| ''[[The Hobbit: The Desolation of Smaug]]''
+|align=center|3
+|align=center|
+|align=center|
+|align=center|
+|align=center|2
+|align=center|
+|- style="border-top: 3px solid silver;"
+|-
+| 2014
+| ''[[The Hobbit: The Battle of the Five Armies]]''
+|align=center|1
+|align=center|
+|align=center|
+|align=center|
+|align=center|1
+|align=center|
+|- style="border-top: 3px solid silver;"
+|colspan="2" |  '''Total'''
+|align=center|43
+|align=center|20
+|align=center|13
+|align=center|4
+|align=center|46
+|align=center|14
+|}
+
+==Awards and Honours==
+
+===Awards and nominations===
+{| class="wikitable sortable"
+|-
+! Year
+! Award
+! Category
+! Title
+! Result
+|-
+| 1995
+|rowspan=9|[[Academy Award]]s
+| [[Academy Award for Best Original Screenplay|Best Original Screenplay]]
+| ''[[Heavenly Creatures]]''
+| {{nom}}
+|-
+|rowspan=3|2002
+| [[Academy Award for Best Picture|Best Picture]]
+|rowspan=3|''[[The Lord of the Rings: The Fellowship of the Ring]]''
+| {{nom}}
+|-
+| [[Academy Award for Best Director|Best Director]]
+| {{nom}}
+|-
+| [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| {{nom}}
+|-
+| 2003
+| Best Picture
+| ''[[The Lord of the Rings: The Two Towers]]''
+| {{nom}}
+|-
+|rowspan=3|2004
+| Best Picture
+|rowspan=3|''[[The Lord of the Rings: The Return of the King]]''
+| {{Won}}
+|-
+| Best Director
+| {{Won}}
+|-
+| Best Adapted Screenplay
+| {{Won}}
+|-
+| 2010
+| Best Picture
+| ''[[District 9]]''
+| {{nom}}
+|-
+| 2002
+|rowspan=3|[[AACTA Awards|Australian Film Institute Awards]]
+| rowspan=3|Best Foreign Film
+| ''The Lord of the Rings: The Fellowship of the Ring''
+| {{Won}}
+|-
+| 2003
+| ''The Lord of the Rings: The Two Towers''
+| {{Won}}
+|-
+| 2004
+| ''The Lord of the Rings: The Return of the King''
+| {{Won}}
+|-
+| rowspan=3|2002
+|rowspan=8|[[British Academy Film Awards]]
+| [[BAFTA Award for Best Film|Best Film]]
+|rowspan=3|''The Lord of the Rings: The Fellowship of the Ring''
+| {{Won}}
+|-
+| [[BAFTA Award for Best Direction|David Lean Award for Direction]]
+| {{Won}}
+|-
+| [[BAFTA Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| {{nom}}
+|-
+|rowspan=2|2003
+| Best Film
+|rowspan=2|''The Lord of the Rings: The Two Towers''
+| {{nom}}
+|-
+| David Lean Award for Direction
+| {{nom}}
+|-
+|rowspan=3|2004
+| Best Film
+|rowspan=3|''The Lord of the Rings: The Return of the King''
+| {{Won}}
+|-
+| David Lean Award for Direction
+| {{nom}}
+|-
+| Best Adapted Screenplay
+| {{Won}}
+|-
+| 2002
+|rowspan=3|[[Broadcast Film Critics Association Award|Critics' Choice Awards]]
+|rowspan=3|Best Director
+| ''The Lord of the Rings: The Fellowship of the Ring''
+| {{nom}}
+|-
+| 2004
+| ''The Lord of the Rings: The Return of the King''
+| {{Won}}
+|-
+| 2006
+| ''[[King Kong (2005 film)|King Kong]]''
+| {{nom}}
+|-
+| 2002
+|rowspan=3|[[Directors Guild of America Award]]s
+|rowspan=3|[[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directing – Motion Pictures]]
+| ''The Lord of the Rings: The Fellowship of the Ring''
+| {{nom}}
+|-
+| 2003
+| ''The Lord of the Rings: The Two Towers''
+| {{nom}}
+|-
+| 2004
+| ''The Lord of the Rings: The Return of the King''
+| {{Won}}
+|-
+| 2002
+|rowspan=4|[[Golden Globe Awards]]
+|rowspan=4|[[Golden Globe Award for Best Director|Best Director]]
+| ''The Lord of the Rings: The Fellowship of the Ring''
+| {{nom}}
+|-
+| 2003
+| ''The Lord of the Rings: The Two Towers''
+| {{nom}}
+|-
+| 2004
+| ''The Lord of the Rings: The Return of the King''
+| {{Won}}
+|-
+| 2006
+| ''King Kong''
+| {{nom}}
+|-
+|rowspan=2|1993
+|rowspan=3|New Zealand Film and TV Awards
+| Best Director – Film
+|rowspan=2|''[[Braindead (film)|Braindead]]''
+| {{Won}}
+|-
+| Best Screenplay – Film
+| {{Won}}
+|-
+| 1995
+|| Best Director – Film
+| ''Heavenly Creatures''
+| {{Won}}
+|-
+| 2002
+|rowspan=5|[[Producers Guild of America Award]]s
+|rowspan=4|[[Producers Guild of America Award#Theatrical Motion Picture|Outstanding Producer of Theatrical Motion Picture]]
+| ''The Lord of the Rings: The Fellowship of the Ring''
+| {{nom}}
+|-
+| 2003
+| ''The Lord of the Rings: The Two Towers''
+| {{nom}}
+|-
+| 2004
+| ''The Lord of the Rings: The Return of the King''
+| {{Won}}
+|-
+| 2010
+| ''District 9''
+| {{nom}}
+|-
+| 2011
+| Outstanding Producer of Animated Theatrical Motion Picture
+| ''[[The Adventures of Tintin: The Secret of the Unicorn]]''
+| {{Won}}
+|-
+|rowspan=2|1997
+|rowspan=14|[[Saturn Award]]s
+| [[Saturn Award for Best Direction|Best Director]]
+| rowspan=2|''[[The Frighteners]]''
+| {{nom}}
+|-
+| [[Saturn Award for Best Writing|Best Writing]]
+| {{nom}}
+|-
+|rowspan=2|2002
+| Best Director
+|rowspan=2|''The Lord of the Rings: The Fellowship of the Ring''
+| {{Won}}
+|-
+| Best Writing
+| {{nom}}
+|-
+|rowspan=2|2003
+| Best Director
+|rowspan=2|''The Lord of the Rings: The Two Towers''
+| {{nom}}
+|-
+| Best Writing
+| {{nom}}
+|-
+|rowspan=2|2004
+| Best Director
+|rowspan=2|''The Lord of the Rings: The Return of the King''
+| {{Won}}
+|-
+| Best Writing
+| {{Won}}
+|-
+|rowspan=2|2006
+| Best Director
+|rowspan=2|''King Kong''
+| {{Won}}
+|-
+| Best Writing
+| {{nom}}
+|-
+| 2013
+| Best Director
+| ''[[The Hobbit: An Unexpected Journey]]''
+| {{nom}}
+|-
+|rowspan=2|2014
+| Best Director
+|rowspan=2|''[[The Hobbit: The Desolation of Smaug]]''
+| {{nom}}
+|-
+| Best Writing
+| {{nom}}
+|-
+| 2015
+| Best Writing
+| ''[[The Hobbit: The Battle of the Five Armies]]''
+| {{pending}}
+|-
+| 1995
+|rowspan=3|[[Writers Guild of America Award]]s
+| [[Writers Guild of America Award for Best Original Screenplay|Best Original Screenplay]]
+| ''Heavenly Creatures''
+| {{nom}}
+|-
+| 2002
+|rowspan=2|Best Adapted Screenplay
+| ''The Lord of the Rings: The Fellowship of the Ring''
+| {{nom}}
+|-
+| 2004
+| ''The Lord of the Rings: The Return of the King''
+| {{nom}}
+|}
+
+===Honours===
+
+In the [[2002 New Year Honours#Companions of the New Zealand Order of Merit (C.N.Z.M.)|New Year Honours 2002]] Jackson was appointed as a [[Companion of The New Zealand Order of Merit]].<ref name="New Year Honours 2002">[http://www.dia.govt.nz/MSOS118/On-Line/NZGazette.nsf/6cee7698a9bbc7cfcc256d510059ed0b/22eac6026166356dcc256d26006cb00f!OpenDocument "New Year Honours 2002"] (11 January 2003) 3 ''[[New Zealand Gazette]]'' 113.</ref><ref name="dpmc.govt.nz">{{cite web|url=http://www.dpmc.govt.nz/honours/lists/list.asp?id=5|title=New Year Honours 2002|date=31 December 2001|publisher=Department of Prime Minister and Cabinet}}</ref> In the [[2010 New Year Honours#Knights Companion of the New Zealand Order of Merit (KNZM)|New Year Honours 2010]] Jackson was promoted to [[Knight Companion of the New Zealand Order of Merit]] ''for services to film''.<ref name="New Year Honours 2010">[http://www.dia.govt.nz/MSOS118/On-Line/NZGazette.nsf/6cee7698a9bbc7cfcc256d510059ed0b/ba413ceddab23682cc2576c200003539!OpenDocument "New Year Honours 2010"] (29 Jan 2010) 6 ''[[New Zealand Gazette]]'' 239.</ref> The investiture ceremony took place at [[Premier House]] in Wellington on 28 April 2010.<ref>{{cite web|url=http://www.dpmc.govt.nz/honours/lists/list.asp?id=47|title=New Year Honours 2010|date=31 December 2009|publisher=Department of Prime Minister and Cabinet}}</ref><ref>{{Cite news|url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10617918|title=Better than the Oscars, says Sir Peter Jackson|last=Tan|first=Lucinda|date=31 December 2009|publisher=New Zealand Herald|accessdate=30 December 2009}}</ref>
+
+In [[2012 Birthday Honours#New Zealand|The Queen's Birthday and Diamond Jubilee Honours 2012]] Jackson was appointed to the [[Order of New Zealand]].<ref name="dia.govt.nz">"[http://www.dia.govt.nz/MSOS118/On-Line/NZGazette.nsf/6cee7698a9bbc7cfcc256d510059ed0b/5f1585403a02c851cc25799400554bb4!OpenDocument The Queen's Birthday and Diamond Jubilee Honours 2012]" (28&nbsp;June&nbsp;2012) 74 ''[[New Zealand Gazette]]'' 2091.</ref><ref name=ONZ>{{cite web|title=The Queen's Birthday and Diamond Jubilee Honours List 2012|url=http://www.dpmc.govt.nz/node/1045|work=New Zealand Honours Lists|publisher=Department of the Prime Minister and Cabinet|accessdate=29 June 2012}}</ref><ref name="Dastgheib">{{Cite news|url=http://www.stuff.co.nz/dominion-post/news/queens-birthday/7038915/Peter-Jackson-Makes-Order-of-New-Zealand|title=Peter Jackson Makes Order of New Zealand|last=Dastgheib|first=Shabnam|date=4 June 2012|publisher=Dominion Post|accessdate=4 June 2012}}</ref> This is New Zealand's highest honour and with the previous honours is now Sir Peter Jackson ONZ KNZM.
+
+===Titles and styles===
+* Mr Peter Robert Jackson 1961–2002
+* Mr Peter Robert Jackson {{post-nominals|country=NZL-cats|CNZM}} 2002–2010 <ref name="New Year Honours 2002"/><ref name="dpmc.govt.nz"/>
+* Sir Peter Robert Jackson {{post-nominals|country=NZL-cats|KNZM}} 2010–2012 <ref name="New Year Honours 2010"/> 
+* Sir Peter Robert Jackson {{post-nominals|country=NZL-cats|ONZ|KNZM}} 2012 –  .<ref name="dia.govt.nz"/><ref name="ONZ"/><ref name="Dastgheib"/>
+
+==Bibliography==
+* Brian Sibley. ''Peter Jackson- A Film-maker's Journey''. Sydney, HarperCollins, 2006. ISBN 0-7322-8562-3.
+* Ian Pryor. ''Peter Jackson- From prince of splatter to lord of the rings''. Auckland, Random House, 2003, New York, St. Martin's Press, 2004. ISBN 1-86941-555-8 (NZ Edition)
+* Andrea Bordoni, Matteo Marino, "Peter Jackson". Milan, [[Il Castoro Cinema|Il Castoro]], 2002. ISBN 978-88-8033-225-1. The first book-length study of the director. {{it icon}}
+
+==See also==
+* [[Cinema of New Zealand]]
+* [[List of New Zealand film makers]]
+* [[Park Road Post]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{sisterlinks|d=no|s=no|v=no|b=no|wikt=no|species=no|voy=no|n=no}}
+* {{Facebook|PeterJacksonNZ}}
+* {{Charlie Rose view|1634}}
+* {{IMDb name|0001392}}
+* {{NYTtopic|people/j/peter_jackson}}
+* [http://www.fearnet.com/videos/b16124_sdcc_2009_district_9.html Peter Jackson at FEARnet]
+* [http://www.nzherald.co.nz/search/story.cfm?storyid=000DB955-BFA2-1543-921083027AF10199 Peter Jackson's trip from splatstick to RAF]
+
+{{Peter Jackson}}
+
+{{Navboxes
+|title = Awards for Peter Jackson
+|list =
+{{Order of New Zealand}}
+{{AcademyAwardBestDirector 2001–2020}}
+{{AcademyAwardBestAdaptedScreenplay 2001–2020}}
+{{BAFTA Award for Best Direction 1985–2009}}
+{{BAFTA Award for Best Adapted Screenplay 2000–2019}}
+{{Broadcast Film Critics Association Award for Best Director}}
+{{DirectorsGuildofAmericaAwardFeatureFilm 2000–2019}}
+{{Golden Globe Award for Best Director 1991–2015}}
+{{London Film Critics Circle Award for Director of the Year}}
+{{MTV Movie Award for Best Action Sequence}}
+{{Nebula Award for Best Script/Bradbury Award 2001–2020}}
+{{Saturn Award for Best Director}}
+{{Saturn Award for Best Writing 1991–2010}}
+}}
+
+{{Authority control}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Jackson, Peter
+|ALTERNATIVE NAMES= Jackson, Peter Robert
+|SHORT DESCRIPTION= Film director, film producer, screenwriter
+|DATE OF BIRTH= 1961-10-31
+|PLACE OF BIRTH= [[Pukerua Bay]], New Zealand
+|DATE OF DEATH=
+|PLACE OF DEATH=
+}}
+{{DEFAULTSORT:Jackson, Peter}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:Best Director BAFTA Award winners]]
+[[Category:Best Adapted Screenplay Academy Award winners]]
+[[Category:Best Director Academy Award winners]]
+[[Category:Best Director Golden Globe winners]]
+[[Category:New Zealand film directors]]
+[[Category:New Zealand film producers]]
+[[Category:New Zealand people of English descent]]
+[[Category:New Zealand screenwriters]]
+[[Category:People from Wellington City]]
+[[Category:Producers who won the Best Picture Academy Award]]
+[[Category:Directors Guild of America Award winners]]
+[[Category:Fantasy film directors]]
+[[Category:English-language film directors]]

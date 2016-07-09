@@ -1,0 +1,71 @@
+{{Use mdy dates|date=December 2013}}
+{{Distinguish|H. N. Turteltaub}}
+
+{{Infobox person
+|image = JonTurteltaubHWOFJan2013.jpg
+|caption= Turteltaub in 2013
+|name= Jon Turteltaub
+|birthname= Jonathan Charles Turteltaub
+|birth_date= {{Birth date and age|1963|8|8}}
+|birth_place= [[New York City]], U.S.
+|occupation= Film director, film producer
+|yearsactive= 1989–present
+|spouse= Amy Eldon (2006–present)
+}}
+'''Jonathan Charles "Jon" Turteltaub''' (born August 8, 1963) is an American film director and producer. He is a graduate of [[Wesleyan University]] and the [[USC School of Cinematic Arts]].<ref>{{cite web|url=http://www.tribute.ca/people/Jon+Turteltaub/2728 |title=Jon Turteltaub biography and filmography |publisher=Tribute.ca |date=August 8, 1963 |accessdate=August 3, 2012}}</ref> He is the son of television comedy writer Saul Turteltaub.
+
+He has directed several successful mainstream films for the [[Walt Disney Motion Pictures Group|Walt Disney Studios]], including; ''[[3 Ninjas (film)|3 Ninjas]]'' (1992), ''[[Cool Runnings]]'' (1993), ''[[While You Were Sleeping (film)|While You Were Sleeping]]'' (1995), ''[[Phenomenon (film)|Phenomenon]]'' (1996), ''[[Instinct (film)|Instinct]]'' (1999), ''[[Disney's The Kid]]'' (2000),  ''[[National Treasure (film)|National Treasure]]'' (2004), as well as its 2007 sequel ''[[National Treasure: Book of Secrets]]'', and ''[[The Sorcerer's Apprentice (2010 film)|The Sorcerer's Apprentice]]'' (2010).<ref>{{cite web|url=http://www.nndb.com/people/263/000044131/ |title=Jon Turteltaub |publisher=Nndb.com |date= |accessdate=August 3, 2012}}</ref><ref>{{cite web|url=http://www.fandango.com/jonturteltaub/filmography/p114769 |title=Jon Turteltaub Filmography |publisher=Fandango.com |date= |accessdate=August 3, 2012}}</ref><ref>{{cite news|title= Company With Disney; By Hollywood standards, director Jon Turteltaub has remained remarkably loyal to one studio, from '3 Ninjas' to his latest, 'The Kid.'|publisher= [[The Los Angeles Times]]|date=|url= http://articles.latimes.com/2000/jul/05/entertainment/ca-47775|accessdate=December 29, 2010}}</ref> 
+
+Turteltaub produced the [[CBS]] television series, ''[[Jericho (2006 TV series)|Jericho]]'', and also directed the first three episodes, "[[Pilot (Jericho)|Pilot]]", "[[Fallout (Jericho)|Fallout]]", and "[[Four Horsemen (Jericho episode)|Four Horsemen]]".
+
+Turteltaub is married to Amy Eldon, the sister of photojournalist [[Dan Eldon]].
+
+==Filmography==
+*''[[Think Big (film)|Think Big]]'' (1990) (director and writer)
+*''[[Trabbi Goes to Hollywood|Driving Me Crazy]]'' (1991) (director and writer)
+*''[[3 Ninjas (film)|3 Ninjas]]'' (1992) (director)
+*''[[Cool Runnings]]'' (1993) (director)
+*''[[While You Were Sleeping (film)|While You Were Sleeping]]'' (1995) (director)
+*''[[Phenomenon (film)|Phenomenon]]'' (1996) (director)
+*''[[From the Earth to the Moon (TV miniseries)|From the Earth to the Moon]]'' (1998) (directed episode 7, "That's All There Is")
+*''[[Instinct (film)|Instinct]]'' (1999) (director)
+*''[[Disney's The Kid]]'' (2000) (director and producer)
+*''[[National Treasure (film)|National Treasure]]'' (2004) (director and producer)
+*''[[Jericho (2006 TV series)|Jericho]]'' (directed first three episodes of the series (2006), "[[Pilot (Jericho)|Pilot]]", "[[Fallout (Jericho)|Fallout]]" and "[[Four Horsemen (Jericho episode)|Four Horsemen]]", also executive producer (2006–2008))
+*''[[National Treasure: Book of Secrets]]'' (2007) (director and producer)
+*''[[Harper's Island]]'' (TV series) (2009) (directed pilot episode, also executive producer)
+*''[[The Sorcerer's Apprentice (2010 film)|The Sorcerer's Apprentice]]'' (2010) (director)
+*''[[Common Law (2012 TV series)|Common Law]]'' (2012) (directed pilot episode, also executive producer)
+*''[[Last Vegas]]'' (2013) (director)
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*{{IMDb name|0005509|Jon Turteltaub}}
+*[http://www.miptalk.com/?p=28 Jon Turteltaub – MIPtalk.com Interview]
+
+{{Jon Turteltaub}}
+
+{{Authority control}}
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Turteltaub, Jon
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American film director
+| DATE OF BIRTH     = August 8, 1963
+| PLACE OF BIRTH    = [[New York City]], U.S.
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Turteltaub, Jon}}
+[[Category:1963 births]]
+[[Category:American film directors]]
+[[Category:American film producers]]
+[[Category:American television directors]]
+[[Category:English-language film directors]]
+[[Category:German-language film directors]]
+[[Category:Living people]]
+[[Category:People from New York City]]
+[[Category:University of Southern California alumni]]
+[[Category:Wesleyan University alumni]]

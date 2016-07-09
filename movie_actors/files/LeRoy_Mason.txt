@@ -1,0 +1,69 @@
+{{use mdy dates|date=September 2014}}
+{{Infobox person
+| name          = LeRoy Mason
+| image         = LeRoy Mason.gif
+| caption       = Mason in ''[[Texas Terror (film)|Texas Terror]]'' (1935)
+| birth_date    = {{birth date|1903|7|2|mf=y}}
+| birth_place   = [[Larimore, North Dakota]], U.S.
+| death_date    = {{death date and age|1947|10|13|1903|7|2}}
+| death_place   = [[Los Angeles, California]], U.S.
+| death_cause   = heart attack
+| yearsactive   = 1924-1948
+| occupation    = Actor
+| spouse        = [[Rita Carewe]] (1928-1936) (divorced)
+}}
+
+'''LeRoy Mason''' (July 2, 1903 &ndash; October 13, 1947) was an American film actor. He died on the set of ''[[California Firebrand]]'' after suffering a  [[myocardial infarction|heart attack]].
+
+==Selected filmography==
+The following were with [[John Wayne]]:
+* ''[[Maker of Men]]'' (1931)
+* ''[[Texas Terror (film)|Texas Terror]]'' (1935)
+* ''[[Rainbow Valley (film)|Rainbow Valley]]'' (1935)
+* ''[[California Straight Ahead!]]'' (1937)
+* ''[[The Border Patrolman]]'' (1937)
+* ''[[Santa Fe Stampede]]'' (1938)
+* ''[[Wyoming Outlaw]]'' (1939)
+* ''[[New Frontier (film)|New Frontier]]'' (1939)
+
+Other films:
+* ''[[Revenge (1928 film)|Revenge]]'' (1928)
+* ''[[See America Thirst]]'' (1930)
+* ''[[Jungle Menace]]'' (1937)
+* ''[[Heroes of the Hills]]'' (1938)
+* ''[[Rocky Mountain Rangers (film)|Rocky Mountain Rangers]]'' (1940)
+* ''[[Across the Sierras]]'' (1941)
+* ''[[Chetniks! The Fighting Guerrillas]]'' (1943)
+* ''[[Raiders of Sunset Pass]]'' (1943)
+* ''[[Lucky Cowboy]]'' (1944)
+* ''[[The Tiger Woman (1944 film)|The Tiger Woman]]'' (1944)
+* ''[[San Fernando Valley (film)|San Fernando Valley]]'' (1944)
+
+==External links==
+{{commons category}}
+*{{IMDb name|id=0556813|name=LeRoy Mason}}
+
+{{Authority control}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Mason, LeRoy
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION=Actor
+|DATE OF BIRTH= 1903-7-2
+|PLACE OF BIRTH= Larimore, North Dakota
+|DATE OF DEATH= 1947-10-13
+|PLACE OF DEATH= Los Angeles, California
+}}
+{{DEFAULTSORT:Mason, Leroy}}
+[[Category:1903 births]]
+[[Category:1947 deaths]]
+[[Category:Male actors from North Dakota]]
+[[Category:American male film actors]]
+[[Category:American male silent film actors]]
+[[Category:Male film serial actors]]
+[[Category:Male Western (genre) film actors]]
+[[Category:Deaths from myocardial infarction]]
+[[Category:Burials at Forest Lawn Memorial Park (Glendale)]]
+[[Category:20th-century American male actors]]
+{{US-film-actor-1900s-stub}}

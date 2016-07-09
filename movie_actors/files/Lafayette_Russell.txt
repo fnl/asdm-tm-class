@@ -1,0 +1,61 @@
+{{Infobox gridiron football person
+|image=
+|birth_date={{birth date|1905|5|31}}
+|birth_place=[[Osawatomie, Kansas]]
+|death_date={{death date and age|1978|03|16|1905|05|31}}
+|College=[[University of Nebraska|Nebraska]]<br/>[[Northwestern University|Northwestern]]
+|Position=[[Running back]]<br/>[[Quarterback]]
+|years=1933<br>1933
+|teams=[[New York Giants]]<br>[[Philadelphia Eagles]]
+|DatabaseFootball=RUSSEREB01
+|PFR=RussRe20
+|NFL=RUS622926
+}}
+'''Lafayette H. "Reb" Russell''' (May 31, 1905 &ndash; March 16, 1978) was an [[American football]] [[running back]] in the [[National Football League]] for the [[New York Giants]] and the [[Philadelphia Eagles]], appearing in 10 games in 1933.  He played [[college football]] at the [[University of Nebraska]] and [[Northwestern University]].  He was also a small-time [[actor]], appearing in a series of low-budget [[Western (genre)|Westerns]].
+
+== Filmography ==
+*''[[The Cheyenne Tornado]]'' (1935)
+*''[[Border Vengeance]] (1935)
+*''[[Outlaw Rule]]'' (1935)
+*''[[Arizona Bad Man]]'' (1935)
+*''[[Blazing Guns]]'' (1935)
+*''[[Lightning Triggers]]'' (1935)
+*''[[Range Warfare]]'' (1934)
+*''[[Fighting Through]]'' (1934)
+*''[[The Man from Hell]]'' (1934)
+*''[[Fighting to Live]]'' (1934)
+
+==External links==
+* [http://www.b-westerns.com/russell.htm Bio]
+* {{IMDb name|0751402}}
+* {{Find a Grave|10028277}}
+
+{{Nebraska Cornhuskers quarterback navbox}}
+{{Northwestern Wildcats quarterback navbox}}
+{{1933 Philadelphia Eagles}}
+
+{{Persondata
+|NAME = Russell, Lafayette
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION = American football player
+|DATE OF BIRTH = May 31, 1905
+|PLACE OF BIRTH = [[Osawatomie, Kansas]]
+|DATE OF DEATH = March 16, 1978
+|PLACE OF DEATH =
+}}
+{{DEFAULTSORT:Russell, Lafayette}}
+[[Category:1905 births]]
+[[Category:1978 deaths]]
+[[Category:People from Miami County, Kansas]]
+[[Category:American football running backs]]
+[[Category:Nebraska Cornhuskers football players]]
+[[Category:Northwestern Wildcats football players]]
+[[Category:New York Giants players]]
+[[Category:Philadelphia Eagles players]]
+[[Category:Male actors from Kansas]]
+[[Category:Deaths from myocardial infarction]]
+[[Category:20th-century American male actors]]
+[[Category:Male Western (genre) film actors]]
+
+
+{{runningback-1900s-stub}}

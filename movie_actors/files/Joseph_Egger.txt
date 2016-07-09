@@ -1,0 +1,59 @@
+{{no footnotes|date=January 2013}}
+{{Infobox person
+| bgcolour = silver
+| name = Joseph Egger
+| image =JosephEggerGBU.jpg
+| imagesize = 
+| caption = Joseph Egger as the Prophet in ''[[For a Few Dollars More]]'' (1965)
+| birth_date = {{birth date|df=yes|1889|2|22}}
+| birth_place = [[Donawitz]], [[Styria]], [[Austria-Hungary]]
+| height = 
+| death_date = {{death date and age|df=yes|1966|8|29|1889|2|22}}
+| death_place = [[Gablitz]], [[Lower Austria]]
+| yearsactive = 1935–1965
+| birth_name = 
+| othername = 
+| website =
+| academyawards = 
+}}
+
+'''Joseph Egger''' (22 February 1889 – 29 August 1966) was an [[Austria]]n [[character actor]] of [[Western (genre)|western film]]s. Besides acting he was a well-known [[music hall]] comedian, and he was famous for doing "tricks" with his beard.
+
+He appeared as a character actor in many western movies including the first two films of the "[[Dollars Trilogy]]" directed by [[Sergio Leone]], ''[[A Fistful of Dollars]]'' (1964) and ''[[For a Few Dollars More]]'' (1965), shortly before his death.
+
+==Selected filmography==
+* ''[[Love is Duty Free]]'' (1941)
+* ''[[Schrammeln]]'' (1944)
+* ''[[The Mine Foreman (film)|The Mine Foreman]]'' (1952)
+* ''[[A Night in Venice (1953 film)|A Night in Venice]]'' (1953)
+*''[[Der schönste Tag meines Lebens]]'' (1957)
+* ''[[Der Musterknabe]]'' (1963)
+* ''[[A Fistful of Dollars]]'' (1964)
+* ''{{ill|de|Die Goldsucher von Arkansas}}'' (1964)
+* ''[[Black Eagle of Santa Fe]]'' (1965)
+* ''[[For a Few Dollars More]]'' (1965)
+
+==External links==
+* {{IMDb name|id=0250905}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Egger, Joseph
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Austrian actor
+| DATE OF BIRTH     =22 February 1889
+| PLACE OF BIRTH    =[[Donawitz]], [[Styria]], [[Austria-Hungary]]
+| DATE OF DEATH     =29 August 1966
+| PLACE OF DEATH    =[[Gablitz]], [[Lower Austria]]
+}}
+{{DEFAULTSORT:Egger, Joseph}}
+[[Category:20th-century Austrian male actors]]
+[[Category:Austrian male film actors]]
+[[Category:Male Western (genre) film actors]]
+[[Category:Male Spaghetti Western actors]]
+[[Category:1889 births]]
+[[Category:1966 deaths]]
+
+
+{{Austria-actor-stub}}

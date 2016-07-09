@@ -1,0 +1,199 @@
+{{Use mdy dates|date=July 2011}}
+{{Infobox person
+ | name             = Bernardo Bertolucci
+ | image            = Bernardo Bertolucci.jpg
+|caption=Bertolucci in 2011
+ | birth_date       = {{Birth date and age|1940|3|16|df=y}}
+ | birth_place      = [[Parma]], Emilia-Romagna, [[Kingdom of Italy|Italy]]
+ | years_active     = 1962–present
+ | occupation       = {{unbulleted list
+                       | [[Film director]]
+                       | [[Screenwriter]]
+                      }}
+ | parents          = {{unbulleted list
+                       | [[Attilio Bertolucci]] (1911–2000)
+                       | Ninetta Giovanardi
+                      }}
+ | module           = {{Listen
+                       | embed=yes 
+                       | filename = Bernardo Bertolucci bbc radio4 front row 29 04 2013.flac 
+                       | title = Bernardo Bertolucci's voice 
+                       | type = speech 
+                       | description = from the BBC programme [[Front Row (radio)|Front Row]], 29 April 2013<ref name="BBC-b01s483g">{{Cite episode |title= Bernardo Bertolucci|series= Front Row |serieslink= Front Row (radio) |url= http://www.bbc.co.uk/programmes/b01s483g |accessdate= January 18, 2014 |station= BBC Radio 4 |date= 29 April 2013|season= | seriesno = | number = | transcript= | transcripturl = }}</ref> 
+                      }}
+}}
+
+'''Bernardo Bertolucci''' ({{IPA-it|ber̺ˌn̺är̺d̪o ber̺t̪oˈl̺ut͡ːʃi|lang}}; born 16 March 1940) is an Italian film director and screenwriter, whose films include ''[[The Conformist (film)|The Conformist]]'', ''[[Last Tango in Paris]]'', ''[[1900 (film)|1900]]'', ''[[The Last Emperor]]'', ''[[The Sheltering Sky (film)|The Sheltering Sky]]'' and ''[[The Dreamers (film)|The Dreamers]]''. In recognition of his work, he was presented with the inaugural Honorary [[Palme d'Or]] Award at the opening ceremony of the [[2011 Cannes Film Festival]].<ref>{{cite news|title=Bernardo Bertolucci to receive Palme d'Or honour|url=http://www.bbc.co.uk/news/entertainment-arts-13041286|work=BBC News|publisher=BBC|accessdate=25 August 2012|author=BBC News|date=11 April 2011}}</ref>
+
+== Biography ==
+
+=== Origins ===
+Bertolucci was born in the Italian city of [[Parma]], in the region of [[Emilia-Romagna]]. He is the elder son of Ninetta (Giovanardi), a teacher, and [[Attilio Bertolucci]], who was a poet, a reputed art historian, anthologist and film critic.<ref>{{cite web|url=http://www.filmreference.com/film/34/Bernardo-Bertolucci.html |title=Bernardo Bertolucci Biography (1940-) |publisher=Filmreference.com |date= |accessdate=14 September 2010}}</ref> His mother was born in Australia, to an Italian father and an Irish mother.<ref>[https://books.google.ca/books?id=pXjyHVUD-GcC&pg=PR17&dq=Ninetta+Giovanardi+Bertolucci&hl=en&sa=X&ei=NqnxVOGhOILIsASSv4HQBA&ved=0CBMQ6AEwAA]</ref><ref>http://cinquantamila.corriere.it/storyTellerThread.php?threadId=BERTOLUCCI+Bernardo</ref> Having been raised in an artistic environment, Bertolucci began writing at the age of fifteen, and soon after received several prestigious literary prizes including the ''Premio Viareggio'' for his first book. His father's background helped his career: the elder Bertolucci had helped the Italian filmmaker [[Pier Paolo Pasolini]] publish his first novel, and Pasolini reciprocated by hiring Bertolucci as first assistant in Rome on ''[[Accattone]]'' (1961).
+
+Bertolucci had one brother, the theatre director and playwright Giuseppe (27 February 1947 - 16 June 2012). His cousin was the film producer Giovanni Bertolucci (24 June 1940 – 17 February 2005), with whom he has worked on a number of films.
+
+=== Starting out with Pasolini ===
+Bertolucci initially wished to become a poet like his father. With this goal in mind, he attended the Faculty of Modern Literature of the [[University of Rome La Sapienza|University of Rome]] from 1958 to 1961, where his film career as an assistant director to Pasolini began.<ref>{{cite web|title=A YOUNG BERTOLUCCI TALKS ABOUT PASOLINI (from "Pasolini l'Enragé")|url=https://www.youtube.com/watch?v=NR0D8nuI1iE|work=YouTube|publisher=Google, Inc|accessdate=25 August 2012|author=theblackpaul|date=3 June 2010}}</ref> Shortly after, Bertolucci left the University without graduating. In 1962, at the age of 22, he directed his first feature film, produced by Tonino Cervi with a screenplay by [[Pier Paolo Pasolini]], called ''[[La commare secca]]'' (1962). The film is a murder mystery, following a prostitute's homicide. Bertolucci uses flashbacks to piece together the crime and the person who committed it. The film which shortly followed was his acclaimed ''[[Before the Revolution]]'' (''Prima della rivoluzione'', 1964).
+
+The boom of [[Cinema of Italy|Italian cinema]], which gave Bertolucci his start, slowed in the 1970s as directors were forced to co-produce their films with several of the American, Swedish, French, and German companies and actors due to the effects of the global economic recession on the Italian film industry.
+
+=== A poetic personality ===
+Bertolucci left Pasolini's poetic ideas behind in order to follow his own personal idea about cinema, based primarily on the [[individual]]ity of people who are forced to deal with sudden changes in their lives. Such changes are both [[Existentialism|existential]] and [[Politics|political]], but are without a straightforward solution (in many cases, a solution is not being sought after).{{citation needed|date=August 2012}}
+
+=== ''Prima della rivoluzione'' ===
+The above theme is present in almost all of Bertolucci's works, starting with his second film, ''[[Prima della rivoluzione]]'' (1964), where this theme is very clear in the story of a young upper-middle agrarian class boy from [[Parma]] ([[Francesco Barilli]]), who, incapable of dealing with his best friend's suicide, throws himself into a relationship with a much older distant relative from Milan (played by Adriana Asti). Both of them know the relationship can never last, and when she leaves, the young man has no choice but to marry his previous girlfriend, who he does not love, but who comes from a wealthy family of high standing, so the marriage makes his family happy.
+
+=== The scandal of ''Last Tango in Paris'' ===
+Bertolucci stirred controversy in 1972, with the film ''Last Tango in Paris'', with [[Marlon Brando]] and [[Maria Schneider (actress)|Maria Schneider]], [[Jean-Pierre Léaud]] and [[Massimo Girotti]], when a scene featuring anal sex peformed on character Jeane by character Paul, among other depictions of the young Schneider that were thought to be exploitative, caused serious concern due to its representation of women. During filming, the 20-year-old Schneider was not aware of the scene and, in fact, was only told moments before it was filmed.<ref name="Macnab"/> To her death on 3 February 2011, she still had not forgiven Bertolucci for what she considered an emotional rape.<ref name="DailyMail"/> During the actual scene, she has also said she was crying real tears as she felt humiliated and violated by both Brando and Bertolucci.<ref name="DailyMail">{{cite news|last=Das|first=Lina|title=I felt raped by Brando|url=http://www.dailymail.co.uk/tvshowbiz/article-469646/I-felt-raped-Brando.html|accessdate=3 February 2011|newspaper=Daily Mail|date=19 July 2007}}</ref> As a direct result, she became a women's rights advocate, especially fighting for more female film directors, more respect for female actors, and better representation of females in film and media.<ref>{{cite web|last1=McLellan|first1=Dennis|title=Maria Schneider dies at 58; actress in 'Last Tango in Paris'|url=http://articles.latimes.com/2011/feb/04/local/la-me-maria-schneider-20110204|website=Los Angeles Times|accessdate=24 March 2015}}</ref>
+
+In 2013, Bertolucci expressed regret at his treatment of Schneider,
+<blockquote>"Poor Maria. I didn't have the occasion to go to ask her to forgive me. She was a 19-year old who, like the actors in ''Me and You'', had never acted before. Maybe, sometimes in the movie, I didn't tell her what was going on because I knew her acting would be better. So, when we shot this scene with Marlon using butter on her, I decided not to tell her. I wanted a reaction of frustration and rage."<ref name="Macnab">{{cite web|author=Geoffrey Macnab|publisher= The Guardian|date=1 February 2013|title=Bernardo Bertolucci:'I thought I couldn't make any more movies'|accessdate=February 16, 2013|url=http://www.guardian.co.uk/film/2013/feb/01/bernardo-bertolucci-berlusconi-last-tango?INTCMP=SRCH}}</ref></blockquote>
+Brando too felt raped by Bertolucci, and did not speak to him for many years as a result of the trauma of being involved with the film.<ref>{{cite web|last1=Florey|first1=Virginia|title=Last Tango in Paris|website=Midland Daily News|accessdate=24 March 2015}}</ref> ''Last Tango in Paris'' presents Brando's character Paul as he uses an anonymous [[affair]] to cope with the violent death of his wife by emotionally and physically dominating a young woman. The film caused criminal proceedings to be brought against Bertolucci in Italy for the anal sex scene, and the film was sequestered by the censorship commission and all copies were ordered to be destroyed. An Italian court revoked Bertolucci's [[Civil and political rights|civil rights]] for five years and gave him a four-month [[Suspended sentence|suspended]] prison sentence.<ref>{{cite web|title=Bernardo Bertolucci|url=http://www.rannakino.ee/en/programm/july-2012.html?id=348|work=Rannakino|publisher=Rannakino|accessdate=26 August 2012|author=Rannakino|year=2012}}</ref> In 1978, the Appeals Court of Bologna ordered three copies of the film to be preserved in the national film library with the stipulation that they could not be viewed, until Bertolucci was later able to re-submit it for general distribution with no cuts.<ref>{{cite book|last1=Rashkin|first1=Esther|title=Unspeakable Secrets and the Psychoanalysis of Culture|date=2008|publisher=SUNY Press|location=Albany|isbn=0791475344|page=224|url=https://books.google.com/books?id=EuQmXl2j9cgC&pg=PA223&dq=bertolucci+last+tango+censorship+commission&hl=en&sa=X&ei=WuoRVYbpKYzfsATiqoKQBA&ved=0CDYQ6AEwBA#v=onepage&q=bertolucci%20last%20tango%20censorship%20commission&f=false|accessdate=24 March 2015}}</ref>
+
+The original copy, and the copies that had been preserved abroad, were used to make the DVD.{{citation needed|date=August 2012}}
+
+=== Becoming world famous ===
+[[File:Bernardo Bertolucci Hollywood Walk of Fame.jpg|thumb|left|200px|Bertolucci's star on [[Walk of Fame]]]]
+Bertolucci increased his fame with his next few films, from ''[[1900 (film)|1900]]'' (1976), an epic depiction of the struggles of farmers in [[Emilia-Romagna]] from the beginning of the 20th century up to [[World War II]] with an impressive international cast ([[Robert De Niro]], [[Gérard Depardieu]], [[Donald Sutherland]], [[Sterling Hayden]], [[Burt Lancaster]], [[Dominique Sanda]]) to ''[[La Luna (1979 film)|La Luna]]'', set in [[Rome]] and in [[Emilia-Romagna]], in which Bertolucci deals with the thorny issue of drugs and incest, and finally ''[[La tragedia di un uomo ridicolo]]'' (1981), with [[Ugo Tognazzi]]. Bertolucci appeared on the [[Radio Four]] programme [[Front Row (radio)|Front Row]] on April 29, 2013, where he chose [[La Dolce Vita]] (a film directed by [[Fellini]]) for the "Cultural Exchange".
+
+=== ''Red Harvest'' ===
+During the making of ''Last Tango in Paris'', Bertolucci toyed with the idea of adapting [[Dashiell Hammett]]'s book ''[[Red Harvest]]'' into a feature film. That material had formed the basis for Kurasawa's ''[[Yojimbo (film)|Yojimbo]]'', which in turn was the basis for Sergio Leone's ''[[A Fistful of Dollars]]'' (''Per un pugno di dollari''). Countless others have used its premise since. The reason for this was his wanting to branch out into other forms of cinema. Bertolucci wrote two screenplays.{{citation needed|date=April 2013}} The first draft was written almost entirely as a political film, from which emerged a story inspired by socialist syndicalism of the late 1920s in America. The second draft was more faithful to Hammett's original story and changed the setting to 1934. Actors considered for the role [[The Continental Op]] were [[Robert Redford]], [[Clint Eastwood]] and [[Jack Nicholson]]. In Rome, Bertolucci and [[Warren Beatty]] talked in great detail about the film, and in 1982 Bertolucci left Europe for [[Los Angeles]], where he was to shoot ''Red Harvest'', but five years went by and the film was never made.
+
+=== Academy Awards with ''The Last Emperor'' ===
+In 1987, Bertolucci directed the epic ''[[The Last Emperor]]'', a biographical film telling the life story of [[Aisin-Gioro]] [[Puyi]], the [[Qing Dynasty|last Emperor of China]]. The film was independently produced by British producer [[Jeremy Thomas]], who became Bertolucci's preferred producer. Bertolucci has worked almost exclusively with Thomas from then on. The film was independently financed and three years in the making. Bertolucci won the Academy Award for [[Academy Award for Directing|Best Director]]. Bertolucci co-wrote the film with [[Mark Peploe]]. ''The Last Emperor'' uses Puyi's life as a mirror that reflects China's passage from [[feudalism]] through revolution to its current state.
+
+At the [[60th Academy Awards]], ''The Last Emperor'' [[List of films receiving six or more Academy Awards|won all nine Oscars]] for which it was nominated:  [[Academy Award for Best Picture|Best Picture]], [[Academy Award for Directing|Best Director]], [[Academy Award for Writing Adapted Screenplay|Best Writing, Screenplay Based on Material from Another Medium]], [[Academy Award for Best Cinematography|Best Cinematography]], [[Academy Award for Film Editing|Best Film Editing]], [[Academy Award for Costume Design|Best Costume Design]], [[Academy Award for Best Art Direction|Best Art Direction-Set Decoration]], [[Academy Award for Original Music Score|Best Music, Original Score]] and [[Academy Award for Sound|Best Sound]].
+
+''The Last Emperor'' was the first feature film ever authorized by the government of the People's Republic of China to film in the [[Forbidden City]]. Bertolucci had proposed the film to the Chinese government as one of two possible projects. The other film was ''[[La Condition Humaine]]'' by [[André Malraux]]. The Chinese government preferred ''The Last Emperor'', and made no restrictions on the content. ''The Last Emperor'' became the first western film made in China and about the country to be produced with full Chinese government cooperation since 1949.
+
+=== His latest films ===
+After ''The Last Emperor'', and ''[[Little Buddha]]'', the director went back to Italy to film, as well as to his old themes with varying results from both critics and the public. He filmed ''[[Stealing Beauty]]'' in 1996, then ''[[The Dreamers (film)|The Dreamers]]'' in 2003, which describes the political passions and sexual revolutions of two siblings in Paris in 1968.
+
+In 2007 he received the Golden Lion Award at the [[Venice Film Festival]] for his life's work, and in 2011 he also received the [[Palme d'Or]] at the [[Cannes Film Festival]].<ref>{{cite web|url=http://www.cinematografo.it/cinemedia/palma_d_oro_speciale_a_bertolucci/00018504_Palma_d_Oro_speciale_a_Bertolucci.html |title=Speciale Palma d'Oro a Bertolucci |publisher=Cinematografo.it |date= |accessdate=August 2, 2011}} {{dead link|date=March 2012}}</ref>
+
+In 2012, his latest film ''[[Me and You (film)|Me and You]]'' was screened out of competition at the [[2012 Cannes Film Festival]]<ref name="Official Selection">{{cite web |url=http://www.festival-cannes.fr/en/article/58878.html |title=2012 Official Selection |accessdate=May 26, 2012 |work=Cannes}}</ref><ref name="latinamericanfilm">{{cite news |url=http://www.guardian.co.uk/film/2012/may/22/me-and-you-review?newsfeed=true |title=Cannes 2012: Me and You (Io e Te) – review |accessdate=May 26, 2012 |work=Latin American Film |first=Peter |last=Bradshaw |date=May 22, 2012}}</ref> and was released early in 2013 in the UK. The film is an adaptation of [[Niccolò Ammaniti]]'s young-adult's book ''[[Io e te]] (You and Me)''. The screenplay for the movie was written by Bertolucci himself, [[Umberto Contarello]] and Niccolò Ammaniti.<ref>{{Cite news|title=Bernardo Bertolucci girerà il suo prossimo film in 3D |first=Nicoletta |last=Gemmi |date=18 February 2011 |url=http://www.primissima.it/cinema_news/scheda/bernardo_bertolucci_girera_il_suo_prossimo_film_in_3d/}}</ref> Bertolucci originally intended to shoot the film in 3D but later changed his mind about this, calling the idea "vulgarly commercial".<ref>{{cite news|last=Vivarelli|first=Nick|title=Bertolucci abandons 3D plan for 'Me and You'|url=http://www.variety.com/article/VR1118044104?refcatid=19|accessdate=21 April 2012|work=Variety|date=October 7, 2011}}</ref>
+
+=== As a screenwriter, producer and actor ===
+Bertolucci has also written many screenplays, both for his own films as well as for films directed by others, two of which he also produced.
+
+His only experience as an actor was in the film ''[[Golem-The Spirit of Exile]]'' directed by [[Amos Gitai]] in 1992.
+
+=== Film festivals ===
+He has been announced as the President of the Jury at the [[70th Venice International Film Festival]] to be held in September 2013. He was previously the President of the Jury at the 40th edition in 1983.<ref name="President">{{cite web |url=http://www.labiennale.org/en/cinema/news/09-05.html |title=Bernardo Bertolucci President of the international Jury of the Venezia 70 Competition|work=Venice}}</ref><ref name="Indiewire">{{cite web |url=http://www.indiewire.com/article/bernardo-bertulocci-to-head-venice-jury |title=Bernardo Bertolucci To Head 70th Venice Film Festival Jury |work=Indiewire}}</ref>
+
+== Upcoming projects ==
+Bertolucci is said to be working on a historical romance centering on 16th-century classical musician (and murderer) [[Carlo Gesualdo]].<ref>Sheri Jennings, ''[http://www.screendaily.com/bertolucci-to-receive-venices-special-golden-lion/4033178.article Bertolucci to receive Venice's special Golden Lion]'', ''Screen Daily.com'', June 18, 2007. Retrieved January 10, 2010.</ref>
+
+== Politics and personal beliefs ==
+
+Bertolucci is an atheist.<ref>{{cite web|url=http://www.mymovies.it/critica/persone/critica.asp?id=37880&r=3121 |title=Interview to Mymovies |publisher=Mymovies.it |date= |accessdate=August 2, 2011}}</ref>
+
+Bertolucci's films are often very political. He is a professed [[Marxist]] and like [[Luchino Visconti|Visconti]], who similarly employed many foreign artists during the late 1960s, Bertolucci uses his films to express his political views; hence they are often autobiographical as well as highly controversial. His political films were preceded by others re-evaluating history. ''[[The Conformist (film)|The Conformist]]'' (1970) criticised Fascist ideology, touched upon the relationship between nationhood and nationalism, as well as issues of popular taste and collective memory, all amid an international plot by Mussolini to assassinate a politically active [[left-wing politics|leftist]] professor of philosophy in Paris. ''[[1900 (film)|1900]]'' also analyses the struggle of Left and Right.
+
+On 27 September 2009, Bertolucci was one of the signers of the appeal to the Swiss government to release [[Roman Polanski]], who was being held while waiting to be extradited to the United States.<ref name="Alt">{{cite web|author=Andre Soares|date=30 September 2009|title=Penelope Cruz, Bernardo Bertolucci, Gael Garcia Bernal Sign Polanski Petition|publisher=Alt Film Guide|accessdate=31 August 2013|url=http://www.altfg.com/blog/politics/penelope-cruz-bertolucci-bernal-polanski-petition}}</ref>
+
+On Twitter on 24 April 2015, Bertolucci participated in #whomademyclothes, Fashion Revolution's anti-[[sweatshop]] campaign commemorating the [[2013 Savar building collapse]], the deadliest accident in the history of the garment industry.<ref>http://www.mindfood.com/article/fashion-revolution-who-made-your-clothes/</ref>
+
+== Awards ==
+
+=== Cinematographic awards ===
+* 1971: National Society of Film Critics Award for best director
+* 1973: [[Nastro d'Argento for Best Director]]
+* 1987: [[Academy Award for Best Director]]
+* 1987: [[Academy Award for Best Adapted Screenplay]]
+* 1987: [[Golden Globe Award for Best Director]]
+* 1987: [[Golden Globe Award for Best Screenplay]]
+* 1987: [[David di Donatello for Best Director]]
+* 1987: [[David di Donatello for Best Script]]
+* 1987: [[Nastro d'Argento for Best Director]]
+* 1987: [[Directors Guild of America Award|Directors Guild of America Award for best director]]
+* 1997: Honorable Mention at the [[Locarno International Film Festival]]
+* 1997: Award special visual sensitivity in directing at the [[Camerimage]]
+* 1997: Award for collaborating director – director of photography ([[Vittorio Storaro]]) at [[Camerimage]]
+* 1998: Recognition for free expression by the [[National Board of Review of Motion Pictures|National Board of Review]]
+* 2007: [[Golden Lion]] for his career at the [[Venice Film Festival]]
+* 2011: Honorary [[Palme d'Or]] at [[Cannes Film Festival]]
+
+== Filmography ==
+* ''[[La commare secca]]'' (1962)
+* ''[[Before the Revolution]]'' (''Prima della rivoluzione'', 1964)
+* ''[[La via del petrolio]]'' (1965)
+* ''[[Il canale]]'' (1966)
+* ''[[Partner (1968 film)|Partner]]'' (1968)
+* ''[[Amore e rabbia]]'' (1969, segment "Agonia")
+* ''[[The Conformist (film)|The Conformist]]'' (''Il conformista'', 1970)
+* ''[[The Spider's Stratagem]]'' (''Strategia del ragno'', 1970)
+* ''La salute è malata'' (1971)
+* ''12 dicembre'' (1971)
+* ''[[Last Tango in Paris]]'' (''Ultimo tango a Parigi'', 1972)
+* ''[[1900 (film)|1900]]'' (''Novecento'', 1976)
+* ''[[La Luna (1979 film)|La luna]]'' (1979)
+* ''[[Tragedy of a Ridiculous Man]]'' (''La tragedia di un uomo ridicolo'', 1981)
+* ''L'addio an Enrico Berlinguer'' (1984)
+* ''[[The Last Emperor]]'' (1987)
+* ''12 registi per 12 città'' (1989, segment "Bologna")
+* ''[[The Sheltering Sky (film)|The Sheltering Sky]]'' (1990)
+* ''[[Little Buddha]]'' (1993)
+* ''[[Stealing Beauty]]'' (1996)
+* ''[[Besieged (film)|Besieged]]'' (1999)
+* ''[[Ten Minutes Older#Ten Minutes Older: The Cello|Ten Minutes Older: The Cello]]'' (2002, segment "Histoire d'eaux")
+* ''[[The Dreamers (film)|The Dreamers]]'' (2003)
+* ''[[Me and You (film)|Me and You]]'' (2012)
+
+== See also ==
+* "[[La Lega (song)|La Lega]]"
+* [[Amos Gitai]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{IMDb name|934}}
+* {{cite web |url=http://archive.sensesofcinema.com/contents/directors/04/bertolucci.html |first=Bilge |last=Ebiri |title=Bernardo Bertolucci |work=Senses of Cinema: Great Directors Critical Database |date=September 2004}}
+* [http://zakka.dk/euroscreenwriters/interviews/bernardo_bertolucci_513.htm Jeremy Isaacs, "Face to Face: Bernardo Bertolucci"], BBC interview, September 1989.
+* [http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19871209/REVIEWS/712090301/1023 Roger Ebert, review, ''The Last Emperor''], ''Chicago Sun-Times'', December 9, 1987.
+
+{{Bernardo Bertolucci}}
+{{Navboxes
+|title = Awards for Bernardo Bertolucci
+|list =
+{{AcademyAwardBestDirector 1981-2000}}
+{{AcademyAwardBestAdaptedScreenplay 1981-2000}}
+{{David di Donatello Best Director}}
+{{DirectorsGuildofAmericaAwardFeatureFilm 1980-1999}}
+{{Golden Globe Award for Best Director 1966-1990}}
+{{GoldenGlobeBestScreenplayMotionPicture 1981-2000}}
+{{Nastro d'Argento Best Director}}
+}}
+{{Cannes Film Festival jury presidents}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]] -->
+ | NAME              = Bertolucci, Bernardo
+ | ALTERNATIVE NAMES = 
+ | SHORT DESCRIPTION = Film director
+ | DATE OF BIRTH     = March 16, 1940
+ | PLACE OF BIRTH    = [[Parma]], Emilia-Romagna, Italy
+ | DATE OF DEATH     = 
+ | PLACE OF DEATH    = 
+}}
+{{DEFAULTSORT:Bertolucci, Bernardo}}
+[[Category:1940 births]]
+[[Category:Living people]]
+[[Category:Best Director Academy Award winners]]
+[[Category:Best Director Golden Globe winners]]
+[[Category:European Film Awards winners (people)]]
+[[Category:BAFTA winners (people)]]
+[[Category:César Award winners]]
+[[Category:Italian film producers]]
+[[Category:Italian atheists]]
+[[Category:Italian film directors]]
+[[Category:Italian screenwriters]]
+[[Category:Italian Marxists]]
+[[Category:Freudians]]
+[[Category:Sapienza University of Rome alumni]]
+[[Category:People from Parma]]
+[[Category:David di Donatello winners]]
+[[Category:Nastro d'Argento winners]]
+[[Category:Best Screenplay Golden Globe winners]]
+[[Category:Best Adapted Screenplay Academy Award winners]]
+[[Category:Directors Guild of America Award winners]]

@@ -1,0 +1,1384 @@
+{{Use mdy dates|date=February 2015}}
+{{Infobox person
+| name = Hayao Miyazaki
+| image = File:Hayao Miyazaki.jpg
+| caption =Miyazaki at the 2008 Venice Film Festival
+| birth_name =
+| birth_date = {{birth date and age|1941|1|5|mf= yes}}
+| birth_place = [[Bunkyō, Tokyo]], Japan
+| death_date = 
+| occupation ={{flatlist|
+*[[Film director]]
+*[[Film producer|producer]]
+*[[screenwriter]]
+*[[animator]]
+*[[author]]
+*[[manga artist]]}}
+| years_active = 1963–2013
+| spouse = {{marriage|Akemi Ōta| 1965}}
+| children ={{flatlist| *[[Gorō Miyazaki]]
+*Keisuke Miyazaki}}}}
+{{Anime and manga}}
+'''Hayao Miyazaki''' {{Nihongo |'''Hayao Miyazaki'''{{Need-IPA}}|宮崎 駿|Miyazaki Hayao|born January 5, 1941<ref name="HC"/>}} is a Japanese film director, producer, screenwriter, animator, author, and [[manga artist]]. Through a career that has spanned five decades, Miyazaki has attained international acclaim as a masterful storyteller and as a maker of [[anime]] feature films and, along with [[Isao Takahata]], co-founded [[Studio Ghibli]], a film and animation studio. The success of Miyazaki's films has invited comparisons with American animator [[Walt Disney]], and American directors [[Steven Spielberg]] and [[Orson Welles]].<ref name = "timeasia">{{Cite news| url = http://www.time.com/time/asia/2006/heroes/at_miyazaki.html | archiveurl = http://web.archive.org/web/20110623060452/http://www.time.com/time/asia/2006/heroes/at_miyazaki.html |archivedate = June 23, 2011 | title = Hayao Miyazaki: In an era of high-tech wizardry, the anime auteur makes magic the old way|first= Tim|last = Morrison |date= November 13, 2006| accessdate = February 19, 2007 | publisher = [[Time Asia]]}}</ref>
+
+Born in [[Bunkyō, Tokyo]], Miyazaki began his animation career in 1963, when he joined [[Toei Animation]]. From there, Miyazaki worked as an [[Inbetweening|in-between artist]] for ''[[Gulliver's Travels Beyond the Moon]]'', where he pitched ideas that eventually became the movie's ending. He continued to work in various roles in the animation industry until he directed his first feature film, ''Lupin III: [[The Castle of Cagliostro]]'', released in 1979.  After the success of his next film, ''[[Nausicaä of the Valley of the Wind (film)|Nausicaä of the Valley of the Wind]]'' (1984), he co-founded Studio Ghibli, where he continued to produce many feature films. While Miyazaki's films have long enjoyed both commercial and critical success in Japan, he remained largely unknown to the West until [[Miramax Films]] released ''[[Princess Mononoke]]'' (1997).  ''Princess Mononoke'' was briefly the highest-grossing film in Japan until it was eclipsed by another 1997 film, ''[[Titanic (1997 film)|Titanic]]'', and it became the first animated film to win Picture of the Year at the [[Japan Academy Prize (film)|Japanese Academy Awards]]. Miyazaki's next film, ''[[Spirited Away]]'' (2001), topped ''Titanic''’s sales at the Japanese box office, won Picture of the Year at the Japanese Academy Awards, and was the first anime film to win an [[Academy Award|American Academy Award]].
+
+Miyazaki's films often contain recurrent themes, like humanity's relationship with [[nature]] and technology, [[feminism]], and the difficulty of maintaining a [[pacifist]] ethic. The protagonists of his films are often strong, independent girls or young women. While two of his films, ''[[The Castle of Cagliostro]]'' and ''[[Castle in the Sky]]'', involve traditional [[villain]]s, his other films like ''[[Nausicaä of the Valley of the Wind (film)|Nausicaä]]'' and ''Princess Mononoke'' present morally ambiguous antagonists with redeeming qualities. He co-wrote films ''[[Arrietty|The Secret World of Arrietty]]'', released in July 2010 in Japan and February 2012 in the United States; and ''[[From Up on Poppy Hill]]'' released in July 2011 in Japan and March 2013 in the United States. Miyazaki's newest film ''[[The Wind Rises]]'' was released on July 20, 2013 and screened internationally in February 2014.<ref>{{cite web|title=Disney to Release The Wind Rises in N. America|url= http://www.animenewsnetwork.com/news/2013-08-27/disney-to-release-the-wind-rises-in-n-america |publisher=Anime News Network | accessdate = September 1, 2013}}</ref> Miyazaki announced on September 1, 2013 that this would be his final feature-length film.<ref>{{cite web |url=http://www.usnews.com/news/world/articles/2013/09/01/japans-miyazaki-to-retire-after-11-feature-films |title= Japan's Miyazaki to retire after 11 feature films}}</ref><ref name ="Anime News Network">{{cite web|title=Hayao Miyazaki Retires From Making Feature Films|url= http://www.animenewsnetwork.com/news/2013-09-01/hayao-miyazaki-to-retire-from-making-feature-films | publisher = Anime News Network|accessdate=September 1, 2013}}</ref> In November 2014, Miyazaki was awarded an [[Honorary Academy Award]]<ref>{{cite web|url=http://www.japantimes.co.jp/news/2014/11/10/national/miyazaki-is-second-japanese-to-receive-honorary-oscar/#.VOkcAMXgHa8|title=Miyazaki is second Japanese to receive honorary Oscar|date=November 10, 2014|work=The Japan Times|accessdate=February 28, 2015}}</ref> for his impact on animation and cinema.  In 2002, American [[film critic]] [[Roger Ebert]] suggested that Miyazaki may be the best animation filmmaker in history, praising the depth and artistry of his films.<ref>{{cite web|url=http://www.rogerebert.com/interviews/hayao-miyazaki-interview|title=Hayao Miyazaki interview|first=Roger |last=Ebert|authorlink=Roger Ebert|work=RogerEbert.com|date=September 12, 2002|accessdate=April 30, 2015}}</ref>
+
+==Early life==
+Miyazaki was born in the town of Akebono-cho in [[Bunkyō, Tokyo|Bunkyō]], Tokyo, the second of four sons born to [[Katsuji Miyazaki]].<ref name="HC"/><ref name=bio>{{cite web | url=http://www.nausicaa.net/miyazaki/miyazaki/miyazaki_biography.txt | title=Hayao Miyazaki Biography Revision 2 (6/24/94) | publisher=Nausicaa.net | date=June 24, 1994 | accessdate=August 16, 2013}}</ref> His father was director of [[Miyazaki Airplane]], which made rudders for [[A6M Zero]] fighter planes during [[World War II]].<ref name="McCarthy(1999)">{{cite book | last=McCarthy | first=Helen | authorlink=Helen McCarthy | year=1999 | title=Hayao Miyazaki Master of Japanese Animation | edition=2002 | url=http://www.stonebridge.com/shopexd.asp?id=210 | publisher=Stone Bridge Press | location=Berkeley | pages= 26–39, 79, 89 | isbn=1880656418}}</ref> During the war, when Miyazaki was only three years old, the family evacuated to [[Utsunomiya]] and later to [[Kanuma]] in [[Tochigi Prefecture]] where the Miyazaki Airplane factory was located.{{efn|McCarthy notes Miyzaki's getting evacuated at age three and starting school as an evacuee in 1947. In McCarthy (1999), page 26.<ref name="McCarthy(1999)"/> The Nausicaa.net biography states, "Between 1944 and 1946".<ref name=bio /> In order to preserve accuracy of the ambiguous timeline, no synthesis will be made to state when this occurred.}} Miyazaki has said that his family was affluent and could live comfortably during the war because of his father and uncle's profitable work in the war industry but he has also noted that experiencing the night time firebombing raids on Utsunomiya, as a 4-and-a-half year old, in July 1945, left a lasting impression on him. During his May 22, 1988 lecture at the film festival in Nagoya he retold the account of his family's hasty retreat from the burning town, without providing a ride to other people in need of transportation, and he recalled how the fires had coloured the night sky as he looked back towards the city after they had fled to a safer distance.<ref>{{cite journal |last=Miyazaki |first=Hayao |date= May 22, 1988 | publication-date=July 16, 1995|number=1166|editor-last=Takeuchi | editor-first=Masatoshi| script-title=ja:宮崎駿講演採録 |trans_title= Hayao Miyazaki Lecture record |pages=57–58 |url=http://www.kinejun.com |language=Japanese |journal=Kinema Junpo|location=Tokyo |publisher=Kinema Junpo |accessdate=February 3, 2014}}</ref>
+
+In 1947, Miyazaki began school at Utsunomiya City elementary, completing the first through third grades before his family moved back to [[Suginami-ku]], where he completed the fourth grade at Omiya Elementary School. For fifth grade, he went to the new Eifuku Elementary School.<ref name=bio /> Miyazaki graduated from Eifuku and attended Omiya Junior High. During this time, Miyazaki's mother suffered from [[spinal tuberculosis]] and was bedridden from 1947 until 1955. She spent the first few years mostly in the hospital, but was eventually able to be nursed from home.{{efn|McCarthy (1999), page 26.<ref name="McCarthy(1999)"/>}} Miyazaki aspired to become a manga author from an early age. He read the illustrated stories in boys' magazines and acknowledges the influences of creative artists of the medium, such as {{Nihongo|Tetsuji Fukushima|福島鉄次}}, {{ill|ja|Soji Yamakawa|山川惣治}} and [[Osamu Tezuka]]. It was as a result of Tezuka's influence that Miyazaki would later destroy much of his early work, believing it was "bad form" to copy Tezuka's style because it was hindering his own development as an artist.{{efn|Miyazaki, ''I parted ways with Osamu Tezuka when I saw the "Hand of God" in him.'', in ''Starting Point'' (2009), page 193ff.<ref name="Miyazaki(Starting_Point)">{{cite book |last=Miyazaki |first=Hayao |date=August 4, 2009 |title=Starting Point 1979~1996 |url=http://www.viz.com/books/print/starting-point-1979-1996-volume-1/5855 |location=San Francisco |publisher=Viz Media |isbn=9781421505947 | pages=193–197 | accessdate=December 13, 2013 }}</ref> McCarthy (1999), page 28.<ref name="McCarthy(1999)"/> Comic Box (1982), page 80.<ref name= "Comic_Box_JPN(1982)">{{cite journal |author=<!--Staff writer(s); no by-line.--> |script-title=ja:特集宮崎駿 「風の谷のナウシカ」1 | trans_title=Special Edition Hayao Miyazaki ''Nausicaa of the Valley of the Wind'' 1 | url=http://www.comicbox.co.jp/comicbox/column/backnumber.html | language=Japanese | journal=Comic Box | publisher=Fusion Products | issue=3 | pages=77–137 | accessdate=November 19, 2013}}</ref> }}
+
+After graduating from Omiya Junior High, Miyazaki attended Toyotama High School. During his third year, Miyazaki's interest in animation was sparked by ''[[The Tale of the White Serpent]]''.<ref name=bio /> He "fell in love" with the movie's heroine and it left a strong impression on him. As Helen McCarthy put it; "He realized the folly of trying to succeed as manga writer by echoing what was fashionable, and decided to follow his true feelings in his work even if that might seem foolish."{{efn|McCarthy (1999), page 29.<ref name="McCarthy(1999)"/>}} His interest really began by the time he began to attend high school. He was determined to become some type of artist. His interests were mainly in anime and manga when the two were beginning to arise at the time. [http://www.notablebiographies.com/newsmakers2/2006-Le-Ra/Miyazaki-Hayao.html] To become an animator, with an independent style, Miyazaki had to learn to draw the human figure.<ref name="HC">{{cite web|url= http://www.nausicaa.net/miyazaki/miyazaki/miyazaki_biography.txt | title= Hayao Miyazaki Biography | edition = Revision 2|date=June 24, 1994|accessdate=February 19, 2007|publisher= Nausicaa.net| format = plain text |first=Steven|last=Feldman}}</ref> After graduating from Toyotama, Miyazaki attended [[Gakushuin University]] and was a member of the university's "[[Children's Literature]] research club", the "closest thing to a [[comics]] club in those days". Miyazaki graduated from Gakushuin in 1963 with degrees in [[political science]] and [[economics]].<ref name="HC"/>
+
+==Animation career==
+
+===Early career and Toei Animation===
+In April 1963, Miyazaki got a job at [[Toei Animation]], working as an [[Inbetweening|in-between artist]] on the theatrical feature anime {{ill|ja|Watchdog Bow Wow|わんわん忠臣蔵}} (''Wanwan Chushingura'') and the TV anime {{ill|ja|Wolf Boy Ken|狼少年ケン}} (Ōkamishōnen ken). He was a leader in a labor dispute soon after his arrival, becoming chief secretary of Toei's labor union in 1964.{{efn|McCarthy (1999), page 30.<ref name="McCarthy(1999)"/>}}  He first gained recognition while working as an in-between artist on the Toei production ''[[Gulliver's Travels Beyond the Moon]]'' (''Garibā no Uchuu Ryokō'') in 1965. He found the original ending to the script unsatisfactory and pitched his own idea, which became the ending used in the finished film.
+
+In 1968 Miyazaki played an important role as chief animator, concept artist, and scene designer on ''[[Hols: Prince of the Sun]]'', a landmark animated film. Through the collaborative process adopted for the project he was able to contribute his ideas and work closely with his mentor, [[Animation Director]] [[Yasuo Ōtsuka]], whose innovative approach to animation had a profound impact on Miyazaki's work. The film was directed by [[Isao Takahata]], with whom he continued to collaborate for the remainder of his career. In Kimio Yabuki's ''[[Puss in Boots (1969 film)|Puss in Boots]]'' (1969), Miyazaki again provided key animation as well as designs, storyboards and story ideas for key scenes in the film, including the climactic chase scene. He also illustrated the manga, as a promotional [[Tie-in]], for this production of ''Puss in Boots''. Toei Animation produced two more sequels with the 'Puss in Boots' from this film, during the 1970s, and the character would ultimately become the studio's mascot, but Miyazaki wasn't involved with any of the sequels. Shortly thereafter, Miyazaki proposed scenes in the screenplay for ''[[Flying Phantom Ship]],'' in which military tanks would roll into downtown Tokyo and cause mass hysteria, and was hired to storyboard and animate those scenes. In 1971, Miyazaki played a decisive role in developing structure, characters and designs for [[Hiroshi Ikeda (director)|Hiroshi Ikeda]]'s adaptation of ''[[Doubutsu Takarajima|Animal Treasure Island]]'' and the adaptation of ''[[Ali Baba and the Forty Thieves (1971 film)|Ali Baba and the Forty Thieves]]'' by {{ill|ja|Hiroshi Shidara|設楽博}}. Miyazaki also helped in the storyboarding and key animating of pivotal scenes in both films and made a promotional manga for ''Animal Treasure Island''.<!--See Manga section below-->
+
+Miyazaki left Toei for [[Shin-Ei Animation|A Pro]] in August 1971, where he co-directed 14 episodes of the first ''[[Lupin III]]'' series with Isao Takahata. That year the two also began pre-production on a ''[[Pippi Longstocking]]'' series and drew extensive story boards for it. However, after traveling to [[Sweden]] to conduct research for the film and meet the original author, [[Astrid Lindgren]], permission was refused to complete the project, and it was canceled as a result.{{efn|McCarthy (1999), page 39.<ref name="McCarthy(1999)"/>}} In 1972 and 1973 Miyazaki conceived, wrote, designed and animated two ''[[Panda! Go, Panda!]]'' shorts which were directed by Takahata.
+
+After their move to [[Zuiyo Eizo]], in 1974, he worked as an animator on the [[World Masterpiece Theater]] with Takahata, which included their adaptation of the first part of [[Johanna Spyri]]'s [[Heidi]] novel into the animated television series ''[[Heidi, Girl of the Alps]]''. The company continued as Nippon Animation in 1975. Miyazaki also directed the television series ''[[Future Boy Conan]]'' (1978), an adaptation of the children's novel ''[[The Incredible Tide]]'' by [[Alexander Key]]. The main antagonist is the leader of the [[city-state]] of Industria who attempts to revive lost technology. The series also elaborates on the characters and events in the book, and is an early example of characterizations which recur throughout Miyazaki's later work: a girl who is in touch with nature, a warrior woman who appears menacing but is not an antagonist, and a boy who seems destined for the girl.  The series also featured imaginative aircraft designs.
+
+===Breakthrough films and ''Spirited Away''===
+Miyazaki left [[Nippon Animation]] in 1979 in the middle of the production of ''[[Anne of Green Gables (anime)|Anne of Green Gables]]'' and moved to the [[TMS Entertainment]] subsidiary Telecom Animation Film to direct his first feature anime film ''[[The Castle of Cagliostro]]'' (1979), a Lupin III adventure film.  In 1981, a delegation of TMS animators, including Miyazaki, visited the [[Walt Disney Animation Studios|Disney animation studio]] in the United States where they presented a clip from ''The Castle of Cagliostro''.  That clip deeply moved and strongly influenced a young Disney animator named [[John Lasseter]], who would become one of Miyazaki's biggest fans, and after becoming a successful director at [[Pixar]] would use his own influence to expand awareness of Miyazaki's work among American audiences.<ref>{{cite news|last1=Brzeski|first1=Patrick|title=John Lasseter Pays Emotional Tribute to Hayao Miyazaki at Tokyo Film Festival|url=http://www.hollywoodreporter.com/news/john-lasseter-pays-emotional-tribute-743635|accessdate=November 10, 2014|work=The Hollywood Reporter|publisher=Prometheus Global Media|date=October 24, 2014}}</ref>  During the early 1980s, Miyazaki also directed six episodes of ''[[Sherlock Hound]]'', an Italian-Japanese co-production between TMS Entertainment and the television station [[RAI]], which retold [[Sherlock Holmes]] tales using [[anthropomorphic]] animals. These episodes were first broadcast on TV in 1984–85. In Japan a short film based on the first two episodes had a theatrical release in March 1994.
+
+Miyazaki's next film, ''[[Nausicaä of the Valley of the Wind (film)|Nausicaä of the Valley of the Wind]]'', released on March 11, 1984, is an adaption of his manga series of the ''[[Nausicaä of the Valley of the Wind (manga)|same title]]''. A science fiction adventure in which he introduces many of the recurring themes he would go on to explore throughout his career: a concern with [[ecology]], human interaction with and impact on, the environment; a fascination with aircraft and flight; pacifism, including an anti-military streak; feminism; morally ambiguous characterizations, especially among villains; and love. Starring the voices of [[Sumi Shimamoto]], [[Yōji Matsuda]], [[Iemasa Kayumi]], [[Gorō Naya]] and [[Yoshiko Sakakibara]], this was the first film both written and directed by Miyazaki. The film and the manga have common roots in ideas Miyazaki mulled over in the early 1980s. Serialization of the manga began in the February 1982 issue of [[Tokuma Shoten]]'s [[Animage]] magazine. The plot of the film corresponds roughly with the first 16 chapters of the manga. Miyazaki continued expanding the story over an additional decade after the release of the film. The successful cooperation on the creation of the manga and the film laid the foundation for other collaborative projects.<ref>{{cite book |ref=harv|last=Napier |first=Susan J. |title=The Worlds of Japanese Popular Culture: Gender, Shifting Boundaries and Global Culture |editor-last=Martinez|editor-first= Dolores P. | url=http://www.cambridge.org/gb/academic/subjects/anthropology/social-and-cultural-anthropology/worlds-japanese-popular-culture-gender-shifting-boundaries-and-global-cultures|publisher=Cambridge University Press |archiveurl=http://web.archive.org/web/20140222054758/http://www.cambridge.org/gb/academic/subjects/anthropology/social-and-cultural-anthropology/worlds-japanese-popular-culture-gender-shifting-boundaries-and-global-cultures|archivedate=February 22, 2014 | deadurl=no|isbn=978-0521637299 |pages=91–109 |chapter=Vampires, Psychic Girls, Flying Women and Sailor Scouts |date=October 13, 1998|accessdate=November 8, 2014}}</ref>{{efn|McCarthy (1999), pages 45.<ref name="McCarthy(1999)"/>}}
+
+In April 1984 the {{ill|ja|Nibariki|二馬力}} office was started, in part, to manage copyrights. In June 1985, Miyazaki, Takahata and Tokuma Shoten chairman Yasuyoshi Tokuma founded the animation production company [[Studio Ghibli]] with funding from Tokuma Shoten. His first film with Ghibli, ''[[Castle in the Sky|Laputa: Castle in the Sky]]'' (1986) recounts the adventure of two orphans seeking a magical castle-island that floats in the sky; ''[[My Neighbor Totoro]]'' (''Tonari no Totoro,'' 1988) tells of the adventure of two girls and their interaction with forest spirits; and ''[[Kiki's Delivery Service]]'' (1989), adapted from the 1985 novel of the same name by [[Eiko Kadono]], tells the story of a small-town girl who leaves home to begin life as a [[witch]] in a big city. Miyazaki's fascination with flight is evident throughout these films, ranging from the [[ornithopter]]s flown by pirates in ''Castle in the Sky,'' to the Totoro and the Cat Bus soaring through the air, and Kiki flying her broom.
+
+In 1992, Miyazaki directed ''[[Porco Rosso]]'', an adventure film set in the "[[Adriatic]]" during the 1920s. The film was a notable departure for Miyazaki, in that the main character was an adult man, an [[Fascism|anti-fascist]] aviator transformed into an [[anthropomorphic]] pig. The film is about a titular bounty hunter, voiced by Shūichirō Moriyama, and an American soldier of fortune, voiced by [[Akio Ōtsuka]]. The film explores the tension between selfishness and duty. ''Porco Rosso'' was released on July 19, 1992. That August, Studio Ghibli set up its headquarters in [[Koganei, Tokyo|Koganei]], [[Tokyo]].<ref name="JapanTimes">{{Cite web|author=Matsutani, Minoru|url=http://search.japantimes.co.jp/cgi-bin/nn20080930i1.html|title=Japan's greatest film director?|work=[[Japan Times]]|date=September 30, 2008|accessdate=November 21, 2012}}</ref>
+
+In 1995, Miyazaki began work on ''[[Princess Mononoke]]''. Starring [[Yuriko Ishida]], [[Yōji Matsuda]], [[Akihiro Miwa]] and [[Yūko Tanaka]], the story is about a struggle between the animal spirits inhabiting the forest and the humans exploiting the forest for industry, culminating in an uneasy co-existence and boundary transcending relationships between the main characters. In ''Mononoke'' he revisits the ecological and political themes and continues his cinematic exploration of the transience of existence he began in ''Nausicaä of the Valley of the Wind.'' Both films have their roots in ideas and artwork he created in the late 1970s and early 1980s but Helen McCarthy notes that Miyazaki's vision has developed, "from the utopian visions of ''Nausicaä of the Valley of the Wind'' to the mature and kindly humanism of ''Princess Mononoke''.".{{efn|McCarthy (1999), page 199-203.<ref name="McCarthy(1999)"/>}} The film was released on July 19, 1997 and was both a financial and critical success; it won the [[Japan Academy Prize (film)|Japan Academy Prize]] for Best Picture. Yvonne Tasker notes, "''Princess Mononoke'' marked a turning point in Miyazaki's career not merely because it broke Japanese box office records, but also because it, arguably, marked the emergence (through a distribution deal with Disney) into the global animation markets". Miyazaki went into semi-retirement after directing ''Princess Mononoke''. In working on the film, Miyazaki redrew 80,000 of the film's frames himself. He also stated at one point that "Princess Mononoke" would be his last film.<ref name="Tasker(2011)">{{cite book|last=Tasker|first=Yvonne|title=Fifty Contemporary Film Directors|year=2011|publisher=Routledge|location=London|pages=292–293}}</ref> Tokuma Shoten merged with Studio Ghibli that June.<ref name="JapanTimes"/>
+
+During this period of semi-retirement, Miyazaki spent time with the daughters of a friend. One of these friends would become his inspiration for Miyazaki's next film which would also become his biggest commercial success to date, ''[[Spirited Away]]''. The film stars [[Rumi Hiiragi]], [[Mari Natsuki]] and [[Miyu Irino]], and is the story of a girl, forced to survive in a bizarre spirit world, who works in a bathhouse for spirits after her parents are turned into pigs by the sorceress who owns it. The film was released on July 2001 and grossed [[Yen|¥]]30.4 billion (approximately $300 million) at the box office. Critically acclaimed, the film was considered one of the best films of the 2000s.<ref name="Metadecade">{{cite web|title=Film Critics Pick the Best Movies of the Decade|url=http://www.metacritic.com/feature/film-critics-pick-the-best-movies-of-the-decade|work=[[Metacritic]]|accessdate=September 4, 2012|date=January 3, 2010}}</ref> It won a [[Japan Academy Prize (film)|Japan Academy Prize]], a Golden Bear award at the 2002 [[Berlin Film Festival]], and an [[Academy Award]] for [[Academy Award for Best Animated Feature|Best Animated Feature]]. In his book, ''Otaku'', [[Hiroki Azuma]] observed: "Between 2001 and 2007, [[Otaku]] forms and markets quite rapidly won social recognition in Japan.", and cites Miyazaki's win at the ''Academy Awards'' for ''Spirited Away'' among his examples.<ref>{{cite book |last=Azuma |first=Hiroki |date=April 10, 2009 |title=Otaku |url=http://www.upress.umn.edu/book-division/books/otaku |location=Minneapolis |publisher=University of Minnesota Press | chapter= Preface |page = xi|isbn=978-0816653515 |accessdate=January 31, 2014}}</ref>
+
+===21st century===
+In July 2004, Miyazaki completed production on ''[[Howl's Moving Castle (film)|Howl's Moving Castle]]'', based on [[Diana Wynne Jones]]' 1986 [[fantasy]] [[Howl's Moving Castle|novel of the same name]]. Miyazaki came out of retirement following the sudden departure of [[Mamoru Hosoda]], the film's original director. The film premiered at the 2004 [[Venice International Film Festival]] and was later released on November 24, 2004, again to positive reviews. It won the Golden Osella award for animation technology, and received an Oscar nomination for Best Animated Feature.
+
+In 2005, Miyazaki received a lifetime achievement award at the [[Venice Film Festival]]. On February 10, 2005, Studio Ghibli announced that it was ending its relationship with Tokuma Shoten. The studio moved its headquarters to Koganei, Tokyo, and acquired the copyrights of Miyazaki's works and business rights from Tokuma Shoten.<ref>{{Cite web|url=http://www.animenewsnetwork.com/news/2005-02-10/studio-ghibli-to-split-from-tokuma|title=Studio Ghibli to be Split from Tokuma|date=February 10, 2005|accessdate=November 21, 2012}}</ref><ref>{{cite web|url=http://www.yomiuri.co.jp/entertainment/ghibli/cnt_eventnews_20050215a.htm|script-title=ja:ジブリ、徳間書店から独立|language=Japanese|work=Yomiuri Shimbun|date=February 15, 2005|accessdate=November 21, 2012}}</ref>
+
+In 2006, Miyazaki's son [[Gorō Miyazaki]] completed his first film, ''[[Tales from Earthsea (film)|Tales from Earthsea]]'', starring [[Jun'ichi Okada]] and [[Bunta Sugawara]] and based on several stories by [[Ursula K. Le Guin]]. Hayao Miyazaki had long aspired to make an anime of this work and had repeatedly asked for permission from the author, [[Ursula K. Le Guin]].  However, he had been refused every time. Instead, Miyazaki produced ''[[Nausicaä of the Valley of the Wind (film)|Nausicaä of the Valley of the Wind]]'' and ''[[Shuna no tabi]]'', (''The Journey of Shuna'') as substitutes (some of the ideas from ''Shuna no tabi'' were diverted to this movie). When Le Guin finally requested that Miyazaki produce an anime adaptation of her work, he refused, because he had lost the desire to do so. Le Guin remembers this differently: "In August 2005, Mr Toshio Suzuki of Studio Ghibli came with Mr Hayao Miyazaki to talk with me and my son (who controls the trust which owns the Earthsea copyrights). We had a pleasant visit in my house. It was explained to us that Mr Hayao wished to retire from film making, and that the family and the studio wanted Mr Hayao's son Goro, who had never made a film at all, to make this one. We were very disappointed, and also anxious, but we were given the impression, indeed assured, that the project would be always subject to Mr Hayao's approval. With this understanding, we made the agreement." Throughout the film's production, Gorō and his father were not speaking to each other, due to a dispute over whether or not Gorō was ready to direct.<ref>{{cite web|url=http://nausicaa.net/miyazaki/newspro/latestnews_headlines-archive-7-2006.html|title=Coranto Archive: July 3, 2006 Hayao Miyazaki's Surprise Visit|date=July 3, 2006|accessdate=February 19, 2007|publisher=[[Nausicaa.net]]}}</ref> It was originally to be produced by Miyazaki, but he declined as he was already in the middle of producing ''[[Howl's Moving Castle (film)|Howl's Moving Castle]]''. Ghibli decided to make Gorō, who had yet to head any animated films, the producer instead. ''Tales from Earthsea'' was released on July 29, 2006, to mixed reviews.
+
+In 2006, [[Nausicaa.net]] reported Hayao Miyazaki's plans to direct another film, rumored to be set in [[Kobe]]. Among areas Miyazaki's team visited during pre-production were an old café run by an elderly couple, and the view of a city from high in the mountains. The exact location of these places was censored from Studio Ghibli's production diaries. The studio also announced that Miyazaki had begun creating storyboards for the film and that they were being produced in [[watercolor]] because the film would have an "unusual visual style." Studio Ghibli said the production time would be about 20 months, with release slated for Summer 2008.
+
+In 2007, the film's title was publicly announced as ''[[Ponyo|Gake no ue no Ponyo]]'',<ref>{{cite web|url=http://www.ghibliworld.com/news.html#1903|title=Ghibli World|date=March 19, 2007|accessdate=March 19, 2007}}</ref> which was eventually retitled ''Ponyo'' for its international releases. The film stars Yuria Nara, Hiroki Doi, [[Tomoko Yamaguchi]], [[Kazushige Nagashima]], [[George Tokoro]] and [[Yūki Amami]]. Toshio Suzuki noted that "70 to 80% of the film takes place at sea. It will be a director's challenge on how they will express the sea and its waves with freehand drawing." ''Ponyo'' was released on July 19, 2008, to positive reviews and the film grossed $202 million worldwide.
+
+Miyazaki later co-wrote the screenplay for Studio Ghibli's next film, ''[[Arrietty|The Secret World of Arrietty]]'', based on [[Mary Norton (author)|Mary Norton]]'s 1952 novel ''[[The Borrowers]]''. The film was the directorial debut of [[Hiromasa Yonebayashi]], a Ghibli animator. Starring [[Mirai Shida]], [[Ryūnosuke Kamiki]], [[Tomokazu Miura]], [[Keiko Takeshita]], [[Shinobu Otake]] and [[Kirin Kiki]], the film focuses on a small family known as the Borrowers who must avoid detection when discovered by humans. The film was released on July 17, 2010, again to positive reviews, and grossed $145 million worldwide. In 2011, Miyazaki co-wrote ''[[From Up on Poppy Hill]]'', based on the 1980 [[Kokurikozaka kara|manga of the same name]] written by Tetsurō Sayama and illustrated by Chizuru Takahashi. The film stars [[Masami Nagasawa]], Junichi Okada, [[Shunsuke Kazama]] and [[Teruyuki Kagawa]]. Set in Yokohama, the film's story focuses on Umi Matsuzaki, a high school student who is forced to fend for herself when her sailor father goes missing from the seaside town. The film was released on July 16, 2011, once again to positive reviews.
+
+On December 13, 2012, Studio Ghibli announced that Miyazaki worked on his next film, ''[[The Wind Rises]]'', based on his manga of the same name, with plans to simultaneously release it with ''[[Kaguya-hime no Monogatari (film)|Kaguya-hime no Monogatari]]''.<ref>{{Cite web|url=http://eiga.com/news/20121213/10/|script-title=ja:ジブリ新作2本！宮崎駿監督「風立ちぬ」と高畑勲監督「かぐや姫の物語」|language=Japanese|work=Eiga.com|date=December 13, 2012|accessdate=March 9, 2012}}</ref> The film stars [[Hideaki Anno]], Hidetoshi Nishijima, [[Masahiko Nishimura]] and [[Miori Takimoto]]. ''The Wind Rises'' tells the story of Jiro Horikoshi, designer of the [[Mitsubishi A6M Zero]] fighter aircraft which served in [[World War II]]. The film was released on July 20, 2013 and was released in North America on February 21, 2014 by [[Touchstone Pictures]].
+
+On September 1, 2013, numerous Japanese television networks, including [[NHK]], reported on the announcement, at the Venice Film Festival, by Ghibli President Koji Hoshino, that Miyazaki was retiring from creating feature-length animated films. Miyazaki confirmed his retirement during a press conference, in Tokyo, on September 6, 2013.<ref name="Anime News Network"/><ref>{{cite web| last=Akagawa | first=Roy | title=Excerpts of Hayao Miyazaki's news conference announcing his retirement| date=September 6, 2013 | url=http://ajw.asahi.com/article/behind_news/people/AJ201309060087 | website= Asahi Shimbun | accessdate=February 5, 2014 }}</ref><!--Miyazaki himself did not appear on a Radio Show on New Year's Eve, December 31, 2013, see retirement section and talk page-->
+
+==Manga career==
+Miyazaki never abandoned his childhood dream of becoming a manga artist. His professional career in this medium begins in 1969 with the publication of his manga interpretation of ''Puss in Boots''. Serialized in 12 chapters in the Sunday edition of [[Tokyo Shimbun]], from January to March 1969. Printed in colour and created for promotional purposes in conjunction with his work on Yabuki's animated film.
+
+That same year [[Pseudonymity|pseudonymous]] serialization started of Miyazaki's original manga ''[[Sabaku no Tami|People of the Desert]]''. Created in the style of illustrated stories he read, in boys' magazines and [[Tankōbon]] volumes, while growing up, such as Soji Yamakawa's ''{{Nihongo|Shōnen ōja|少年王者 |shōnen ōja}}'' and in particular Tetsuji Fukushima's ''{{Nihongo|Evil Lord of the Desert|沙漠の魔王|Sabaku no maō}}''. Miyazaki's ''Desert People'' is a continuation of that tradition and a precursor for his own creations ''Nausicaä of the Valley of the Wind'' and [[The Journey of Shuna]]. In ''People of the Desert'' [[Exposition (narrative)|expository]] text is presented separately from the monochrome artwork with additional text balloons inside the panels for dialogue. 26 chapters were serialized in ''{{Nihongo|Boys and Girls Newspaper|少年少女新聞 | Shōnen shōjo shinbun}}'' between September 12, 1969 (Issue 28) and March 15, 1970 (issue 53). Published under the pseudonym {{Nihongo | Akitsu Saburō |秋津三朗 }}. His manga interpretation of ''Animal Treasure Island'', made in conjunction with Ikeda's animated film, was serialized in the Sunday edition of Tokyo Shimbun from January to March 1971. (13 chapters, in colour).{{efn|McCarthy (1999), pp. 27 and p.219.<ref name="McCarthy(1999)"/> Comic Box (1982), pp. 80 and pp. 111.<ref name= "Comic_Box_JPN(1982)"/> July 1983 issue of ''Animage'', page 172.<ref>{{cite journal |author=<!--Staff writer(s); no by-line.--> | title=ナウシカの道 連載 1 宮崎駿・マンガの系譜 | trans_title= The Road to Nausicaä, chapter 1, Hayao Miyazaki’s Manga Genealogy | url=http://animage.jp | journal=Animage | location=Tokyo |publisher=Tokuma Shoten | issue=61 | date=June 10, 1983 | pages=172–173 | accessdate=November 27, 2013}}</ref> Takekuma, Kentaro, Lecture series at [[Kyoto Seika University]].<ref name="Takekuma(2008)">{{cite web| last=Takekuma | first=Kentaro | title=「マンガとアニメーションの間に」第4回「マンガ版『ナウシカ』はなぜ読みづらいのか？」| trans_title=Lecture series ''Between Manga and Anime'', Fourth lecture ''Why is the manga edition of Nausicaä so difficult to read?'' | date=October 30, 2008 | url=http://info.kyoto-seika.ac.jp/lecture/2008/10/102930.html | website=Kyoto Seika University | accessdate=December 11, 2013}}</ref> Re-release announcement in Asahi Shinbun for Fukushima's graphic novel.<ref name="Kaku(2012)">{{cite web| last=Kaku | first=Yoshiko | title=Classic graphic novel beloved by manga greats gets reprinted | date=October 11, 2012 | url=http://ajw.asahi.com/article/cool_japan/culture/AJ201210110055 | website= Asahi Shimbun | accessdate=December 11, 2013 }}</ref> }}
+
+His major work in the manga format is ''[[Nausicaä of the Valley of the Wind (manga)|Nausicaä of the Valley of the Wind]]'', created intermittently from 1981 through 1994. In Japan it was first serialized in Tokuma Shoten's monthly magazine ''Animage'' and has been collected, after slight modification, in seven [[tankōbon]] volumes, spanning 1060 pages. ''Nausicaä'' has been translated and released outside Japan and has sold millions of copies worldwide. On March 11, 1984 the anime film of the same title was released. The characters and settings of manga and film have their common roots in the Image Boards Miyazaki created to visualise his ideas in the late 1970s and early 1980s. The anime is an amalgamation of the first sixteen chapters of the manga. In the manga Miyazaki explores the themes at greater length and in greater depth with a greater host of characters and a more expansive universe which he continued to expand over an additional decade after the release of the film. ''Nausicaä'' panels were printed monochrome in sepia toned ink. To advance the narrative, text balloons and artwork are employed almost exclusively.
+
+Other works include ''The Journey of Shuna'', released, in 1983, and ''[[Hikōtei Jidai]]'', first serialized in ''Model Graphix'' in 1989. Both were created in watercolour. The latter was the basis of ''Porco Rosso''. [[Hayao Miyazaki's Daydream Data Notes]] contains short manga, essays and samples from Miyazaki's sketchbooks, bundled in book form in 1992.''Shuna'', in 1987, and selections from ''Daydream Data Notes'', in 1995, were dramatised for radio broadcast.<ref name="Kano(2006)">{{cite book |last=Kanō |first=Seiji |date=January 1, 2007 | origyear=first published March 31, 2006 |script-title=ja:宮崎駿全書 |trans_title=The Complete Hayao Miyazaki | language=Japanese |url= http://filmart.co.jp/books/filmmaker/2006-9-12tue-121/|location=Tokyo |publisher=Film Art Inc. |edition=2nd | page=324 | isbn=978-4-8459-0687-1 |accessdate=December 18, 2013 }}</ref>
+
+In October 2006, ''A Trip to Tynemouth'' was published in Japan. The book contains a translated collection of three of the young adult short stories written by [[Robert Westall]], who grew up in [[World War II]] England. The most famous story, first published in a collection called [[Break of Dark]], is titled ''Blackham's Wimpy'', the name of a [[Vickers]] [[Wellington Bomber]] featured in the story. The nickname comes from the character J. Wellington Wimpy from the [[Popeye]] comics and cartoons (The Wellington was named for [[Arthur Wellesley, 1st Duke of Wellington]], victor over [[Napoleon]]). Miyazaki worked as editor, provided the cover illustrations and created short manga for addition in the book. Miyazaki based his manga and illustrations on Westall's short stories, including parts about ''Blackham's Bomber'', and added fictional elements of his own. Depicting a narrator, as an anthropomorphised pig, who has an imaginary meeting with Westall, depicted as a terrier, on a trip to Tynemouth. Westall's short stories themselves are translated into Japanese but are otherwise left unchanged for this publication.<ref>{{cite book |last1=Westall | first1=Robert | last2=Miyazaki |first2=Hayao |date=October 6, 2006 | script-title=ja:「タインマスへの旅」|trans_title=A Trip to Tynemouth |url=http://www.iwanami.co.jp/.BOOKS/02/1/0246320.html |location=Tokyo |publisher=Iwanami Shoten| isbn=9784000246323 |language=Japanese |accessdate= December 17, 2013 }}</ref><ref>{{cite book |last=Miyazaki |first=Hayao |date=July 16, 2008 |chapter=ロバート・ウェストール 「ブラッカムの爆撃機」|trans_chapter=Robert Westall ‘’Blackham’s Bomber’’|chapterurl=https://www.iwanami.co.jp/moreinfo/0223940/img/398-401.pdf|title=折り返し点 |trans_title=Turn-around point |url=https://www.iwanami.co.jp/.BOOKS/02/1/0223940.html |location=Tokyo |publisher=Iwanami Shoten |pages=398–401 | isbn=9784000223942 | format=PDF |accessdate= December 17, 2013 }}</ref>
+
+In early 2009, Miyazaki began writing a new manga called {{Nihongo|''Kaze Tachinu''|風立ちぬ|The Wind Rises}}, telling the story of [[Mitsubishi A6M Zero]] fighter designer [[Jiro Horikoshi]]. The manga was first published in two issues of the Model Graphix magazine, published on February 25 and March 25, 2009.<ref name="Kaze Tachinu manga">{{cite web|url=http://www.animekon.com/news-792-Miyazaki-Starts-New-Manga-Kaze-Tachinu.html|title=Miyazaki Starts New Manga, Kaze Tachinu|publisher=Animekon|accessdate=February 12, 2009}}</ref> Miyazaki ultimately required 9 chapters to finish the manga. The last chapter was published in the January 2010 issue of the magazine.
+
+Following his announced retirement, it was revealed during an [[NHK]] TV broadcast that Miyazaki was serializing a currently untitled samurai manga while charging the magazine no fee for his artwork.<ref name="animenewsnetwork.com">{{cite web|title=Hayao Miyazaki's Post-Retirement Samurai Manga Previewed on TV|url=http://www.animenewsnetwork.com/news/2013-11-18/hayao-miyazaki-post-retirement-samurai-manga-previewed-on-tv|publisher=Anime News Network|accessdate=November 19, 2013}}</ref>
+
+==Personal life==
+In October 1965, Miyazaki married fellow animator Akemi Ota, with whom he had two sons, [[Gorō Miyazaki|Gorō]] and Keisuke.<ref name="PendergastPendergast2007">{{cite book| first1= Tom | last1 = Pendergast| first2= Sara | last2 = Pendergast| title = U-X-L Graphic Novelists: K-R|url=http://books.google.com/books?id=7H9LAQAAIAAJ|accessdate=October 20, 2012|year=2007|publisher=U-X-L/Thomson Gale|isbn=978-1-4144-0442-4}}</ref> Miyazaki's dedication to his work has often been reported to have impacted negatively on his relationship with Gorō.<ref>{{cite web|url=http://www.nausicaa.net/miyazaki/earthsea/blog/blog39.html |title= Earthsea | type = blog | issue = 39 |publisher= Nausicaa | first =Gorō | last = Miyazaki |accessdate= June 8, 2007}}</ref> He has expressed he does not wish to create a dynasty of animators and his son has to create a name for himself.<ref name="Miyazaki_Lasseter_20090928" /> Nonetheless he has shown support of his son's career in animation in recent times, co-writing the screenplay for Gorō's feature ''[[From Up on Poppy Hill]]'' and is in the process of developing the story for his son's third film as of November 2011.<ref>{{cite web|url= http://www.crunchyroll.com/anime-news/2011/11/09/goro-miyazaki-discusses-plans-for-third-anime-movie |title=Goro Miyazaki Discusses Plans for Third Anime Movie|date=November 9, 2011|work =Crunchyroll|accessdate=December 25, 2011}}</ref>
+
+===Controversies===
+For the release of his 2013 film ''[[The Wind Rises]]'', Miyazaki and other Studio Ghibli staff members renewed criticism of [[Prime Minister of Japan|Prime Minister]] [[Shinzō Abe]]'s policies, and the proposed Constitutional amendment to [[Article 96 of the Japanese Constitution|Article 96]], a clause that stipulates procedures needed for revisions, which would allow Abe to revise [[Article 9 of the Japanese Constitution|Article 9]] of the [[Constitution of Japan]], which outlaws war as a means to settle international disputes.<ref>{{cite news |url=http://ajw.asahi.com/article/behind_news/politics/AJ201307210010 |title=Miyazaki, Studio Ghibli against LDP plan for constitutional revision. |last=Yamamoto |first=Nasuka |date=July 21, 2013 |website=Asahi Shimbun |publisher=Asahi Shimbun |accessdate=December 13, 2013}}</ref><ref>{{cite web |url=http://www.ghibli.jp/shuppan/np/009348/ |title=小冊子『熱風』2013年７月号の特集は「憲法改正」です。「法を変えるなどもってのほか (宮崎駿)」|trans_title=Hot Air pamphlet, Special issue for July 2013, Constitutional Amendment. ''Changing the Constitution absurd'' (Hayao Miyazaki) | last=Miyazaki |first=Hayao |website=Studio Ghibli | accessdate=December 12, 2013 }}</ref><ref>{{cite web |url=http://www.ghibli.jp/docs/0718kenpo.pdf |title=特集 憲法改正 |trans_title=Special Feature, Constitutional Amendment |last=Miyazaki |first=Hayao |format=PDF |page=25 |website=Studio Ghibli | accessdate=December 12, 2013 }}</ref> After the release of the film he received approval as well as negative criticism online for his anti-war message. Some online critics have labeled his film, as well as his expressed opinions, as "Anti-Japanese" and have called Miyazaki a "traitor".<ref name="Blum(2013)">{{cite news |url=http://www.scmp.com/news/asia/article/1296325/miyazakis-newest-film-soars-despite-criticism |title=Animation legend Hayao Miyazaki under attack in Japan for anti-war film |last=Blum |first=Jeremy |date=August 13, 2013 |website=South China Morning Post |publisher=SCMP Group |accessdate=December 11, 2013}}</ref><ref name="latimes20130815">{{cite news | url=http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-the-wind-rises-trailer-miyazaki-20130815,0,314360.story | title='The Wind Rises': Hayao Miyazaki's new film stirs controversy | publisher=Los Angeles Times | date=August 15, 2013 | accessdate=August 16, 2013 | author=Keegan, Rebecca}}</ref><ref name="guardian20130823">{{cite news |url=http://www.theguardian.com/world/2013/aug/23/hayao-miyazaki-film-wind-rises |title=Japanese animator under fire for film tribute to warplane designer |first=Justin |last=McCurry |publisher=The Guardian |date=August 23, 2013 |accessdate=August 25, 2013}}</ref> This is due to the film's subject, a young man who designs planes during World War II. Among the planes used in the film is the [[Mitsubishi A5M]], a predecessor of the [[Mitsubishi A6M Zero]]. <!-- The latter was in service from 1940 and was flown on its first combat mission in China in August 1940. The zero was used by the Japanese forces in too many ways to mention, perhaps most notably in the continuing invasion of China, the attack on [[Pearl Harbor]] and as [[Kamikaze]] aircraft in the final years of the [[Pacific Ocean theatre of World War II|War in the Pacific]] but has no flight time in the Miyazaki's film.<ref>{{cite journal| last=Penney | first=Matthew | title=Miyazaki Hayao’s Kaze Tachinu (The Wind Rises)  | date=August 5, 2013 | journal= The Asia Pacific Journal: Japan Focus | volume=11 | issue = 30 No. 2 | url=http://japanfocus.org/-Matthew-Penney/3976 | website= Japan Focus| accessdate=January 11, 2013 }}</ref>    Why single out only ''Kamikaze'' from the operational history of the ''Zero'' in this article? --> Since he was young, Miyazaki has had a fascination with planes, in part, due to his father's line of work on A6M Zero fighter planes during the Second World War.<ref>{{cite news| last=Foundas | first=Scott | title= Venice Film Review 'The Wind Rises' Hayao Miyazaki's hauntingly beautiful historical epic draws a sober portrait of Japan between the two World Wars. | date=August 29, 2013 | url=http://variety.com/2013/film/reviews/the-wind-rises-review-venice-toronto-1200592219/ | website= Variety | accessdate=January 11, 2013 }}</ref> This fascination is made obvious by the recurring use of planes in his films; from ''Nausicaä of the Valley of the Wind'' to ''Porco Rosso'' and beyond. This film, however, is Miyazaki's first to be inspired by a historical figure. Despite the unexpected backlash from political viewers, ''The Wind Rises'' had the biggest opening of the year in Japan, taking in 960 million yen, or $9.78 million.
+
+Miyazaki has expressed his opinion on politics several times in the past, including a disapproval in the discussion of the revision of the Japanese constitution, and Abe's denial of Japanese World War II crimes. Part of the controversy over ''The Wind Rises'' stems from his statement that proper compensation should be given to [[comfort women]]. While some were critical of his remarks, they were welcomed by others.<ref name="Blum(2013)"/><ref>{{cite news |author=<!--Staff writer(s); no by-line.--> |url=http://mainichi.jp/select/news/20130921k0000e030244000c.html |script-title=ja:映画「風立ちぬ」:なぜ？　韓国で公開も「波風立たず」|trans_title=Movie "The Wind Rises": Why? Creates a breeze after release in Korea as well | language=Japanese |date=September 21, 2013 |website=Mainichi Shimbun |publisher=Mainichi Newspapers Co., Ltd. |archiveurl=//web.archive.org/web/20130926105011/http://mainichi.jp/select/news/20130921k0000e030244000c.html| archivedate=September 26, 2013 |accessdate=December 13, 2013}}</ref> This is not his only instance of controversy. In 2003, Miyazaki won an [[Academy Awards|Oscar]] for his film ''Spirited Away'' but did not attend the [[75th Academy Awards]] in [[Hollywood]], [[Los Angeles]] in protest of the United States' involvement in the [[Iraq War]], later stating that "I didn't want to visit a country that was bombing Iraq." He did not publicly express this opinion at the request of his producer until 2009, when he lifted his boycott and attended the [[San Diego Comic Con International]] as a favor to his friend John Lasseter.<ref>{{cite news |url=http://herocomplex.latimes.com/animation/comiccon-miyazaki-breaks-his-boycott-of-us/ |title=Miyazaki breaks his silent protest of America |last=Pham |first=Alex |date=July 25, 2009 |website= Los Angeles Times|publisher=Tribune Company |accessdate=December 13, 2013}}</ref>
+
+Miyazaki also expressed his opinion about [[Charlie Hebdo shooting|the terrorist attack]] at the offices of the French [[satirical magazine]] ''[[Charlie Hebdo]]'' and gave his opinion about the magazine's decision to publish the content cited as the trigger for the incident. He said, "I think it's a mistake to caricaturize the figures venerated by another culture. You shouldn't do it." He asserts, "Instead of doing something like that, you should first make caricatures of your own country's politicians."<ref>{{cite web|url=http://www.telegraph.co.uk/culture/film/film-news/11417395/Hayao-Miyazaki-Charlie-Hebdo-Mohammed-cartoons-were-a-mistake.html|title=Hayao Miyazaki: Charlie Hebdo Mohammed cartoons were 'a mistake'|date=February 17, 2015|work=Telegraph.co.uk|accessdate=February 19, 2015}}</ref><ref>{{cite web|url=http://en.rocketnews24.com/2015/02/17/hayao-miyazaki-on-charlie-hebdo-attacks-drawings-of-muhammad-were-a-mistake/|title=Hayao Miyazaki on Charlie Hebdo attacks: Drawings of Muhammad were "a mistake"|author=Casey Baseel|date=February 17, 2015|work=RocketNews24|accessdate=February 19, 2015}}</ref>
+
+===Retirement===
+Miyazaki has claimed he was retiring several times, but on September 6, 2013, he assured his fans that he is "quite serious" this time. He believes he is getting too old for the business, and wants to make room for new animators. He also says that the task of animating is "quite strenuous" and that he cannot work as long as he was once able to. However, he plans on pursuing new goals, such as working on the Studio [[Ghibli Museum]], on which he commented "I might even become an exhibit myself".<ref>{{cite web|title=Hayao Miyazaki on his retirement: 'This time I am quite serious'|url=http://insidemovies.ew.com/2013/09/06/hayao-miyazaki-retirement/|publisher=Entertainment Weekly|accessdate=November 19, 2013}}</ref> Studio Ghibli producer Toshio Suzuki revealed that Miyazaki will continue to illustrate manga and is currently working on a serialized samurai series.<ref name="animenewsnetwork.com"/>  Fellow animator Isao Takahata has publicly stated that he believes Miyazaki's retirement to be non-permanent, "...I think there is a decent chance that may change. I think so, since I've known him a long time. Don't be at all surprised if that happens."<ref>{{cite web|title=Isao Takahata Thinks There Is a Chance of Hayao Miyazaki's Return|url=http://www.animenewsnetwork.com/news/2013-11-07/isao-takahata-thinks-there-is-a-chance-of-hayao-miyazaki-return|publisher=Anime News Network|accessdate=November 19, 2013}}</ref> During a [[New Year's Eve]] radio show, broadcast on [[Tokyo FM]], on December 31, 2013, Toshio Suzuki speculated that Miyazaki might revoke his latest retirement (apparently his sixth to date).<ref>{{cite web|title=Hayao Miyazaki Retires From Retirement|url=http://www.vyralize.com/6318/hayao-miyazaki-retires-retirement/|publisher=Vyralize|accessdate=January 6, 2014}}</ref><!--Miyazaki himself did not appear on a Radio Show on New Year's Eve, December 31, 2013, see talk page-->
+
+A previous home that Miyazaki spent part of his childhood in has been transformed into a museum. The home's current resident, Asuko Thomas, says that she did not know that the house has once belonged to the family of the world renowned animator. The current owner of the house has named the gallery "Hanna", meaning "bond" and "harmony". Many elements of the house have been the inspiration for scenes in several of his films.  One example is the stairs in the household, very similar to the hidden stairs in ''My Neighbor Totoro''.<ref>{{cite web| last=Mori | first=Mitsuteru | title=Director Hayao Miyazaki's childhood home gets new life as art gallery | date=April 6, 2013 | url=http://ajw.asahi.com/article/cool_japan/fun_spots/AJ201304060008 | website= Asahi Shimbun | accessdate=January 11, 2013 }}</ref>
+
+==Themes, influences and style==
+Miyazaki's works are characterized by the recurrence of progressive themes, such as [[environmentalism]], [[pacifism]], [[feminism]], and the absence of villains. His films are also frequently concerned with childhood transition and a marked preoccupation with [[flight]].{{efn|McCarthy (1999), pages 79, 89.<ref name="McCarthy(1999)"/>}}
+<!-- Citation needed. As part of a temporary fix of broken citations and adding specific page numbers, I've changed the reference format and incorporated the page numbers from the previous version of this article but the pages that were given (79,89) as source for this paragraph deal specifically with Nausicaa and I don't think they warrant this broad an interpretation of Miyazaki's work in general.-->
+
+Miyazaki's narratives are notable for not pitting a hero against an unsympathetic antagonist. In ''Spirited Away'', Miyazaki states "the heroine [is] thrown into a place where the good and bad dwell together. [...] She manages not because she has destroyed the 'evil', but because she has acquired the ability to survive."<ref>{{cite book | title = The Art of Miyazaki's Spirited Away | publisher = Viz Communications | year = 2002 | page = 15 | isbn = 1-56931-777-1 | editor-first = Alvin | editor-last = Lu | others = Miyazaki, Hayao introd}}</ref> Even though Miyazaki sometimes feels [[Pessimism|pessimistic]] about the world, he prefers to show children a positive world view instead, and rejects simplistic stereotypes of good and evil.<ref name="Ghibli_the_Miyazaki_Temple">{{cite video | people = Yves Montmayeur | title = Ghibli, The Miyazaki Temple | medium = Documentary film | location = Paris | date = 2005}}</ref>
+
+Miyazaki's films often emphasize environmentalism and the Earth's fragility.<ref>{{Cite web | url = http://www.allmovie.com/artist/hayao-miyazaki-p167694 | title = All movie | publisher = AllRovi|accessdate=April 30, 2015}}.</ref>  In an interview with ''[[The New Yorker]]'', [[Margaret Talbot]] stated that Miyazaki believes much of modern culture is "thin and shallow and fake", and he "not entirely jokingly" looked forward to "a time when Tokyo is submerged by the ocean and the NTV tower becomes an island, when the human population plummets and there are no more high-rises."<ref>{{cite web| url = http://www.newyorker.com/online/content/?050117on_onlineonly01  |title=The Animated Life |date=January 10, 2005 |first=Margaret |last=Talbot |publisher= [[The New Yorker]] |quote= He's said, not entirely jokingly, that he looks forward to the time when Tokyo is submerged by the ocean and the NTV tower becomes an island, when the human population plummets and there are no more high-rises. |format= [[Internet Archive]] |accessdate=June 7, 2007 |archiveurl = //web.archive.org/web/20060524092154/http://www.newyorker.com/online/content/?050117on_onlineonly01 | archivedate = May 24, 2006}}</ref> Growing up in the [[Shōwa period]] was an unhappy time for him because "nature – the mountains and rivers – was being destroyed in the name of economic progress."<ref name = "japan_times_2008_dec">{{cite web|url=http://search.japantimes.co.jp/cgi-bin/ff20081204r2.html |title=An audience with Miyazaki, Japan's animation king|date=December 4, 2008 |first=Mark |last= Schilling |publisher= [[The Japan Times]] | accessdate = December 4, 2008}}</ref> Miyazaki is critical of [[capitalism]], [[globalization]], and their impacts on modern life.<ref name=autogenerated1>{{Citation | url = http://www.ghibliworld.com/news.html#3103_02  | title = Neppu | publisher = Ghibli world | type = interview | first = Hayao | last = Miyazaki}}.</ref> Commenting on the 1954 [[Animal Farm (1954 film)|''Animal Farm'' animated film]], he has said that "exploitation is not only found in communism, capitalism is a system just like that. I believe a company is common property of the people that work there. But that is a [[Socialism|socialistic]] idea."<ref name="neppu_nov_2008_interview">{{cite news | first = Hayao | last = Miyazaki | title=30th of November, A Neppu Interview with Miyazaki Hayao | work = Neppu (Studio Ghibli's monthly report magazine)| language = Japanese |date=November 2008 | url = http://www.ghibliworld.com/news.html#3103_02 | publisher = GhibliWorld}}.</ref> Nonetheless, he suggests that adults should not "impose their vision of the world on children."<ref name="midnight" />
+
+''Nausicaä'', ''Princess Mononoke'' and ''Howl's Moving Castle'' feature anti-war themes. In 2003, when ''Spirited Away'' won the Academy Award for Best Animated Feature, Miyazaki did not attend the awards show personally. He later explained that it was because he "didn't want to visit a country that was [[Iraq War|bombing Iraq]]".<ref>{{cite news | last = Alex | first = Pham | title = Comic-Con: Miyazaki breaks his silent protest of America's actions in Iraq with visit to the U.S. | publisher = Los Angeles Times | date = July 24, 2009 | url = http://latimesblogs.latimes.com/herocomplex/2009/07/comiccon-miyazaki-breaks-his-boycott-of-us-.html | accessdate = July 24, 2009}}</ref>
+
+Miyazaki has been called a [[feminism|feminist]] by Studio Ghibli President Toshio Suzuki, in reference to his attitude to female workers.<ref name="miyazaki_feminism">{{cite video|title=Birth of Studio Ghibli|medium = [[Nausicaä of the Valley of the Wind (film)|Nausicaä]] DVD|publisher=Studio Ghibli|quote=Miyazaki is a feminist, actually. He has this conviction that to be successful, companies have to make it possible for their female employees to succeed too. You can see this attitude in ''Princess Mononoke.'' All characters working the bellows in the iron works are women. Then there's ''Porco Rosso.'' Porco's plane is rebuilt entirely by women. ([[Toshio Suzuki (producer)|Toshio Suzuki]]) }}</ref> This is evident in the all-female factories of ''[[Porco Rosso]]'' and ''[[Princess Mononoke]]'', as well as the matriarchal bath-house of ''[[Spirited Away]]''.  Many of Miyazaki's films are populated by strong female protagonists that go against gender roles common in Japanese animation and fiction.<ref>{{cite book |last= Napier|first= Susan J. |authorlink=Susan J. Napier |title= [[Anime from Akira to Princess Mononoke: Experiencing Contemporary Japanese Animation]] |pages= 181–182|year= 2001 |isbn= 978-0-312-23863-6 |publisher= Palgrave | location = Basingstoke}}</ref>
+
+===Creation process and animation style===
+[[File:Mononoke hime cgi.png|320px|thumb|right|''Princess Mononoke'' was Miyazaki's first film to use computer graphics. In this sequence, the demon snakes are computer-generated and composited onto Ashitaka, who is hand-drawn.]]
+Miyazaki takes a leading role when creating his films, frequently serving as both writer and director. He personally reviewed every frame used in his early films, though due to health concerns over the high workload he now delegates some of the workload to other Ghibli members.<ref>{{cite news | last = Bjorkman | first = James |url= http://animatedfilmreviews.filminspector.com/2013/09/hayao-miyazaki-announces-retirement.html |title=Hayao Miyazaki Announces Retirement |accessdate=May 15, 2014 |publisher=Animated Film Reviews}}</ref> In a 1999 interview, Miyazaki said, "at this age, I cannot do the work I used to. If my staff can relieve me and I can concentrate on directing, there are still a number of movies I'd like to make." <!--<ref>''The Making of Spirited Away'', [[Nippon TV]] Special; as shown on the R2 English language [[Spirited Away]] DVD.</ref> SOURCE NEEDS FILLING IN-->
+
+Miyazaki uses very human-like movements in his animation. In addition, much of the art is done using water colors.
+
+In contrast to American animation, the script and storyboards are created together, and animation begins before the story is finished and while storyboards are developing.<ref name="midnight">{{cite web|url= http://www.midnighteye.com/interviews/hayao_miyazaki.shtml |title=Midnight Eye interview: Hayao Miyazaki |accessdate=June 7, 2007 |publisher=[[Midnight Eye]] }}</ref><ref name="theage">{{cite news|url=http://www.theage.com.au/articles/2003/06/05/1054700334418.html |publisher= [[The Age]] | title = Drawn to oddness |date=June 7, 2003 |accessdate= June 6, 2007 |location=Melbourne}}</ref>
+
+Miyazaki has used [[traditional animation]] throughout the animation process, though [[computer-generated imagery]] was employed starting with ''Princess Mononoke'' to give "a little boost of elegance".<ref name="JapanToday">{{cite web|url = http://www.japantoday.com/jp/feature/363 |title=Japanese anime wrestles with use of computer graphics |last=Ng |first=Jeannette |accessdate=June 6, 2007 |publisher=[[Japan Today]] }}{{dead link|date=October 2011}}</ref> In an interview with the ''[[Financial Times]]'', Miyazaki said "it's very important for me to retain the right ratio between working by hand and computer. I have learnt that balance now, how to use both and still be able to call my films 2D."<ref>{{cite web|url = http://www.ft.com/cms/s/698539fe-2974-11da-8a5e-00000e2511c8.html |title=Japan's visionary of innocence and apocalypse|first=Nigel |last=Andrews |authorlink=Nigel Andrews |date=September 20, 2005 |accessdate=June 6, 2007 | work = The [[Financial Times]]}}</ref> [[Digital ink and paint|Digital paint]] was also used for the first time in parts of ''Princess Mononoke'' in order to meet release deadlines.<ref name= "mononoke_masterpiece">{{cite video | people = [[Toshio Uratani]] | title = Princess Mononoke: Making of a Masterpiece | medium = Documentary | publisher = [[Buena Vista Home Entertainment]] | location = [[Japan]] |date = 2004}}</ref> It was used as standard for subsequent films. However, in his 2008 film ''[[Ponyo]]'', Miyazaki went back to traditional hand-drawn animation for everything, saying "hand drawing on paper is the fundamental of animation."<ref name="Ghibliworld_Radio_Ghibli_10">{{cite web| title = New Ponyo details at tenth radio Ghibli | url = http://www.ghibliworld.com/news.html | work = [[Ghibliworld]] | accessdate = June 24, 2008}}</ref> Studio Ghibli's computer animation department was dissolved before production on ''Ponyo'' was started, and Miyazaki has decided to keep to hand drawn animation.<ref name = "Miyazaki_Lasseter_20090928">{{Citation | url = http://www.youtube.com/watch?v=rDc0oML8jXk | title = Press conference | first1 = John | last1 = Lasseter | first2 = Hayao | last2 = Miyazaki | place = The Four Seasons Hotel | date = September 28, 2009 | publisher = Google You tube | format = video}}.</ref>
+
+===Influences===
+Among Miyazaki's earliest influences are the illustrated stories he read in boys' magazines and manga ''Tankōbon'' during his childhood. He has indicated that he does not only like their subject matter and their presentation of the artwork but also that he came to appreciate the pacing of their adventures, allowing for a thorough immersion in the stories they created because the slow production rate necessitated re-reading the same work several times. As a result he prefers monthly serialization to the weekly format for his own works. Miyazaki has identified Soji Yamakawa's ''Shōnen ōja'' as one of the influential stories he read. Takekuma has noted that several of Miyazaki's works, in both manga and anime, have their roots in Tetsuji Fukushima's ''The evil Lord of the Desert''. A slightly later influence Miyazaki has cited is the work of [[Sanpei Shirato]].{{efn|Takekuma, Kentaro Lectures.(2008).<ref name="Takekuma(2008)"/> McCarthy (1999), page 27.<ref name="McCarthy(1999)"/> Kaku(2012).<ref name="Kaku(2012)"/>}}
+
+A number of Western authors have influenced Miyazaki's work, including [[Ursula K. Le Guin]], [[Lewis Carroll]], [[Edward Blishen]] and [[Diana Wynne Jones]].  Miyazaki confided to Le Guin that ''Earthsea'' had been a great influence on all his works, and that he kept her books at his bedside.<ref>{{cite web| url=http://www.yomiuri.co.jp/entertainment/ghibli/cnt_interview_20051226_02.htm |script-title=ja:世界一早い｢ゲド戦記｣インタビュー 鈴木敏夫プロデューサーに聞く|date= December 26, 2005| publisher = [[Yomiuri Shimbun]] |accessdate= February 19, 2007| language = Japanese }}</ref> Miyazaki and French writer and illustrator [[Jean Giraud]] (a.k.a. Moebius) have influenced each other and had become friends as a result of their mutual admiration. [[Monnaie de Paris]] held an exhibition of their work titled ''{{lang|fr|Miyazaki et Moebius: Deux Artistes Dont Les Dessins Prennent Vie}}'' (Two Artists’s Drawings Taking on a Life of Their Own) from December 2004 to April 2005. Both artists attended the opening of the exhibition.<ref name = "Ghibli_the_Miyazaki_Temple" /><ref>{{cite web | language = French | title = Miyazaki Moebius – 2 Artistes Dont Les Dessins Prennent Vie | trans_title = Miyazaki, Mœbius – two artists whose drawings become alive | url = http://miyazaki-moebius.com/ | accessdate = January 29, 2008}}</ref> Moebius named his daughter Nausicaa after Miyazaki's heroine.<ref>{{Cite book | title = Ghibli Museum diary | date = August 1, 2002 | url= http://www.ghibli-museum.jp/diary/008785.html | publisher = Tokuma Memorial Cultural Foundation for Animation | language = Japanese | accessdate = December 2, 2013}}</ref>  Miyazaki has been deeply influenced by another French writer, [[Antoine de Saint-Exupéry]].  He illustrated the Japanese covers of Saint-Exupéry's ''[[Night Flight (book)|Night Flight]]'' (''{{lang |fr|Vol de nuit}}'') and  ''[[Wind, Sand and Stars]]'' (''{{lang|fr|Terre des Hommes}}''), and wrote an afterword for ''Wind, Sand and Stars''.
+
+In an interview broadcast on [[BBC Choice]] on 2002-06-10, Miyazaki cited the British authors [[Eleanor Farjeon]], [[Rosemary Sutcliff]], and [[Philippa Pearce]] as influences. The filmmaker has also publicly expressed fondness for [[Roald Dahl]]'s stories about pilots and airplanes; the image in ''Porco Rosso'' of a cloud of dead pilots was inspired by Dahl's ''They Shall Not Grow Old.''  As in Miyazaki's films, these authors create self-contained worlds in which [[allegory]] is often used, and characters have complex, and often ambiguous, motivations. Other Miyazaki works, such as ''My Neighbor Totoro,'' ''Princess Mononoke,'' and ''Spirited Away,'' incorporate elements of Japanese history and [[Japanese Myth|mythology]].
+
+Miyazaki has said he was inspired to become an animator by ''[[The Tale of the White Serpent]]'', considered the first modern anime, in 1958.  He has also said that ''[[The Snow Queen (1957 film)|The Snow Queen]]'', a Soviet animated film, was one of his earliest inspirations, and that it motivated him to stay in animation production.<ref name="norstein">{{citation | url = http://video.google.com/videoplay?docid=-6754083829948706013 | title = A remote conversation between Yuriy Norshteyn and Hayao Miyazaki | place = Russia | format = TV show | publisher = ProSvet | date = October 22, 2005 | editor-link = Dmitry Dibrov | editor-first = Dmitry | editor-last = Dibrov}}{{dead link|date=October 2011}}</ref> We can see its influence on ' The Little Norse Prince'.  The villain, 'Forest King' is like 'Snow Queen',design wise and character wise.<ref>{{cite web|url= http://www.imasy.or.jp/~fukumoto/n/nshow.cgi?10984 |title=Animes that influenced Masters Movie|date=March 25, 1996|work =Kinema Junpo|accessdate=December 25, 2011}}</ref> [[Yuriy Norshteyn]], a Russian animator, is Miyazaki's friend and praised by him as "a great artist."<ref name = "Spirited_Away_QA">{{citation | publisher = The Black Moon | url = http://www.theblackmoon.com/Deadmoon/spiritedaway2.html | title = Spirited Away | format = première press Q&A | place = USA}}</ref> Norshteyn's ''[[Hedgehog in the Fog]]'' is cited as one of Miyazaki's favourite animated films.<ref name="norstein"/> Miyazaki has long been a fan of the [[Aardman Studios]] animation. In May 2006, [[David Sproxton]] and [[Peter Lord]], founders of Aardman Studios, visited the [[Ghibli Museum]] exhibit dedicated to their works, where they also met Miyazaki.<ref name="animage">{{Cite journal|date=August 2006  |title=宮崎駿Xピーター・ロードXデイビッド・スプロスクトンat三鷹の森ジブリ美術館 | journal =[[Animage]] |volume=338 |page= 13 |language=Japanese}}</ref>
+
+[[Pete Docter]], director of the popular films ''[[Up (2009 film)|Up]]'' and ''[[Monsters, Inc.]]'' as well as a co-creator of other [[Pixar]] works, has praised Miyazaki and described him as an influence.<ref name=pbs>{{Citation | url = http://www.kpbs.org/news/2009/may/29/interview-director-peter-docter/ | title = Interview with Up Director Peter Docter | first = Beth | last = Accomando | publisher = [[KPBS (TV)|KPBS]] | date = May 29, 2009}}.</ref> [[Glen Keane]], the animator for successful [[Walt Disney Animation Studios|Disney]] films such as ''[[The Little Mermaid (1989 film)|The Little Mermaid]]'', ''[[The Rescuers Down Under]]'', ''[[Beauty and the Beast (1991 film)|Beauty and the Beast]]'', ''[[Aladdin (1992 Disney film)|Aladdin]]'', and ''[[Tangled]]'', has also credited Miyazaki as a "huge influence" on his work and on Disney in general during the past two decades.<ref>{{Cite web | first = Michael J | last = Lee | date = October 24, 2010 | url = http://movies.radiofree.com/interviews/tangled_glen_keane.shtml | type = interview | title = Glen Keane | publisher = RadioFree}}.</ref>  [[Bryan Konietzko]] and [[Michael Dante DiMartino]] have cited Miyazaki's work as having the biggest influence on the universe and style of ''[[Avatar: The Last Airbender]]''.<ref name=tor>{{Citation | url = http://www.tor.com/blogs/2010/07/interview-michael-dante-dimartino-and-bryan-konietzko-creators-of-avatar-the-last-airbender/ | type = interview | title = Michael Dante DiMartino and Bryan Konietzko, Creators of the Original Televised Avatar: The Last Airbender | first1 = Matt | last1 = London | first2 = Jordan | last2 = Hamessley | publisher = [[TOR.com|TOR]] | date = July 8, 2010}}.</ref>
+
+Miyazaki has also been cited as an influence on various [[role-playing video game]]s. The creator of [[Square (company)|Square]]'s ''[[Final Fantasy]]'' series, [[Hironobu Sakaguchi]], cited Miyazaki as inspiration for elements such as the [[Airships in Final Fantasy|airships]] and [[chocobo]]s featured in the series.<ref name=Rogers>Rogers, Tim (March 27, 2006). "[http://www.next-gen.biz/features/defense-final-fantasy-xii In Defense of Final Fantasy XII]". ''Next Generation''.</ref> The post-apocalyptic setting of [[SNK]]'s ''[[Crystalis]]'' was inspired by Miyazaki's ''Nausicaa of the Valley of the Wind'', and ''Crystalis'' in turn influenced Square's ''[[Secret of Mana]]''.<ref name="1up Console vs Handheld">{{cite web | url = http://www.1up.com/do/feature?cId=3133565 | title=Console vs Handheld: Crystalis | publisher=1up | accessdate= October 23, 2007}}</ref> The 2015 fantasy adventure game, ''[[Ori and the Blind Forest]]'' was heavily influenced by Miyazaki's work, particularly one of the levels "Valley of the Wind", was a nod to Miyazaki’s, ''[[Nausicaä of the Valley of the Wind]].''<ref name="destructoid">{{cite web | url = http://www.destructoid.com/ori-and-the-blind-forest-is-a-beautiful-metroidvania-276352.phtml | title=Ori and the Blind Forest is a beautiful metroidvania | publisher=Destructoid | date=June 10, 2014| accessdate= May 30, 2015}}</ref><ref name="The Washington's Post">{{cite web | url = http://www.washingtonpost.com/news/comic-riffs/wp/2015/03/17/ori-and-the-blind-forest-a-beautiful-version-of-gaming-good-ole-days/ | title=Ori and the Blind Forest: A beautiful version of gaming’s good ole days | publisher=The Washington's Post | date=March 17, 2015 | accessdate= May 30, 2015}}</ref>
+
+Miyazaki has also been influenced by [[Akira Kurosawa]]. Kurosawa was successful in bringing the Western World's attention to Japanese cinematography with his 1951 film ''[[Rashomon (film)|Rashomon]]'', ''[[Seven Samurai]]'' in 1954, and ''[[Yojimbo (film)|Yojimbo]]'' in 1960. Another influence was [[Osamu Tezuka]], a pioneer in new manga styles and techniques.  Miyazaki said of [[Princess Mononoke]], 'I wish Osamu Tezuka could have watched it'. Tezuka and Miyazaki had a somewhat uneasy relationship. Miyazaki acknowledges his influence, like the influence of an older brother or predecessor, but the influence may not have been seen as an entirely beneficial one. As noted by Helen McCarthy, Miyazaki wrote an essay, after Tezuka's passing in 1989, in which he reflected on the influence Tezuka had on his own career in particular and the development of Anime in Japan in general. Miyazaki acknowledges that Tezuka was among the creative artists who inspired him to become a manga author but he writes that he initially reacted indignantly and that he felt humiliated when it was pointed out to him that his style as a draughtsman resembled that of Tezuka. Once he realised that the observation about the resemblance was accurate, he destroyed his sketches and decided to return to the study of basic drawing skills in order to start over. He notes that he does not share the advice that young manga artists should imitate the work of their predecessors when starting out. In his essay he also writes that he became increasingly critical of Tezuka's role in the development of anime in Japan and he criticised, particularly other animators, for the reverential treatment, to the point of worship, given Tezuka. In Miyazaki's world view, influence is supposed to drive the medium forward and although Miyazaki markets his own name brand well, he is nevertheless also critical of the godlike status bestowed on him. He has indicated that he sees such praise as stifling in stead of encouraging the exploration of creativity and the development of a personal style in younger artists.{{efn|Tasker (2011), page 292ff.<ref name="Tasker(2011)"/> Miyazaki, ''I parted ways with Osamu Tezuka when I saw the "Hand of God" in him.'', in ''Starting Point'' (2009), page 193ff.<ref name="Miyazaki(Starting_Point)"/> McCarthy (1999), page 28.<ref name="McCarthy(1999)"/> Takekuma, Kentaro Lectures.(2008)<ref name="Takekuma(2008)"/> }}
+
+=== Recurring collaborators ===
+Among the actors that have collaborated with Miyazaki on his films, other filmmakers, writers, and producers have also collaborated with Miyazaki in multiple instances. This includes [[Isao Takahata]], [[Toshio Suzuki (producer)|Toshio Suzuki]], [[Hiromasa Yonebayashi]], [[Gorō Miyazaki]], [[Takeshi Seyama]], [[Azumi Inoue]], [[Youmi Kimura]], [[Yoshifumi Kondō]], [[Hiroyuki Morita]], [[Kazuo Oga]] and [[Hideaki Anno]]. Also, music composer [[Joe Hisaishi]] has been responsible for every film score for Miyazaki's films since ''Nausicaa of the Valley of the Wind''.
+
+<small>
+{| class="wikitable sortable" style="text-align:center; width:100%"
+ |- style="vertical-align:bottom;"
+ ! Actor
+<!--01--> ! class="collapsible" |''[[The Castle of Cagliostro]]''<br />(1979)
+<!--02--> ! ''[[Nausicaä of the Valley of the Wind (film)|Nausicaa of the Valley of the Wind]]''<br />(1984)
+<!--03--> ! ''[[Castle in the Sky]]''<br />(1986)
+<!--04--> ! ''[[My Neighbor Totoro]]''<br />(1988)
+<!--05--> ! ''[[Kiki's Delivery Service]]''<br />(1989)
+<!--06--> ! ''[[Porco Rosso]]''<br />(1992)
+<!--07--> ! ''[[Princess Mononoke]]''<br />(1997)
+<!--08--> ! ''[[Spirited Away]]''<br />(2001)
+<!--09--> ! ''[[Howl's Moving Castle (film)|Howl's Moving Castle]]''<br />(2004)
+<!--10--> ! ''[[Ponyo]]''<br />(2008)
+<!--11--> ! ''[[The Wind Rises]]''<br />(2013)
+|-
+! Tatsuya Gashūin
+<!--01--> |
+<!--02--> |
+<!--03--> |
+<!--04--> |
+<!--05--> |
+<!--06--> |
+<!--07--> |
+<!--08--> | {{X mark}}
+<!--09--> | {{X mark}}
+<!--10--> |
+<!--11--> |
+|-
+! [[Rumi Hiiragi]]
+<!--01--> |
+<!--02--> |
+<!--03--> |
+<!--04--> |
+<!--05--> |
+<!--06--> |
+<!--07--> |
+<!--08--> | {{X mark}}
+<!--09--> |
+<!--10--> | {{X mark}}
+<!--11--> |
+|-
+! [[Tsunehiko Kamijō]]
+<!--01--> |
+<!--02--> |
+<!--03--> |
+<!--04--> |
+<!--05--> |
+<!--06--> | {{X mark}}
+<!--07--> | {{X mark}}
+<!--08--> | {{X mark}}
+<!--09--> |
+<!--10--> |
+<!--11--> |
+|-
+! [[Ryūnosuke Kamiki]]
+<!--01--> |
+<!--02--> |
+<!--03--> |
+<!--04--> |
+<!--05--> |
+<!--06--> |
+<!--07--> |
+<!--08--> | {{X mark}}
+<!--09--> | {{X mark}}
+<!--10--> |
+<!--11--> |
+|-
+! Haruko Katō
+<!--01--> |
+<!--02--> |
+<!--03--> |
+<!--04--> |
+<!--05--> | {{X mark}}
+<!--06--> |
+<!--07--> |
+<!--08--> |
+<!--09--> | {{X mark}}
+<!--10--> |
+<!--11--> |
+|-
+! [[Yōji Matsuda]]
+<!--01--> |
+<!--02--> | {{X mark}}
+<!--03--> |
+<!--04--> |
+<!--05--> |
+<!--06--> |
+<!--07--> | {{X mark}}
+<!--08--> |
+<!--09--> |
+<!--10--> |
+<!--11--> |
+|-
+! [[Eken Mine]]
+<!--01--> | {{X mark}}
+<!--02--> |
+<!--03--> | {{X mark}}
+<!--04--> |
+<!--05--> |
+<!--06--> |
+<!--07--> | 
+<!--08--> |
+<!--09--> | 
+<!--10--> |
+<!--11--> |
+|-
+! [[Akihiro Miwa]]
+<!--01--> |
+<!--02--> |
+<!--03--> |
+<!--04--> |
+<!--05--> |
+<!--06--> |
+<!--07--> | {{X mark}}
+<!--08--> |
+<!--09--> | {{X mark}}
+<!--10--> |
+<!--11--> |
+|-
+! [[Kōhei Miyauchi]]
+<!--01--> | {{X mark}}
+<!--02--> | {{X mark}}
+<!--03--> |
+<!--04--> |
+<!--05--> |
+<!--06--> |
+<!--07--> |
+<!--08--> |
+<!--09--> |
+<!--10--> |
+<!--11--> |
+|-
+! [[Ichirō Nagai]]
+<!--01--> | {{X mark}}
+<!--02--> | {{X mark}}
+<!--03--> | {{X mark}}
+<!--04--> |
+<!--05--> |
+<!--06--> |
+<!--07--> |
+<!--08--> |
+<!--09--> |
+<!--10--> |
+<!--11--> |
+|-
+! [[Masahiko Nishimura]]
+<!--01--> |
+<!--02--> |
+<!--03--> |
+<!--04--> |
+<!--05--> |
+<!--06--> |
+<!--07--> | {{X mark}}
+<!--08--> | 
+<!--09--> |
+<!--10--> |
+<!--11--> | {{X mark}}
+|-
+! [[Tomomichi Nishimura]]
+<!--01--> |
+<!--02--> | {{X mark}}
+<!--03--> |
+<!--04--> |
+<!--05--> | {{X mark}}
+<!--06--> |
+<!--07--> |
+<!--08--> |
+<!--09--> |
+<!--10--> |
+<!--11--> |
+|-
+! [[Gorō Naya]]
+<!--01--> | {{X mark}}
+<!--02--> | {{X mark}}
+<!--03--> |
+<!--04--> |
+<!--05--> |
+<!--06--> |
+<!--07--> |
+<!--08--> |
+<!--09--> |
+<!--10--> |
+<!--11--> |
+|-
+! [[Yō Ōizumi]]
+<!--01--> |
+<!--02--> |
+<!--03--> |
+<!--04--> |
+<!--05--> |
+<!--06--> |
+<!--07--> |
+<!--08--> | {{X mark}}
+<!--09--> | {{X mark}}
+<!--10--> |
+<!--11--> |
+|-
+! [[Akio Ōtsuka]]
+<!--01--> |
+<!--02--> |
+<!--03--> |
+<!--04--> |
+<!--05--> | {{X mark}}
+<!--06--> | {{X mark}}
+<!--07--> |
+<!--08--> |
+<!--09--> | {{X mark}}
+<!--10--> |
+<!--11--> |
+|-
+! [[Hōchū Ōtsuka]]
+<!--01--> |
+<!--02--> | {{X mark}}
+<!--03--> | {{X mark}}
+<!--04--> |
+<!--05--> | 
+<!--06--> | 
+<!--07--> |
+<!--08--> |
+<!--09--> | 
+<!--10--> |
+<!--11--> |
+|-
+! [[Shirō Saitō]]
+<!--01--> |
+<!--02--> |
+<!--03--> |
+<!--04--> |
+<!--05--> |
+<!--06--> |
+<!--07--> | {{X mark}}
+<!--08--> | {{X mark}}
+<!--09--> |
+<!--10--> | {{X mark}}
+<!--11--> |
+|-
+! [[Osamu Saka]]
+<!--01--> | {{X mark}}
+<!--02--> | 
+<!--03--> |
+<!--04--> | 
+<!--05--> | 
+<!--06--> | {{X mark}}
+<!--07--> |
+<!--08--> |
+<!--09--> |
+<!--10--> |
+<!--11--> |
+|-
+! [[Chika Sakamoto]]
+<!--01--> |
+<!--02--> | {{X mark}}
+<!--03--> |
+<!--04--> | {{X mark}}
+<!--05--> | {{X mark}}
+<!--06--> |
+<!--07--> |
+<!--08--> |
+<!--09--> |
+<!--10--> |
+<!--11--> |
+|-
+! Hiroko Seki
+<!--01--> |
+<!--02--> |
+<!--03--> |
+<!--04--> |
+<!--05--> | {{X mark}}
+<!--06--> | {{X mark}}
+<!--07--> |
+<!--08--> |
+<!--09--> |
+<!--10--> |
+<!--11--> |
+|-
+! [[Sumi Shimamoto]]
+<!--01--> | {{X mark}}
+<!--02--> | {{X mark}}
+<!--03--> |
+<!--04--> | {{X mark}}
+<!--05--> |
+<!--06--> |
+<!--07--> | {{X mark}}
+<!--08--> |
+<!--09--> |
+<!--10--> |
+<!--11--> |
+|-
+! [[Reiko Suzuki]]
+<!--01--> | 
+<!--02--> | 
+<!--03--> | {{X mark}}
+<!--04--> | {{X mark}}
+<!--05--> |
+<!--06--> |
+<!--07--> | 
+<!--08--> |
+<!--09--> |
+<!--10--> |
+<!--11--> |
+|-
+! [[Tarako (singer)|Tarako]]
+<!--01--> |
+<!--02--> | {{X mark}}
+<!--03--> | {{X mark}}
+<!--04--> | {{X mark}}
+<!--05--> |
+<!--06--> |
+<!--07--> |
+<!--08--> |
+<!--09--> |
+<!--10--> |
+<!--11--> |
+|-
+! [[Mahito Tsujimura]]
+<!--01--> |
+<!--02--> | {{X mark}}
+<!--03--> | 
+<!--04--> | 
+<!--05--> | 
+<!--06--> | {{X mark}}
+<!--07--> |
+<!--08--> |
+<!--09--> |
+<!--10--> |
+<!--11--> |
+|-
+! [[Machiko Washio]]
+<!--01--> |
+<!--02--> | 
+<!--03--> | {{X mark}}
+<!--04--> | {{X mark}}
+<!--05--> | 
+<!--06--> | 
+<!--07--> |
+<!--08--> |
+<!--09--> |
+<!--10--> |
+<!--11--> |
+|-
+! [[Minoru Yada]]
+<!--01--> |
+<!--02--> | {{X mark}}
+<!--03--> | 
+<!--04--> | 
+<!--05--> | 
+<!--06--> | {{X mark}}
+<!--07--> |
+<!--08--> |
+<!--09--> |
+<!--10--> |
+<!--11--> |
+|-
+|}
+</center>
+</small>
+
+==Early works (animation)==
+* ''[[Hols: Prince of the Sun]]'' (1968) – Key animation, storyboards, scene design
+* ''[[The Wonderful World of Puss 'n Boots]]'' (1969) – Key animation, storyboards, design
+* ''[[Flying Phantom Ship]]'' (1969) – Key animation, storyboards, design
+* ''[[Moomin (1969 TV series)|Moomin]]'' (1970) – Key animation on the [[Mushi Production]] version
+* ''[[Dōbutsu Takarajima|Animal Treasure Island]]'' (1971) – Story consultant, key animation, storyboards, scene design
+* ''[[Ali Baba and the Forty Thieves (1971 film)|Ali Baba and the Forty Thieves]]'' (1971) – Organizer, key animation, storyboards
+* ''[[Lupin III (anime)|Lupin III Part I]]'' (1971, TV series) – Direction, along with [[Isao Takahata]]
+* ''[[Yuki's Sun]]'' (1972, pilot for a never-realized TV series) – Direction
+* ''[[Panda! Go, Panda!]]'' (1972) – Concept, screenplay, storyboards, scene design, key animation; direction by Isao Takahata
+* ''[[Panda! Go, Panda!#Panda.21 Go.2C Panda.21 The Rainy-Day Circus .281973.29|Panda! Go, Panda! The Rainy-Day Circus]]'' (1973) –Screenplay, storyboards, scene design, art design, key animation; direction by Isao Takahata
+* ''[[Heidi, Girl of the Alps]]'' (1974, TV series) – Scene design, layout; direction by Isao Takahata
+* ''[[3000 Leagues in Search of Mother]]'' (1976, TV series) – Scene design, layout
+* ''[[Future Boy Conan]]'' (1978, TV series) – Direction
+* ''[[Anne of Green Gables (anime)|Anne of Green Gables]]'' (1979, TV series) – Scene design and layout for episodes 1–15; direction by Isao Takahata
+* ''[[Lupin III Part II]]'' (1980, TV series) – Direction of 2 episodes under the pseudonym "Tsutomu Teruki"
+* ''[[Sherlock Hound]]'' (1984, TV series) – Direction
+
+==Manga works==
+The following list contains Hayao Miyazaki's works, both major and minor, since his debut as manga artist:
+{{Expand list|date=April 2014}}
+<!-- THIS SECTION REQUIRES EXPANSION AND NEWER INFORMATION. PLEASE HELP AND UPDATE THIS SECTION WITH THE LATEST INFORMATION IN ORDER FOR THIS SECTION TO KEEP UP-TO-DATE WITH THE MOST RECENT. YOUR HELP AND CONTRIBUTION IS MUCH NEEDED. THANK YOU. -->
+{| class="wikitable"
+|-
+!Work
+!Years
+!Summary
+|- valign="top"
+| '' Nagagutsu wo haita neko'' (Puss in Boots)
+| 1969
+| Serialization in a newspaper of a feature film by Toei Doga (Toei Animation Studio), for which Miyazaki worked as a key animator. Based on Charles Perrault's book.  Pero, the dandy cat, helps a boy defeat an Ogre and win the heart of a princess.
+|- valign="top"
+| ''Sabaku no tami'' (People of the Desert)
+| 1969–70
+| Written for a newspaper targeted for children. It deals with the devastation of war, betrayal, and the ugliness of the human nature under desperate situations.
+|- valign="top"
+| ''Doubutsu takarajima'' (Animal Treasure Island)
+| 1972
+| Serialization in a newspaper of a feature film by Toei Doga (Toei Animation Studio), for which Miyazaki worked as a key animator. It's a fun, slapstick adventure story based on Stevenson's Treasure Island.
+|- valign="top"
+| ''[[Nausicaä of the Valley of the Wind (manga)|Kaze no tani no Naushika]]'' (Nausicaä of the Valley of Wind)
+| 1982–94
+| Miyazaki's lifework. A complicated and thought-provoking manga (or "graphic novel") about a princess struggling to live in the world filled with ecological disasters, war, hatred and anger.  By the time he finished he had tackled some of the most difficult themes in literature: the conflicts between Nature and Man, war and peace, hope and despair, and the meaning of life and death.
+|- valign="top"
+| ''Imouto he'' (To my sister)
+| 1982
+| A six-page graphic poem about a dream a boy has in which he and his sick twin sister fly and travel around the world, and he can bring happiness to her. 
+|- valign="top"
+| ''[[The Journey of Shuna|Shuna no Tabi]]'' (The Journey of Shuna)
+| 1983
+| An all-watercolor 147 page manga considered by some as a Nausicaä prototype. It's about a prince of a very poor country that journeys in search of the Golden Wheat to save his people from starving.
+|- valign="top"
+| ''Hikoutei jidai'' (The age of the flying boat)
+| 1990
+| A 15-page all watercolor manga, which the animated film Porco Rosso is based on. It was serialized in Model Graphix, a monthly magazine about scale models, as a part of Miyazaki's "Zassou nouto" series.
+|- valign="top"
+| ''Zassou nouto'' (Daydream data notes)
+| 1992
+| Series of manga (or rather, "graphic essays") which Miyazaki has very sporadically wrote in a Japanese scale model magazine, Model Graphix (1984–92). They are totally independent manga stories, mecha ideas, or movie ideas about tanks, planes, or battle ships from the era before World War II - the "favorites" of Miyazaki.
+|- valign="top"
+| ''Hansu no kikan'' (The Return of Hans)
+| 1994
+| An all-watercolor manga based on the fictional adventures of Hans, a German chief tank mechanic, at the end of World War II.  It was serialized in Model Graphix, a monthly magazine about scale models, as a part of Miyazaki's "Zassou nouto" series.
+|- valign="top"
+| ''Kuuchuu de oshokuji'' (Dining in the air)
+| 1994
+| An all-watercolor short manga about the history of in-flight meals.
+|- valign="top"
+| ''Doromamire no tora'' (Tigers covered with mud)
+| 1998–99
+| An all-watercolor manga based on the memoirs of Otto Carius, a German tank commander.  It was serialized in Model Graphix, under a new series name "Mousou nouto".
+|- valign="top"
+| ''A Trip to Tynemouth''
+| 2006
+| An adapted manga version of a translated collection of three of the young adult short stories written by [[Robert Westall]].
+|- valign="top"
+| ''Kaze Tachinu'' (風立ちぬ The Wind Rises)
+| 2009
+| The story of Mitsubishi A6M Zero fighter designer Jiro Horikoshi.
+|- valign="top"
+| (untitled samurai manga)
+| ?
+| A manga series about samurai in Japan’s Warring States era.
+|}
+
+==Filmography==
+
+{|class="wikitable sortable"
+|-
+! Year !! Title !! [[Film director|Director]] !! [[Film producer|Producer]] !! [[Screenwriter|Writer]] !! Notes !! [[Rotten Tomatoes|RT]]
+|-
+| 1979 || ''[[The Castle of Cagliostro]]'' || {{yes}} || || {{yes}}  || ||90%
+|-
+| 1984 || ''[[Nausicaä of the Valley of the Wind (film)|Nausicaä of the Valley of the Wind]]'' || {{yes}} || || {{yes}} ||  ||86%
+|-
+| 1986 || ''[[Castle in the Sky]]''|| {{yes}} || || {{yes}}  || ||95% 
+|-
+| 1988 || ''[[My Neighbor Totoro]]'' || {{yes}} || || {{yes}}  || ||93%
+|-
+| 1989 || ''[[Kiki's Delivery Service]]'' || {{yes}} || {{yes}} || {{yes}}  ||  ||100%
+|-
+| 1991 || ''[[Only Yesterday (1991 film)|Only Yesterday]]'' || || {{yes}} || || ||100%
+|-
+| 1992 || ''[[Porco Rosso]]'' || {{yes}} || || {{yes}}  || ||94%
+|-
+| 1994 || ''[[Pom Poko]]'' ||  || {{yes}} || || ||88%
+|-
+| rowspan="2" | 1995
+| ''[[Whisper of the Heart]]'' || || {{yes}} || {{yes}}  || ||91%
+|-
+| ''[[On Your Mark]]'' ||  {{yes}} || || || Music video || 
+|-
+| 1997 || ''[[Princess Mononoke]]'' || {{yes}} || || {{yes}}  || ||92%
+|-
+| rowspan="2" | 2001 || ''[[Spirited Away]]'' || {{yes}} || || {{yes}}  || ||97%
+|-
+|''[[Kujiratori|Whale Hunt]]'' || {{yes}} || || {{yes}}  || Short film ||
+|-
+| rowspan="4" | 2002 || ''[[Koro no Daisanpo|Koro's Big Day Out]]'' || {{yes}} || || {{yes}}  || Short film
+|-
+|''[[My Neighbor Totoro#Anime short|Mei and the Kittenbus]]''  || {{yes}} || || {{yes}}  || Short film ||
+|-
+|''[[Kūsō no Sora Tobu Kikaitachi|Imaginary Flying Machines]]'' || {{yes}} || || {{yes}}  || Short film ||
+|-
+| ''[[The Cat Returns]]'' ||  || {{yes}} || || ||89%
+|-
+| 2004
+| ''[[Howl's Moving Castle (film)|Howl's Moving Castle]]'' || {{yes}} || || {{yes}}  || ||87%
+|-
+| rowspan="3" |2006
+| ''[[Mizugumo Monmon|Monmon the Water Spider]]'' || {{yes}} || {{yes}} || {{yes}}  || Short film ||
+|-
+|''[[Looking for a Home (film)|House-hunting]]'' || {{yes}} || {{yes}} || {{yes}}  || Short film ||
+|-
+|''[[Hoshi o Katta Hi|The Day I Harvested a Planet]]'' || {{yes}} || || {{yes}}  || Short film ||
+|-
+| 2008
+|''[[Ponyo]]'' || {{yes}} || || {{yes}}  || ||92%
+|-
+| rowspan="2" | 2010 || ''[[Pandane to tamago hime|Mr. Dough and the Egg Princess]]'' || {{yes}} || || {{yes}}  || Short film ||
+|-
+| ''[[Arrietty|The Secret World of Arrietty]]'' || || {{yes}} || {{yes}}  || ||95%
+|-
+| 2011
+| ''[[From Up on Poppy Hill]]'' || || {{yes}} || {{yes}}  || ||83%
+|-
+| 2013 || ''[[The Wind Rises]]''  || {{yes}} || || {{yes}}  || ||89%
+|}
+
+==Accolades==
+
+===Film===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Award
+! Category
+! Result
+|-
+|rowspan=1| 1980
+| ''[[The Castle of Cagliostro]]''
+| [[Mainichi Film Award]]
+| Ofuji Noburo Award
+| {{won}}
+|-
+|rowspan=3| 1985
+|rowspan=3| ''[[Nausicaä of the Valley of the Wind (film)|Nausicaä of the Valley of the Wind]]''
+| [[Fantafestival]]
+| Best Short Film
+| {{won}}
+|-
+| [[Kinema Junpo Awards]]
+| Readers' Choice Award – Best Film
+| {{won}}
+|-
+| [[Mainichi Film Award]]
+| Ofuji Noburo Award
+| {{won}}
+|-
+|rowspan=1| 1987
+| ''[[Castle in the Sky]]''
+| [[Mainichi Film Award]]
+| Ofuji Noburo Award
+| {{won}}
+|-
+|rowspan=5| 1989
+|rowspan=5| ''[[My Neighbor Totoro]]''
+|rowspan=2| [[Kinema Junpo Awards]]
+| Kinema Junpo Award – Best Film
+| {{won}}
+|-
+| Readers' Choice Award – Best Japanese Film
+| {{won}}
+|-
+|rowspan=2| [[Mainichi Film Award]]
+| Best Film
+| {{won}}
+|-
+| Ofuji Noburo Award
+| {{won}}
+|-
+| [[Blue Ribbon Awards]]
+| Special Award
+| {{won}}
+|-
+|rowspan=2| 1990
+|rowspan=2| ''[[Kiki's Delivery Service]]''
+| [[Mainichi Film Award]]
+| Best Animated Film
+| {{won}}
+|-
+| [[Kinema Junpo Awards]]
+| Readers' Choice Award – Best Japanese Film Director
+| {{won}}
+|-
+|rowspan=1| 1993
+| ''[[Porco Rosso]]''
+| [[Mainichi Film Award]]
+| Best Animated Film
+| {{won}}
+|-
+|rowspan=15| 1997
+|rowspan=23| ''[[Princess Mononoke]]''
+| [[Hochi Film Awards]]
+| Special Award
+| {{won}}
+|-
+| The Association of Movie Viewing Groups
+| Best Japanese Movie
+| {{won}}
+|-
+| [[Nikkan Sports Film Awards]]
+| Best Director
+| {{won}}
+|-
+| [[Takasaki]] Film Festival
+| Best Director
+| {{won}}
+|-
+| [[Agency for Cultural Affairs|The Agency for Cultural Affairs]]
+| Excellent Movie Award
+| {{won}}
+|-
+| [[Japan Media Arts Festival]]
+| Grand Prize
+| {{won}}
+|-
+|rowspan=2| Asahi Best Ten Film Festival
+| Best Japanese Movie
+| {{won}}
+|-
+| Readers' Choice Award
+| {{won}}
+|-
+|rowspan=2| [[Nihon Keizai Shimbun]]
+| Award for Excellency
+| {{won}}
+|-
+| Nikkei Awards for Excellent Products and Service
+| {{won}}
+|-
+| Theater Division Award
+| Asahi Digital Entertainment Award
+| {{won}}
+|-
+| MMCA Special Award
+| Multimedia Grand Prix 1997
+| {{won}}
+|-
+| Osaka Film Festival
+| Special Award
+| {{won}}
+|-
+| The Movie's Day
+| Special Achievement Award
+| {{won}}
+|-
+| Fumiko Yamaji Award
+| Cultural Award
+| {{won}}
+|-
+|rowspan=6| 1998
+| [[Blue Ribbon Awards]]
+| Special Awards
+| {{won}}
+|-
+| [[Japanese Academy Awards]]
+| Picture of the Year
+| {{won}}
+|-
+| [[Kinema Junpo Awards]]
+| Readers' Choice Award – Best Film
+| {{won}}
+|-
+|rowspan=3| [[Mainichi Film Award]]
+| Best Animated Film
+| {{won}}
+|-
+| Best Film
+| {{won}}
+|-
+| Readers' Choice Award – Best Film
+| {{won}}
+|-
+|rowspan=1| 2000
+| [[Annie Awards]]
+| Outstanding Individual Achievement for Directing in an Animated Feature Production
+| {{nom}}
+|-
+|rowspan=1| 2001
+| [[Nebula Award]]
+| Best Script
+| {{nom}}
+|-
+|rowspan=24| 2002
+| ''[[Kujiratori|Whale Hunt]]''
+| [[Mainichi Film Award]]
+| Ofuji Noburo Award
+| {{won}}
+|-
+|rowspan=48| ''[[Spirited Away]]''
+| [[Berlin International Film Festival]]
+| Golden Berlin Bear
+| {{won}}
+|-
+| [[Blue Ribbon Awards|Blue Ribbon Award]]
+| Best Film
+| {{won}}
+|-
+| [[Nikkan Sports Film Award]]
+| Best Film
+| {{won}}
+|-
+| [[New York Film Critics Circle Award]]
+| Best Animated Film
+| {{won}}
+|-
+| [[Boston Society of Film Critics Awards]]
+| Special Commendation – For artistic contribution to the field of animation
+| {{won}}
+|-
+| [[Cambridge Film Festival]]
+| Audience Award – Best Film
+| {{won}}
+|-
+| [[National Board of Review of Motion Pictures]]
+| Best Animated Feature
+| {{won}}
+|-
+| [[Cinekid Festival]]
+| Cinekid Film Award
+| {{won}}
+|-
+| [[Durban International Film Festival]]
+| Best Film
+| {{won}}
+|-
+| [[European Film Awards]]
+| Screen International Award
+| {{nom}}
+|-
+| [[Kinema Junpo Awards]]
+| Readers' Choice Award – Best Film
+| {{won}}
+|-
+| [[Los Angeles Film Critics Association Awards]]
+| LAFCA Award
+| {{won}}
+|-
+|rowspan=4| [[Mainichi Film Award]]
+| Best Animated Film
+| {{won}}
+|-
+| Best Director
+| {{won}}
+|-
+| Best Film
+| {{won}}
+|-
+| Readers' Choice Award – Best Film
+| {{won}}
+|-
+| [[San Francisco International Film Festival]]
+| Audience Award – Best Narrative Feature
+| {{won}}
+|-
+|rowspan=2| [[Sitges Film Festival]]
+| Special Mention
+| {{won}}
+|-
+| Best Film
+| {{nom}}
+|-
+|rowspan=2| [[Tokyo Anime Award]]
+| Grand Prix
+| {{won}}
+|-
+| Best Director
+| {{won}}
+|-
+| [[Japanese Academy Award]]
+| Best Film
+| {{won}}
+|-
+| [[Hong Kong Film Award]]
+| Best Asian Film
+| {{won}}
+|-
+|rowspan=21| 2003
+| [[Academy Award]]
+| Best Animated Feature
+| {{won}}
+|-
+|rowspan=2| [[Online Film Critics Society|Online Film Critics Society Award]]
+| Best Animated Feature
+| {{won}}
+|-
+| Best Foreign Language Film
+| {{nom}}
+|-
+| [[British Independent Film Awards]]
+| Best Foreign Independent Film
+| {{nom}}
+|-
+| [[Saturn Award]]
+| Best Writing
+| {{nom}}
+|-
+| [[Film Critics Circle of Australia Awards|Film Critics Circle of Australia]]
+| Best Foreign-Language Film
+| {{won}}
+|-
+| [[Chicago Film Critics Association]]
+| Best Foreign Language Film
+| {{nom}}
+|-
+| [[Satellite Award]]
+| Best Motion Picture, Animated or Mixed Media
+| {{won}}
+|-
+|rowspan=2| Phoenix Film Critics Society Award
+| Best Animated Film
+| {{won}}
+|-
+| Overlooked Film of the Year
+| {{nom}}
+|-
+| [[International Horror Guild Award]]
+| Best Movie
+| {{nom}}
+|-
+| [[Florida Film Critics Circle]]
+| Best Animation
+| {{won}}
+|-
+| [[Dallas-Fort Worth Film Critics Association Award]]
+| Best Animated Film
+| {{won}}
+|-
+| [[:nl:Amsterdam Fantastic Film Festival|Amsterdam Fantastic Film Festival]]
+| Silver Scream Award
+| {{won}}
+|-
+|rowspan=2| [[Annie Award]]
+| Outstanding Directing in an Animated Feature Production
+| {{won}}
+|-
+| Outstanding Writing in an Animated Feature Production
+| {{won}}
+|-
+| [[Cambridge Film Festival]]
+| Audience Award – Best Film
+| {{won}}
+|-
+| Cinema Writers Circle Awards, Spain
+| Best Foreign Film
+| {{won}}
+|-
+| [[César Award]]
+| Best Foreign Film
+| {{nom}}
+|-
+| [[Hugo Award]]
+| Best Dramatic Presentation – Long Form
+| {{nom}}
+|-
+| [[Broadcast Film Critics Association]]
+| Best Animated Feature
+| {{won}}
+|-
+|rowspan=7| 2004
+| [[Argentinean Film Critics Association Awards]]
+| Silver Condor – Best Foreign Film
+| {{nom}}
+|-
+| [[BAFTA Award]]
+| Best Film not in the English Language
+| {{nom}}
+|-
+| [[London Critics Circle Film Awards]]
+| Foreign Language Film of the Year
+| {{nom}}
+|-
+| [[Nebula Award]]
+| Best Script
+| {{nom}}
+|-
+|rowspan=19| ''[[Howl's Moving Castle (film)|Howl's Moving Castle]]''
+|rowspan=2| [[Sitges Film Festival]]
+| Audience Award – Best Feature Film
+| {{won}}
+|-
+| Best Film
+| {{nom}}
+|-
+| [[Venice Film Festival]]
+| Golden Lion
+| {{nom}}
+|-
+|rowspan=6| 2005
+| [[Hollywood Film Festival]]
+| Hollywood Film Award – Animation of the Year
+| {{won}}
+|-
+| [[Mainichi Film Award]]
+| Readers' Choice Award – Best Film
+| {{won}}
+|-
+| [[Tokyo Anime Award]]
+| Animation of the Year
+| {{won}}
+|-
+| [[Satellite Award]]
+| Outstanding Motion Picture, Animated or Mixed Media
+| {{nom}}
+|-
+| [[San Diego Film Critics Society Award]]
+| Best Animated Film
+| {{won}}
+|-
+| [[New York Film Critics Circle Awards]]
+| Best Animated Film
+| {{won}}
+|-
+|rowspan=9| 2006
+| [[Academy Award]]
+| Best Animated Feature
+| {{nom}}
+|-
+|rowspan=2| [[Annie Award]]
+| Best Directing in an Animated Feature Production
+| {{nom}}
+|-
+| Best Writing in an Animated Feature Production
+| {{nom}}
+|-
+| [[Broadcast Film Critics Association Awards]]
+| Best Animated Feature
+| {{nom}}
+|-
+| [[Online Film Critics Society Award]]
+| Best Animated Feature
+| {{nom}}
+|-
+| [[Saturn Award]]
+| Best Animated Film
+| {{nom}}
+|-
+| [[MTV Movie Awards Russia]]
+| Best Cartoon
+| {{nom}}
+|-
+| [[Nastro d'Argento]]
+| Silver Ribbon – Best Foreign Director
+| {{nom}}
+|-
+| [[Hong Kong Film Awards]]
+| Best Asian Film
+| {{nom}}
+|-
+|rowspan=1| 2007
+| [[Nebula Award]]
+| Best Script
+| {{won}}
+|-
+|rowspan=3| 2008
+|rowspan=13| ''[[Ponyo]]''
+|rowspan=3| [[Venice Film Festival]]
+| Future Film Festival Digital Award – Special Mention
+| {{won}}
+|-
+| Mimmo Rotella Foundation Award
+| {{won}}
+|-
+| Golden Lion
+| {{nom}}
+|-
+|rowspan=9| 2009
+| [[Asian Film Awards]]
+| Best Director
+| {{nom}}
+|-
+| [[Japanese Academy Awards|Japanese Academy Award]]
+| Best Animation Film
+| {{won}}
+|-
+| [[Chicago Film Critics Association Awards]]
+| Best Animated Feature
+| {{nom}}
+|-
+| [[Hong Kong Film Awards]]
+| Best Asian Film
+| {{nom}}
+|-
+| [[Online Film Critics Society Award]]
+| Best Animated Feature
+| {{nom}}
+|-
+| [[Washington D.C. Area Film Critics Association]]
+| Best Animated Film
+| {{nom}}
+|-
+|rowspan=3| [[Tokyo Anime Award]]
+| Best Director
+| {{won}}
+|-
+| Best Original Story
+| {{won}}
+|-
+| Animation of the Year
+| {{won}}
+|-
+|rowspan=1| 2010
+| [[Annie Award]]
+| Directing in a Feature Production
+| {{nom}}
+|-
+|rowspan=34| 2013
+|rowspan=1| ''[[From Up on Poppy Hill]]''
+| [[Annie Award]]
+| Writing in an Animated Feature Production
+| {{nom}}
+|-
+|rowspan=33| ''[[The Wind Rises]]''
+| [[Academy Awards]]
+| Best Animated Feature 
+| {{Nominated}}<ref>{{cite news|last=Brown|first=Tracy|title=Oscars 2014: 'Frozen' wins animated feature|url=http://www.latimes.com/entertainment/envelope/moviesnow/la-et-mn-oscars-2014-animated-feature-winner-20140228,0,1617710.story#axzz2urWmwc5h|website= Los Angeles Times|date=March 2, 2014|accessdate=March 3, 2014}}</ref>
+|-
+| [[Alliance of Women Film Journalists]]
+| Best Animated Feature
+| {{won}}
+|-
+| [[Annie Awards]]
+| [[Annie Award for Best Animated Feature|Best Animated Feature]]
+| {{nom}}
+|-
+| [[Annie Awards]]
+| Character Animation in a Feature Production (for Kitaro Kosaka)
+| {{nom}}
+|-
+| [[Annie Awards]]
+| Writing in an Animated Feature Production
+| {{won}}
+|-
+| [[Asia Pacific Screen Awards]]
+| [[Asia Pacific Screen Award for Best Animated Feature Film|Best Animated Feature Film]]
+| {{nom}}
+|-
+| [[Boston Online Film Critics Association]]
+|Best Animated Film <br />Tied with ''[[Frozen (2013 film)|Frozen]]''
+|{{won}}
+|-
+| [[Boston Society of Film Critics]]
+| Best Animated Film
+|{{won}}
+|-
+| [[Chicago Film Critics Association]]
+| Best Foreign - Language Film 
+|{{nom}}
+|-
+| [[Chicago Film Critics Association]]
+| Best Animated Feature
+|{{won}}
+|-
+| [[Critics' Choice Movie Award]]
+| Best Animated Feature
+|{{nom}}
+|-
+| [[Dallas-Fort Worth Film Critics]]
+| Best Foreign Language Film
+|{{nom}}
+|-
+| [[71st Golden Globe Awards|Golden Globe Awards]] 
+| [[Golden Globe Award for Best Foreign Language Film|Best Foreign Language Film]]
+|{{nom}}
+|-
+| [[Los Angeles Film Critics Association]]
+| Best Animation
+|{{yes|2nd place}}
+|-
+| [[Mill Valley Film Festival]]
+| Audience Favorite — Animation
+| {{won}}
+|-
+| [[National Board of Review]]
+| [[National Board of Review Award for Best Animated Film|Best Animated Film]]
+|{{won}}
+|-
+| [[New York Film Critics Circle]]
+| [[New York Film Critics Circle Award for Best Animated Film|Best Animated Film]]
+|{{won}}
+|-
+| [[New York Film Critics Online]]
+| Best Animated Feature
+|{{won}}
+|-
+| [[New York Film Festival]]
+| Grand Marnier Fellowship Award for Best Film
+|{{nom}}
+|-
+| [[Online Film Critics Society]]
+| Best Picture
+|{{nom}}
+|-
+| [[Online Film Critics Society]]
+| Best Director
+|{{nom}}
+|-
+| [[Online Film Critics Society]]
+| Best Animated Feature
+|{{won}}
+|-
+| [[Online Film Critics Society]]
+| Best Film Not in the English Language 
+|{{nom}}
+|-
+| [[Online Film Critics Society]]
+| Best Adapted Screenplay
+|{{nom}}
+|-
+| Phoenix Film Critics Society
+|Best Animated Film
+|{{nom}}
+|-
+| [[San Diego Film Critics Society]]
+| Best Animated Film
+|{{won}}
+|-
+| [[San Francisco Film Critics Circle]]
+| Best Animated Feature
+| {{nom}}
+|-
+| [[Satellite Awards]]
+| Best Motion Picture, Animated or Mixed Media
+|{{won}}
+|-
+| [[San Sebastián International Film Festival]]
+| Audience Award
+|{{nom}}
+|-
+| [[St. Louis Gateway Film Critics Association]]
+| Best Animated Feature
+|{{yes|2nd place}}
+|-
+| [[Toronto International Film Festival]]
+| People's Choice Award for Best Drama Feature Film
+|{{nom}}
+|-
+| [[Venice Film Festival]]
+| [[Golden Lion]]
+|{{nom}}
+|-
+| [[Washington D.C. Area Film Critics Association]]
+| Best Animated Feature
+|{{nom}}
+|}
+
+===Other===
+*[[Person of Cultural Merit]], Japan (November 3, 2012; the first anime director to receive the honour)<ref>{{Cite web | url = http://ajw.asahi.com/article/cool_japan/anime_news/AJ201211150040 | title = Hayao Miyazaki receives Person of Cultural Merit honor | newspaper = The Asahi Shimbun | date = November 15, 2012}}.</ref>
+*[[Science Fiction and Fantasy Hall of Fame]] (2014 inductee)<ref>{{cite web|url=http://www.empmuseum.org/at-the-museum/museum-features/science-fiction-and-fantasy-hall-of-fame/members/hayao-miyazaki.aspx|title=Hayao Miyazaki|publisher=[[EMP Museum]]|accessdate=June 28, 2014}}</ref>
+*[[Academy Honorary Award]], presented by the Academy of Motion Picture Arts and Sciences (AMPAS) at the The [[87th Academy Awards]] ceremony on February 22, 2015. He is the first anime director to receive this honour, being the 4th animator to receive this award (the first was [[Walt Disney]], who received it three times, the second was [[Walter Lantz]] in 1979, and the third was [[Chuck Jones]] in 1995).
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* Cavallaro, Dani (2006). ''[http://books.google.com/books?id=N3e00UlzHjgC The Animé Art of Hayao Miyazaki]''. Jefferson, NC: McFarland & Co. ISBN 978-0-7864-2369-9. {{OCLC|62430842}}.
+* McCarthy, Helen (1999). ''[http://books.google.com/books?id=4YPh2_D9q2EC Hayao Miyazaki: Master of Japanese Animation]''. Berkely, CA: Stone Bridge. ISBN 978-1-880656-41-9. {{OCLC|42296779}}
+* Miyazaki, Hayao (2009). ''Starting Point: 1979–1996''. Beth Cary and Frederik L. Schodt, trans. Foreword by [[John Lasseter]]. San Francisco: VIZ Media. ISBN 978-1-4215-0594-7. {{OCLC|290477195}}.
+** {{Citation | last = Miyazaki | first = Hayao | date = July 31, 1996 |script-title=ja:出発点—1979~1996 |trans-title=Shuppatsuten, 1979–1996 | place = Tokyo | publisher = Studio Ghibli/Hatsubai Tokuma Shoten | ISBN = 978-4-19-860541-4 | OCLC = 37636025 | language = Japanese | author-mask = 3 }}. Original edition.
+* {{Citation | last = Miyazaki | first = Hayao | date = July 16, 2008 |script-title=ja:折り返し点—1997~2008 |trans-title=Orikaeshiten, 1997–2008 | place = Tokyo | publisher = Iwanami Shoten | ISBN = 978-4-00-022394-2 | OCLC = 237177737 | language = Japanese }}. Untranslated compilation (Literal translation title: ''Turn-around point'').
+* Odell, Colin, & Le Blanc, Michelle (2009). ''[[Studio Ghibli]]: The Films of Hayao Miyazaki and [[Isao Takahata]]''. Harpenden, Hertfordshire, [[England|ENG]]: Kamera. ISBN 978-1-84243-279-2. {{OCLC|299246656}}.
+*E. L. Risden: "Miyazaki's Medieval World: Japanese Medievalism and the Rise of Anime," in ''[https://79a68520-a-62cb3a1a-s-sites.googlegroups.com/site/theyearsworkinmedievalism/cabinet/28%20Risden.pdf?attachauth=ANoY7cqmLpkx10lsF-KPbNNJF44YHaymvuaTLkb5h-K1NELGFbWoACSTy6GgdtlTGCQexCtgHOsPzQ3yo1EDCcZWNVAa6L4BBsd8F6lAmtx0NBZJcaaeX5CVljCRn8178kMwMIH_SO5ngp83fnBirV43VMaRYwU2d9Z7lj70hpSDSs-Hvm7arwiW00CpAsZpm8JPHB1anN7o9ZyLuht9am16CWRG9DErM6ZI5-B3tzR_J0W_w49HWJA%3D&attredirects=0 Medievalism NOW]'', ed. E.L. Risden, Karl Fugelso, and Richard Utz (special issue of ''The Year's Work in Medievalism'', 28 (2013).
+*[[Frederik L. Schodt|Schodt, Frederik L.]] (1996) [[Dreamland Japan]]
+
+==External links==
+{{Toomanylinks|date=May 2015}}
+{{sisterlinks|d=Q55400|commons=category:Hayao Miyazaki|n=no|b=no|wikt=no|s=no|v=no|voy=no|m=no|mw=no|species=no}}
+* [http://www.ghibli.jp Studio Ghibli] {{ja icon}}
+* {{Citation | url = http://www.nausicaa.net/miyazaki/miyazaki/ | title = Miyazaki | type = information | publisher = Nausicaa}}
+* {{Citation | url = http://www.japan-zone.com/modern/miyazaki_hayao.shtml | title = Miyazaki Hayao | type = profile | publisher = Japan Zone}}
+* {{Citation | url = http://film.guardian.co.uk/interview/interviewpages/0,6737,1569689,00.html | title = Interview | publisher = [[The Guardian]] | place = UK | section = Film | last = Miyazaki | first = Hayao | date=February 1, 2006}}
+* {{Citation | url = http://www.acsys.com/~tallman/miya_e.html | archiveurl = //web.archive.org/web/20010211030138/www.acsys.com/~tallman/miya_e.html | archivedate = February 11, 2001 |date=August 1997 | title = Interview | newspaper = [[Nikkei Entertainment]] | last = Miyazaki | first = Hayao | author-mask = 3}}
+* {{ann|people|51}}
+* {{IMDb name|0594503}}
+* [http://www.empmuseum.org/at-the-museum/museum-features/science-fiction-and-fantasy-hall-of-fame/members/hayao-miyazaki.aspx Hayao Miyazaki] at the [[Science Fiction and Fantasy Hall of Fame]]
+* {{LCAuth|nr93013379|Hayao Miyazaki|14|ue}}
+
+{{S-start}} {{S-ach}}
+{{s-bef|before=[[Aron Warner]]<br />for ''[[Shrek]]''}} 
+{{s-ttl|title=[[Academy Award for Best Animated Feature]]|years=2002<br />'''for ''[[Spirited Away]]'' '''}} 
+{{s-aft|after=[[Andrew Stanton]]<br />for ''[[Finding Nemo]]''}}
+{{s-bef|before=''[[Patrice Chéreau]]''<br /> for [[Intimacy (film)|Intimacy]]}} 
+{{s-ttl|title=[[Golden Bear]]|years=2002<br />'''for ''[[Spirited Away]]'' '''}} 
+{{s-aft|after=''[[Michael Winterbottom]]''<br />for [[In This World]]}}
+{{s-bef|before=[[Stanley Donen]], [[Manoel de Oliveira]]}} 
+{{s-ttl|title=[[Golden Lion|Career Golden Lion]]|years=2005}} 
+{{s-aft|after=[[David Lynch]]}}
+{{s-end}}
+
+{{Hayao Miyazaki|state=collapsed}}
+{{Studio Ghibli}}
+{{Nausicaä of the Valley of the Wind}}
+{{Navboxes
+|title = Awards for Hayao Miyazaki
+|list =
+{{Academy Award for Best Animated Feature}}
+{{Annie Award for Directing in a Feature Production}}
+{{Annie Award for Writing in a Feature Production}}
+{{Broadcast Film Critics Association Award for Best Animated Feature}}
+{{Hochi Film Award for Best Director}}
+{{Nebula Award for Best Script/Bradbury Award 2001–2020}}
+}}
+{{WMT |state=collapsed}}
+{{Authority control}}
+
+{{Persondata
+|NAME              = Miyazaki, Hayao
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION = Japanese film director
+|DATE OF BIRTH     = January 5, 1941
+|PLACE OF BIRTH    = Tokyo, Japan
+|DATE OF DEATH     =
+|PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Miyazaki, Hayao}}
+[[Category:Hayao Miyazaki| ]]
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:Animated film directors]]
+[[Category:Anime character designers]]
+[[Category:Anime directors]]
+[[Category:Fantasy artists]]
+[[Category:Feminist artists]]
+[[Category:Feminist writers]]
+[[Category:Gakushuin University alumni]]
+[[Category:Japanese animators]]
+[[Category:Japanese cartoonists]]
+[[Category:Japanese environmentalists]]
+[[Category:Japanese feminists]]
+[[Category:Japanese illustrators]]
+[[Category:Japanese screenwriters]]
+[[Category:Japanese socialists]]
+[[Category:Male feminists]]
+[[Category:Manga artists]]
+[[Category:People from Tokyo]]
+[[Category:Production designers]]
+[[Category:Science Fiction Hall of Fame inductees]]
+[[Category:Socialist feminists]]
+[[Category:Storyboard artists]]
+[[Category:Studio Ghibli people]]
+[[Category:Topcraft]]
+[[Category:World Masterpiece Theater series]]
+[[Category:Annie Award winners]]
+[[Category:Japanese Shintoists]]
+[[Category:Japanese Buddhists]]
+[[Category:Directors of Best Animated Feature Academy Award winners]]

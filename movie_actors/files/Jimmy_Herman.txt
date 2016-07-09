@@ -1,0 +1,89 @@
+{{peacock|date=March 2014}}
+{{Infobox person
+ | image        = 
+ | caption      = 
+ | birth_name   = 
+ | birth_date   = {{birth date|1940|10|25}}
+ | birth_place  = [[Cold Lake First Nations|Cold Lake Reserve]], [[Alberta]], [[Canada]]
+ | death_date   = {{death date and age|2013|9|13|1940|10|25}}
+ | death_place  = [[Edmonton]], [[Alberta]], Canada
+ | occupation   = Actor
+ | years_active = 1984–2007
+ | spouse       = 
+}}
+'''Jimmy Herman''' (October 25, 1940 - September 13, 2013) was a [[First Nations]] actor who appeared in several films, including ''[[Dances with Wolves]]'' among others.<ref>[http://www.filmreference.com/film/24/Jimmy-Herman.html Jimmy Herman Biography] at Filmreference.com.</ref><ref>{{cite web|last=Klinkenberg |first=Marty |url=http://www.edmontonjournal.com/entertainment/movie-guide/Dances+With+Wolves+actor+Jimmy+Herman+dies+Edmonton/8915535/story.html |title=Dances With Wolves actor Jimmy Herman dies in Edmonton |publisher=Edmontonjournal.com |date=2013-09-10 |accessdate=2013-09-17}}</ref>
+
+He was born on the [[Cold Lake First Nations|Cold Lake Reserve]] in [[Alberta]], [[Canada]]. His tribal descent was [[Dene]]. Herman moved to [[Edmonton]] in 1980 to study at [[MacEwan University|Grant MacEwan College]]'s Native Communications Program. There, he received the Malcolm Calliou Award for his ambition to succeed, and to inspire other Aboriginal people to do the same. After his graduation from Grant MacEwan, he accepted employment with Native Counseling Services of Alberta as a media assistant in the media department. During this time, he did some narration work for Native Counseling Services, ACCESS radio, and the National Film Board.
+
+A small part in a CBC Television pilot program called ''John Cat'', based on a [[W. P. Kinsella]] book, sparked Herman’s interest in acting, and he decided to leave his position at Native Counseling Services to pursue a career in the performing arts. In April 1989, he got his big break when a [[Los Angeles]] casting agent chose him for a part in ''Dances With Wolves''. His minor role in the movie, playing a [[Sioux]] warrior named Stone Calf, was a boost for his career, and he did not look back.
+
+He went on to perform numerous roles in feature films and television series in Canada and the United States, including an extra in the Academy Award winning [[Western (genre)|western]], ''[[Unforgiven]]'', ''[[The X-Files]]'' and a ten-year stint on [[Canadian Broadcasting Corporation|CBC]]'s ''[[North of 60]]'', portraying fur trapper Joe Gomba. In 2005, the Dreamspeakers Film Festival Society in Edmonton honoured him with a place on the Aboriginal Walk of Fame.
+
+Passionate about his art and the opportunity to be a positive role model in the Aboriginal community, Herman spoke frequently to Aboriginal youth in schools and at special events, encouraging them to take pride in who they are. He also turned towards political activism, seeking diplomatic solutions and bringing his voice to the debate surrounding Aboriginal treaty rights. Keenly aware that his fame could help draw attention to certain political causes, Herman used his own good fortune as a tool to better Treaty 6 communities.
+
+==Filmography==
+{| border="2" cellpadding="3" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%"
+|-  style="background:#ccc; text-align:center;"
+| '''Year''' || '''Title''' || '''Role'''
+|-
+| 1990 || ''[[Dances with Wolves]]'' || Stone Calf
+|-
+| 1992 || ''[[Unforgiven]]'' || Train Person #2 
+|-
+| rowspan="2" | 1993 || ''[[Geronimo (TV film)|Geronimo]]''  || Old [[Geronimo]]  
+|-
+| ''[[Medicine River]]'' || Lionel James 
+|-
+| rowspan="3" | 1994 || ''Warrior Spirit'' || Mukoki 
+|-
+| ''[[Blind Justice (1994 film)|Blind Justice]]'' || Shaman 
+|-
+| ''Road to Saddle River'' ||  
+|-
+| 1995 || ''Tecumseh: The Last Warrior'' || Cornstalk 
+|-
+| 1996 || ''[[Crazy Horse (film)|Crazy Horse]]'' || [[Conquering Bear]] 
+|-
+| 1998 || ''[[Phantom Town (film)|Phantom Town]]'' || Attendant 
+|-
+| 1999 || ''[[Grey Owl (film)|Grey Owl]]'' || Chief Pete Misebi
+|-
+| rowspan="2" | 2000 || ''[[Reindeer Games]]'' || Bartender
+|-
+| ''[[The Claim]]'' || Third miner
+|-
+| rowspan="2" | 2003 || ''[[Dreamkeeper]]'' || Multnomah Elder
+|-
+| ''[[Coyote Waits]]'' || Ashie Pinto
+|-
+| rowspan="2" | 2005 || ''[[Hank Williams First Nation]]'' || Uncle Martin
+|-
+| ''[[Santa's Slay]]'' || Vinny 
+|- 
+| 2007 || ''[[Bury My Heart at Wounded Knee (film)|Bury My Heart at Wounded Knee]]'' || Yellow Bird 
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb name|0379157}}
+
+{{Authority control}}
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Herman, Jimmy
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Canadian actor
+| DATE OF BIRTH     = October 25 1940
+| PLACE OF BIRTH    = [[Cold Lake First Nations|Cold Lake Reserve]], [[Alberta]], [[Canada]]
+| DATE OF DEATH     = September 13, 2013
+| PLACE OF DEATH    = [[Edmonton]], [[Alberta]], [[Canada]]
+}}
+{{DEFAULTSORT:Herman, Jimmy}}
+[[Category:1940 births]]
+[[Category:2013 deaths]]
+[[Category:Male actors from Alberta]]
+[[Category:First Nations male actors]]
+[[Category:MacEwan University alumni]]
+[[Category:Male Western (genre) film actors]]
+[[Category:Canadian male film actors]]

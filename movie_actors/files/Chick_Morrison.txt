@@ -1,0 +1,59 @@
+{{Infobox person
+| name        = Chick Morrison
+| image     = Chick Morrison.png
+| image_size  = 325px
+| birth_date   = 3 April 1878
+| birth_place  = [[Morrison, Colorado]] 
+| death_date   = 20 June 1924
+| death_place  = [[Los Angeles, California]]
+| othername   = Charles Pacific Morrison
+| occupation  = [[Actor]]
+| years_active = [[1909 in film|1909]] - [[1922 in film|1922]]
+| imdb_id     = 0607104
+}}
+
+'''Charles Pacific Morrison''', an [[United States|American]] [[silent film]] [[actor]], was born April 3, 1878 in [[Morrison, Colorado]]. The grandson of pioneer town founder George Morrison, he was known as "Chick" to many who knew him, a nickname conjunction of his first and middle names.  A keen [[horse riding|horse rider]], he often appeared in riding contests and rodeos throughout the American west.  At Morrison he trained horses for trick and fancy riding as well as break in wild horses. In 1909 [[Essanay Studios]] brought one such horse to Morrison to film some of their famous ''[[Broncho Billy]]'' series of 2-reel thrillers.  Morrison got the director's attention through his expert horsemanship, daring maneuvers, as well as his control over the animals, and was used as a double for the lead actor in some of the more dangerous scenes.
+
+Morrison left Colorado that year for California. From that point onward he appeared in feature films, rapidly growing to prominence in the film making industry.  Soon he played leads, and his success and experience as an animal trainer, especially with horses, put him in great demand for some of the largest pictures made in his era.  Morrison appeared in about 45 films, including ones with [[Charlotte Burton]] in films such as ''[[Rose of San Juan]]'', ''[[Quicksands]]'' and ''[[Calamity Anne, Heroine]]''. During his career he worked for [[Hal Roach Studios]], the [[Broncho Billy Anderson]] and [[Selig Polyscope Company]], and [[Universal Studios]].
+
+Chick's career met a tragic end on June 20, 1924. That day while filming at Hal Roach in [[Los Angeles, California]], Morrison's favorite horse, ''Young Steamboat'', fell backward upon him, killing him instantly at the age of 46. The horse had accompanied Morrison to Hollywood, a horse Chick had often told friends was especially wild and difficult to tame and train.
+
+Chick Morrison was the older brother of another early western film actor, [[Pete Morrison]].
+
+==Selected filmography==
+* ''[[White Eagle (1922 serial)|White Eagle]]'' ([[1922 in film|1922]])
+* ''[[Black Beauty (1921 film)|Black Beauty]]'' (1921)
+* ''[[A Gamblin' Fool]]'' ([[1920 in film|1920]])
+* ''[[The Big Catch]]'' (1920)
+* ''[[The Certainty of Man]]'' ([[1914 in film|1914]])
+* ''[[A Blowout at Santa Banana]]'' (1914)
+* ''[[American Born]]'' ([[1913 in film|1913]])
+* ''[[Calamity Anne's Dream]]'' (1913)
+* ''[[The Tale of the Ticker]]'' (1913)
+* ''[[In the Mountains of Virginia]]'' (1913)
+* ''[[Calamity Anne, Heroine]]'' (1913)
+* ''[[Rose of San Juan]]'' (1913)
+
+==External links==
+* {{IMDb name|id=0607104|name=Chick Morrison}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME= Morrison, Chick
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= [[Actor]]
+|DATE OF BIRTH= 3 April 1878
+|PLACE OF BIRTH= [[Morrison, Colorado]] 
+|DATE OF DEATH= 20 June 1924
+|PLACE OF DEATH= [[Los Angeles, California]]
+}}
+{{DEFAULTSORT:Morrison, Chick}}
+[[Category:American male film actors]]
+[[Category:People from Jefferson County, Colorado]]
+[[Category:American male silent film actors]]
+[[Category:Male Western (genre) film actors]]
+[[Category:1878 births]]
+[[Category:1924 deaths]]
+[[Category:Deaths by horse-riding accident]]
+[[Category:Accidental deaths in California]]
+[[Category:20th-century American male actors]]

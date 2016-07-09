@@ -1,0 +1,272 @@
+{{Infobox person
+| name  = Tom Tykwer
+| image = Tom Tykwer (Berlin Film Festival 2009).jpg
+| imagesize = 
+| caption = Tom Tykwer, Berlinale, 2009
+| birth_date = {{Birth date and age|1965|5|23|df=y}}
+| birth_place = [[Wuppertal]], [[West Germany]]
+| birth_name = 
+| other_names = 
+| spouse = [[Marie Steinmann]] (m. 2009)
+| occupation     = [[Film director]], [[screenwriter]], [[film composer]]
+| years_active   = 1986–present
+|
+| website       = 
+}}
+
+'''Tom Tykwer''' ({{IPA-de|ˈtɪkvɐ|lang}}; born 23 May 1965) is a [[German people|German]] [[film director]], [[Film producer|producer]], [[screenwriter]], and [[film composer|composer]]. He is best known internationally for directing the thrillers ''[[Run Lola Run]]'' (1998), ''[[Heaven (2002 film)|Heaven]]'' (2002), and ''[[Perfume: The Story of a Murderer (film)|Perfume: The Story of a Murderer]]'' (2006), the action thriller ''[[The International (2009 film)|The International]]'' (2009), and, with [[The Wachowskis]], the science fiction film ''[[Cloud Atlas (film)|Cloud Atlas]]'' (2012).
+
+==Early life==
+Tykwer was born in [[Wuppertal]], [[West Germany]]. Fascinated by film from an early age, he started making amateur [[Super 8 mm film|Super 8]] films at the age of eleven and later helped out at a local [[arthouse]] cinema to see more films, including those for which he was too young to buy tickets. After graduating from high school, he unsuccessfully applied to numerous film schools around Europe and moved to [[Berlin]] where he worked as a [[projectionist]]. In 1987, at the age of 22, he became the programmer of the Moviemento cinema and became known to German directors as a film buff.<ref>[http://www.tomtykwer.com/Biography Tomtykwer.com]</ref>
+
+==Career==
+In Berlin, Tykwer met and befriended the filmmaker [[Rosa von Praunheim]], who urged him to create stories from his own experience and suggested that Tykwer record arguments with his girlfriend at the time, and turn them into a [[short film]]. ''Because'' (1990) was screened at the Hof Film Festival<ref>{{cite web|url=http://www.hofer-filmtage.de/ |title=Internationale Hofer Filmtage: Home |publisher=Hofer-filmtage.de |date= |accessdate=2012-03-12}}</ref> and well received by the audience, which inspired Tykwer to continue pursuing filmmaking. He made a second [[short film]], ''[[Epilog (film)|Epilog]]'' (1992), that plunged him into personal financial debt, but gained him valuable technical filmmaking experience. Tykwer wrote the [[screenplay]] for—and directed—his first feature film, the psychological thriller ''[[Deadly Maria]]'', which aired on German television and saw a limited theatrical release in Germany and the international film festival circuit.
+
+In 1994, Tykwer founded the production company [[X Filme Creative Pool]] with [[Stefan Arndt]], [[Wolfgang Becker]], and [[Dani Levy]]. Tykwer and Becker wrote the screenplay for ''[[Life Is All You Get]]'' while working on Tykwer's second feature, ''[[Winter Sleepers]]'' (1997), a much bigger and more complex production than ''Deadly Maria''. ''Winter Sleepers'' brought Tykwer to the attention of German [[Cinephilia|cineastes]] and [[film festivals]], but Tykwer was struggling financially. He knew he needed a new film, and the result was ''[[Run Lola Run]]'' (1998), which became the most successful German film of 1998, scored $7 million at the US box office, and elevated Tykwer to international fame. As ''Lola'' was becoming a success worldwide, Tykwer was already at work on his next film, ''[[The Princess and the Warrior]]'', shot in his home town of Wuppertal. The film centered on a love story between a [[nurse]] and a former [[soldier]].
+
+[[Miramax]] produced his next film, ''[[Heaven (2002 film)|Heaven]]'' (2002), based on a screenplay by the late [[Polish people|Polish]] filmmaker, [[Krzysztof Kieślowski]]. It was shot in English, starred [[Cate Blanchett]] and [[Giovanni Ribisi]], and filmed in [[Turin]] and [[Tuscany]]. He was approached by French producers to film a short contribution to ''[[Paris, je t'aime]]'' (2006), a film comprising 20 short films by many famous directors depicting love in [[Paris]]. Tykwer shot the 10-minute short film, ''[[True (film)|True]]'', with [[Natalie Portman]] and [[Melchior Beslon]]. He shot the film quickly with almost no pre-production, and the result, Tykwer later said, "symbolises an entire life for me, in just ten minutes."<ref>[http://www.tomtykwer.com/Filmography/True Tomtykwer.com]</ref> Tykwer's next film was [[Perfume: The Story of a Murderer (film)|an adaptation]] of the [[novel]] ''[[Perfume (book)|Perfume]]'' by the German novelist [[Patrick Süskind]], and was filmed in the Spanish cities of [[Figueras]], [[Girona]] and [[Barcelona]]. Tykwer later made his [[Hollywood]] debut with the big-budgeted [[2009 in film|2009]] [[conspiracy thriller]] ''[[The International (2009 film)|The International]]'', starring [[Clive Owen]] and [[Naomi Watts]], which was shot in several locations ranging from [[Berlin]], [[Milan]], [[New York]], and [[Istanbul]]. The film received a lukewarm reception from the public and critics alike.
+
+==Pale 3==
+Since ''Winter Sleepers'', the music for all of Tykwer's films (with the exception of ''Heaven'') have been composed by [[Johnny Klimek]], [[Reinhold Heil]], and Tykwer himself, unusual for a film director. The trio named Pale 3, originally a [[film score|film scoring]] group, expanded to produce music unrelated to film.
+
+==Filmography==
+{| class="wikitable"
+|-
+! rowspan="2" | Year
+! rowspan="2" | Title
+! colspan="4" | Functioned as
+|-
+! [[Film director|Director]]
+! [[Screenwriter]]
+! [[Film producer|Producer]]
+! [[Film score|Composer]]
+|-
+| 1990
+| ''Because'' (short)
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|-
+| 1992
+| ''Epilog'' (short)
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|-
+| 1993
+| ''[[Deadly Maria]]'' 
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|-
+|rowspan=2|1997
+| ''[[Life is All You Get]]''
+| {{no}}
+| {{yes}}
+| {{no}}
+| {{no}}
+|-
+| ''[[Winter Sleepers]]'' 
+| {{yes}}
+| {{yes}}
+| {{no}}
+| {{yes}}
+|-
+| 1998
+| ''[[Run Lola Run]]'' 
+| {{yes}}
+| {{yes}}
+| {{no}}
+| {{yes}}
+|-
+| 1999
+| ''[[Absolute Giganten]]''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{no}}
+|-
+| 2000
+| ''[[The Princess and the Warrior]]'' 
+| {{yes}}
+| {{yes}}
+| {{no}}
+| {{yes}}
+|-
+| 2002
+| ''[[Heaven (2002 film)|Heaven]]''
+| {{yes}}
+| {{no}}
+| {{no}}
+| {{no}}
+|-
+|rowspan=2|2004
+| ''True'' (short)
+| {{yes}}
+| {{yes}}
+| {{no}}
+| {{yes}}
+|-
+| ''Lautlos (Soundless)''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{no}}
+|-
+| 2005
+| ''Ich Dich auch'' (documentary)
+| {{no}}
+| {{no}}
+| {{no}}
+| {{yes}}
+|-
+|rowspan=3|2006
+| ''[[Paris, je t'aime]]''<br />segment: ''Faubourg Saint-Denis
+| {{yes}}
+| {{yes}}
+| {{no}}
+| {{yes}}
+|-
+|''[[Perfume: The Story of a Murderer (film)|Perfume: The Story of a Murderer]]''
+| {{yes}}
+| {{yes}}
+| {{no}}
+| {{yes}}
+|-
+| ''[[A Friend of Mine (2006 film)|A friend of Mine]]''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{no}}
+|-
+| 2007
+| ''Das Herz ist ein dunkler Wald''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{no}}
+|-
+|rowspan=2|2009
+| ''[[The International (2009 film)|The International]]''
+| {{yes}}
+| {{no}}
+| {{no}}
+| {{yes}}
+|-
+| ''Deutschland 09''<br />Segment: ''Feierlich reist''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|-
+|rowspan=2|2010
+| ''[[Soul Boy]]''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{no}}
+|-
+| ''[[Three (2010 film)|Three]]''
+| {{yes}}
+| {{yes}}
+| {{no}}
+| {{yes}}
+|-
+|rowspan=2|2011
+| ''Endlich'' (documentary)
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{no}}
+|-
+|''[[60 Seconds of Solitude in Year Zero]]''<br />One-minute segment
+| {{yes}}
+| {{yes}}
+| {{no}}
+| {{no}}
+|-
+|rowspan=3|2012
+| ''[[Nairobi Half Life]]''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{no}}
+|-
+| ''[[Cloud Atlas (film)|Cloud Atlas]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|-
+| ''[[Rosakinder]]'' (TV movie)
+| {{yes}}
+| {{no}}
+| {{no}}
+| {{no}}
+|-
+| 2013
+| ''[[Culture Hacking]]''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{no}}
+|-
+| 2015
+| ''[[Sense8]]'' (TV series)
+| {{yes}}
+| {{no}}
+| {{no}}
+| {{yes}}
+|-
+| 2015
+| ''[[A Hologram for the King (film)|A Hologram for the King]]''
+| {{yes}}
+| {{yes}}
+| {{no}}
+| {{no}}
+|-
+|}
+
+==Awards==
+* 1994: [[Bayerischer Filmpreis|Bavarian Film Awards]], Best New Director
+* 1998: [[Bayerischer Filmpreis|Bavarian Film Awards]], Best Production<ref>[http://web.archive.org/web/20090325011005/http://www.bayern.de/Anlage19170/PreistraegerdesBayerischenFilmpreises-Pierrot.pdf Archive.org]</ref>
+* 2005: State-Award of the Film Commission [[North Rhine-Westphalia|NRW]]<ref>{{cite web|url=http://www.locationnrw.de |title=locationNRW |publisher=Locationnrw.de |date= |accessdate=2012-03-12}}</ref>
+* 2006: [[Bayerischer Filmpreis|Bavarian Film Awards]], Best Director<ref>{{cite web|url=http://www.bayern.de/Pressemitteilungen-.1255.19209/index.htm |title=Bayerisches Landesportal: Ministerpräsident Stoiber verleiht Bayerischen Filmpreis 2006 |publisher=Bayern.de |date=2007-01-19 |accessdate=2012-03-12}}</ref>
+*2012: Nominated for a [[Golden Globe]] for [[Golden Globe Award for Best Original Score|Best Original Score]] <small>[[Cloud Atlas (film)|Cloud Atlas]]</small>.<ref>[http://www.deadline.com/2012/12/golden-globe-awards-nominations-2013/ Deadline.com]</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Commons category}}
+* {{official website|http://www.tomtykwer.com}}
+* {{IMDb name|878756}}
+* [http://www.filmportal.de/df/1c/Credits,,,,,,,,EFC121B072A16C3FE03053D50B3736F2credits,,,,,,,,,,,,,,,,,,,,,,,,,,,.html Tom Tykwer] at the [[Filmportal.de]]
+* [http://www.stumpedmagazine.com/Interviews/tom-tykwer.html Stumped? Interview]
+
+{{Tom Tykwer}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Tykwer, Tom
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = German film director
+| DATE OF BIRTH     = 23 May 1965
+| PLACE OF BIRTH    = [[Wuppertal]], [[Germany]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Tykwer, Tom}}
+[[Category:German film score composers]]
+[[Category:German screenwriters]]
+[[Category:German film producers]]
+[[Category:German film directors]]
+[[Category:German-language film directors]]
+[[Category:People from Wuppertal]]
+[[Category:1965 births]]
+[[Category:Living people]]
+[[Category:German male writers]]

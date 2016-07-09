@@ -1,0 +1,573 @@
+{{Use mdy dates|date=December 2012}}<!--[[WP:STRONGNAT]]-->
+{{Infobox comedian
+| name     = Mel Brooks
+| image    = MelBrooksApr10.jpg{{!}}border
+| caption  = Brooks attending a ceremony to receive a star on the Hollywood Walk of Fame, April 23, 2010
+| birth_name = Melvin James Kaminsky<ref name=Susskind-JewishSon-1970>{{cite web|title=How to be a Jewish Son—or—My Son the Success! |url=http://www.jewishjournal.com/video/article/video_the_david_susskind_show_1970_how_to_be_a_jewish_son_20081202/ |work=[[David Susskind Show]]|accessdate=26 January 2014|page=Season 12 :  Ep. 7|format=video|year=1970}}</ref>
+| birth_date = {{birth date and age|1926|6|28}}
+| birth_place = [[Brooklyn]], [[New York City]], [[New York]], U.S.
+| active   = 1949–present
+| medium   = [[Film]], [[television]], [[musical theatre]]
+| genre    = [[Farce]], [[parody]], [[comedy music|musical comedy]], [[satire]], [[sketch comedy]]
+| spouse   = {{unbulleted list
+| {{Marriage|Florence Baum<br/>|1953|1962|reason=divorced}}
+| {{Marriage|[[Anne Bancroft]]<br/>|1964|2005|reason=died}}
+}}
+| children =  4; including [[Max Brooks|Max]]
+| notable_work = ''[[Get Smart]]''<br />''[[The Producers (1968 film)|The Producers]]''<br />''[[The Twelve Chairs (1970 film)|The Twelve Chairs]]''<br />''[[Blazing Saddles]]''<br />''[[Young Frankenstein]]''<br />''[[Silent Movie]]''<br />''[[High Anxiety]]''<br />''[[History of the World, Part I]]''<br />''[[Spaceballs]]''<br />''[[Robin Hood: Men in Tights]]''
+| module = {{Infobox military person | embed=yes
+   | allegiance    = {{Flagicon|United States}} United States
+   | branch        = [[File:Seal of the United States Department of War.png|25px]] [[United States Army]]
+   | serviceyears  = 1944–1946
+   | rank          = [[File:US Army WWII CPL.svg|25px]] [[Corporal#United States Army|Corporal]]
+   | unit          =
+{{unbulleted list |1104 Engineer Combat Group [[File:78th Infantry Division SSI.svg|25px]]
+|[[File:78th Division Distinctive Unit Insignia.PNG|25px]] [[78th Infantry Division (United States)#World War II|78th Infantry Division]]}}
+   | commands      =
+   | battles_label =
+   | awards        = {{unbulleted list<!--How about [[American Campaign Medal]], [[European-African-Middle Eastern Campaign Medal]], other service medals which he should have qualified for?-->
+      | {{Ribbon devices|number=0|type=service-star|ribbon=World War II Victory Medal ribbon.svg{{!}}border|width=23}} [[World War II Victory Medal]]
+     }}
+   }}
+   {{Infobox comedian awards
+   | academyawards = [[Academy Award for Writing Original Screenplay|Best Original Screenplay]] <br /> 1968: ''The Producers''
+   | emmyawards = [[Primetime Emmy Award for Outstanding Writing for a Variety, Music or Comedy Program|Outstanding Writing for a Variety, Music or Comedy Program]]<br />1967: ''The Sid Caesar, Imogene Coca, Carl Reiner and Howard Morris Special''<br />[[Primetime Emmy Award for Outstanding Guest Actor - Comedy Series|Outstanding Guest Actor - Comedy Series]] <br /> 1997–99: ''[[Mad About You]]''
+   | tonyawards = [[Tony Award for Best Musical|Best Musical]] <br /> 2001: ''[[The Producers (musical)|The Producers]]'' <br /> [[Tony Award for Best Book of a Musical|Best Book of a Musical]] <br /> 2001: ''The Producers'' <br /> [[Tony Award for Best Original Score|Best Original Score]] <br /> 2001: ''The Producers''
+   | grammyawards = [[Grammy Award for Best Spoken Comedy Album|Best Spoken Comedy Album]] <br /> 1999: ''[[2000 Year Old Man]]'' <br /> [[Grammy Award for Best Long Form Music Video|Best Long Form Music Video]] <br /> 2002: ''Recording 'The Producers': A Musical Romp with Mel Brooks'' <br /> [[Grammy Award for Best Musical Show Album|Best Musical Show Album]] <br /> 2002: ''The Producers''}}
+}}
+
+'''Melvin James "Mel" Brooks''' ([[Name at birth|né]] '''Kaminsky''',<ref>Parish, pp. 16–17</ref> born June 28, 1926) is an American [[film director]], [[screenwriter]], [[comedian]], [[actor]], [[Film producer|producer]], [[composer]], and [[songwriter]].
+
+He is best known as a creator of broad film [[farce]]s and comic [[parody|parodies]]. He began his career as a comic and a writer for the early TV variety show ''[[Your Show of Shows]]''. He became well known as part of the comedy duo with [[Carl Reiner]], ''[[The 2000 Year Old Man]]''. In middle age he became one of the most successful film directors of the 1970s, with many of his films being among the top ten money makers of the year that they were released. His best known films include ''[[The Producers (1968 film)|The Producers]]'', ''[[The Twelve Chairs (1970 film)|The Twelve Chairs]]'', ''[[Blazing Saddles]]'', ''[[Young Frankenstein]]'', ''[[Silent Movie]]'', ''[[High Anxiety]]'', ''[[History of the World, Part I]]'', ''[[Spaceballs]]'' and ''[[Robin Hood: Men in Tights]]''. More recently, he had a smash hit on Broadway with the musical adaptation of his first film, ''[[The Producers (musical)|The Producers]]''. He was married to the actress [[Anne Bancroft]] from 1964 until her death in 2005.
+
+In 2001, having previously won an [[Emmy Award|Emmy]], a [[Grammy Award|Grammy]], and an [[Academy Award|Oscar]], he joined a small list of [[List of persons who have won Academy, Emmy, Grammy, and Tony Awards|EGOT winners]] with his [[Tony Award|Tony award]] for ''[[The Producers (musical)|The Producers]]''. He received a [[Kennedy Center Honors|Kennedy Center Honor]] in 2009, the 41st [[AFI Life Achievement Award]] in June 2013, and a [[British Film Institute Fellowship]] in March 2015. Three of his films ranked in the [[American Film Institute]]'s list of the [[AFI's 100 Years... 100 Laughs|top 100 comedy films of all-time]], all of which ranked in the top 20 of the list: ''[[Blazing Saddles]]'' at number 6, ''[[The Producers (1968 film)|The Producers]]'' at number 11, and ''[[Young Frankenstein]]'' at number 13.<ref>{{cite press release |url=http://www.afi.com/100years/laughs.aspx|title=AFI's 100 Years...100 Laughs|date=June 14, 2000 |publisher=[[American Film Institute|AFI]]|accessdate=5 September 2013}}</ref>
+
+==Early life and education==
+Brooks was born '''Melvin James Kaminsky''' on June 28, 1926, in [[Brooklyn, New York]], to James and Kate (née Brookman) Kaminsky.<ref>{{cite web|url=http://www.filmreference.com/film/35/Mel-Brooks.html|title=Mel Brooks profile at|publisher=Filmreference.com|accessdate=November 1, 2012}}</ref> His father's family were [[Jewish community of Danzig|German Jews from the Baltic Sea port of Danzig]] (present-day [[Gdańsk]], Poland); his mother's family were Ukrainian Jews from [[Kiev]].<ref>{{cite web|url=http://www.jewish-theatre.com/visitor/article_display.aspx?articleID=970 |title=Mel Brooks is on a roll. As his hit revival of The Producers comes to London|publisher=Jewish-theatre.com |date= |accessdate=1 November 2012}}</ref> He had three older brothers, Irving, Lenny, and Bernie. His father died of kidney disease at 34 when Brooks was two years old.<ref>{{cite web|url=http://www.brookslyn.com/print/Adelina1980/Adelina1980.php/kidney |title=A Mel Brooks Fan Site :: Print: Adelina Magazine February 1980|publisher=Brookslyn|accessdate=May 4, 2012}}</ref> Brooks has said of his father's death, that "there's an outrage there. I may be angry at God, or at the world, for that. And I'm sure a lot of my comedy is based on anger and hostility. Growing up in Williamsburg, I learned to clothe it in comedy to spare myself problems—like a punch in the face."<ref name="Wakeman, John 1988">Wakeman, John. World Film Directors, Volume 2. The H.W. Wilson Company. 1988, pp. 162-167.</ref>
+
+Brooks was a small, sickly boy who often was bullied and picked on by his classmates.<ref>{{cite web|url=http://www.brookslyn.com/print/Adelina1980/Adelina1980.php|title=A Mel Brooks Fan Site: Print: Adelina Magazine Feb 1980|publisher=Brookslyn|accessdate=May 4, 2012}}</ref> He was taught by [[Buddy Rich]] (who had also grown up in Williamsburg) how to play the drums and started earning money at it when he was fourteen.<ref name="Wakeman, John 1988"/> After attending [[Abraham Lincoln High School (Brooklyn)|Abraham Lincoln High School]] for a year, Brooks graduated from [[Eastern District High School]]<ref>{{cite book|url=http://books.google.com/books?id=KNUp5E3_tTcC&pg=PA114&lpg=PA114&dq=mel+brooks+brooklyn&source=bl&ots=nBLaGdvDJ2&sig=XDz8Sld0BpR2v26YQOHGJPLVUXQ&hl=en&sa=X&ei=8M3EUPjZNM2n0AHdo4HIAg&ved=0CFAQ6AEwBQ#v=onepage&q=mel%20brooks%20brooklyn&f=false|title=Brooklyn: A State of Mind - Michael W. Robbins, Wendy Palitz|publisher=Books.google.com|accessdate=February 17, 2013}}</ref> and then spent a year at [[Brooklyn College]] as a psychology major before being drafted into the army.<ref name="Wakeman, John 1988"/> He attended the [[Army Specialized Training Program]]<ref>{{cite web|url=http://www.vmi.edu/uploadedFiles/Archives/Records/World_War_II_ASTP/ASTPRoster.pdf|title=ASTP Program and Roster, World War II, VMI.|format=PDF|accessdate=May 4, 2012}}</ref> conducted at the [[Virginia Military Institute]]<ref>{{cite web|author=Heard on Weekend Edition Saturday|url=http://www.npr.org/templates/transcript/transcript.php?storyId=90801438|title=Mel Brooks Blazes Wacky Trail |publisher=NPR|date=2008-05-24|accessdate=May 4, 2012}}</ref> (although not actually as a VMI cadet), and served in the [[United States Army]] as a [[Corporal#United States Army|corporal]] in the 1104 Engineer Combat Battalion, [[78th Infantry Division (United States)|78th Infantry Division]] defusing land mines<ref>{{cite web|last=Enk|first=Bryan|title=Real Life Tough Guys|url=http://movies.yahoo.com/photos/real-life-tough-guys-1374864278-slideshow/afi-life-achievement-award-a-tribute-to-mel-brooks-awards-presentation-photo-1374864255359.html|publisher=Yahoo.com|accessdate=July 27, 2013}}</ref> during [[World War II]].
+
+==Career==
+
+===Early career and ''Your Show of Shows''===
+After the war, Brooks started working in various [[Borscht Belt]] resorts and nightclubs in the [[Catskill Mountains]] as a drummer and pianist. Around this time he changed his professional name to "Mel Brooks"<ref>Jimmy Kimmel Live 5-3-2013 Mel Brooks interview</ref> (Brooks is from his mother's maiden name Brookman) after being confused with the well-known Borscht Belt trumpet player Max Kaminsky.<ref name="Wakeman, John 1988"/> After a regular comic at one of the nightclubs was too sick to perform one night, Brooks started working as a stand-up comic, telling jokes and doing movie-star impressions. He also began acting in summer stock in Red Bank, New Jersey and did some radio work.<ref name="Wakeman, John 1988"/> He eventually worked his way up to the comically aggressive job of [[Tummler]] (master entertainer) at [[Grossinger's Catskill Resort Hotel|Grossinger's]], one of the Borscht Belt's most famous resorts.<ref name="Wakeman, John 1988"/><ref>{{cite web|url=http://www.filmscoremonthly.com/articles/2001/15_Aug---Lost_Issue_Mel_Brooks_Interview.asp |title=8/15/01: Lost Issue Mel Brooks Interview 1997 |publisher=Filmscoremonthly.com |date= |accessdate=4 May 2012}}</ref>
+
+Brooks found more rewarding work behind the scenes, becoming a comedy writer for television. In 1949 his friend [[Sid Caesar]] hired Brooks to write jokes for the NBC series ''[[The Admiral Broadway Revue]]'', paying him $50 a week. In 1950, Caesar created the revolutionary variety comedy series ''[[Your Show of Shows]]'' and hired Brooks as a writer along with [[Carl Reiner]], [[Neil Simon]], [[Danny Simon]], and head writer [[Mel Tolkin]].<ref name="Wakeman, John 1988"/> The show was an immediate hit and has been influential to all variety and sketch-comedy TV shows since. [[Carl Reiner]], as creator of ''[[The Dick Van Dyke Show]]'', based [[Morey Amsterdam]]'s character Buddy Sorell on Brooks. Likewise the 1982 film ''[[My Favorite Year]]'' is loosely based on Brooks's experiences as a writer on the show and an encounter with aging Hollywood actor [[Errol Flynn]]. Neil Simon's 1993 play ''[[Laughter on the 23rd Floor]]'' is also loosely based on the production of the show, and the character Ira Stone is based on Brooks. ''Your Show of Shows'' would end in 1954 when performer [[Imogene Coca]] left to host her own show. Caesar then created ''[[Caesar's Hour]]'' with most of the same cast and writers (including Brooks and adding [[Larry Gelbart]]). ''Caesar's Hour'' ran from 1954 until 1957. In 1957, Brooks wrote the book for his first Broadway musical ''[[Shinbone Alley]]''. {{citation needed|date=September 2014}}
+
+===''The 2000 Year Old Man'' and ''Get Smart''===
+
+Brooks and co-writer Reiner had become fast friends and began to casually improvise comedy routines when they weren't working. Reiner would play the straight man interviewer who would set Brooks up as anything from a Tibetan Monk to an astronaut. As Reiner explained, "In the evening we'd go to a party and I'd pick a character for him to play. I never told him what it was going to be. "<ref name="Wakeman, John 1988"/> On one of these occasions Reiner's suggestion was a [[2000 Year Old Man]] who had witnessed the crucifixion of Jesus Christ (who "came in the store but never bought anything"), had been married several hundred times and had "over forty-two thousand children, and not one comes to visit me." At first Brooks and Reiner would only perform the routine for friends, but by the late 1950s it had gained a cult status in New York City. [[Kenneth Tynan]] saw the [[comedy duo]] perform at a party in 1959 and wrote that Brooks "was the most original comic improvisor I had ever seen."<ref name="Wakeman, John 1988"/>
+
+In 1960, Brooks moved from New York to Hollywood. He and Reiner began performing the 2000 Year Old Man act on [[The Steve Allen Show]]. Their performances led to the release of the comedy album ''2000 Years with Carl Reiner and Mel Brooks'' that sold over a million copies in 1961.<ref name="Wakeman, John 1988"/> They eventually expanded their routine with two more albums in 1961 and 1962, a revival in 1973, a 1975 animated TV special and a reunion album in 1998.
+
+Brooks adapted the 2000 Year Old Man character to create the 2500 Year Old Brewmaster for [[Ballantine Beer]] in the 1960s. Interviewed by [[Dick Cavett]] in a series of ads, the Brewmaster (in a German accent, as opposed to the 2000 Year Old Man's Yiddish accent) said he was inside the original Trojan horse and "could've used a six-pack of fresh air. "<ref>{{cite web|url=http://ysos.sammigirl.com/interviews/playboy1966.html |title=Mel Brooks Interviewed in Playboy, 1966 |publisher=Ysos.sammigirl.com |date= |accessdate=1 November 2012}}</ref>
+
+In 1962, Brooks wrote the Broadway musical ''[[All American (musical)|All American]]''. Brooks wrote the play with lyrics by [[Lee Adams]], and music by [[Charles Strouse]]. The show starred [[Ray Bolger]] as a southern science professor at a large university who uses the principles of engineering on the college's football team and the team begins to win games. The show was directed by [[Joshua Logan]], whose script doctored the second act and added a gay subtext to the plot. The show ran for 80 performances and received two [[Tony Award]] nominations.
+
+In 1963, Brooks was involved in the animated short film ''[[The Critic (cartoon)|The Critic]]'', a satire of arty, esoteric cinema, conceived by Brooks and directed by [[Ernest Pintoff]]. Brooks supplied running commentary as the baffled moviegoer trying to make sense of the obscure visuals. The short film won the [[Academy Award for Animated Short Film]].
+
+In 1965, Brooks teamed up with comedy writer [[Buck Henry]] to create a comedic TV show about a bumbling [[James Bond]] inspired spy. Brooks explains, "I was sick of looking at all those nice sensible situation comedies. They were such distortions of life... I wanted to do a crazy, unreal [[comic-strip]] kind of thing about something besides a family. No one had ever done a show about an idiot before. I decided to be the first."<ref name="time1965">{{cite news|title=Smart Money|url=http://www.time.com/time/printout/0,8816,834525,00.html|publisher=Time|date=October 15, 1965|accessdate=30 August 2009}}</ref> The show that Brooks and Henry created was ''[[Get Smart]]'', starring [[Don Adams]] as Maxwell Smart, Agent 86. This series ran from 1965 until 1970, although Brooks was not involved with its production after the pilot episode.<ref>[http://www.imdb.com/title/tt0058805/fullcredits IMDb]</ref> ''Get Smart'' was highly rated for most of its production and won seven [[Emmy Awards]],<ref>{{cite web|url=http://www.emmys.com/celebrities/mel-brooks|title=Mel Brooks Emmy Nominated|publisher=Emmys.com|accessdate=1 November 2012}}</ref> including Outstanding Comedy Series in 1968 and 1969.
+
+===Early career as a film director===
+For several years Brooks had been toying with a bizarre and unconventional idea about a musical comedy of [[Adolf Hitler]]. Brooks explored the idea as a novel and a play before finally writing a script.<ref name="Wakeman, John 1988"/> Eventually he was able to find two producers to fund the show, [[Joseph E. Levine]] and [[Sidney Glazier]], and made his first feature film, ''[[The Producers (1968 film)|The Producers]]'', in 1968. The film starred [[Zero Mostel]], [[Gene Wilder]], [[Dick Shawn]], [[Kenneth Mars]], [[Christopher Hewett]], [[Andréas Voutsinas]] and [[Lee Meredith]] with music by [[John Morris (composer)|John Morris]]. {{citation needed|date=September 2014}}
+
+''The Producers'' was so brazen in its satire that major studios would not touch it, nor would many exhibitors. Brooks finally found an independent distributor who released it as an art film, a specialized attraction. In 1968 Brooks received an Oscar for [[Best Original Screenplay]] for the film beating such writers as [[Stanley Kubrick]] and [[John Cassavetes]]. ''The Producers'' became a smash underground hit, first on the nationwide [[college circuit]], then in revivals and on home video. Brooks later turned it into a [[The Producers (musical)|musical]], which became hugely successful on Broadway receiving an unprecedented twelve Tony awards.
+
+With the moderate financial success of the film ''The Producers'', Glazier financed Brooks's next film in 1970, ''[[The Twelve Chairs (1970 film)|The Twelve Chairs]]''. Loosely based on a Russian 1928 novel ''[[The Twelve Chairs]]'' by [[Ilf and Petrov]] about greedy materialism in post-Revolutionary Russia, the film stars [[Ron Moody]], [[Frank Langella]] and [[Dom DeLuise]] as three men individually searching for a fortune in diamonds hidden in a set of twelve antique chairs. Brooks himself makes a cameo appearance as an alcoholic ex-serf who "yearns for the regular beatings of yesteryear." The film was shot in Yugoslavia with a budget of $1.5 million. The film received poor reviews and was not financially successful.<ref name="Wakeman, John 1988"/>
+
+===Success as a Hollywood director===
+
+Brooks then wrote an adaptation of [[Oliver Goldsmith]]'s ''[[She Stoops to Conquer]]'', but was unable to sell the idea to any studio and believed that his career was over. In 1972 Brooks met agent [[David Begelman]] who helped him set up a deal with [[Warner Brothers]] to hire Brooks (as well as [[Richard Pryor]], [[Andrew Bergman]], Norman Steinberg and Al Uger) as a script doctor for an unproduced script called ''Tex-X''. Eventually Brooks was hired as director for what would become ''[[Blazing Saddles]]'', his third film.<ref name="Wakeman, John 1988"/>
+
+''Blazing Saddles'' starred [[Cleavon Little]], [[Gene Wilder]], [[Harvey Korman]], [[Slim Pickens]], [[Madeline Kahn]], [[Alex Karras]] and Brooks himself with cameos by [[Dom DeLuise]] and [[Count Basie]]. The film had music by Brooks and [[John Morris (composer)|John Morris]] and received a modest budget of $2.6 million. This film is a satire on the [[Western film]] genre and references older films such as ''[[Destry Rides Again]]'', ''[[High Noon]]'', ''[[Once Upon a Time in the West]]'' and ''[[The Treasure of the Sierra Madre]]'' as well as a surreal scene towards the end of the film referencing the extravagant musicals of [[Busby Berkeley]].
+
+Upon its release, ''Blazing Saddles'' was the second highest US grossing film of 1974, earning $119.5 million worldwide. Despite mixed reviews, the film was a success with younger audiences. It was nominated for three [[Academy Awards]]: [[Academy Award for Best Actress in a Supporting Role|Best Actress in a Supporting Role]] for [[Madeline Kahn]], [[Academy Award for Film Editing|Best Film Editing]], and [[Academy Award for Best Original Song|Best Music, Original Song]]. The film won the [[Writers Guild of America Award]] for "[[Writers Guild of America Award for Best Original Screenplay|Best Comedy Written Directly for the Screen]]"<ref>[http://www.imdb.com/title/tt0071230/awards Awards for Blazing Saddles (1974)]</ref> and in 2006 it was deemed "culturally, historically or aesthetically significant" by the [[Library of Congress]] and was selected for preservation in the [[National Film Registry]].<ref>{{IMDb title|71230|section=awards|Blazing Saddles}}</ref> Brooks has said that the film "has to do with love more than anything else. I mean when that black guy rides into that Old Western town and even a little old lady says 'Up yours nigger!', you know that his heart is broken. So it's really the story of that heart being mended."<ref name="Wakeman, John 1988"/>
+
+When [[Gene Wilder]] replaced [[Gig Young]] as the Waco Kid, he did so only if Brooks agreed that his next film would be an idea that Wilder had been working on: a spoof of the old [[Universal Monsters|Universal]] ''[[Frankenstein (1931 film)|Frankenstein]]'' films.<ref>{{cite web
+| url = http://www.imdb.com/title/tt0071230/trivia
+| title = Blazing Saddles (1974) - Trivia - IMDb
+| publisher = IMDb.com, Inc.
+| accessdate=21 March 2012
+}}
+</ref> After the filming of ''Blazing Saddles'' was completed, Wilder and Brooks began writing the script for ''[[Young Frankenstein]]'' and shot the film in the spring of 1974. It starred Wilder, [[Marty Feldman]], [[Peter Boyle]], [[Teri Garr]], [[Madeline Kahn]], [[Cloris Leachman]] and [[Kenneth Mars]] with [[Gene Hackman]] in a memorable cameo role.  Brooks likewise had a cameo role as the father of the little girl who befriended the monster. Composer [[John Morris (composer)|John Morris]] again provided the music score and [[Universal Monsters]] film special effects veteran [[Kenneth Strickfaden]] worked on the film.
+
+''Young Frankenstein'' was the third highest grossing film domestically of 1974, just behind ''Blazing Saddles''. It earned $86 million worldwide and received two [[Academy Award]] nominations: [[Academy Award for Writing Adapted Screenplay]] and [[Academy Award for Best Sound]]. It received some of the best reviews of Brooks's career and even critic [[Pauline Kael]] liked the film, saying that "Brooks makes a leap up as a director because, although the comedy doesn't build, he carries the story through...Brooks even has a satisfying windup, which makes this just about the only comedy of recent years that doesn't collapse."<ref name="Wakeman, John 1988"/>
+
+In 1975, at the height of his movie career, Brooks tried TV again with ''[[When Things Were Rotten]]'', a [[Robin Hood]] parody that lasted only 13 episodes. Nearly twenty years later, in response to the 1991 hit film ''[[Robin Hood: Prince of Thieves]]'', Brooks mounted another Robin Hood parody in 1993 with ''[[Robin Hood: Men in Tights]]''. Brooks's film resurrected several pieces of dialogue from his TV series, as well as from earlier Brooks films.
+
+In 1976, Brooks followed up his two hit films with an audacious idea: the first feature-length silent comedy in four decades. ''[[Silent Movie]]'' was written by Brooks and [[Ron Clark (writer)|Ron Clark]], starring Brooks in his first leading role, [[Dom DeLuise]], [[Marty Feldman]], [[Sid Caesar]], [[Bernadette Peters]] and, in cameo roles playing themselves: [[Paul Newman]], [[Burt Reynolds]], [[James Caan]], [[Liza Minnelli]], [[Anne Bancroft]] and ironically, [[Marcel Marceau]], who uttered the film's only word of audible dialogue: "Non!"
+
+Although not as successful as his previous two films, ''Silent Movie'' was a hit and grossed $36 million. Later that year Brooks was named number 5 on a list of the Top Ten Box Office Stars.<ref name="Wakeman, John 1988"/>
+
+In 1977, Brooks made a parody of the films of [[Alfred Hitchcock]] in ''[[High Anxiety]]''. The film was written by Brooks, Ron Clark, [[Rudy De Luca]] and [[Barry Levinson]] and was the first movie produced by Brooks himself. It starred Brooks, [[Madeline Kahn]], [[Cloris Leachman]], [[Harvey Korman]], [[Ron Carey (actor)|Ron Carey]], [[Howard Morris]] and [[Dick Van Patten]]. The film satirizes such Hitchcock classic films as ''[[Vertigo (film)|Vertigo]]'', ''[[Spellbound (1945 film)|Spellbound]]'', ''[[Psycho (1960 film)|Psycho]]'', ''[[The Birds (film)|The Birds]]'', ''[[North by Northwest]]'', ''[[Dial M for Murder]]'' and ''[[Suspicion (1941 film)|Suspicion]]''. Brooks stars as Professor Richard H. (for Harpo) Thorndyke, a [[Nobel Prize]] winning psychologist who also happens to suffer from "[[acrophobia|high anxiety]]".<ref name="Wakeman, John 1988"/> The film was another modest hit for Brooks, earning $31 million and received mixed reviews. {{citation needed|date=September 2014}}
+
+===Later film career===
+[[File:Mel Brooks.jpg|thumb|Brooks in c. February 1984]]
+By 1980, ''[[Sneak Previews|Siskel and Ebert]]'' called Mel Brooks and [[Woody Allen]] "the two most successful comedy directors in the world today ... America's two funniest filmmakers."<ref name="siskelebert">{{cite episode|title=Take 2: Who's Funnier: Mel Brooks or Woody Allen?|series=Sneak Previews|credits=Gene Siskel and Roger Ebert|network=PBS|city=Chicago, Illinois|airdate=1980-05-01|season=4}}</ref> That year, Brooks produced the dramatic film ''[[The Elephant Man (film)|The Elephant Man]]'' (directed by [[David Lynch]]). Knowing that anyone seeing a poster reading "Mel Brooks presents ''The Elephant Man''" would expect a comedy, he set up the company [[List of Brooksfilms productions|Brooksfilms]]. Brooksfilms has since produced a number of non-comedy films, including [[David Cronenberg]]'s ''[[The Fly (1986 film)|The Fly]]'', ''[[Frances (film)|Frances]]'', and ''[[84 Charing Cross Road (film)|84 Charing Cross Road]]'', starring [[Anthony Hopkins]] and [[Anne Bancroft]], along with comedies, including [[Richard Benjamin]]'s ''[[My Favorite Year]]'', which was partially based on Mel Brooks's real life. Brooks sought to purchase the rights to ''[[84 Charing Cross Road (film)|84 Charing Cross Road]]'' for his wife, Anne Bancroft, for many years. He successfully obtained the rights to the movie and presented them to her as an anniversary gift. {{citation needed|date=September 2014}}
+
+In 1981, Brooks joked that the only genres that he had not spoofed were historical epics and Biblical spectacles.<ref name="Wakeman, John 1988"/> ''[[History of the World Part I]]'' was a tongue-in-cheek look at human culture from the [[Stone Age|Dawn of Man]] to the [[French Revolution]]. The film was written, produced and directed by Brooks with narration by [[Orson Welles]]. This film was another modest financial hit, earning $31 million. It received mixed critical reviews. Critic Pauline Kael, who for years had been critical of Brooks, said "Either you get stuck thinking about the bad taste or you let yourself laugh at the obscenity in the humor as you do Bunuel's perverse dirty jokes. "<ref name="Wakeman, John 1988"/> As part of the film's soundtrack, Brooks, then aged 55, recorded a rap entitled ''"It's Good to Be the King"'', a parody of [[Louis XVI]] and the [[French Revolution]] co-written by [[Pete Wingfield]]. It was released as a single and became a surprise dance hit in the United States. {{citation needed|date=September 2014}}
+
+In 1983 Brooks produced and starred in (but did not write or direct) a remake of the classic 1942 [[Ernst Lubitsch]] [[To Be or Not to Be (1942 film)|film]]. ''[[To Be or Not to Be (1983 film)|To Be or Not to Be]]'' was directed by [[Alan Johnson (choreographer)]] and starred Brooks, [[Anne Bancroft]], [[Charles Durning]], [[Tim Matheson]], [[Jose Ferrer]] and [[Christopher Lloyd]]. The film was not a financial success, earning only $13 million, but garnered international publicity by featuring a controversial song on its soundtrack - "[[To Be or Not to Be (The Hitler Rap)|To Be Or Not To Be" (The Hitler Rap)]] - satirising German society in the 1940s with Brooks playing Hitler. Borrowing heavily musically from ''"It's Good to Be the King,"'' it was still an unlikely hit, peaking at #12 on the UK Singles Chart in February 1984 and #3 on the Australian Singles Chart (Kent Music Report) that same year. {{citation needed|date=September 2014}}
+
+The second movie Brooks directed in the 80s came in 1987 in the form of ''[[Spaceballs]]'', a parody of [[science fiction]], mainly ''[[Star Wars]]''. The film starred [[Bill Pullman]], [[John Candy]], [[Rick Moranis]], [[Daphne Zuniga]], [[Dick Van Patten]], [[Joan Rivers]], [[Dom DeLuise]] and Brooks himself. In 1989, Brooks (with co-executive producer [[Alan Spencer]]) made another attempt at television success with the sitcom ''[[The Nutt House]]'', which featured Brooks regulars Harvey Korman and Cloris Leachman and was originally broadcast on NBC. But the network only aired five of the eleven episodes produced before canceling the series. In the 1990s, Brooks directed ''[[Life Stinks]]'' (1991), ''[[Robin Hood: Men in Tights]]'' (1993), and ''[[Dracula: Dead and Loving It]]'' (1995). [[People Magazine]] suggested that "anyone in a mood for a hearty laugh couldn't do better than ''[[Robin Hood: Men in Tights]]''<ref>{{cite web|url=http://www.people.com/people/archive/article/0,,20105999,00.html|title=Picks and Pans Review: Robin Hood: Men in Tights|publisher=}}</ref> which gave fans a classic parody of [[Robin Hood]].
+
+Like Brooks's other films, the film is filled with classic one-liners, and even the occasional breaking of the fourth wall. ''[[Robin Hood: Men in Tights]]'' was Brooks's second time exploring the life of the infamous Thief of Hearts, the first, as mentioned above, having been with his 1975 TV show, ''[[When Things Were Rotten]].'' ''Life Stinks'' was a financial and critical failure, but is notable as being the only film that Brooks directed that is neither a parody nor a film about other films or theater. (''The Twelve Chairs'' was actually a parody of the original novel.) In 2000s, Brooks worked on an [[animated series]] [[sequel]] to ''Spaceballs'' called ''[[Spaceballs: The Animated Series]],'' which premiered on September 21, 2008 on [[G4 TV]]. Brooks has also supplied vocal roles for animation. He voiced Bigweld the master inventor, in the 2005 animated film ''[[Robots (2005 film)|Robots]]'', and had a cameo appearance as [[Albert Einstein]], in the 2014 animated film ''[[Mr. Peabody & Sherman]]''.<ref>http://www.imdb.com/title/tt0864835/fullcredits?ref_=tt_cl_sm#cast</ref> He will return to voice Dracula's father, Vlad, in 2015's ''[[Hotel Transylvania 2]]''.<ref>{{cite web|url=http://www.usatoday.com/story/life/movies/2014/11/25/mel-brooks-hotel-transylvania-2-movie-sneak-peek/19193423/|title=Mel Brooks checks in for 'Hotel Transylvania 2'|author=Brian Truitt, USA TODAY|date=November 25, 2014|work=USA TODAY}}</ref>
+
+===Musicals===
+[[File:Mel Brooks Anne Bancroft 1991.jpg|thumb|left|Brooks with wife [[Anne Bancroft]] at the [[1991 Cannes Film Festival]].]]
+One of his most recent successes has been the transference of his film ''[[The Producers (1968 film)|The Producers]]'' to the [[Broadway theatre|Broadway]] stage. The show broke the Tony record with 12 wins, a record that had previously been held for 37 years by ''[[Hello, Dolly! (musical)|Hello, Dolly!]]'' at 10 wins. Such success translated to a [[The Producers (2005 film)|big-screen version]] of the Broadway adaptation/remake with actors [[Matthew Broderick]] and [[Nathan Lane]] reprising their stage roles, in addition to new cast members [[Uma Thurman]] and [[Will Ferrell]] in 2005. In early April 2006, Brooks began [[musical composition|composing]] the score to a Broadway [[Young Frankenstein (musical)|musical adaptation of ''Young Frankenstein'']], which he says is "perhaps the best movie [he] ever made. " The world premiere was performed at Seattle's Paramount Theater, between August 7, 2007, and September 1, 2007 after which it opened on Broadway at the former [[Foxwoods Theater]] (then the Hilton Theater), New York, on October 11, 2007. It earned mixed reviews from the critics.
+
+Brooks joked about the concept of a musical adaptation of ''Blazing Saddles'' in the final number in ''Young Frankenstein'', in which the full company sings, "next year, ''Blazing Saddles''!" In 2010, Mel Brooks confirmed this, saying that the musical could be finished within a year. No creative team or plan has been announced.<ref>{{cite web|url=http://www.playbill.com/news/article/137884-Back-on-the-Horse-Mel-Brooks-Penning-Songs-for-Blazing-Saddles- |title=Back on the Horse: Mel Brooks Penning Songs for Blazing Saddles Musical |publisher=Playbill.com |date=2010-03-16 |accessdate=1 November 2012}}</ref> He confirmed this again in 2011,{{citation needed|date=June 2012}} on the HBO special "Mel Brooks and [[Dick Cavett]] Together Again".
+
+==Legacy==
+[[File:MelBrooksStandApr10.jpg|thumb|right|Brooks in April 2010]]
+
+Brooks is one of the [[List of persons who have won Academy, Emmy, Grammy, and Tony Awards|few artists]] who have received an [[Academy Awards|Oscar]], an [[Emmy Award|Emmy]], a [[Tony Award|Tony]], and a [[Grammy Award|Grammy]]. He was awarded his first Grammy for Best Spoken Comedy Album in 1999 for his recording of ''The 2000 Year Old Man in the Year 2000'' with Carl Reiner. His two other Grammys came in 2002 for Best Musical Show Album for the soundtrack of ''The Producers'' and for Best Long Form Music Video for the DVD "Recording the Producers - A Musical Romp with Mel Brooks". He won his first of four Emmy awards in 1967 for Outstanding Writing Achievement in Variety for a [[Sid Caesar]] special and went on to win three consecutive Emmys in 1997, 1998, and 1999 for Outstanding Guest Actor in a Comedy Series for his role of Uncle Phil on ''[[Mad About You]]''. Brooks won his Academy Award for Original Screenplay in 1968 for ''The Producers''. He won his three Tony awards in 2001 for his work on the musical, ''The Producers'' for Best Musical, Best Original Musical Score, and Best Book of a Musical. Additionally, he won a [[Hugo Award]] and a [[Nebula Award]] for ''Young Frankenstein''. In a 2005 poll to find ''[[The Comedian's Comedian]]'', he was voted #50 of the top 50 comedy acts ever by fellow comedians and comedy insiders. Three of Brooks's films are on the [[American Film Institute]]'s list of [[AFI's 100 Years... 100 Laughs|funniest American films]]: ''Blazing Saddles'' (#6), ''The Producers'' (#11), and ''Young Frankenstein'' (#13).
+
+Brooks developed a repertory company of sorts for his film work: performers with three or more of Brooks's films (''The Producers, The Twelve Chairs, Blazing Saddles, Young Frankenstein, Silent Movie, High Anxiety, History of the World: Part I, Spaceballs, Life Stinks, Robin Hood: Men in Tights, and Dracula: Dead and Loving It'') to their credit include [[Gene Wilder]], [[Dom DeLuise]], [[Madeline Kahn]], [[Harvey Korman]], [[Cloris Leachman]], [[Ron Carey (actor)|Ron Carey]], [[Dick Van Patten]] and [[Andréas Voutsinas]]. [[Dom DeLuise]] appeared in six of Brooks's 11 original films, the only person with more appearances being Brooks himself.
+
+Brooks and his wife [[Anne Bancroft]] acted together in ''Silent Movie'' and ''To Be or Not to Be'' and Bancroft also had a bit part in the 1995 film ''[[Dracula: Dead and Loving It]]''. Years later, the couple appeared as themselves in the fourth season finale of ''[[Curb Your Enthusiasm]]'', spoofing the finale of ''The Producers''. It is reported that Bancroft encouraged Brooks (after an idea suggested by David Geffen) to take ''The Producers'' to Broadway, where it became an enormous success.
+
+In interviews broadcast on WABC radio, Brooks has discussed with NYC radio personality [[Mark Simone]] the possibilities of turning other works from his creative oeuvre (such as the movie ''Blazing Saddles'') into future musical productions. Specifically, in a conversation airing March 1, 2008, he and Simone speculated on what show tunes might be incorporated into a theatrical adaptation of the ''[[Get Smart]]'' property.
+
+On December 5, 2009, Brooks was one of five recipients of the 2009 [[Kennedy Center]] Honors at the John F. Kennedy Center for the Performing Arts in Washington, D. C.<ref>{{cite news |url=http://www.washingtonpost.com/wp-dyn/content/article/2009/12/04/AR2009120400074.html |title=Mel Brooks laughs his way to Kennedy Center honor |work=[[The Washington Post]] |date=2009-12-06 |accessdate=1 November 2012}}</ref>
+
+On April 23, 2010, Brooks was awarded the 2,406th star on the [[Hollywood Walk of Fame]].<ref>{{cite web|url=http://www.msnbc.msn.com/id/36744614/ns/entertainment-celebrities|title=Mel Brooks gets Hollywood Walk of Fame star|publisher=MSN}}</ref>
+
+On June 28, 2011, Brooks celebrated his 85th Birthday. His Top 5 Movies of All-Time are: ''The Producers'', ''Young Frankenstein'', ''Spaceballs'', ''Blazing Saddles'' and ''History of the World: Part 1''.<ref>{{cite web|url=http://kearth101.cbslocal.com/2011/06/28/celebrating-85-years-of-funny-top-5-mel-brooks-comedies |title=
+Celebrating 85 Years Of Funny: Top 5 Mel Brooks Comedies | publisher=kearth101.cbslocal.com | date=2011-06-28 |accessdate=28 June 2011}}</ref>
+
+The [[American Film Institute]] presented Brooks with its highest tribute, the [[AFI Life Achievement Award]], in June 2013.<ref>{{cite news|url=http://bigstory.ap.org/article/mel-brooks-receive-afi-life-achievement-honor|last=Lemire|first=Christy|authorlink=Christy Lemire|title=Mel Brooks to receive AFI life achievement honor|date=5 October 2012 |agency=[[Associated Press|AP]]|accessdate=5 September 2013}}</ref>
+
+In 2014, Brooks was honored in a handprint and footprint ceremony at [[TCL Chinese Theatre]].  His concrete handprints include a six fingered left hand as he wore a prosthetic finger when making his prints.<ref>{{cite news|url=http://www.eonline.com/news/577576/mel-brooks-has-11-fingers-beloved-actor-leaves-quite-the-mark-during-hollywood-cement-ceremony|last=Vulpo|first=Mike|title=Mel Brooks Has 11 Fingers! Beloved Actor Makes an Impression During Hollywood Cement Ceremony|date=September 9, 2014|agency=[[E!]]|accessdate=10 September 2014}}</ref>
+
+On March 20, 2015, Brooks was awarded a [[British Film Institute Fellowship]] from the [[British Film Institute]]. <ref>http://www.bbc.com/news/entertainment-arts-31982210</ref>
+
+==Personal life==
+[[File:MaxMelBrooksApr10.jpg|thumb|right|Mel with son [[Max Brooks]] in April 2010]]
+Brooks was married to Florence Baum from 1951 to 1961; that union ended in divorce. Mel and Florence had three children, Stephanie, Nicky, and Eddie.<ref>{{cite web|url=http://marriage.about.com/od/entertainmen1/p/bancroftbrooks.htm|title=Anne Bancroft and Mel Brooks Marriage|publisher=about.com|accessdate=May 16, 2013}}</ref> Brooks was married to stage, film and television actress Anne Bancroft from 1964 until her death from uterine cancer on June 6, 2005. They met at a rehearsal for the ''[[Perry Como]] [[Variety Show]]'' in 1961 and married three years later, August 5, at the [[Manhattan Marriage Bureau]]. Their son, [[Max Brooks]], was born in 1972.
+
+In 2010, Brooks, a widower, credited Bancroft as being the guiding force behind his involvement in developing ''[[The Producers (musical)|The Producers]]'' and ''[[Young Frankenstein (musical)|Young Frankenstein]]'' for the musical theater, citing an early meeting as "From that day, until her death on June 5, 2005, we were glued together."<ref>{{cite news|url=http://www.huffingtonpost.com/2010/02/03/mel-brooks-remembers-love_n_448180.html|title=Mel Brooks Remembers Love Anne Bancroft: 'We Were Glued Together' |first=John|last=Carucci|date=February 3, 2010 |agency=[[Associated Press|AP]] |work=[[The Huffington Post]] |accessdate=September 5, 2013}}</ref>
+
+Regarding religion, Brooks has stated "I'm rather secular. I'm basically Jewish. But I think I'm Jewish not because of the Jewish religion at all."<ref>{{cite journal |url=http://www.mensjournal.com/magazine/life-lessons-from-mel-brooks-20130514 |title=Mel Brooks Interview on Money, Women, Jokes, and Regret |last=Woods |first=Sean |work=[[Men's Journal]] |date=June 2013 |accessdate=5 September 2013}}</ref>
+
+==Filmography==
+{{main|List of Mel Brooks films}}
+
+===Film===
+{| class="wikitable sortable"
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 1954
+| ''[[New Faces (film)|New Faces]]''
+| {{N/A}}
+| Writer
+|-
+| 1963
+| ''[[The Critic (cartoon)|The Critic]]'' 
+| Narrator (voice)
+| Short film
+|-
+| 1968
+| ''[[The Producers (1968 film)|The Producers]]''
+| Singer in 'Springtime for Hitler' (voice)
+| Also director and writer
+|-
+| 1970
+| ''[[The Twelve Chairs (1970 film)|The Twelve Chairs]]''
+| Tikon
+| Also director and writer
+|-
+| 1974
+| ''[[Blazing Saddles]]''
+| Governor William J. Lepetomane, Indian Chief
+| Also director and writer
+|-
+| 1974
+| ''[[Free to Be... You and Me]]''
+| Baby Boy (voice)
+| TV movie
+|-
+| 1974
+| ''[[Young Frankenstein]]''
+| [[Werewolf]], Cat Hit by Dart, [[Victor Frankenstein]] (voice)
+| Also director and writer
+|-
+| 1975
+| ''[[2000 Year Old Man|The 2000 Year Old Man]]''
+| 2000 Year Old Man (voice)
+| TV movie
+|-
+| 1975
+| ''[[The Adventure of Sherlock Holmes' Smarter Brother]]''
+| Bruner (voice)
+| Uncredited
+|-
+| 1976
+| ''[[Silent Movie]]''
+| Mel Funn
+| Also director and writer
+|-
+| 1977
+| ''[[High Anxiety]]'' 
+| Richard H. Thorndyke
+| Also director, producer, writer
+|-
+| 1979
+| ''[[The Muppet Movie]]''
+| Professor Max Krassman
+|
+|-
+| 1981
+| ''[[History of the World, Part I]]''
+| [[Moses]], Comicus, [[Tomas de Torquemada]], [[Louis XVI of France]], Jacques ''le Garçon de Pisse''
+| Also director, producer, writer
+|-
+| 1983
+| ''[[To Be or Not to Be (1983 film)|To Be or Not to Be]]''
+| Dr. Frederick Bronski
+| Also producer
+|-
+| 1987
+| ''[[Spaceballs]]''
+| President Skroob, Yogurt
+| Also director, producer, writer
+|-
+| 1990
+| ''[[Look Who's Talking Too]]''
+| Mr. Toilet Man (voice)
+|
+|-
+| 1991
+| ''[[Life Stinks]]''
+| Goddard Bolt
+| Also director, producer, writer
+|-
+| 1992
+| ''Mickey's Audition''
+| Movie director
+| Short film
+|-
+| 1993
+| ''[[Robin Hood: Men in Tights]]''
+| Rabbi Tuckman
+| Also director, producer, writer
+|-
+| 1994
+| ''[[The Silence of the Hams]]''
+| Checkout Guest
+| Uncredited
+|-
+| 1994
+| ''[[The Little Rascals (film)|The Little Rascals]]''
+| Mr. Welling
+|
+|-
+| 1995
+| ''[[Dracula: Dead and Loving It]]''
+| Dr. [[Abraham Van Helsing]]
+| Also director, producer, writer
+|-
+| 1998
+| ''[[The Prince of Egypt]]''
+| Additional voices
+| Uncredited
+|-
+| 1999
+| ''[[Screw Loose]]''
+| Jake Gordon
+| 
+|-
+| 2000
+| ''Sex, Lies and Video Violence''
+| Stressed old man
+| 
+|-
+| 2002
+| ''[[It's a Very Merry Muppet Christmas Movie]]''
+| Joe Snow (voice)
+| TV movie
+|-
+| 2005
+| ''[[Robots (2005 film)|Robots]]''
+| Bigweld (voice)
+|
+|-
+| 2005
+| ''[[The Producers (2005 film)|The Producers]]''
+| Hilda the Pigeon, Tom the Cat (voice) / Himself
+| Also producer and writer
+|-
+| 2008
+| ''[[Get Smart (film)|Get Smart]]''
+| {{N/A}}
+| Consultant
+|-
+| 2010
+| ''Ruby's Studio: The Feelings Show''
+| Sally Simon Simmons Narrator (voice)
+| 
+|-
+| 2014
+| ''[[Mr. Peabody & Sherman]]''
+| [[Albert Einstein]] (voice)
+|
+|-
+| 2015
+| ''[[Hotel Transylvania 2]]''
+| [[Vlad]] (voice)
+| ''Post-production''
+|}
+
+===Television===
+{| class="wikitable sortable"
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 1954–57
+| ''[[Caesar's Hour]]''
+| {{N/A}}
+| 5 episodes
+|-
+| 1961
+| ''The New Steve Allen Show''
+| 2000 Year Old Man
+| 2 episodes
+|-
+| 1965–70
+| ''[[Get Smart]]''
+| {{N/A}}
+| 138 episodes; also co-creator, executive producer, writer
+|-
+| 1967
+| ''The Sid Caesar, Imogene Coca, Carl Reiner, Howard Morris Special''
+| Himself
+| Special
+|-
+| 1971–77
+| ''[[The Electric Company]]''
+| Blond-Haired Cartoon Man (voice)
+| 780 episodes
+|-
+| 1975
+| ''[[When Things Were Rotten]]''
+| {{N/A}}
+| 13 episodes; also co-creator, executive producer, writer
+|-
+| 1983
+| ''An Audience with Mel Brooks''
+| Himself
+| Special
+|-
+| 1989
+| ''[[The Nutt House]]''
+| {{N/A}}
+| 11 episodes; also co-creator, executive producer, writer
+|-
+| 1990
+| ''[[The Tracey Ullman Show]]''
+| Buzz Schlanger
+| Episode: "Due Diligence"
+|-
+| 1993
+| ''[[Frasier]]''
+| Tom (voice)
+| Episode: "Miracle on Third or Fourth Street"
+|-
+| 1995
+| ''[[The Simpsons]]''
+| Himself (voice)
+| Episode: "[[Homer vs. Patty and Selma]]"
+|-
+| 1996–99
+| ''[[Mad About You]]''
+| Uncle Phil
+| 4 episodes
+|-
+| 2000
+| ''[[The Kids from Room 402]]''
+| Mr. Miller (voice)
+| Episode: "Squeezed Out"
+|-
+| 2003
+| ''[[The Adventures of Jimmy Neutron: Boy Genius]]''
+| [[Santa Claus]] (voice)
+| Episode: "Holly Jolly Jimmy"
+|-
+| 2003–07
+| ''[[Jakers! The Adventures of Piggley Winks]]''
+| Wiley the Sheep (voice)
+| 47 episodes
+|-
+| 2004
+| ''[[Curb Your Enthusiasm]]''
+| Himself
+| 4 episodes
+|-
+| 2008–09
+| ''[[Spaceballs: The Animated Series]]''
+| President Skroob, Yogurt (voice)
+| 13 episodes; also co-creator, executive producer, writer
+|-
+| 2010
+| ''[[Glenn Martin, DDS]]''
+| Canine (voice)
+| Episode: "A Very Martin Christmas"
+|-
+| 2011
+| ''[[Special Agent Oso]]''
+| Grandpa Mel (voice)
+| Episode: "On Old MacDonald's Special Song/Snapfingers"
+|-
+| 2011
+| ''[[The Paul Reiser Show]]''
+| The Angry Cat (voice)
+| Episode: "The Playdate"
+|-
+| 2011
+| ''Mel Brooks and Dick Cavett Together Again''
+| Himself
+| Special
+|-
+| 2012
+| ''Mel Brooks Strikes Back''
+| Himself
+| Special
+|-
+| 2014
+| ''[[Dora the Explorer]]''
+| [[Mad Hatter]] (voice)
+| Episode: "Dora in Wonderland"
+|-
+| 2015
+| ''Mel Brooks: Live at the Geffen''
+| Himself
+| Stand-up special
+|-
+| 2015
+| ''[[The Comedians (2015 TV series)|The Comedians]]''
+| Himself
+| Episode: "Celebrity Guest"
+|}
+
+===Theatre===
+{| class="wikitable sortable"
+! Year
+! Title
+! class="unsortable" | Notes
+|-
+| 1952
+| ''[[New Faces of 1952]]''
+| Writer
+|-
+| 1957
+| ''[[Shinbone Alley]]''
+| Writer
+|-
+| 1962
+| ''[[All-American (musical)|All-American]]''
+| Writer
+|-
+| 2001
+| ''[[The Producers (musical)|The Producers]]''
+| Composer, lyricist, writer, producer
+|-
+| 2007
+| ''[[Young Frankenstein (musical)|Young Frankenstein]]''
+| Composer, lyricist, writer, producer
+|}
+
+==Notes and references==
+{{Reflist|20em}}
+
+==Further reading==
+* Adler, Bill, and Jeffrey Feinman. ''Mel Brooks: The Irreverent Funnyman''. Chicago: Playboy Press, 1976. {{oclc|3121552}}.
+* Crick, Robert A. ''The Big Screen Comedies of Mel Brooks''. Jefferson, N.C: McFarland, 2002. ISBN 978-0-7864-1033-0. {{oclc|49991416}}.
+* Holtzman, William. ''Seesaw, a Dual Biography of Anne Bancroft and Mel Brooks''. Garden City, N.Y: Doubleday, 1979. ISBN 978-0-3851-3076-9. {{oclc|}}.
+* Parish, James Robert. ''It's Good to Be the King: The Seriously Funny Life of Mel Brooks''. Hoboken, N.J: Wiley, 2007. ISBN 978-0-4717-5267-7. {{oclc|69331761}}.
+* Symons, Alex. ''Mel Brooks in the Cultural Industries: Survival and Prolonged Adaptation''. Edinburgh: Edinburgh University Press, 2012. ISBN 978-0-7486-4958-7. {{oclc|806201078}}.
+* Yacowar, Maurice. ''Method in Madness: The Comic Art of Mel Brooks''. New York: St. Martin's Press, 1981. ISBN 978-0-3125-3142-3. {{oclc|7556005}}.
+
+==External links==
+{{Wikipedia books|Mel Brooks}}
+{{Commons category|Mel Brooks}}
+{{Wikiquote}}
+* {{official website|http://www.MelBrooks.com/}}
+* {{iMDb name|316}}
+* {{IBDB name|7689}}
+* [http://www.the-numbers.com/people/directors/0MBRO.php Mel Brooks - Box Office Data Movie Director] at The Numbers
+* [http://www.the-numbers.com/people/0MBRO.php Mel Brooks - Box Office Data Movie Star] at The Numbers
+* {{YouTube|id=kNfg57wbNMw|title="The Films of Mel Brooks"}}, video compilation of film clips, 5 minutes
+* [http://www.npr.org/templates/story/story.php?storyId=1579051 Interview with Brooks] on [[National Public Radio|NPR]]'s ''[[Fresh Air]]'' (March 16, 2005)
+* [http://www.tonyawards.com/en_US/interactive/video/index.html#b TonyAwards.com Interview with Mel Brooks at Tony Awards site]
+* [http://www.altfg.com/blog/archives/2007/02/07/mel-brooks-biography-by-james-robert-parish/ Interview with Mel Brooks biographer James Robert Parish]
+* [http://film.virtual-history.com/person.php?personid=4442 Photographs and literature]
+* [http://www.emmys.com/celebrities/mel-brooks Mel Brooks at Emmys.com]
+
+{{Mel Brooks}}
+{{EGOT winners}}
+{{Navboxes
+| title = Awards for Mel Brooks
+| list =
+{{AcademyAwardBestOriginalScreenplay 1961–1980}}
+{{AFI Life Achievement Award}}
+{{DramaDesk Book 2001–2025}}
+{{DramaDesk Lyrics 2001–2025}}
+{{EmmyAward ComedyGuestActor 1986–2000}}
+{{EmmyAward ComedyVarietyMusicWriting 1950–1974}}
+{{Kennedy Center Honorees 2000s}}
+{{Nebula Award for Best Script/Bradbury Award 1973–2000}}
+{{Saturn Award for Best Director}}
+{{TonyAward MusicalScore 2001–2025}}
+{{TonyAward MusicalBook 2001–2025}}
+}}
+{{Authority control}}
+
+{{Persondata
+| NAME = Brooks, Mel
+| ALTERNATIVE NAMES = Kaminsky, Melvin
+| SHORT DESCRIPTION = American director, writer, actor, and producer
+| DATE OF BIRTH = June 28, 1926
+| PLACE OF BIRTH = [[Brooklyn]], [[New York]], [[United States]]
+| DATE OF DEATH =
+| PLACE OF DEATH =
+}}
+{{DEFAULTSORT:Brooks, Mel}}
+[[Category:Mel Brooks| ]]
+[[Category:1926 births]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:Abraham Lincoln High School (Brooklyn) alumni]]
+[[Category:American comedy musicians]]
+[[Category:American male comedians]]
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:American male voice actors]]
+[[Category:American military personnel of World War II]]
+[[Category:American musical theatre composers]]
+[[Category:American people of German-Jewish descent]]
+[[Category:American people of Russian-Jewish descent]]
+[[Category:American people of Ukrainian-Jewish descent]]
+[[Category:American satirists]]
+[[Category:American theatre managers and producers]]
+[[Category:Best Original Screenplay Academy Award winners]]
+[[Category:English-language film directors]]
+[[Category:Film directors from New York City]]
+[[Category:Grammy Award winners]]
+[[Category:Jewish American male actors]]
+[[Category:Jewish American songwriters]]
+[[Category:Jewish American writers]]
+[[Category:Jewish comedians]]
+[[Category:Kennedy Center honorees]]
+[[Category:Living people]]
+[[Category:Male actors from New York City]]
+[[Category:Musicians from Brooklyn]]
+[[Category:Primetime Emmy Award winners]]
+[[Category:Secular Jews]]
+[[Category:Silent film directors]]
+[[Category:Tony Award winners]]

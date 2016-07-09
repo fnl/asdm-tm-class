@@ -1,0 +1,59 @@
+{{no footnotes|date=March 2013}}
+{{Infobox person
+| name            = Sancho Gracia
+| image           = Sancho Gracia.jpg
+| imagesize       = 
+| alt             = 
+| caption         = 
+| birth_name      = Félix Ángel Sancho Gracia
+| birth_date      = {{birth date|1936|9|27|mf=y}}
+| birth_place     = [[Madrid, Spain]]
+| death_date      = {{death date and age|2012|8|8|1936|9|27}}
+| death_place     = [[Madrid, Spain]]
+| othername       = 
+| occupation      = 
+| yearsactive     = 1936&ndash;2012
+| spouse          = Noela Aguirre (?-2012) 3 children
+| domesticpartner = 
+| website         = 
+}}
+
+'''Sancho Gracia''' (September 27, 1936 – August 8, 2012) was a [[Spain|Spanish]] [[motion picture]] and [[television]] [[actor]].
+
+Gracia was born and died in [[Madrid]]. He started his acting career in Montevideo, Uruguay, where he lived from 1947 until 1961. In Montevideo he was a student of Margarita Xirgu. He made his movie acting debut in [[France]] in the 1963 film ''[[L'Autre femme]]'' opposite [[Annie Girardot]]. Since then he has appeared in more than eighty motion pictures including several [[Hollywood]] productions during the 1970s and in 1999's ''[[Outlaw Justice]]'' with [[Willie Nelson]] and [[Kris Kristofferson]]. As well, Gracia has worked in  [[Australia]], performing as a regular cast member in the 1982 [[television series]], ''[[Runaway Island]]'' and in the 1991 made-for-TV film, ''[[Pirates Island]]''. He also participated in the Oscar-nominated [[Cinema of Mexico|Mexican film]] ''[[El Crimen del Padre Amaro]]'' in 2002.
+
+In 2003, he was nominated for the [[Goya Award|Goya Award for Best Actor]] for his performance in the 2002 film, ''[[800 balas]]''.
+
+In addition to motion pictures, Sancho Gracia made more than sixty guest appearances on Spanish television shows. He became famous in [[Spain]] for interpreting the role of [[Curro Jiménez]], in the [[TV show]] of the same name, that was broadcast by [[Televisión Española|TVE]] from 1976 to 1979, being rebroadcast several times since then.
+
+He died of lung cancer on August 8, 2012.
+
+==Selected filmography==
+* ''[[The Witching Hour (1985 film)|The Witching Hour]]'' (1985)
+* ''[[Savage Pampas (1966 film)|Savage Pampas]]'' (1966)
+
+==External links==
+*{{IMDb name|id=0333466|name=Sancho Gracia}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Gracia, Sancho
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Spanish actor
+| DATE OF BIRTH     =September 27, 1936
+| PLACE OF BIRTH    =[[Madrid, Spain]]
+| DATE OF DEATH     = August 8, 2012
+| PLACE OF DEATH    = [[Madrid, Spain]]
+}}
+{{DEFAULTSORT:Gracia, Sancho}}
+[[Category:1936 births]]
+[[Category:2012 deaths]]
+[[Category:Spanish male film actors]]
+[[Category:Spanish male television actors]]
+[[Category:Male Spaghetti Western actors]]
+[[Category:Spanish emigrants to Uruguay]]
+
+
+{{spain-actor-stub}}
+{{screen-actor-stub}}

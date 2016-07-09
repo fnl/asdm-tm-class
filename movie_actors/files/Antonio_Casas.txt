@@ -1,0 +1,145 @@
+[[Image:AnronioCasas.jpg|thumb|right|200px|Casas in the ''[[The Good, the Bad and the Ugly]]'' (1966)]]
+'''Antonio Casas''' (11 November 1911 [[A Coruña]], [[Galicia (Spain)|Galicia]] – 14 February 1982 [[Madrid]], [[Spain]]) was a  [[Spain|Spanish]] footballer turned film actor who appeared in film between 1941 and his death in 1982.
+
+Casas originally began as a footballer for [[Atlético Madrid]], but entered film in 1941 and made nearly 170 appearances in film and TV between then and 1982. He appeared in ''[[A Pistol for Ringo]]'' in 1965 and [[Sergio Leone]]'s [[Spaghetti Western]] the ''[[The Good, the Bad and the Ugly]]'' in 1966, a film that has consistently been voted one of the greatest of all time.
+
+In the early 1970s he worked in television but returned to film after 1975 until his death.
+
+==Selected filmography==
+{| class="wikitable sortable plainrowheaders"
+|+ List of acting performances in film
+|-
+! scope="col" | Year
+! scope="col" | Title
+! scope="col" | Role
+|-
+| rowspan=2|1942
+| ''[[Goyescas (film)|Goyescas]]''
+| Paquiro
+|-
+| ''[[The Wheel of Life (1942 film)|The Wheel of Life]]''
+| Javier
+|-
+| 1943
+| ''[[A Famous Gentleman]]''
+| Uncredited
+|-
+| rowspan=2|1951
+| ''[[Dawn of America]]''
+| Juan de la Cosa 
+|-
+| ''[[The Lioness of Castille]]''
+| Juan de Padilla
+|-
+| rowspan=2|1960
+| ''[[Juanito (film)|Juanito]]''
+| President Meza
+|-
+| ''[[The Revolt of the Slaves]]''
+| Terulio
+|-
+| 1962
+| ''[[Accident 703]]''
+| Uncredited
+|-
+| rowspan=2|1963
+| ''[[Nunca pasa nada]]''
+| Enrique
+|-
+| ''[[The Secret of the Black Widow]]''
+| Bronsfield
+|-
+| 1964
+| ''[[Sound of Horror]]''
+| Professor Andre
+|-
+| rowspan=5|1965
+| ''[[Assassination in Rome]]''
+| Uncredited
+|-
+| ''[[A Pistol for Ringo]]''
+| Major Clyde
+|-
+| ''[[Crimen de doble filo]]''
+| Comisario Ignacio Ruiz
+|-
+| ''[[The Dictator's Guns]]''
+| Uncredited
+|-
+| ''[[The Return of Ringo]]''
+| Sheriff
+|-
+| rowspan=4|1966
+| ''[[Fantasia 3]]''
+| Neptuno
+|-
+| ''[[The Good, the Bad and the Ugly]]''
+| Stevens
+|-
+| ''[[Kiss Kiss...Bang Bang]]''
+| Professor Padereski
+|-
+| ''[[The Texican]]''
+| Frank Brady
+|-
+| 1967
+| ''[[Master Stroke]]''
+| Colonel Jenkins
+|-
+| rowspan=3|1969
+| ''[[Kidnapping! Paga o uccidiamo tuo figlio]]''
+| Un Bandito
+|-
+| ''[[The Price of Power]]''
+| Mr. Willer
+|-
+| ''[[Sundance and the Kid]]''
+| Barnds
+|-
+| rowspan=2|1970
+| ''[[Churchill's Leopards]]''
+| La Tulipe
+|-
+| ''[[Tristana]]''
+| Don Cosme
+|-
+| rowspan=2|1971
+| ''[[Boulevard du Rhum]]''
+| Wilkinson
+|-
+| ''[[El bosque del lobo]]''
+| Abad
+|-
+| 1972
+| ''[[Pancho Villa (film)|Pancho Villa]]''
+| General Goyo
+|-
+| 1973
+| ''[[Nadie oyó gritar]]''
+| Oscar
+|}
+
+==External links==
+* {{imdb name|id=0143030|name=Antonio Casas}}
+
+{{Authority control}}
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Caaaa, Antonio
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = he played soccer for three years
+| DATE OF BIRTH     = 11 November 1911
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 14 February 1982
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Casas, Antonio}}
+[[Category:Spanish footballers]]
+[[Category:Atlético Madrid footballers]]
+[[Category:Spanish male film actors]]
+[[Category:Male Western (genre) film actors]]
+[[Category:Male Spaghetti Western actors]]
+[[Category:1911 births]]
+[[Category:1982 deaths]]
+[[Category:20th-century Spanish male actors]]
+
+{{Spain-actor-stub}}

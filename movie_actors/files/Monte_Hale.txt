@@ -1,0 +1,64 @@
+{{for|the American radio personality|Monte Hale (sportscaster)}}
+{{Infobox person
+| image =
+| imagesize =
+| name = Monte Hale
+| birth_name = Buren Ely
+| birth_date = {{Birth date|1919|6|8|mf=y}}
+| birth_place = [[Ada, Oklahoma]], U.S.
+| death_date = {{death date and age|mf=yes|2009|3|29|1919|6|8}}
+| death_place = [[Studio City, California]], U.S.
+| resting_place = [[Forest Lawn Memorial Park (Hollywood Hills)]]
+| yearsactive = [[1944 in film|1944]]–1978
+| occupation = Actor, singer
+| spouse = Joanne Hale<br />Cherie DeCastro
+| children =
+| parents = Herod and Helen Ely}}
+
+'''Monte Hale''' (June 8, 1919 – March 29, 2009)<ref name=LATObit>{{cite news|title=Monte Hale dies at 89; cowboy actor helped found Autry museum in L.A.|first=Myrna|last=Oliver|date=March 31, 2009|accessdate=March 31, 2009|work=[[Los Angeles Times]]|url=http://www.latimes.com/news/obituaries/la-me-monte-hale31-2009mar31,0,5278662.story}}</ref> was an American [[B-Western]] film star and [[country music]]ian.
+
+Often reported to have been born in [[San Angelo, Texas]], he was actually born as '''Buren Ely''' in [[Ada, Oklahoma]]; a Texas birthplace reportedly sounded better for the movies.<ref>[http://www.b-westerns.com/mhale2.htm B-Westerns]</ref> Starting to sing and play the guitar at an early age, Hale started playing in cities of Texas as well in [[Vaudeville]] and local [[rodeo]] shows. He then got a job during [[World War II]] as a replacement guitarist with the ''[[Stars Over Texas]]'' Bond Drive. Hale had joined with several [[Republic Pictures]] celebrities and staff. {{citation needed|date=November 2013}}
+
+After signing with the company for seven years, he changed his name from ''Buren Ely'' to ''Monte Hale''. He soon starred in his first major role in ''Home on the Range'' (1946 film). During his film run in the early 1950s, he began to sing at rodeos and circuses. He soon retired from movies and began to appear at western conventions. In 1998, a Golden Palm Star on the [[Palm Springs, California]], [[Palm Springs Walk of Stars|Walk of Stars]] was dedicated to him.<ref>[http://www.palmspringswalkofstars.com/web-storage/Stars/Stars%20dedicated%20by%20date.pdf Palm Springs Walk of Stars by date dedicated]</ref>
+
+On November 12, 2004, for his work in movies, he received a star on the [[Hollywood Walk of Fame]]. He was also instrumental in the foundation of what is now the [[Autry National Center]] of the American West.<ref name=LATObit/>
+
+==Death==
+He died at 89 in [[Studio City, California]] after a long illness; he was survived by his wife of 31 years, Joanne.<ref name=LATObit/><ref>[http://news.yahoo.com/s/afp/20090330/en_afp/entertainmentusfilmhale;_ylt=Anzgi4.6trOHTk45UnlNY5FxFb8C Singing Cowboy Monte Hale Dies] Yahoo News, March 30, 2009</ref> He was buried at the [[Forest Lawn Memorial Park (Hollywood Hills)|Forest Lawn Memorial Park]] in [[Hollywood Hills, California]].<ref>{{Find a Grave|35851822}}</ref>
+
+==Selected filmography==
+* ''[[Yukon Vengeance]]'' (1954)
+*''[[The Man Who Shot Liberty Valance]]'' (1962)
+
+==Notes==
+{{reflist}}
+
+==External links==
+* {{IMDb name|id=0354977|name=Monte Hale}}
+* {{Amg name|29683|Monte Hale}}
+* [http://www.b-westerns.com/mhale.htm Monte Hale at B-Westerns]
+
+{{Authority control}}
+
+<!-- Metadata: see [[Wikipedia:Persondata]] -->
+{{Persondata
+|NAME = Hale, Monte
+|ALTERNATIVE NAMES = Ely, Buren (birth name)
+|SHORT DESCRIPTION =Actor, country singer
+|DATE OF BIRTH = June 8, 1919
+|PLACE OF BIRTH = [[Ada, Oklahoma]], U.S.
+|DATE OF DEATH = March 29, 2009
+|PLACE OF DEATH = [[Studio City, California]], U.S.}}
+{{DEFAULTSORT:Hale, Monte}}
+[[Category:American country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Singing cowboys]]
+[[Category:Male Western (genre) film actors]]
+[[Category:1919 births]]
+[[Category:2009 deaths]]
+[[Category:Male actors from Oklahoma]]
+[[Category:Musicians from Oklahoma]]
+[[Category:People from Ada, Oklahoma]]
+[[Category:Vaudeville performers]]
+[[Category:Burials at Forest Lawn Memorial Park (Hollywood Hills)]]
+[[Category:Disease-related deaths in California]]

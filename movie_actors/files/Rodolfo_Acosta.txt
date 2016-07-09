@@ -1,0 +1,92 @@
+{{For|the Colombian composer|Rodolfo Acosta (composer)}}
+{{no footnotes|date=March 2013}}
+{{Infobox person
+| birth_date   = {{birth date|1920|7|29}}
+| birth_place  =  [[Chihuahua, Chihuahua|Chihuahua]], [[Mexico]]
+| death_date   = {{death date and age|1974|11|7|1920|7|29|mf=y}}
+| death_place  = [[Woodland Hills, Los Angeles|Woodland Hills]], [[Los Angeles]]<br>[[California]], USA
+| death_cause  =[[Cancer]]
+| resting_place =[[Forest Lawn Memorial Park (Hollywood Hills)]] 
+| yearsactive = 1946–73
+| spouse      = 
+}}
+
+'''Rodolfo Acosta Pérez''' (July 29, 1920 – November 7, 1974) was a Mexican [[character actor]], typically playing heavies in Hollywood [[western (genre)|western]]s. He worked in Mexico in films of the great director Emilio Fernández, which led to a bit in [[John Ford]]'s 1947 film ''[[The Fugitive (1947 film)|The Fugitive]]''. He arrived in the US and was signed by [[Universal Studios]] for a small role in ''[[One Way Street]]'' (1950). He stayed in the US and his sharp, ruthless features led him to a long succession of roles as bandits, Native American warriors and outlaws. In ''The Tijuana Story'' (1957), he actually had a sympathetic leading role, but in general he spent his career as a familiar western antagonist. 
+
+Acosta was also a regular as [[cowboy|Vaquero]] on [[NBC]]'s ''[[The High Chaparral]]'' from 1967-1969. His other television appearances included ''[[Cheyenne (1955 TV series)|Cheyenne]]'', ''[[Maverick (TV series)|Maverick]]'', ''[[Zorro (1957 TV series)|Zorro]]'', ''[[Rawhide (TV series)|Rawhide]]'' as Ossolo, an Indian Medicine Man in "The Incident at Superstition Prairie" in 1960, ''[[Bonanza]]'', and ''[[Daniel Boone (TV series)|Daniel Boone]]''. 
+
+In 1959, Acosta played the [[Kiowa]] Chief [[Satanta (chief)|Satanta]] in the third episode entitled "Yellow Hair" of the [[American Broadcasting Company|ABC]] western series ''[[The Rebel (TV series)|The Rebel]]'', starring [[Nick Adams (actor)|Nick Adams]] as a former [[Confederate States of America|Confederate]] soldier who wanders through the [[American West]].<ref>{{cite web|url=http://www.imdb.com/title/tt0684013/|title="Yellow Hair", ''The Rebel'', October 18, 1959|publisher=[[Internet Movie Data Base]]|accessdate=March 19, 2013}}</ref>
+
+==Partial filmography==
+* ''[[I Am a Fugitive]]'' (1946)
+* ''[[The Fugitive (1947 film)|The Fugitive]]'' (1947)
+* ''[[Salón México]]'' (1949)
+* ''[[Victimas del Pecado]]'' (1951)
+* ''[[Sensualidad (film)|Sensualidad]]'' (1951)
+* ''[[Horizons West]]'' (1952)
+* ''[[Hondo (film)|Hondo]]'' (1953)
+* ''[[Destination Gobi]]'' (1953)
+* ''[[Drum Beat]]'' (1954)
+* ''[[The Proud Ones]]'' (1956)
+* ''[[Bandido (1956 film)|Bandido]]'' (1956)
+* ''[[Trooper Hook]]'' (1957)
+* ''The Tijuana Story'' (1957)
+* ''[[One-Eyed Jacks]]'' (1961)
+* ''[[The Second Time Around (film)|The Second Time Around]]'' (1961)
+* ''[[How the West Was Won (film)|How the West Was Won]]'' (1962)
+* ''[[Rio Conchos]] (1964)
+* ''[[The Sons of Katie Elder]]'' (1965)
+* ''[[Stranger on the Run]]'' (1967)
+* ''[[Impasse (1969 film)|Impasse]]'' (1969)
+* ''[[The Great White Hope]]'' (1970)
+* ''[[Blood Legacy]]'' (1971)
+
+== Television series ==
+
+* ''[[Cheyenne (1955 TV series)|Cheyenne]]''
+* ''[[Maverick (TV series)|Maverick]]''
+* ''[[Zorro (1957 TV series)|Zorro]]'' as Perico Verdugo
+* ''[[Rawhide (TV series)|Rawhide]]''
+* ''[[Bonanza]]''
+* ''[[Daniel Boone (TV series)|Daniel Boone]]''
+* ''[[The High Chaparral]]'' as Vaquero
+* ''[[Have Gun-Will Travel]]'' as Pedro Valdez
+* ''[[Mission Impossible ]]'' as President Miguel Davarro, April 13, 1969
+
+==References==
+
+{{reflist}}
+
+==External links==
+{{Portal|Biography|Mexico|California|Los Angeles|Film|Television}}
+
+* {{IMDb name|0010240}}
+* {{Find a Grave|19542}}
+
+{{Authority control}}
+
+{{Persondata
+|NAME = Acosta, Rodolfo
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION = Mexican television actor
+|DATE OF BIRTH = July 29, 1920
+|PLACE OF BIRTH = [[Chihuahua, Chihuahua|Chihuahua]], [[Mexico]]
+|DATE OF DEATH = November 7, 1974
+|PLACE OF DEATH = [[Woodland Hills, California]], [[USA]]
+}}
+
+{{DEFAULTSORT:Acosta, Rodolfo}}
+[[Category:1920 births]]
+[[Category:1974 deaths]]
+[[Category:Expatriate male actors in the United States]]
+[[Category:Male Western (genre) film actors]]
+[[Category:Mexican male film actors]]
+[[Category:Mexican male television actors]]
+[[Category:Male actors from Chihuahua (state)]]
+[[Category:Cancer deaths in California]]
+[[Category:Burials at Forest Lawn Memorial Park (Hollywood Hills)]]
+[[Category:20th-century Mexican male actors]]
+
+
+{{Mexico-tv-actor-stub}}
+{{Mexico-film-actor-stub}}

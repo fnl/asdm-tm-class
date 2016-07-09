@@ -1,0 +1,421 @@
+{{Use mdy dates|date=November 2013}}
+{{Infobox person
+| image = Terrence Malick.jpg
+| name = Terrence Malick
+| caption = 
+| birth_name = Terrence Frederick Malick
+| birth_date = {{Birth date and age|1943|11|30}}
+| birth_place = [[Ottawa, Illinois]]
+| occupation = Film director, screenwriter, producer
+| years_active = 1969–present
+| spouse = Jill Jakes (1970–1976)<br />Michèle Morette (1985–98)<br />Alexandra Wallace (1998–present)
+| alma_mater = [[Harvard University]]<br>[[Magdalen College, Oxford]]
+}}
+
+'''Terrence Frederick Malick''' ({{IPAc-en|ˈ|m|æ|l|ɪ|k}}; born November 30, 1943)<ref name="rovi">{{cite news| url=http://movies.nytimes.com/person/100893/Terrence-Malick/biography | first = Jason | last = Ankeny | publisher=[[All Movie Guide]] / [[Rovi]] via ''The New York Times'' | accessdate=May 25, 2010 | title=Terrence Malick – Biography – Movies & TV}}</ref> is an American film director, screenwriter, and producer. In a career spanning over four decades he has directed six feature films. He made his directorial debut with the drama ''[[Badlands (film)|Badlands]]'' in 1973. Malick released his second film, the drama ''[[Days of Heaven]]'', in 1978, after which he took a long hiatus from directing films. His third film, the [[World War II]] drama ''[[The Thin Red Line (1998 film)|The Thin Red Line]]'', was released in 1998. Seven years later he released his fourth film, the romantic historical drama ''[[The New World (2005 film)|The New World]]'', which was followed by the critically acclaimed and 2011 [[Palme d'Or]] winner ''[[The Tree of Life (film)|The Tree of Life]]'', an experimental drama. The following year saw the release of the sixth film directed by Malick, the romantic drama art film ''[[To the Wonder]]''.
+
+Malick has received consistent praise for his work and has been regarded as one of the greatest living filmmakers.<ref>{{cite web | last =Ebert | first =Roger | title =The Tree of Life  | work =[[Chicago Sun-Times]] | date = June 2, 2011  | url =http://www.rogerebert.com/reviews/the-tree-of-life-2011 | accessdate =April 25, 2013}}</ref> He was nominated for the [[Academy Award for Best Director]] for ''[[The Thin Red Line (1998 film)|The Thin Red Line]]'' and ''[[The Tree of Life (film)|The Tree of Life]]'', and the [[Academy Award for Best Adapted Screenplay]] for ''The Thin Red Line'', as well as winning the [[Golden Bear]] at the [[49th Berlin International Film Festival]] for ''The Thin Red Line'', the [[Palme d'Or]] at the [[2011 Cannes Film Festival|64th Cannes Film Festival]] for ''The Tree of Life'', and the [[SIGNIS Awards|SIGNIS Award]] at the [[69th Venice International Film Festival]] for ''To the Wonder''.
+
+==Early life==
+Terrence Malick was born in [[Ottawa, Illinois]],<ref>{{cite news|last1=Solomons|first1=Jason|title=Terrence Malick: The return of cinema's invisible man|url=http://www.theguardian.com/theobserver/2011/jul/03/observer-profile-terrence-malick|accessdate=6 July 2014|work=The Observer|publisher=The Guardian|date=2 July 2011}}</ref><ref>{{cite web|last1=Walsh|first1=David|title=A horrible state of war|url=http://www.wsws.org/en/articles/1999/01/thin-j23.html|website=www.wsws.org|publisher=World Socialist Website|accessdate=6 July 2014}}</ref> but raised in [[Waco, Texas]]<ref>{{cite news|last1=Hoover|first1=Carl|title=Waco-set 'Tree of Life' is beautiful, but baffling|url=http://www.wacotrib.com/entertainment/accesswaco/movies/waco-set-tree-of-life-is-beautiful-but-baffling/article_8b18aae5-7656-552f-95ef-2227eea8ff2b.html?mode=story|accessdate=6 July 2014|work=Waco Tribute-Herald|date=24 June 2011}}</ref> and [[Oklahoma]].<ref>{{cite web|last1=Bowles|first1=Scott|title=The Terrence Malick File|url=http://usatoday30.usatoday.com/life/movies/news/2005-12-15-malick_x.htm|publisher=USA Today|accessdate=6 July 2014}}</ref> He is the son of Irene (née Thompson; 1912–2011)<ref>{{cite web| url= http://www.examiner-enterprise.com/sections/news/local-news/bartlesville-resident-irene-malick-mother-filmmaker-dead-99-services-today |title=Bartlesville resident Irene Malick, mother of filmmaker, dead at 99; services today |work= Examiner Enterprise | location= Bartlesville  |date=December 21, 2011 |accessdate=February 27, 2012}}</ref> and Emil A. Malick (1917–2013),<ref>[http://www.legacy.com/obituaries/examiner-enterprise/obituary.aspx?pid=163029709 Emil A. Malick Obituary: View Emil Malick's Obituary by Examiner-Enterprise]. Legacy.com. Retrieved on 2014-05-22.</ref> a geologist.<ref name="Terrence Malick – Book">{{cite book |last1=Michaels |first1=Lloyd |title= Terrence Malick |url=http://books.google.com/books?id=jSNCB6yCJPoC&dq=terrence+malick+lebanese |edition=Illustrated, revised |year=2009 |publisher=University of Illinois Press |isbn=0-252-07575-7 |page=14}}</ref> His paternal grandparents were [[Assyrian people|Assyrian]] Christian immigrants from [[Syria]] and [[Lebanon]].<ref>Lloyd Michaels, ''Terrence Malick'', Urbana : University of Illinois Press, c2009, p. 14</ref><ref>{{cite web|author=ZINDA |url=http://www.zindamagazine.com/html/archives/1999/feb1_1999.htm |title=ZENDA – February 1, 1999 |publisher=Zindamagazine.com |accessdate=May 29, 2011}}</ref><ref>{{cite web|title=Ethnic Celebs |author=Andrew<!-- No last name given --> |url=http://ethnicelebs.com/terrence-malick |website=ethnicelebs.com |accessdate=8 December 2014}}</ref> Malick attended [[St. Stephen's Episcopal School (Austin, Texas)|St. Stephen's Episcopal School]] in [[Austin, Texas]], while his family lived in [[Bartlesville, Oklahoma]].<ref name="Solomons">{{cite news|last=Solomons|first=Jason|title=Terrence Malick: The return of cinema's invisible man| url=http://www.guardian.co.uk/theobserver/2011/jul/03/observer-profile-terrence-malick |accessdate=July 3, 2011|newspaper=[[The Observer]]|date=July 3, 2011}}</ref> Malick had two younger brothers: Chris and Larry. Larry Malick was a guitarist who went to study in Spain with [[Andrés Segovia]] in the late 1960s. In 1968, Larry intentionally broke his own hands due to pressure over his musical studies. Emil went to Spain to help Larry, but Larry died shortly after, apparently committing suicide.<ref>Biskind, Peter. ''Easy Riders, Raging Bulls'', Simon and Schuster, 1998. pp.248–249.</ref>
+
+Malick studied philosophy under [[Stanley Cavell]] at [[Harvard University]], graduating ''[[Latin honors#Types|summa cum laude]]'' and [[Phi Beta Kappa]] in 1965. He went on to [[Magdalen College, Oxford|Magdalen College]], [[University of Oxford|Oxford]], as a [[Rhodes Scholarship|Rhodes Scholar]]. After a disagreement with his tutor, [[Gilbert Ryle]], over his thesis on the concept of world in [[Søren Kierkegaard|Kierkegaard]], [[Martin Heidegger|Heidegger]], and [[Ludwig Wittgenstein|Wittgenstein]], Malick left Oxford without a doctorate.<ref>{{Cite journal | url = http://books.google.com/?id=7oQEgW8u4kcC&pg=PA80&lpg=PA80&dq=terrence+malick+gilbert+ryle#v=onepage&q=terrence%20malick%20gilbert%20ryle&f=false | title = Terrence Malick: Film and Philosophy | isbn = 978-1-4411-5003-5 | author1 = Tucker | first1 = Thomas Deane | last2 = Kendall | first2 = Stuart | date = May 12, 2011}}</ref> In 1969, [[Northwestern University Press]] published Malick's translation of [[Martin Heidegger|Heidegger]]'s ''Vom Wesen des Grundes'' as ''The Essence of Reasons''. Returning to the United States, Malick taught philosophy at the [[Massachusetts Institute of Technology]] while [[freelancing]] as a journalist. He wrote articles for ''[[Newsweek]]'', ''[[The New Yorker]]'', and ''[[Life (magazine)|Life]]''.<ref name="The Terrence Malick file">{{cite news| url=http://www.usatoday.com/life/movies/news/2005-12-15-malick_x.htm | work=USA Today | title=The Terrence Malick file | first1=Scott | last1=Bowles | date=December 16, 2005 | accessdate=May 25, 2010}}</ref>
+
+==Film career==
+Malick started his film career after earning an [[Master of Fine Arts|MFA]] from the [[AFI Conservatory]] in 1969, directing the short film ''[[Lanton Mills]]''. At the AFI, he established contacts with people such as [[Jack Nicholson]], longtime collaborator [[Jack Fisk]], and agent [[Mike Medavoy]], who procured for Malick freelance work [[script doctor|revising scripts]]. He is credited with the screenplay for ''[[Pocket Money]]'' (1972), and he wrote an early draft of ''[[Dirty Harry]]'' (1971).<ref>{{cite web|author=Scott B. |url=http://movies.ign.com/articles/324/324778p1.html |title=IGN: Featured Filmmaker: Terrence Malick |publisher=Movies.ign.com |date=February 19, 2002 |accessdate=January 2, 2011}}</ref>
+
+After one of his screenplays, ''[[Deadhead Miles]]'', was made into what [[Paramount Pictures]] felt to be an unreleasable film, Malick decided to direct his own scripts. His first work was ''[[Badlands (film)|Badlands]]'' (1973), an independent film starring [[Martin Sheen]] and [[Sissy Spacek]] as a young couple on a crime spree in the 1950s. After a troubled production, ''Badlands'' drew raves at its premiere at the [[New York Film Festival]], leading to [[Warner Bros. Pictures]] buying distribution rights for three times its budget.<ref name="Stafford">{{cite news | authorlink=Jeff Stafford |first = Jeff | last=Stafford| title=Badlands | url=http://www.tcm.com/thismonth/article.jsp?cid=87364&mainArticleId=339836| work=Turner Classic Movies | year=2008 | accessdate=October 19, 2010}}</ref>
+
+Paramount Pictures produced Malick's second film, ''[[Days of Heaven]]'' (1978), about a love triangle that develops in the farm country of the [[Texas Panhandle]] in the early 20th century. The film spent two years in post-production, during which Malick and his crew experimented with unconventional editing and voice-over techniques.<ref>Biskind, Peter. ''Easy Riders, Raging Bulls'', Bloomsbury, 1998. pp.296–297.</ref> ''Days of Heaven'' went on to win the [[Academy Award for Best Cinematography]], as well as the prize for Best Director at the [[1979 Cannes Film Festival]].
+
+{{Quote box|width=30%|align=right|bgcolor=#c6dbf7|quote=Those rambling philosophical voiceovers; the placid images of nature, offering quiet contrast to the evil deeds of men; the stunning cinematography, often achieved with natural light; the striking use of music – here is a filmmaker with a clear sensibility and aesthetic who makes narrative films that are neither literary nor theatrical, in the sense of foregrounding dialogue, event, or character, but are instead principally cinematic, movies that suggest narrative, emotion, and idea through image and sound.
+:Chris Wisniewski about ''Days of Heaven'' and ''The New World''<ref>Wisniewski, Chris. [http://www.reverseshot.com/article/terrence_malick "A Stitch in Time"],  ''Reverse Shot'' 22. Retrieved 19 April 2011.</ref>}}
+
+Following the release of ''Days of Heaven'', Malick began developing a project for Paramount, titled ''Q'', that explored the origins of life on earth. During pre-production, he suddenly moved to Paris and disappeared from public view.<ref name="Biskind">{{cite news | last = Biskind | first = Peter | title = The Runaway Genius |work=Vanity Fair  | date = August 1999 | url = http://www.vanityfair.com/hollywood/classic/features/runaway-genius-199812 | accessdate =October 20, 2010 }}</ref> During this time, he wrote a number of screenplays, including ''The English Speaker'', about [[Josef Breuer]]'s analysis of [[Anna O.]]; adaptations of [[Walker Percy]]'s ''[[The Moviegoer]]'' and [[Larry McMurtry]]'s ''The Desert Rose'';<ref name="Biskind"/> a script about [[Jerry Lee Lewis]]; and a stage adaptation of ''[[Sansho the Bailiff]]'' that was to be directed by [[Andrzej Wajda]], in addition to continuing work on the ''Q'' script.<ref>{{cite news | last = Gillis | first = Joe | title = Waiting for Godot | work=[[Los Angeles (magazine)|Los Angeles]] |date=December 1995}}</ref> Malick's work on ''Q'' eventually became the basis for his 2011 film ''The Tree of Life''.<ref>{{cite web| url=http://newyork.timeout.com/arts-culture/film/1456971/the-tree-of-life |title=The Tree of Life |publisher=[[Time Out (company)|Time Out]] New York |date=May 24, 2011 |accessdate=May 27, 2011}}</ref>
+
+Twenty years after ''Days of Heaven'', Malick returned to film directing in 1998 with ''[[The Thin Red Line (1998 film)|The Thin Red Line]]'', a loose adaptation of the [[James Jones (author)|James Jones]] [[World War II]] [[The Thin Red Line (novel)|novel of the same name]], for which he gathered a large ensemble of famous stars. The film was nominated for seven [[Academy Award]]s, won the [[Golden Bear]] at the [[49th Berlin International Film Festival]],<ref name="Berlinale1999">{{cite web |url=http://www.berlinale.de/en/archiv/jahresarchive/1999/03_preistr_ger_1999/03_Preistraeger_1999.html |title=Berlinale: 1999 Prize Winners |accessdate=February 4, 2012 |work=berlinale.de}}</ref> and received critical acclaim.<ref>{{cite web|url=http://www.rottentomatoes.com/m/1084146-thin_red_line/ |title=The Thin Red Line |publisher=Rotten Tomatoes |accessdate=May 29, 2011}}</ref>
+
+After learning of Malick's work on an article about [[Che Guevara]] during the 1960s, [[Steven Soderbergh]] offered Malick the chance to write and direct a film about Guevara that he had been developing with [[Benicio del Toro]]. Malick accepted and produced a screenplay focused on Guevara's failed revolution in [[Bolivia]].<ref>{{cite news | last = Taubin | first = Amy | title = Guerrilla Filmmaking on an Epic Scale | work=[[Film Comment]] | date = September–October 2008 | url = http://filmlinccom.siteprotect.net/fcm/so08/che.htm | accessdate =May 17, 2011 }}</ref> After a year and a half, the financing had not come together entirely, and Malick was given the opportunity to direct ''[[The New World (2005 film)|The New World]]'',<ref name="malick's">{{cite news | first=Nancy | last=Tartaglione | url=http://www.screendaily.com/malicks-che-decision-deals-morale-denting-blow-to-indie-sector/4017728.article | title=Malick's Che decision deals morale-denting blow to indie sector | work=[[Screen Daily]] | date=March 10, 2004 | accessdate=October 20, 2010 }}</ref> a script he had begun developing in the 1970s.<ref>{{cite web |url= http://www.fipresci.org/undercurrent/issue_0206/sterritt_malick.htm |title= Film, Philosophy and Terrence Malick |authorlink=David Sterritt | first=David | last=Sterritt |date = July 2006|work=Undercurrents |publisher=[[International Federation of Film Critics|FIPRESCI]] |accessdate=October 20, 2010}}</ref> Consequently, he left the Guevara project in March 2004.<ref name="malick's"/> Soderbergh went on to direct ''[[Che (2008 film)|Che]]''.
+
+''The New World'', which featured a romantic interpretation of the story of [[John Smith (explorer)|John Smith]] and [[Pocahontas]], was released in 2005. Over one million feet of film was shot for the film, and three different cuts of varying length were released. It was nominated for the [[Academy Award for Best Cinematography]], but received generally mixed reviews during its theatrical run,<ref>{{cite web|url=http://www.rottentomatoes.com/m/1152954-new_world/ |title=The New World Movie Reviews, Pictures |publisher=Rotten Tomatoes |accessdate=January 2, 2011}}</ref> though it has since been hailed as one of the best films of the decade.<ref>{{cite web|url=http://reverseshot.com/article/2_new_world |title=Best of the Decade #2: The New World |publisher=Reverse Shot |accessdate=January 2, 2011}}</ref><ref>{{cite web|url=http://newyork.timeout.com/articles/film/80947/the-tony-top-50-movies-of-the-decade/6.html |title=The TONY top 50 movies of the decade |work=Time Out New York |date=November 25, 2009 |accessdate=January 2, 2011}}</ref><ref>{{cite news|first= Mick | last= LaSalle |url= http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/01/01/MVK31B78QT.DTL&type=movies |title= Top films of the decade |work=San Francisco Chronicle  |date=January 1, 2010 |accessdate=January 2, 2011}}</ref>
+
+Malick's fifth feature, ''[[The Tree of Life (film)|The Tree of Life]]'', was filmed in [[Smithville, Texas]], and elsewhere during 2008. Starring [[Brad Pitt]], [[Jessica Chastain]], and [[Sean Penn]], it is a family drama spanning multiple time periods and focuses on an individual's reconciling love, mercy and beauty with the existence of sickness, suffering and death. It premiered at the [[2011 Cannes Film Festival]]<ref name="Cannes">{{cite web |url=http://www.festival-cannes.com/en/article/58041.html |title=Festival de Cannes: Official Selection |accessdate=April 14, 2011|work=Cannes}}</ref> where it won the [[Palme d'Or]]. It also won the [[International Federation of Film Critics|FIPRESCI Award]] for the Best Film of the Year. At the [[84th Academy Awards]], it was nominated for three awards including the [[Academy Award for Best Picture]], [[Academy Award for Best Director|Best Director]] for Malick, and [[Academy Award for Best Cinematography|Best Cinematography]] for [[Emmanuel Lubezki]]. A limited theatrical release in the United States began on May 27, 2011.
+
+{{Quote box|width=30%|align=right|bgcolor=#c6dbf7|quote=More than any other active filmmaker Mr. Malick belongs in the visionary company of homegrown romantics like [[Herman Melville]], [[Walt Whitman]], [[Hart Crane]] and [[James Agee]]. The definitive writings of these authors did not sit comfortably or find universal favor in their own time. They can still seem ungainly, unfinished, lacking polish and perfection. This is precisely what makes them alive and exciting: ''[[Moby-Dick]]'', ''[[Leaves of Grass]]'', ''[[The Bridge (long poem)|The Bridge]]'' and ''[[A Death in the Family]]'' lean perpetually into the future, pushing their readers forward toward a new horizon of understanding.
+:[[A. O. Scott]] in review of ''The Tree of Life''<ref>Scott, A. O. [http://movies.nytimes.com/2011/05/27/movies/the-tree-of-life-from-terrence-malick-review.html?ref=movies&pagewanted=2 "The Tree of Life (2011)"],  ''The New York Times''. Retrieved 25 September 2013.</ref>}}
+
+Malick's sixth feature, titled ''[[To the Wonder]]'',<ref name="filmratings">{{cite web|url= http://www.filmratings.com/filmRatings_cara/reports/s10434988.htm |title=To The Wonder rating|publisher=Filmratings.com}}</ref> was shot predominately in [[Bartlesville, Oklahoma]], and a few scenes were filmed in [[Pawhuska, Oklahoma]] and at the Tulsa Port of Catoosa. The film premiered at the [[69th Venice International Film Festival]]. It is described in the program notes as "an exploration of love in its many forms".<ref>{{cite web|url=http://hollywood-elsewhere.com/2012/08/wonder_based_on.php|title=Wonder Based on Malick's Romantic Past|first=Jeffrey|last=Wells|date=August 19, 2012|publisher=hollywood-elsewhere.com|accessdate=September 30, 2012}}</ref> The film stars [[Ben Affleck]], [[Rachel McAdams]], [[Olga Kurylenko]], and [[Javier Bardem]].<ref name="tulsaworld">{{cite web|url= http://www.tulsaworld.com/scene/article.aspx?subjectid=268&articleid=20101005_268_0_BARTLE615180 |title='Untitled' Malick film is official, shooting in Bartlesville | first= Laura | last= Summers  |date=October 5, 2010 |publisher=Tulsaworld.com |accessdate=January 2, 2011}}</ref>
+
+On November 1, 2011, Filmnation Entertainment announced international sales for Malick's next two projects: ''Lawless'' and ''[[Knight of Cups (film)|Knight of Cups]]''. ''Lawless'' would star [[Ryan Gosling]], with a supporting cast including [[Christian Bale]], [[Cate Blanchett]], [[Rooney Mara]] and [[Haley Bennett]]. ''Knight of Cups'' would star Bale, and also feature Blanchett, along with [[Isabel Lucas]]. The films would be shot back-to-back in 2012.<ref>{{cite web |work=FilmNation Entertainment |title=FilmNation continues relationship with Terrence Malick on two new films |url=http://www.wearefilmnation.com/news/2011/11/1/filmnation-continues-relationship-with-terrence-malick-on-tw.html |date=November 1, 2011 |accessdate=November 3, 2011}}</ref> [[Production designer]] [[Jack Fisk]] has indicated a June start date.<ref>{{cite web |work=Thompson on Hollywood |first=Bill |last=Desowitz |date=December 2, 2011 |accessdate= December 2, 2011 |title=Jack Fisk Climbs The Tree of Life |url=http://blogs.indiewire.com/thompsononhollywood/jack-fisk-climbs-the-tree-of-life}}</ref>
+
+During the weekend of September 16, 2011, Malick was photographed and caught on film while on set for one of the first times ever, while he and a small crew were following Christian Bale and Haley Bennett around the [[Austin City Limits Music Festival]] as part of preliminary shooting for ''Lawless''.<ref name=indieWIRE>{{cite web|title=Christian Bale, Terrence Malick & Arcade Fire Featured in Footage From Mystery Film Shoot at ACL|url=http://blogs.indiewire.com/theplaylist/christian_bale_terrence_malick_arcade_fire_all_feature_in_footage_from_myst/|work=indieWIRE}}</ref><ref name="lawless">{{cite web |work=IndieWIRE |accessdate=November 10, 2011 |date=November 4, 2011 |url=http://blogs.indiewire.com/theplaylist/set_pics_of_ryan_gosling_rooney_mara_shooting_terrence_malicks_lawless |title=Set Pics of Ryan Gosling & Rooney Mara Shooting Terrence Malick's 'Lawless' |first=Kevin | last=Jagernauth}}</ref> He was also seen directing Ryan Gosling and Rooney Mara at the [[Fun Fun Fun Fest]] on the weekend on November 4, 2011.<ref name="lawless"/><ref>{{cite web |url=http://www.brooklynvegan.com/archives/2011/11/new_terrence_ma.html |work=Brooklyn Vegan |accessdate=November 10, 2011 |date=November 5, 2011 |title=new Terrence Malick movie being filmed at Fun Fun Fun Fest (Ryan Gosling included)}}</ref> In early 2012, the title ''Lawless'' was given to The Weinstein Company's ''[[Lawless (film)|Lawless]]'', leaving Malick's project untitled.<ref name="indieWIRE">{{cite web|title=Sorry Terrence Malick, The Weinstein Company Has Changed 'The Wettest County' To 'Lawless|url=http://blogs.indiewire.com/theplaylist/sorry-terrence-malick-the-weinstein-company-has-changed-the-wettest-county-to-lawless#.T_9gVpGNd5c/work=indieWIRE}}</ref> It was announced in March 2015 that the film's new title was ''[[Weightless (film)|Weightless]]''.<ref>{{cite web |url = http://thefilmstage.com/news/terrence-malick-sets-title-for-austin-set-drama-with-ryan-gosling-rooney-mara-michael-fassbender-more/ | title = Terrence Malick Sets Title For Forthcoming Drama With Ryan Gosling, Rooney Mara & More | first = Leonard | last = Pearce | publisher = The Film Stage | date = March 27, 2015 | accessdate = 2015-03-27}}</ref> He was invited to join the [[Academy of Motion Picture Arts and Sciences]] in June 2012 along with 175 other people.<ref>{{cite web|url=http://www.oscars.org/press/pressreleases/2012/20120629a.html|title=Academy Invites 176 to Membership|publisher=The Academy of Motion Picture Arts and Sciences|date=June 29, 2012|accessdate=July 19, 2013}}</ref>
+
+Concurrent with the two features, Malick has been working on an [[Imax]] documentary, titled ''Voyage of Time''. The Hollywood Reporter described it as "a celebration of the Earth, displaying the whole of time, from the birth of the universe to its final collapse." The film expands on the footage that special effects luminaries [[Douglas Trumbull]] ([[2001: A Space Odyssey (film)|''2001'']]) and Dan Glass (''[[The Matrix]]'') created for ''The Tree of Life''. [[Brad Pitt]] was signed to do the narration. Footage from the film was screened for investors at the [[Cannes Film Festival]] and world sales rights were picked up by [[Wild Bunch (film company)|The Wild Bunch]]. A targeted 2016 release date was announced.<ref name="Hollywood Reporter">{{cite news|last1=O'Falt|first1=Chris|title=The Lowdown on Terrence Malick's Three New Films|url=http://www.hollywoodreporter.com/news/what-we-know-terrence-malicks-725908|accessdate=13 November 2014|work=The Hollywood Reporter|date=3 September 2014}}</ref>
+
+==Personal life==
+Malick is famously protective of his private life.<ref name="Skyarts" >{{cite web|archiveurl=http://web.archive.org/web/20101007123112/http://www.skyarts.co.uk/film-docs/article/rosy-fingered-dawn-terrence-malick/ |url=http://www.skyarts.co.uk/film-docs/article/rosy-fingered-dawn-terrence-malick | title=Rosy-Fingered Dawn – Terrence Malick | work=Sky Arts | date=January 10, 2010 |publisher=Skyarts.co.uk |archivedate = October 7, 2010 | accessdate= March 21, 2012}}</ref> His contracts stipulate that his likeness may not be used for promotional purposes, and he routinely declines requests for interviews.<ref name="Biskind" /><ref name="Harvard Crimson">{{cite news | last = Davenport | first = Hayes | url = http://www.thecrimson.com/article.aspx?ref=510654 | title = Alumni Watch: Terence Malick '65 | work = [[The Harvard Crimson]] | date = December 15, 2005 | accessdate = May 3, 2007 | archivedate= June 5, 2011 | archiveurl = http://web.archive.org/web/20110605011128/http://www.thecrimson.com/article/2005/12/15/alumni-watch-terrence-malick-65-by/ | deadurl = no}}</ref>
+
+From 1970 to 1976, Malick was married to Jill Jakes.<ref name=tcm-bio>{{cite web|url=http://www.tcm.com/tcmdb/person/120355%7C0/Terrence-Malick/ | title = Terrence Malick | publisher = [[Turner Classic Movies]]  | accessdate=June 24, 2011}}</ref> His companion afterward in the late 1970s was director and screenwriter Michie Gleason.<ref name=tcm-bio /> In 1985 he married a Frenchwoman,<ref name=tcm-bio /> Michèle Marie Morette,<ref>{{cite web|url = http://www.mocavo.com/Terrence-Malick-Michele-Morette-Williamson-County-Texas-Marriage-Record-Index-1848-2012/12445901348961676697 | title= Terrence Malick Michele Morette Williamson County Texas Marriage Record | work = [[Mocavo.com]]| accessdate = June 22, 2014}}</ref><ref name=theindependent>{{cite news | title = The secret life of Terrence Malick | first = Luke | last = Blackall | date = May 24, 2011 | work = [[The Independent]] | location = UK | url = http://www.independent.co.uk/arts-entertainment/films/features/the-secret-life-of-terrence-malick-2288183.html | accessdate = May 12, 2013 | archivedate = June 15, 2012 | archiveurl = http://web.archive.org/web/20120615034355/http://www.independent.co.uk/arts-entertainment/films/features/the-secret-life-of-terrence-malick-2288183.html | deadurl = no | quote = Michele Morette, his late ex-wife of 13 years, revealed that while they were together she wasn't allowed into his office, and that he would rather buy her a copy of a book than lend her his own.}}</ref> whom he met in Paris in 1980; in 1996, Malick asked for a divorce, which was granted.<ref name=tcm-bio /><ref name=theindependent /> Afterward he married Alexandra "Ecky" Wallace, the best friend of his high-school sweetheart.<ref>{{cite news | url = http://www.gq.com/entertainment/movies-and-tv/201105/badlands-oral-history?printable=true | title = Badlands: An Oral History | date = May 1, 2011 | first = Nathaniel | last = Penn | work = [[GQ]] | accessdate = May 23, 2014}}</ref>
+
+As of at least 2011, Malick resides in [[Austin, Texas]].<ref>{{cite web|url = http://www.theatlantic.com/magazine/archive/2011/11/terrence-malick/308683/ | title=Brave Thinkers 2011: Terrence Malick | authorlink= Graeme C.A. Wood | first = Graeme | last = Wood | date = October 3, 2011 | work=[[The Atlantic]] | accessdate=February 21, 2012 | archivedate= August 19, 2012 | archiveurl = http://web.archive.org/web/20120819040830/http://www.theatlantic.com/magazine/archive/2011/11/terrence-malick/308683/ | deadurl = no}}</ref>
+
+==Filmography==
+{| class="wikitable" style="margin-right: 0;"
+|-
+! rowspan="2" style="width:33px;"| Year
+! rowspan="2" style="width:220px;"| Film
+! colspan="5" | Functioned as
+! rowspan="2" | Notes
+|-
+! style="width:65px;"| Director
+! style="width:65px;"| Producer
+! width=65 |Writer
+! width=65 |[[Film composer|Composer]]
+! style="width:65px;"| Actor
+|-
+| 1969
+| ''[[Lanton Mills]]''
+| {{yes}}
+|
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| Short film. '''Role:''' Tilman
+|-
+| rowspan="2"| 1971
+| ''[[Drive, He Said]]''
+|
+|
+| {{yes}}
+|
+|
+|Uncredited draft<ref name=LAReviewOfBooks>{{cite news | url = http://lareviewofbooks.org/article.php?type=&id=1660&fulltext=1&media=#article-text-cutpoint | title = Hollywood Bigfoot: Terrence Malick and the Twenty-Year Hiatus That Wasn't | first= Michael | last = Nordine | date = May 12, 2013 | accessdate = May 12, 2013 | work = [[Los Angeles Review of Books]] | archivedate = May 12, 2013 | archiveurl = http://www.webcitation.org/6GZRh9wq7 | deadurl = no}}</ref>
+|-
+| ''[[Dirty Harry]]''
+|
+|
+| {{yes}}
+|
+|
+| Uncredited early draft<ref name=LAReviewOfBooks />
+|-
+| rowspan="2"| 1972
+| ''[[Deadhead Miles]]''
+|
+|
+| {{yes}}
+|
+|
+|
+|-
+| ''[[Pocket Money]]''
+|
+|
+| {{yes}}
+|
+| {{yes}}
+| '''Role:''' Workman (uncredited){{citation needed|date=May 2013}}
+|-
+| 1973
+| ''[[Badlands (film)|Badlands]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|
+| {{yes}}
+| '''Role:''' Caller at Rich Man's House (uncredited)
+|-
+| 1974
+| ''[[The Gravy Train]]''
+|
+|
+| {{yes}}
+|
+|
+|
+|-
+| 1978
+| ''[[Days of Heaven]]''
+| {{yes}}
+|
+| {{yes}}
+|
+| {{yes}}
+| Awarded the [[Best Director Award (Cannes Film Festival)|Best Director Award]] at the [[1979 Cannes Film Festival]]<br />'''Role:''' Worker (uncredited){{citation needed|date=May 2013}}
+|-
+| 1998
+| ''[[The Thin Red Line (1998 film)|The Thin Red Line]]''
+| {{yes}}
+|
+| {{yes}}
+|
+|
+| Awarded the [[Golden Bear]] at the [[49th Berlin International Film Festival|1999 Berlin Film Festival]]
+|-
+| 1999
+| ''[[Endurance (film)|Endurance]]''
+|
+| {{yes}}
+|
+|
+|
+|
+|-
+| 2000
+| ''[[Xingfu shiguang|Happy Times]]''
+|
+| {{yes}}
+|
+|
+|
+|
+|-
+| 2002
+| ''[[Bear's Kiss]]''
+|
+|
+| {{yes}}
+|
+|
+| Uncredited re-write{{citation needed|date=May 2013}}
+|-
+| rowspan="2"| 2004
+| ''[[The Beautiful Country]]''
+|
+| {{yes}}
+|
+|
+|
+|
+|-
+| ''[[Undertow (2004 film)|Undertow]]''
+|
+| {{yes}}
+|
+|
+|
+|
+|-
+| 2005
+| ''[[The New World (2005 film)|The New World]]''
+| {{yes}}
+|
+| {{yes}}
+|
+|
+|
+|-
+| 2006
+| ''[[Amazing Grace (2006 film)|Amazing Grace]]''
+|
+| {{yes}}
+|
+|
+|
+|
+|-
+| 2011
+| ''[[The Tree of Life (film)|The Tree of Life]]''
+| {{yes}}
+|
+| {{yes}}
+|
+|
+|Awarded the [[Palme d'Or]] at the [[2011 Cannes Film Festival]]<br />Awarded the [[International Federation of Film Critics|FIPRESCI Award]] for the Best Film of the Year
+|-
+| 2012
+|''[[To the Wonder]]''
+| {{yes}}
+|
+| {{yes}}
+|
+|
+|<ref name="filmratings"/><br />Awarded the [[SIGNIS|SIGNIS Award]] at the [[69th Venice International Film Festival|2012 Venice Film Festival]]
+|-
+|  rowspan="1"|2014
+|''[[The Better Angels (film)|The Better Angels]]''
+|
+| {{yes}}
+|
+|
+|
+|
+|-
+|  rowspan="2"|2015
+| ''[[Knight of Cups (film)|Knight of Cups]]''
+| {{yes}}
+|
+| {{yes}}
+|
+|
+|
+|-
+| ''[[Weightless (film)|Weightless]]''
+| {{yes}}
+|
+| {{yes}}
+|
+|
+||Shot back-to-back with ''Knight of Cups'' in 2012.<ref>{{cite web|last=Fleming |first=Mike |url=http://www.deadline.com/2011/11/afm-filmnation-selling-terrence-malick-films-lawless-and-knight-of-cups/ |title=AFM: FilmNation Unveils Back To Back Terrence Malick Films 'Lawless' And 'Knight Of Cups,' With Ryan Gosling, Christian Bale And Cate Blanchett |publisher=Deadline.com |date= |accessdate=February 27, 2012}}</ref><br>''Post-production''
+|-
+| 2016
+| ''Voyage of Time''<ref>{{Cite web|url = http://blogs.indiewire.com/theplaylist/terrence-malicks-voyage-of-time-coming-in-2016-will-be-released-in-two-versions-20140513|title = Terrence Malick's 'Voyage Of Time' Coming In 2016, Will Be Released In Two Versions|date = May 13, 2014|accessdate = September 14, 2014|website = The Playlist|publisher = Indiewire|last = Jagernauth|first = Kevin}}</ref>
+| {{yes}}
+|
+| {{yes}}
+|
+|
+| ''Post-production''
+|}
+
+==Awards and nominations==
+{| class="wikitable sortable"
+|-
+! Award
+! Year
+! Project
+! Category
+! Result
+|-
+| rowspan=3 | '''[[Academy Award]]s'''
+| rowspan=2 | [[71st Academy Awards|1998]]
+| rowspan=2 | ''[[The Thin Red Line (1998 film)|The Thin Red Line]]''
+| [[Academy Award for Best Director|Best Director]]
+| {{nom}}
+|-
+| [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| {{nom}}
+|-
+| [[84th Academy Awards|2011]]
+| ''[[The Tree of Life (film)|The Tree of Life]]''
+| [[Academy Award for Best Director|Best Director]]
+| {{nom}}
+|-
+|| '''[[Berlin International Film Festival]]'''
+|| [[49th Berlin International Film Festival|1999]]
+|| ''[[The Thin Red Line (1998 film)|The Thin Red Line]]''
+| [[Golden Bear]]
+| {{won}}
+|-
+| rowspan=3 | '''[[Cannes Film Festival]]'''
+| rowspan=2 | 1978
+| rowspan=2 | ''[[Days of Heaven]]''
+| [[Best Director Award (Cannes Film Festival)|Best Director Award]]
+| {{won}}
+|-
+| [[Palme d'Or]]
+| {{nom}}
+|-
+| 2011
+| ''[[The Tree of Life (film)|The Tree of Life]]''
+| [[Palme d'Or]]
+| {{won}}
+|-
+| '''[[César Award]]s'''
+| [[César Awards 2000|1999]]
+| ''[[The Thin Red Line (1998 film)|The Thin Red Line]]''
+| [[César Award for Best Foreign Film|Best Foreign Film]]
+| {{nom}}
+|-
+| rowspan=3 | '''[[Chicago Film Critics Association]]'''
+| [[Chicago Film Critics Association Awards 1998|1998]]
+| ''[[The Thin Red Line (1998 film)|The Thin Red Line]]''
+| [[Chicago Film Critics Association Award for Best Director|Best Director]]
+| {{won}}
+|-
+| rowspan=2 | [[Chicago Film Critics Association Awards 2011|2011]]
+| rowspan=2 | ''[[The Tree of Life (film)|The Tree of Life]]''
+| [[Chicago Film Critics Association Award for Best Director|Best Director]]
+| {{won}}
+|-
+| [[Chicago Film Critics Association Award for Best Original Screenplay|Best Original Screenplay]]
+| {{nom}}
+|-
+| '''[[Golden Globe Award]]s'''
+| [[36th Golden Globe Awards|1978]]
+| ''[[Days of Heaven]]''
+| [[Golden Globe Award for Best Director|Best Director]]
+| {{nom}}
+|}
+
+==Bibliography==
+* Malick, Terrence. ''Days of Heaven'', Registered with the Writers Guild of America, April 14, 1976; revised June 2, 1976.
+
+==Notes==
+{{reflist|2}}
+
+==References==
+* [[Peter Biskind|Biskind, Peter]]. ''Easy Riders, Raging Bulls'', London: Bloomsbury, 1998.
+* Biskind, Peter. {{Wayback |date=20110115065947 |url=http://www.vanityfair.com/hollywood/classic/features/runaway-genius-199812 |title='The Runaway Genius'}}, ''Vanity Fair'', 460, December 1998, 116–125.
+* [[Stanley Cavell|Cavell, Stanley]]. ''The World Viewed: Reflections on the Ontology of Film'', Enlarged Edition, Cambridge, MA: Harvard University Press, 1979.
+* [[Michel Chion|Chion, Michel]]. ''The Voice in Cinema'', translated by Claudia Gorbman, New York & Chichester: Columbia University Press, 1999.
+* Ciment, Michel. 'Entretien avec Terrence Malick', ''Positif'', 170, June 1975, 30–34.
+* Cook, G. Richardson. 'The Filming of ''Badlands'': An Interview with Terry Malick', ''Filmmakers Newsletter'', 7:8, June 1974, 30–32.
+* Crofts, Charlotte. 'From the "Hegemony of the Eye" to the "Hierarchy of Perception": The Reconfiguration of Sound and Image in Terrence Malick's ''Days of Heaven''', ''Journal of Media Practice'', 2:1, 2001, 19–29.
+* [[G. Roger Denson|Denson, G. Roger]]. [http://www.huffingtonpost.com/g-roger-denson/terrence-malicks-tree-of-_b_868895.html 'Terrence Malick's "The Tree of Life" Plays Garden of Eden to the Family of Man"], ''[[Huffington Post]]'', June 6, 2011.
+* Docherty, Cameron. 'Maverick Back from the Badlands', ''The Sunday Times'', Culture, June 7, 1998, 4.
+* Donougho, Martin. 'West of Eden: Terrence Malick's Days of Heaven', Postscript: Essays in Film and the Humanities, 5:1, Fall 1985, 17–30.
+* [[Roger Ebert|Ebert, Roger]]. [http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F19971207%2FREVIEWS08%2F401010327%2F1023 Review of ''Days of Heaven''], Chicago Sun-Times Inc.
+* Fox, Terry Curtis. 'The Last Ray of Light', ''Film Comment'', 14:5, September/October 1978, 27–28.
+* Fuller, Graham. 'Exile on Main Street', ''The Observer'', December 13, 1998, 5.
+* Hartl, John. 'Badlands Director Ending his Long Absence', ''Seattle Times'', March 8, 1998.
+* Henderson, Brian. 'Exploring ''Badlands'''. ''Wide Angle: A Quarterly Journal of Film Theory'', Criticism and Practice, 5:4, 1983, 38–51.
+* Keyser, Les. ''Hollywood in the Seventies'', London: Tantivy Press, 1981.
+* Maher Jr., Paul (2014). One Big Soul: An Oral History of Terrence Malick. Upstart Crow Publishing. ISBN 978-1-304-59527-0.
+* [[James Monaco|Monaco, James]]. "Badlands", ''Take One'', 4:1, September/October 1972, 32.
+* Malick interview, ''American Film Institute Report'', 4:4, Winter 1973, 48.
+* Newman, Kim. "Whatever Happened to Whatsisname?", ''Empire'', February 1994, 88–89.
+* Riley, Brooks. "Interview with [[Nestor Almendros]]", ''Film Comment'', 14:5, September/October 1978, 28–31.
+* Telotte, J. P. "''Badlands'' and the Souvenir Drive", ''Western Humanities Review'', 40:2, Summer 1986, 101–14.
+* Walker, Beverly. "[http://www.eskimo.com/~toates/malick/art6.html Malick on ''Badlands'']", ''Sight and Sound'', 44:2, Spring 1975, 82–3.
+* Wondra, Janet. "A Gaze Unbecoming: Schooling the Child for Femininity in ''Days of Heaven''", ''Wide Angle'', 16:4, October 1994, 5–22.
+
+==External links==
+{{Commons category}}
+*{{IMDb name|517}}
+*{{AllRovi person|100893|Terrence Malick}}
+*{{worldcat id|id=lccn-n86-41335}}
+*{{YouTube|Nf74qellkok|The Films of Terrence Malick}}, movie clip compilation, 3 min.
+*[http://www.lafuriaumana.it/index.php/archive/59-la-furia-umana-nd-10-autumn-2011 Dossier about Terrence Malick], ''La furia umana'', n°10 texts: English, Spanish, French, Italian by Joe McElhaney, Alain Bergala, Carlos Losilla, Jean-Cristophe Ferrari, Alessandro Cappabianca, and others; edited by Toni D'Angela
+
+{{Terrence Malick}}
+{{Navboxes
+|title = Awards for Terrence Malick
+|list =
+{{Prix de la mise en scene 1960-1979}}
+{{Satellite Award Best Director}}
+{{Satellite Award Best Original Screenplay}}
+}}
+
+{{Authority control}}
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Malick, Terrence
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Film director and screenwriter
+| DATE OF BIRTH     = November 30, 1943
+| PLACE OF BIRTH    = Ottawa, Illinois, USA
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Malick, Terrence}}
+[[Category:1943 births]]
+[[Category:Living people]]
+[[Category:AFI Conservatory alumni]]
+[[Category:Alumni of Magdalen College, Oxford]]
+[[Category:American film directors]]
+[[Category:American film producers]]
+[[Category:American freelance journalists]]
+[[Category:American people of Lebanese-Assyrian descent]]
+[[Category:American people of Syrian-Assyrian descent]]
+[[Category:American philosophy academics]]
+[[Category:American Rhodes Scholars]]
+[[Category:American male screenwriters]]
+[[Category:English-language film directors]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Film directors from Texas]]
+[[Category:German–English translators]]
+[[Category:Harvard University alumni]]
+[[Category:Heidegger scholars]]
+[[Category:Massachusetts Institute of Technology faculty]]
+[[Category:People from Bartlesville, Oklahoma]]
+[[Category:People from Waco, Texas]]
