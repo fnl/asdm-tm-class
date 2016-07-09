@@ -1,36 +1,50 @@
 Text Mining in Python
 =====================
 
-The PDF slides and IPython Notebooks for the [ASDM class] (http://www.dia.fi.upm.es/ASDM) on statistical [Text Mining] (http://fnl.es/an-introdcution-to-statistical-text-mining.html)
+The PDF slides, IPython Notebooks, and corpora for the [ASDM class] (http://www.dia.fi.upm.es/ASDM) on statistical [Text Mining] (http://fnl.es/an-introdcution-to-statistical-text-mining.html)
 
-Apart from the full [IPython] (http://ipython.org/) stack, using them requires a working installation of [NLTK] (http://www.nltk.org/), version 2.0.x (i.e., the latest stable release): `pip install nltk` or via installing the Continuum Analytics [Anaconda] (http://continuum.io/downloads) Python Distribution.
+The difference to the actual class is (a) that the animations that are used to explain more complex algos (similarity hashing, parsing, etc.) are missing and, obviously, (b) my explanations and discussions of the slide' contents. But it should make it easier for you to follow the class or for you to decide if this class indeed is for you.
 
-To view the notebooks online, you can access them via the IPython Notebook viewer:
+Apart from the full [Jupyter] (http://jupyter.org/) stack with Python **3.x**, running the notebooks requires a working installation of [NLTK] (http://www.nltk.org/), version 3.x (i.e., the latest stable release): `pip install nltk` or via installing the Continuum Analytics [Anaconda] (http://continuum.io/downloads) Python Distribution: `conda install nltk` . Other libraries to install include [gensim] (http://radimrehurek.com/gensim/index.html), [SciKit-Learn] (http://scikit-learn.org/stable/), and [SpaCy] (https://spacy.io/).
 
-Lesson 1
---------
+To view the notebooks online, you can access them via the GitHub Jupyter Notebook viewer.
+There are three introductory notebooks that students are encouraged to study before the class:
 
-* [IPython Notebook Introduction](http://nbviewer.ipython.org/github/fnl/asdm-tm-class/blob/master/IPython%20Notebook%20Introduction.ipynb)
-* [Introduction to NumPy and NLTK](http://nbviewer.ipython.org/github/fnl/asdm-tm-class/blob/master/Introduction%20to%20NumPy%20and%20NLTK.ipynb)
+1. There is a quick notebook to familiarize yourself with [Jupyter notebooks] () in general.
+1. Check if your Python skills are in shape: You should understand [most of this] (), otherwise you might want to first brush up a bit on your Python expertise.
+1. Finally, a quick introduction to [the basics of NLTK and NumPy] () that is recommended for all but experts familiar with the two libraries.
 
-Lesson 2
---------
+Day 1
+-----
 
-* [Building a Language Model in 7 Steps](http://nbviewer.ipython.org/github/fnl/asdm-tm-class/blob/master/Building%20a%20Language%20Model%20in%207%20Steps.ipynb)
-* [Language Modelling with NLTK](http://nbviewer.ipython.org/github/fnl/asdm-tm-class/blob/master/Language%20Modelling%20with%20NLTK.ipynb)
+* [Presentation]()
+* [Notebook]()
 
-Lesson 3
---------
+Day 2
+-----
 
-* [Locality Sensitive Hashing](http://nbviewer.ipython.org/github/fnl/asdm-tm-class/blob/master/Locality%20Sensitive%20Hashing.ipynb)
-* [Spelling Correction using LSH](http://nbviewer.ipython.org/github/fnl/asdm-tm-class/blob/master/Spelling%20Correction%20using%20LSH.ipynb)
+* [Presentation]()
+* [Notebook]()
 
-Lesson 4
---------
+Day two also covers an [additional notebook] () discussing the implementation of a spelling correction system as suggested by Peter Norvig.
 
-* [Twitter Sentiment Analysis](http://nbviewer.ipython.org/github/fnl/asdm-tm-class/blob/master/Twitter%20Sentiment%20Analysis.ipynb)
+Day 3
+-----
 
-Lesson 5
---------
+* [Presentation]()
+* [Notebook]()
 
-* [Shallow Parsing with NLTK](http://nbviewer.ipython.org/github/fnl/asdm-tm-class/blob/master/Shallow%20Parsing%20with%20NLTK.ipynb)
+Day three covers an [additional notebook] () discussing how to speed up the implementation of a spelling correction system by using an LSH bigram dictionary.
+
+Day 4
+-----
+
+* [Presentation]()
+* [Notebook]()
+
+Day 5
+-----
+
+* [Presentation]()
+* [Notebook]()
+
