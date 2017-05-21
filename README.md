@@ -3,7 +3,7 @@ Statistical Text Mining in Python
 
 *IMPORTANT*: The current notebooks are *not* yet in sync with the slides (for 2017) and are still from last year's (2016) course!
 
-This repo contains the PDF slides, Jupyter notebooks, corpora, and some software for a course on statistical [Text Mining](http://fnl.es/an-introdcution-to-statistical-text-mining.html), part of the [Advanced Statistics and Data Mining Summer School](http://www.dia.fi.upm.es/ASDM) in Madrid.
+This repo contains the PDF slides, Jupyter notebooks, corpora, and some software for a course on statistical [Text Mining](http://fnl.es/an-introduction-to-statistical-text-mining.html), part of the [Advanced Statistics and Data Mining Summer School](http://www.dia.fi.upm.es/ASDM) in Madrid.
 
 The two main differences to the actual class are (a) that the animations that are used to explain more complex algos/slides (similarity hashing, dependency parsing, etc.) are necessarily missing and (b) you obviously don't get my in-depth explanations and discussions of the slides you'd enjoy when visiting the class.
 But this material should make it easier for you to follow the class, provide you with a good reference material for various text mining and language processing techniques, or simply help you to decide if this class indeed "is for you."
@@ -77,5 +77,5 @@ Finally, we will have a look at the "master-piece" in text mining, namely *parsi
 We will learn the differences between constituency (aka. phrase-structure) and dependency grammars and take a closer look at a linear, transition-based, arc-standard, shift-reduce, greedy dependency parser model.
 The remainder of the last day we then will see how all these techniques can be combined to extract "events" (relationships) from text.
 
-(c) 2016-2017. Florian Leitner. All rights reserved.
+(c) 2014-2017. Florian Leitner. All rights reserved.
 This material is distributed under the [Creative Commons BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/).
