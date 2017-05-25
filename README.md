@@ -66,7 +66,7 @@ We will encounter some of the most common language processing concepts today: Af
 On the statistics side, we quickly remind you of the Markov property, and then look at how probabilistic sequence models (HMMs, MEMMs, and CRFs) can be applied to label text.
 While modern Recurrent and Recursive Neural Networks do no longer need to rely on the Markov assumption, these simpler models still form a solid baseline in your repertoire as text miner, not the least because they can be trained with very little data (compared to data-hungry deep learning techniques).
 		
-Day 5: Evaulation & Parsing
+Day 5: Evaluation & Parsing
 -----
 
 * [Presentation](https://github.com/fnl/asdm-tm-class/blob/master/Day%205.pdf)
