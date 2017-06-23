@@ -1,12 +1,13 @@
 Statistical Text Mining in Python
 =================================
 
-This repo contains the PDF slides, Jupyter notebooks, corpora, and some software for a course on statistical [Text Mining](http://fnl.es/an-introduction-to-statistical-text-mining.html), part of the [Advanced Statistics and Data Mining Summer School](http://www.dia.fi.upm.es/ASDM) in Madrid.
+This repo contains the PDF slides, Jupyter notebooks, corpora, and some software for a course on statistical [Text Mining](http://fnl.es/an-introduction-to-statistical-text-mining.html), part of the [Advanced Statistics and Data Mining Summer School](http://www.dia.fi.upm.es/ASDM) in Madrid (2017 from 3rd of July to the 8th).
 
 The two main differences to the actual class are (a) that the animations that are used to explain more complex algorithms/slides (similarity hashing, dependency parsing, etc.) are necessarily missing and (b) you obviously don't get my in-depth explanations and discussions of the slides you'd enjoy when visiting the class.
 But this material should make it easier for you to follow the class, provide you with a good reference material for various text mining and language processing techniques, or simply help you to decide if this class indeed "is for you."
 
 Apart from the full [Jupyter](http://jupyter.org/) stack with Python **3.x**, running the notebooks requires a working installation of [NLTK](http://www.nltk.org/), version 3.x (i.e., the latest stable release): `pip install nltk` or via installing the Continuum Analytics [Anaconda](http://continuum.io/downloads) Python distribution: `conda install nltk` .
+Similary, you should have [`gensim`](http://radimrehurek.com/gensim/index.html) installed, which is probably the other core text mining tool that you can find in the Python world; Here at least we will be making heavy use of both.
 
 To view the notebooks online, you can access them via the Jupyter notebook viewer, by following the links in this README.
 To view the slides online, please follow the links in this README to see them on GitHub.
@@ -25,6 +26,7 @@ During this course, we will be using numerous Python modules; The more NLP/text 
 
 * [`nltk`](http://www.nltk.org)
 * [`gensim`](http://radimrehurek.com/gensim/index.html)
+* [SciKit-Learn](http://scikit-learn.org/) (`sklearn`)
 * [`spacy`](https://spacy.io/)
 * [`segtok`](https://github.com/fnl/segtok)
 * [`pytextrank`](https://github.com/ceteri/pytextrank)
