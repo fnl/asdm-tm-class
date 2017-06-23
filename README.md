@@ -9,9 +9,8 @@ But this material should make it easier for you to follow the class, provide you
 Apart from the full [Jupyter](http://jupyter.org/) stack with Python **3.x**, running the notebooks requires a working installation of [NLTK](http://www.nltk.org/), version 3.x (i.e., the latest stable release): `pip install nltk` or via installing the Continuum Analytics [Anaconda](http://continuum.io/downloads) Python distribution: `conda install nltk` .
 Similary, you should have [`gensim`](http://radimrehurek.com/gensim/index.html) installed, which is probably the other core text mining tool that you can find in the Python world; Here at least we will be making heavy use of both.
 
-To view the notebooks online, you can access them via the Jupyter notebook viewer, by following the links in this README.
-To view the slides online, please follow the links in this README to see them on GitHub.
-Otherwise, simply clone or fork this repo to grab your own version of the material.
+To view the notebooks online, you can access them via the [Jupyter notebook viewer](https://nbviewer.jupyter.org/), by using the Git URLs in this repository, or installing a [browser extension](https://jiffyclub.github.io/open-in-nbviewer/) for Firefox, Chrome, or Safari that opens the GitHub page in the viewer format.
+In general, simply clone or fork or download this repo to grab your own version of the course material.
 
 Introduction
 ------------
