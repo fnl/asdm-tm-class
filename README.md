@@ -70,7 +70,7 @@ The last day will spend some time to familiarize you with the most important con
 Finally, we will have a look at the "master-piece" in text mining, namely *parsing* natural language, that is graphing the syntactic structure of the words in a sentence.
 The resulting "parse tree" provides us with semantic information about the relationships of the words.
 We will learn the differences between constituency (aka. phrase-structure) and dependency grammars and take a closer look at a linear, transition-based, arc-standard, shift-reduce, greedy dependency parser model.
-For the last practical, finally, we will be looking at taking our results from day 1, and will see how to plug word embeddings (day 3) into a deep learning framework ([Keras](https://keras.io/)), to run the text classification task with a convolutional neural network model.
+For the last practical, finally, we will be reviewing our results from day 1, will learn how to plug word embeddings (day 3) into a deep learning framework ([Keras](https://keras.io/)), and then run the text classification task from day 1 with a Convolutional Neuronal Network (CNN) model.
 (Obviously, those interested in deep learning should have visited the excellent course on neural networks (C05) the week before, as well as probably C01, C04, and C07, and C12, which are all about statistical learning techniques commonly used in text mining and NLP.)
 
 (c) Copyright 2014-2017. Florian Leitner. All rights reserved.
