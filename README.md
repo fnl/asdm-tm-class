@@ -35,6 +35,9 @@ Keras is only used to demonstrate how to plug word embeddings (representation le
 (Obviously, those interested in deep learning should have visited the excellent course on neural networks (C05) the week before, as well as probably C01, C04, and C07, and C12, which are all about statistical learning techniques commonly used in text mining and NLP.)
 And, there will be a quick glance at some of the [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) tools, so having Java installed is necessary to run those examples.
 
+Lecture Overview
+----------------
+
 The introduction mostly covers basic text mining: inverted indices, word vectors, TF-IDF weighting, document classification, and document similarity hashing (Locality Sensitive min-Hashing, LSH).
 This day should give you all the basic tools to classify text and build your own text categorization systems.
 Hopefully, this day should leave you with an early "aha" effect of what text mining "can do for you".
