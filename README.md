@@ -2,16 +2,16 @@ Statistical Text Mining in Python
 =================================
 
 This repository contains the PDF slides, Jupyter notebooks, and some software/data for an in-depth course on statistical [Text Mining and NLP](http://fnl.es/an-introduction-to-statistical-text-mining.html) that is part of the [Advanced Statistics and Data Mining Summer School](http://www.dia.fi.upm.es/ASDM) held annually in Madrid, Spain.
-This material should provide anyone with a good reference material for most of the common text mining and language processing techniques, taking you from the very basics to the state of the art - or simply to help you decide if this class indeed is "for you."
+The repo provides reference material for most of the common text mining and language processing techniques, taking you from the very basics to the state of the art - or simply should help you decide if this class is "for you."
 The two main differences to the actual class are (a) that the animations that are used to explain more complex algorithms/slides (locality sensitive hashing, dependency parsing, etc.) are missing and (b) you obviously don't get my in-depth explanations and discussions of the slides you'd enjoy when visiting the class.
 
 Apart from the full [Jupyter](http://jupyter.org/) stack with Python **3.x**, running the notebooks requires a working installation of several packages described below.
-For example, the [NLTK](http://www.nltk.org/), version 3.x (i.e., the latest stable release), which can be installed using `pip install nltk` or via the Continuum Analytics [Anaconda](http://continuum.io/downloads) Python distribution: `conda install nltk` .
+For example, the [Natural Language ToolKit](http://www.nltk.org/), version 3.x (i.e., the latest stable release), which can be installed using `pip install nltk` or via the Continuum Analytics [Anaconda](http://continuum.io/downloads) Python distribution: `conda install nltk` .
+In general, the NLTK is a very useful resouce for budding text miners and language processing experts to learn the ropes.
 Similary, you should have [`gensim`](http://radimrehurek.com/gensim/index.html) installed, which is probably the most beatuiful "hidden gem" for text mining that you can find in the Python world, among a few other libraries.
 As prepartion before coming to the class, installing (recommended: Anaconda) Python and having looked through notebooks 1-3, and possibly 4 and 5, is certainly helpful.
 
 To view the notebooks online, you can access them via the [Jupyter notebook viewer](https://nbviewer.jupyter.org/), by using the Git URLs in this repository, or installing a [browser extension](https://jiffyclub.github.io/open-in-nbviewer/) for Firefox, Chrome, or Safari that opens the GitHub page in the viewer format.
-In general, simply clone or fork or download this repo to grab your own version of the course material.
 
 Introduction
 ------------
