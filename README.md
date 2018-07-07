@@ -1,13 +1,14 @@
 Statistical Text Mining in Python
 =================================
 
-This repo contains the PDF slides, Jupyter notebooks, corpora, and some software for a course on statistical [Text Mining](http://fnl.es/an-introduction-to-statistical-text-mining.html), part of the [Advanced Statistics and Data Mining Summer School](http://www.dia.fi.upm.es/ASDM) in Madrid (2018).
+This repo contains the PDF slides, Jupyter notebooks, corpora, and some software for the a course on statistical [Text Mining and NLP](http://fnl.es/an-introduction-to-statistical-text-mining.html), as part of the [Advanced Statistics and Data Mining Summer School](http://www.dia.fi.upm.es/ASDM) held annually in Madrid, Spain.
 
-The two main differences to the actual class are (a) that the animations that are used to explain more complex algorithms/slides (similarity hashing, dependency parsing, etc.) are necessarily missing and (b) you obviously don't get my in-depth explanations and discussions of the slides you'd enjoy when visiting the class.
-But this material should make it easier for you to follow the class, provide you with a good reference material for various text mining and language processing techniques, or simply help you to decide if this class indeed "is for you."
+The two main differences to the actual class are (a) that the animations that are used to explain more complex algorithms/slides (locality sensitive hashing, dependency parsing, etc.) are necessarily missing and (b) you obviously don't get my in-depth explanations and discussions of the slides you'd enjoy when visiting the class.
+This material should provide anyone with a good reference material for most of the common text mining and language processing techniques, taking you from the very basics to the state of the art - or simply help you to decide if this class indeed "is for you."
 
 Apart from the full [Jupyter](http://jupyter.org/) stack with Python **3.x**, running the notebooks requires a working installation of [NLTK](http://www.nltk.org/), version 3.x (i.e., the latest stable release): `pip install nltk` or via installing the Continuum Analytics [Anaconda](http://continuum.io/downloads) Python distribution: `conda install nltk` .
 Similary, you should have [`gensim`](http://radimrehurek.com/gensim/index.html) installed, which is probably the other core text mining tool that you can find in the Python world; Here at least we will be making heavy use of both.
+As prepartion before coming to the class, having looked through notebooks 1-3, and possibly 4 and 5, is helpful.
 
 To view the notebooks online, you can access them via the [Jupyter notebook viewer](https://nbviewer.jupyter.org/), by using the Git URLs in this repository, or installing a [browser extension](https://jiffyclub.github.io/open-in-nbviewer/) for Firefox, Chrome, or Safari that opens the GitHub page in the viewer format.
 In general, simply clone or fork or download this repo to grab your own version of the course material.
@@ -28,38 +29,58 @@ During this course, we will be using numerous Python modules; The more NLP/text 
 * [SciKit-Learn](http://scikit-learn.org/) (`sklearn`)
 * [`spacy`](https://spacy.io/)
 * [`segtok`](https://github.com/fnl/segtok)
-* [`pytextrank`](https://github.com/ceteri/pytextrank)
+* [`pytextrank`](https://github.com/ceteri/pytextrank) - although nowadays I would recommend using [`yake`](https://pypi.org/project/yake/)
 * [`keras`](https://keras.io/)
 
 Keras is only used to demonstrate how to plug word embeddings (representation learning) into a deep learning framework ([Keras](https://keras.io/)), and then run a text classification task with a Convolutional Neuronal Network (CNN) model.
 (Obviously, those interested in deep learning should have visited the excellent course on neural networks (C05) the week before, as well as probably C01, C04, and C07, and C12, which are all about statistical learning techniques commonly used in text mining and NLP.)
-And, there will be a quick glance at some of the [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) tools, so having Java installed is necessary to run those examples.
+And, the notebooks make a quick glance at some of the [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) tools, so having Java installed is necessary to run those examples.
 
 Lecture Overview
 ----------------
 
-The introduction mostly covers basic text mining: inverted indices, word vectors, TF-IDF weighting, document classification, and document similarity hashing (Locality Sensitive min-Hashing, LSH).
-This day should give you all the basic tools to classify text and build your own text categorization systems.
-Hopefully, this day should leave you with an early "aha" effect of what text mining "can do for you".
-Right in the beginning, we will also spend some time to familiarize you with the most important concept in machine learning: model evaluation. In particular, we will look at ways of evaluating the performance of text mining models.
+The introduction refreshes the basic concepts of machine learning and statistics that matter in the context of this course.
+It also introduces all the text mining- and NLP-specific terminology that will be used throughout the course.
 
-As the next leg, we take a look at some common unsupervised techniques to work with text.
-The tools learned today are particularly useful to prepare your data and to apply text mining even if you cannot generate annotated datasets to train your classifiers.
-In particular, we will cover graph processing ("PageRank") and document clustering techniques.
-This day introduces sentence segmentation and text summarization tools, and looks into Latent Semantic Indexing and Latent Dirichlet Allocation-based clustering.
+The second "chapter" then will cover information retrieval and similarity measures:
+The IR part introduces the concept of an inverted index, (count/index-based) word vectors, TF-IDF weighting, and cosine similarity, among other topics.
+That is, you will be familiarized with how search engines work, at least from a 10,000 feet birds-eye view.
 
-The program then dives into the most important fundamental concept of text mining and natural language understanding for machines: Representation learning.
+The following classification section will present all the tools that are needed to categorize text.
+We will focus particularly on understanding the concept of maximum entropy (i.e., logistic regression), at it turns out to be a recurrent theme in this domain.
+And we will spend some time to familiarize ourselves with the most important element of machine learning: Model evaluation.
+In particular, we will look at ways of evaluating the performance of result sets, but also how to compare ranked lists.
+
+As the next leg, we take a look at some unsupervised techniques that are commonly used when working with text.
+The tools presented here are particularly useful when you cannot or do not need to generate annotated datasets to train classifiers.
+After an overview of algorithmic methods to establish string similarity, we will look at a highly efficient approach to hashing similar texts (Locality Sensitive Hashing, LSH).
+This part will also introduce sentence segmentation and collocations, and looks into Latent Semantic Indexing and Latent Dirichlet Allocation for clustering.
+
+The program then dives into possibly the most important concept of modern text mining and natural language understanding: Representation learning.
 You will learn what word embeddings are, where they "came from", how the most common (semi-) predictive models work (word2vec, Glove, FastText), and how to extend word embeddings to sentences, paragraphs, and documents.
-To provide some context, representation learning forms the stepping stone to deep learning in natural language processing.
+To put this into context, representation learning is the stepping stone towards deep learning in natural language processing and a simple CNN classifier is used to exemplify this.
 
-A large chunk of this lecture series is all dedicated to information extraction: We will start with some basics, looking at collocations, idioms, and keyword extraction techniques; While maybe seeming trivial, these techniques are used surprisingly often in everyday text mining work.
-We will encounter some of the most common language processing concepts today: After the collocations, we discuss what the Parts-of-Speech are, and conclude with phrasal chunks and named entities; On that path, you will be introduced to word morphology and lemmas, as well.
-On the statistics side, we quickly remind you of the Markov property, and then look at how probabilistic sequence models (HMMs, MEMMs, and CRFs) can be applied to label text.
-While modern Recurrent and Recursive Neural Networks do no longer need to rely on the Markov assumption, these simpler models still form a solid baseline in your repertoire as text miner, not the least because they can be trained with very little data (compared to data-hungry deep learning techniques).
+That then finally brings us to the first truely natural language processing-focused technique: Language modeling.
+We will only give it a brief look, though, to understand the principles of a Markov model, and introdcue the common approach to measuring language model performance: Perplexity.
+At the end of this part, participants are introduced to how modern Recurrent Neural Networks have completely replaced these old count-based approaches.
+This should help particpants understand the difference between a "regular" RNN cell and the concept of Long-Short Term Memory (LSTM) and why RNNs literally have revolutionized modern NLP.
+
+A good chunk of this lecture series is dedicated to information extraction, which happens to be the author's favorite speciality:
+We will cover the extraction of document summaries, and briefly discuss how modern deep learning methods can even generate new text (summaries).
+Then we take a look at keyword extraction techniques, the arguably most basic information extraction technique in this section.
+While possibly appearing trivial in comparison, keyword extraction is universally useful in a great many aspects of everyday text mining work.
+Participants will encounter the fundamental text sequence tagging tasks: Parts-of-Speech tagging, (phrasal) chunking and Named Entity Recognition.
+On the statistics side, we look at how probabilistic sequence models (HMMs, MEMMs, and CRFs) can be applied to label text for these tasks.
+While modern LSTMs do no longer need to rely on the Markov assumption, these earlier models still form a solid baseline in the repertoire of any text miner.
+Last but not least, CRFs still are used as the last layer of deep learning models for these fundamental tasks (PoS tagging, chunking, NER).
 		
-Finally, we will have a look at the "master-piece" in text mining, namely *parsing* natural language, that is graphing the syntactic structure of the words in a sentence.
-The resulting "parse tree" provides us with semantic information about the relationships of the words.
-We will learn the differences between constituency (aka. phrase-structure) and dependency grammars and take a closer look at a linear, transition-based, arc-standard, shift-reduce, greedy dependency parser model.
+Finally, we will have a look at the "master-piece" of natural language processing, namely learning the grammatical structure language;
+That is, analyzing the syntactic structure of a sentence.
+The resulting "parse trees" provide NLPers with syntactic and semantic relationships of the words in a sentence.
+We will learn the differences between constituency (aka. phrase-structure) and dependency grammars, and take a closer look at the inner workings of a linear, transition-based, arc-standard, shift-reduce, greedy dependency parser model.
+
+By the end, this class will have accompanied participants across the entire "journey" from simple statistical classifiers and the basics of search engines all the way to today's most sophisticated natural language understanding techniques.
+Along all statges worked out (Jupyter) notebooks in Python should help you understand how all these techniques can be applied, thereby connecting theory to practice.
 
 (c) Copyright 2014-2018. Florian Leitner. All rights reserved.
 This material is distributed under the [Creative Commons BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/).
