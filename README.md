@@ -61,9 +61,11 @@ You will learn what word embeddings are, where they "came from", how the most co
 To put this into context, representation learning is the stepping stone towards deep learning in natural language processing and a simple CNN classifier is used to exemplify this.
 
 That then finally brings us to the first truely natural language processing-focused technique: Language modeling.
-We will only give it a brief look, though, to understand the principles of a Markov model, and introdcue the common approach to measuring language model performance: Perplexity.
-At the end of this part, participants are introduced to how modern Recurrent Neural Networks have completely replaced these old count-based approaches.
-This should help particpants understand the difference between a "regular" RNN cell and the concept of Long-Short Term Memory (LSTM) and why RNNs literally have revolutionized modern NLP.
+We will only give it a brief look, to understand the principles of a Markov model, and introdcue the common approach to measuring language model performance: Perplexity.
+This should help particpants understand the difference between a "regular" RNN cell and the concept of Long-Short Term Memory (LSTM) that allow us to integrating over a word's context to generate its embedding.
+We will see that by training language models on raw text, a model can "learn" the structure of language on its own, while this knowledge can later be _transferred_ to downstream tasks - a concept that has revolutionized how modern NLP is done. 
+Without going into the technical details (out of scope) we will close this topic by discussing how the Transformer architecture with self-attention allows a feed-forward network to have the same RNN-like context embedding abilities, and made BERT one of the most successfull NLP models in recent times. 
+At the end of this part, participants are aware to how modern Deep Learning has completely replaced the old distributional language models.
 
 A good chunk of this lecture series is dedicated to information extraction, which happens to be the author's favorite speciality:
 We will cover the extraction of document summaries, and briefly discuss how modern deep learning methods can even generate new text (summaries).
@@ -74,7 +76,7 @@ On the statistics side, we look at how probabilistic sequence models (HMMs, MEMM
 While modern LSTMs do no longer need to rely on the Markov assumption, these earlier models still form a solid baseline in the repertoire of any text miner.
 Last but not least, CRFs still are used as the last layer of deep learning models for these fundamental tasks (PoS tagging, chunking, NER).
 		
-Finally, we will have a look at the "master-piece" of natural language processing, namely learning the grammatical structure language;
+Finally, we will have a look at the "master-piece" of natural language processing, namely learning the grammatical structure of language;
 That is, analyzing the syntactic structure of a sentence.
 The resulting "parse trees" provide NLPers with syntactic and semantic relationships of the words in a sentence.
 We will learn the differences between constituency (aka. phrase-structure) and dependency grammars, and take a closer look at the inner workings of a linear, transition-based, arc-standard, shift-reduce, greedy dependency parser model.
@@ -82,5 +84,5 @@ We will learn the differences between constituency (aka. phrase-structure) and d
 By the end, this class will have accompanied participants across the entire "journey" from simple statistical classifiers and the basics of search engines all the way to today's most sophisticated natural language understanding techniques.
 Along all statges worked out (Jupyter) notebooks in Python should help you understand how all these techniques can be applied, thereby connecting theory to practice.
 
-(c) Copyright 2014-2018. Florian Leitner. All rights reserved.
+(c) Copyright 2014-2019. Florian Leitner. All rights reserved.
 This material is distributed under the [Creative Commons BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/).
