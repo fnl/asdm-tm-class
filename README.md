@@ -19,7 +19,7 @@ There are three introductory notebooks that students are encouraged to study bef
 
 1. There is a quick notebook to familiarize yourself with [Jupyter notebooks](http://nbviewer.jupyter.org/github/fnl/asdm-tm-class/blob/master/01_Jupyter.ipynb) in general.
 1. Check if your Python skills are in shape: You should understand [most of this](http://nbviewer.jupyter.org/github/fnl/asdm-tm-class/blob/master/02_Python_overview.ipynb), otherwise you might want to first brush up a bit on your Python expertise.
-1. Finally, a quick introduction to [the basics of NLTK and NumPy](http://nbviewer.jupyter.org/github/fnl/asdm-tm-class/blob/master/03_NLTK_and_NumPy_overview.ipynb) that is recommended for all but experts familiar with the two libraries.
+1. Finally, a quick introduction to [the basics of NLTK and NumPy](https://github.com/fnl/asdm-tm-class/blob/master/03_NLTK_and_Numpy_overview.ipynb) that is recommended for all but experts familiar with the two libraries.
 
 During this course, we will be using numerous Python modules; The more NLP/text mining-oriented ones are:
 
@@ -33,7 +33,7 @@ During this course, we will be using numerous Python modules; The more NLP/text 
 * [`tensorflow-gpu`](https://www.tensorflow.org/) if you have a GPU in your workstation
 
 Keras is only used to demonstrate how to plug word embeddings (representation learning) into a deep learning framework ([Keras](https://keras.io/)), and then run a text classification task with a Convolutional Neuronal Network (CNN) model.
-And TensorFlow can be used as the underlying model for that, as well as to run the BERT model that will be discussed in [notebook 17](http://nbviewer.jupyter.org/github/fnl/asdm-tm-class/blob/master/17_BERT_document_classification.pynb). 
+And TensorFlow can be used as the underlying model for that, as well as to run the BERT model that will be discussed in [notebook 17](https://github.com/fnl/asdm-tm-class/blob/master/17_BERT_document_classification.ipynb). 
 (Obviously, those interested in deep learning should have visited the excellent course on neural networks (C05) the week before; As well as probably C01, C04, and C07, and C12, which are all about statistical learning techniques commonly used in text mining and NLP.)
 And, the notebooks take a quick glance at some of the [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) tools, so having Java installed would be necessary to run those examples.
 
